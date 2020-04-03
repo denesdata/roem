@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="//www.w3.org/1999/xhtml">
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-137245728-2"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-137245728-2');
+	</script>
+
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+	<meta name="description"
+		content="Migration narratives in Europe: Through conversations on public social media @BakamoSocial @FES_EU #EU #Migration #Refugees" />
+	<meta name="keywords"
+		content="migration immigration europe european union bakamo social friedrich erbert stiftung refugees social media narrative EU dataviz echarts csaladenes dc2 d3js d3" />
+	<meta property="og:image"
+		content="https://denesdata.github.io/eu-immigration-opinion-map/EU_migration_narratives_Security_Sweden.png" />
+	<meta property="og:description"
+		content="Migration narratives in Europe: Through conversations on public social media @BakamoSocial @FES_EU #EU #Migration #Refugees" />
+	<meta property="og:title" content="Migration narratives in Europe" />
+	<meta property="og:type" content="article" />
+	<meta property="og:site_name" content="https://www.bakamosocial.com" />
+	<meta id='social_meta_url' property="og:url" content="https://www.bakamosocial.com" />
+	<meta property="fb:admins" content="bakamo.social" />
+	<meta name="twitter:creator" content="@BakamoSocial">
+	<title>Migration narratives in Europe</title>
+	<link rel="shortcut icon" href="https://www.bakamosocial.com/favicon.ico" />
+
+	<!-- |---------------------------------------------------------------------------| -->
+	<!-- viz created by: Denes Csala Data Consulting | https://data.csaladen.es | 2019 -->
+	<!-- MIT LICENSE | https://denesdata.github.io/eu-immigration-opinion-map/LICENSE  -->
+	<!-- |---------------------------------------------------------------------------| -->
+
+	<link rel="stylesheet" type="text/css" href="default.css" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
+		integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+</head>
+
+<body>
+	<div id='title' class='text fade'></div>
+	<div id='subtitle' class='text fade'></div>
+	<div id='logo' class='fade credit'>
+		<a href='https://www.bakamosocial.com/' id='logo2' target='_blank'><img src='Bakamo_logo.png' alt='Bakamo'
+				title='Bakamo' /></a>
+		<a href='https://www.fes.de/themenportal-flucht-migration-integration/' id='logo1' target='_blank'><img
+				src='FES_logo.png' alt='Friedrich Ebert Stiftung' title='Friedrich Ebert Stiftung' /></a>
+	</div>
+	<div id='nav' class='fade'></div>
+	<div id='nav2' class='fade'></div>
+	<div id="chart"></div>
+	<div id='desc1' class='text fade'></div>
+	<div id='desc2' class='text fade'></div>
+	<div id='desc3' class='text fade'></div>
+	<div id='social' class='text fade credit'>
+		<a href="#" id='fb' class='text'
+			onclick="window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),'facebook-share-dialog','width=626,height=436');return false;">
+			<i class="fab fa-facebook-f"></i>
+		</a>
+		<a href='' id='tw' target='_blank' class='text'><i class="fab fa-twitter"></i></a>
+		<a href='' id='dl' download class='text'><i class="fas fa-download"></i></a>
+	</div>
+	<div id='footer' class='text fade credit'>
+		<a href='https://www.bakamosocial.com/' target='_blank'>bakamo</a>
+		&nbsp;|&nbsp;<a href='https://www.fes.de/themenportal-flucht-migration-integration/' target='_blank'>Friedrich
+			Ebert Stiftung</a>
+		&nbsp;|&nbsp;&copy;&nbsp;2019
+	</div>
+	<div id='dc2' class='credit'>
+		<a href='https://data.csaladen.es/' target='_blank' rel='author'>
+			<img src='DC2_logo.png' title='viz created by: Denes Csala Data Consulting'
+				alt='viz by Denes Csala Data Consulting' /></a>
+	</div>
+
+	<script src="https://www.google.com/jsapi"></script>
+	<script src="echarts.min.js"></script>
+	<script src="d3-fetch.v1.min.js"></script>
+	<script src="d3-dsv.v1.min.js"></script>
+	<script src="d3-selection.v1.min.js"></script>
+	<script>
+		google.load("visualization", "1");
+		google.setOnLoadCallback(init);
+
+		function init() {
+
+			var GSheetID = '1rOk6EEUDPwJ-5OczQiO9u70YBNip-kVSDv7VPoMhX-Q'
+			var GSheetName = 'Data'
+			var n_col = 13 //data.getNumberOfColumns();
+			var query_type = 'data'
+			var all_data = [];
+
+			function data_lists_to_object_array(data) {
+				var dummy = [];
+				var keys = data[0]
+				for (i = 1; i < data.length; i++) {
+					var d = {};
+					for (j = 0; j < keys.length; j++) {
+						d[keys[j]] = data[i][j];
+					}
+					dummy.push(d);
+				}
+				return dummy
+			}
+
+			function data_to_lists(ColumnNames, DataArray) {
+				return [ColumnNames].concat(DataArray)
+			}
+
+			function transpose(matrix) {
+				return matrix[0].map((col, i) => matrix.map(row => row[i]));
+			}
+
+			function get_params_object(data) {
+				dummy = [];
+				for (i = 0; i < data.length; i++) {
+					dummy[data[i][0]] = data[i].slice(1);
+				}
+				return dummy
+			}
+
+			var query1 = new
+				google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID + '&sheet=' + GSheetName);
+			//query.setQuery("select *  where B > 2  ");
+			query1.setQuery("");
+			query1.send(handleQueryResponse1);
+
+			function handleQueryResponse1(response) {
+				var data = response.getDataTable();
+				var ColumnNames = []
+				var DataArray = new Array(data.getNumberOfRows());
+
+				for (var col = 0; col < n_col; col++) {
+					ColumnNames.push(data.getColumnLabel(col))
+				}
+				for (var row = 0; row < data.getNumberOfRows(); row++) {
+					DataArray[row] = new Array(n_col);
+					for (var col = 0; col < n_col; col++) {
+						DataArray[row][col] = data.getValue(row, col);
+					}
+				}
+
+				all_data[query_type] = data_to_lists(ColumnNames, DataArray)
+
+				GSheetID = '1rOk6EEUDPwJ-5OczQiO9u70YBNip-kVSDv7VPoMhX-Q'
+				GSheetName = 'Params'
+				query_type = 'params'
+				var query2 = new
+					google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID + '&sheet=' +
+						GSheetName);
+				query2.setQuery("");
+				query2.send(handleQueryResponse2);
+
+				function handleQueryResponse2(response) {
+					var data = response.getDataTable();
+					var ColumnNames = []
+					n_col = data.getNumberOfColumns();
+					var DataArray = new Array(data.getNumberOfRows());
+
+					for (var col = 0; col < n_col; col++) {
+						ColumnNames.push(data.getColumnLabel(col))
+					}
+
+					for (var row = 0; row <
+						data.getNumberOfRows(); row++) {
+						DataArray[row] = new Array(n_col);
+						for (var col = 0; col < n_col; col++) {
+							DataArray[row][col] = data.getValue(row, col);
+						}
+					}
+
+					all_data[query_type] = get_params_object(transpose(DataArray))
+
+					var params = all_data['params'];
+					var rawdata = data_lists_to_object_array(all_data['data']);
+
+					//data_lists_to_object_array(data))
+
+					// FINISHED DATA LOADING
+
+					function percentageFormatter(d) {
+						return +d.replace('%', '')
+					}
+
+					function getKeyValues(data, index, key, valueArray) {
+						var dummy = [];
+						for (i = 0; i < data.length; i++) {
+							if (data[i][index] == key) {
+								var keys = Object.keys(data[i]);
+								for (j = 0; j < keys.length; j++) {
+									if (valueArray.includes(keys[j])) {
+										dummy.push({
+											'name': keys[j],
+											'value': data[i][keys[j]],
+											'visualMap': false
+										})
+									}
+								}
+							}
+						}
+						return dummy
+					}
+
+					function getKeyValuesSimple(data, key) {
+						var dummy = [];
+						for (i = 0; i < data.length; i++) {
+							dummy.push(data[i][key])
+						}
+						return dummy
+					}
+
+					function getCountryValues(data, index, key) {
+						var dummy = [];
+						for (i = 0; i < data.length; i++) {
+							dummy.push({
+								'name': data[i][index],
+								'value': data[i][key]
+							})
+						}
+						return dummy
+					}
+
+					function getMax(data, key) {
+						return Math.max.apply(Math, data.map(function (o) {
+							return o[key];
+						}))
+					}
+
+					function narrative_formatter(s, category, country, refugees, largest, note) {
+						return s.toString()
+							.split('{category}').join(category)
+							.split('{country}').join(country)
+							.split('{refugees}').join(refugees)
+							.split('{largest}').join(largest)
+							.split('{note}').join(note)
+					}
+
+					function sortObject(objs, key) {
+						return objs.sort((a, b) => (a[key] > b[key]) ? 1 : ((b[key] > a[key]) ? -1 : 0));
+					}
+
+					var categories = params['category_name'];
+					var category_icons = {
+						'Security': 'shield-alt',
+						'Humanitarianism': 'life-ring',
+						'Economy': 'euro-sign',
+						'Demographics': 'user-friends',
+						'Identity': 'passport'
+					};
+					var selected_category = 'Conversation';
+					var selected_country = 'Sweden';
+					var default_country = 'Select country';
+					var dimensions = ['Refugees', 'Conversation'];
+					var toggle_labels = ['Stacked', 'Ranking'];
+					var toggles = [false, true];
+					var dimension_icons = {
+						'Refugees': 'percentage',
+						'Conversation': 'comments'
+					};
+					var selected_dimension = 'Refugees'
+					var show_dimension = false;
+					var labels = ['EU politics', 'Domestic politics', 'Local note', 'Description'];
+					var index = 'Country name';
+					var all_dimensions = categories.concat(dimensions);
+					var labels_all_dimensions = all_dimensions.concat(labels);
+					var index_all_dimensions = [index].concat(labels_all_dimensions);
+					var countries = [];
+					var font_color = params['font_color'][0]
+					var font_small = 13;
+					var spacer = 10;
+					var footer_color = '#999';
+					var color_eu_blue = '#003399';
+					var color_eu_gold = '#FFCC00';
+					var dark_color = '#222';
+					var light_color = '#eee';
+					var light_color2 = '#eee';
+					var highlight_color = '#999' //'#fc8d62';
+					var colors = params['colors']
+					var categorical = params['categorical'];
+					var category_color = params['category_color'];
+					var category_color_key = {};
+					for (i = 0; i < categories.length; i++) {
+						category_color_key[categories[i]] = category_color[i];
+					}
+					for (i = 0; i < dimensions.length; i++) {
+						category_color_key[dimensions[i]] = font_color;
+					}
+
+					console.log('loaded parameters:', params)
+
+					d3.json("eu.mini.high.geo.json").then(function (eu) {
+						rawdata.sort((a, b) => b[index].localeCompare(a[index]))
+						var data_by_key = [];
+						var data = [];
+						for (i = 0; i < rawdata.length; i++) {
+							//create list of countries
+							data_by_key[rawdata[i][index]] = rawdata[i]
+							if (parseInt(rawdata[i]['Show'])) {
+								d = rawdata[i]
+								d['Conversation'] = 29 - d['Conversation'];
+								d['Spacer'] = spacer;
+								data.push(d)
+								countries.push(d[index])
+							}
+						};
+
+						// console.log(data)
+						countries.sort((a, b) => a.localeCompare(b))
+
+						var chart = echarts.init(d3.select("#chart").node());
+						echarts.registerMap('EU', eu, {});
+
+						//var app = {};
+
+						option = {
+							tooltip: {
+								trigger: 'item',
+								showContent: true,
+								formatter: function (d) {
+									var values = getKeyValues(data, index, d.name, categories);
+									var dims = getKeyValues(data, index, d.name, dimensions);
+									var t = '<table><tr><th colspan=3>' + d.name + '</th><tr>';
+									if (values.length) {
+										t = t +
+											'<tr><td colspan=3 style="border-bottom:solid 1px #eee;"></td><tr>'
+										for (i = 0; i < values.length; i++) {
+											t = t + '<tr><td><img style="width:25px;height:25px;" src="' +
+												values[i]['name'] + '.png" alt="' + values[i]['name'] +
+												'"></td><td>' + values[i]['name'] +
+												'</td><td>' + values[i]['value'] +
+												' %</td></tr>'
+										}
+										t = t +
+											'<tr><td colspan=3 style="border-bottom:solid 1px #eee;"></td><tr>'
+										for (i = 0; i < dims.length; i++) {
+											t = t + '<tr><td><i class="fas fa-' +
+												dimension_icons[dims[i]['name']] +
+												'"></i></td><td>' + dims[i]['name'] +
+												'</td><td>' + ((i == 0) ? ' ' : '') + dims[i]['value'] +
+												' ' + ((i == 0) ? '' : '%') + '</td></tr>'
+										}
+										t = t + '</table>'
+										return t
+									} else {
+										return '<table><tr><td><img style="width:25px;height:25px;" src="' +
+											d.name + '.png" alt="' + d.name +
+											'"></td><td>' + d.name +
+											'</td><td>' + d.value +
+											' %</td></tr></table>'
+									}
+								}
+							},
+							textStyle: {
+								fontFamily: 'Lato'
+							},
+							// dataZoom: [
+							// 	{
+							// 		id: 'dataZoomX',
+							// 		type: 'slider',
+							// 		yAxisIndex: [0],
+							// 		filterMode: 'empty',
+							// 		left:'10px'
+							// 	}
+							// ],
+							color: category_color,
+							visualMap: {
+								min: 0,
+								orient: 'horizontal',
+								left: '260px',
+								padding: [13, 17, 7, 7],
+								bottom: '25px',
+								calculable: true,
+								itemWidth: 20,
+								itemHeight: 200,
+								borderWidth: 1,
+								text: ['◄ try filtering countries'], //↖
+								textStyle: {
+									color: font_color,
+									fontSize: font_small
+								},
+								// inRange: {
+								// 	color: colors
+								// }
+							},
+							graphic: [{
+								type: 'image',
+								style: {
+									image: 'FES_logo_tp2.png',
+									x: 260,
+									y: 80,
+									width: 200
+								}
+							},
+							{
+								type: 'image',
+								style: {
+									image: 'Bakamo_logo_tp2.png',
+									x: 540,
+									y: 320,
+									width: 200
+								}
+							}
+							],
+							dataset: {
+								source: data
+							},
+							yAxis: {
+								type: 'category',
+								triggerEvent: true,
+								axisLabel: {
+									color: font_color,
+									fontSize: font_small
+								}
+							},
+							xAxis: {
+								gridIndex: 0,
+								show: false
+							},
+							grid: {
+								right: '750px',
+								left: '110px',
+								top: '40px',
+								bottom: '28px'
+							},
+							series: [{
+								id: 'map',
+								type: 'map',
+								roam: false,
+								map: 'EU',
+								showLegendSymbol: false,
+								layoutCenter: ['480px', '230px'],
+								layoutSize: '440px',
+								itemStyle: {
+									emphasis: {
+										areaColor: highlight_color
+									}
+								},
+								label: {
+									emphasis: {
+										color: dark_color,
+										fontSize: font_small
+									}
+								},
+								data: []
+							},
+							{
+								type: 'pie',
+								id: 'pie',
+								center: ['820px', '260px'],
+								radius: ['35px', '60px'],
+								avoidLabelOverlap: true,
+								itemStyle: {
+									borderWidth: 1,
+									borderColor: '#888'
+								},
+								label: {
+									position: 'outside',
+									formatter: [
+										'{b|{b}}',
+										'{a|{@' + selected_category + '} %}'
+									].join('\n'),
+									rich: {
+										a: {
+											fontSize: font_small + 3
+										}
+									},
+									fontSize: font_small,
+									fontWeight: 'bold'
+
+								},
+								labelLine: {
+									show: true,
+									length: 6,
+									length2: 10
+								},
+								data: []
+							}
+							],
+							title: [{
+								text: '◄ drag the handle',
+								id: 'handle',
+								left: '553px',
+								bottom: '48px',
+								textAlign: 'left',
+								textVerticalAlign: 'middle',
+								textStyle: {
+									fontSize: 13,
+									fontWeight: 'normal',
+									color: font_color
+								}
+							}]
+						};
+
+
+						var bari = {
+							type: 'bar',
+							stack: 'a',
+							label: {
+								show: false
+							},
+							itemStyle: {
+								barBorderColor: '#888',
+								emphasis: {
+									shadowBlur:
+									{
+										shadowColor: 'rgba(0, 0, 0, 0.5)',
+										shadowBlur: 10
+									}
+								}
+							}
+						}
+
+						//stacked
+						for (b = 0; b < categories.length; b++) {
+							var barj = JSON.parse(JSON.stringify(bari));
+							barj.id = 'bar' + b
+							barj.itemStyle.color = category_color[b]
+							option.series.push(barj)
+						}
+
+						//spacer
+						var barj = {
+							type: 'bar',
+							id: 'barx',
+							stack: 'a',
+							label: {
+								show: false
+							},
+							itemStyle: {
+								color: 'none',
+								emphasis: {
+									color: 'none',
+									barBorderColor: highlight_color
+								}
+							}
+						}
+						option.series.push(barj)
+
+						option.series.push({
+							type: 'bar',
+							id: 'bar',
+							stack: 'a',
+							label: {
+								show: true,
+								position: 'right',
+								fontWeight: 'bold',
+								color: font_color,
+								emphasis: {
+									color: highlight_color,
+									fontSize: font_small
+								}
+							},
+							itemStyle: {
+								color: font_color,
+								barBorderColor: '#888',
+								emphasis: {
+									color: highlight_color
+								}
+							},
+							data: []
+						})
+
+						function update(new_country, new_category, new_dimension, is_country, is_dimension) {
+							chart.dispatchAction({
+								type: 'downplay',
+								series: 'bar',
+								name: selected_country
+							})
+
+							if ((new_country == selected_country) && (is_country))
+								selected_country = default_country
+							else selected_country = new_country;
+
+							if (is_dimension) {
+								selected_category = new_dimension;
+								selected_dimension = new_dimension;
+							} else {
+								selected_category = new_category;
+							}
+
+							var country_values = getCountryValues(data, index, selected_category);
+
+							var sorted_values = sortObject(country_values, 'value');
+							var names = getKeyValuesSimple(sorted_values, 'name');
+							var values = getKeyValuesSimple(sorted_values, 'value');
+
+							var new_option = {
+								visualMap: {
+									max: getMax(data, selected_category),
+									dimension: 0,
+									seriesIndex: [0, 8],
+									inRange: {
+										color: [light_color2, category_color_key[selected_category]]
+									},
+									range: [0, getMax(data, selected_category)],
+									formatter: function (value) {
+										return parseInt(value) + ' %';
+									}
+								},
+								yAxis: {
+									data: names
+								},
+								xAxis: {
+									max: toggles[0] ? (toggles[1] ? 220 : 110) : 'dataMax'
+								},
+								series: [
+									{
+										id: 'bar',
+										data: toggles[1] ? values : [],
+										label: {
+											formatter: (selected_category == 'Conversation') ? '{c}' : '{c} %'
+										}
+									},
+
+									{
+										id: 'map',
+										data: getCountryValues(data, index, selected_category)
+									},
+									{
+										id: 'pie',
+										data: getKeyValues(data, index, selected_country,
+											categories)
+									}
+								],
+								title: [{
+									text: (selected_country == default_country) ? '' :
+										selected_country,
+									left: '815px',
+									id: 'selected_country',
+									top: '248px',
+									textAlign: 'center',
+									textVerticalAlign: 'middle',
+									textStyle: {
+										fontSize: 16,
+										color: font_color
+									}
+								},
+								{
+									text: selected_category,
+									left: '430px',
+									top: '443px',
+									id: 'selected_category',
+									textAlign: 'center',
+									textVerticalAlign: 'middle',
+									textStyle: {
+										fontSize: 18,
+										color: font_color
+									}
+								}]
+							}
+
+							for (b = 0; b < categories.length; b++) {
+								// console.log(categories[b], b)
+								d = {
+									id: 'bar' + b,
+									dimensions: toggles[0] ? ['Country name', categories[b]] : ['Country name'],
+								}
+								new_option.series.push(d)
+							}
+
+							d = {
+								id: 'barx',
+								dimensions: toggles[0] ? ['Country name', 'Spacer'] : ['Country name'],
+							}
+							new_option.series.push(d)
+
+							chart.setOption(new_option);
+
+							chart.dispatchAction({
+								type: 'highlight',
+								series: 'bar',
+								name: selected_country
+							})
+
+							// d3.select('#desc2')
+							// 	.html(function (d) {
+							// 		var keyValues = getKeyValues(data, index, selected_country,
+							// 			categories)
+							// 		var maxKey = ''
+							// 		var html = ''
+							// 		if (keyValues.length) {
+							// 			maxKey = categories[Object.keys(keyValues).reduce((a, b) =>
+							// 				keyValues[a][
+							// 					'value'
+							// 				] > keyValues[b]['value'] ? a : b)]
+							// 			html = narrative_formatter(params['desc2'][0], selected_category,
+							// 				selected_country, data_by_key[selected_country]['Refugees'],
+							// 				maxKey,
+							// 				data_by_key[selected_country]['Local note'])
+							// 		}
+							// 		return (selected_country == default_country) ? '' : html
+							// 	})
+
+							d3.select('#desc2')
+								.html(function (d) {
+									return (selected_country == default_country) ? '' : narrative_formatter(params[selected_country][0], selected_category,
+										selected_country, '', '', '')
+								})
+
+							d3.select('#desc3')
+								.html(function (d) {
+									return (selected_country == default_country) ? '' : '<a href="pdf/' + params[selected_country][2] + '" target="_blank" style="color:' + font_color + ';">Read the full country report ►</a>'
+								})
+
+							d3.select('#desc1')
+								.html(narrative_formatter(params[selected_category][0], selected_category,
+									selected_country, '', '', ''))
+
+							// d3.select('#subtitle')
+							// 	.html(narrative_formatter(params[selected_category][1], selected_category,
+							// 		selected_country, '', '', ''))
+
+							d3.selectAll('.tgl')
+								.style('background', function (d, i) {
+									return toggles[i] ? font_color : footer_color
+								})
+
+							setTimeout(() => {
+								d3.select('#dl')
+									.attr('download', 'EU_migration_narratives_' + selected_category + ((selected_country == default_country) ? '' : ('_' + selected_country)) + '.png')
+									.attr('href', chart.getDataURL())
+							}, 1000)
+						}
+
+						chart.on('click', function (event) {
+
+							if (event.componentType == 'yAxis') {
+								update(event['value'], selected_category, selected_dimension, true, false)
+							} else
+								if (event.componentSubType != 'pie') {
+									update(event['name'], selected_category, selected_dimension, true, false)
+								} else {
+									update(selected_country, event['name'], selected_dimension, false, false)
+								}
+						});
+
+						chart.on('mouseover', function (event) {
+							var highlight = '';
+							if (event.componentType == 'yAxis') {
+								highlight = event.value;
+							} else
+								if (event.componentSubType != 'pie') {
+									highlight = event.name;
+								}
+							//else console.log('not known...',event)
+							if (highlight != '') {
+								chart.dispatchAction({
+									type: 'highlight',
+									// series: 'bar',
+									name: highlight
+								})
+							}
+						});
+
+						chart.on('mouseout', function (event) {
+							var highlight = '';
+							if (event.componentType == 'yAxis') {
+								highlight = event.value;
+							} else
+								if (event.componentSubType != 'pie') {
+									highlight = event.name;
+								}
+							// else console.log('not known...', event)
+							if (highlight != '') {
+								if (selected_country != highlight) {
+									chart.dispatchAction({
+										type: 'downplay',
+										// series: 'bar',
+										name: highlight
+									})
+								}
+							}
+						});
+
+						var category_select = d3.select("#nav")
+						category_select
+							.selectAll('.dim')
+							.data(dimensions)
+							.enter()
+							.append('div')
+							.attr('class', 'dim button menu')
+							.style('background', font_color)
+							.html(function (d) {
+								return '<i style="height:30px; margin-top:10px;" class="fas fa-' +
+									dimension_icons[d] +
+									'"></i><span>' + d + '</span>'
+							})
+							.on('click', function (d) {
+								update(selected_country, selected_category, d, false, true)
+							})
+
+						d3.select("#nav2")
+							.selectAll('.tgl')
+							.data(toggle_labels)
+							.enter()
+							.append('div')
+							.attr('class', 'tgl button')
+							.html(function (d) {
+								return d
+							})
+							.on('click', function (d, i) {
+								toggles[i] = !(toggles[i]);
+								update(selected_country, selected_category, selected_dimension, false, false)
+							})
+
+						category_select
+							.selectAll('.sep')
+							.data([' '])
+							.enter()
+							.append('div')
+							.attr('class', 'sep menu')
+							.style('background', 'none')
+							.html(function (d) {
+								return d
+							})
+
+						category_select
+							.selectAll('.cat')
+							.data(categories)
+							.enter()
+							.append('div')
+							.attr('class', 'cat button menu')
+							.style('background', function (d, i) {
+								return category_color[i]
+							})
+							.html(function (d, i) {
+								return '<img class="icon" src="' +
+									d + '.png" alt="' + d +
+									'"/><span>' + d + '</span>'
+							})
+							.on('click', function (d) {
+								update(selected_country, d, selected_dimension, false, false)
+							})
+
+
+						d3.selectAll('#subtitle')
+							.html(params['subtitle'][0])
+
+						d3.selectAll('#title')
+							.html(params['title'][0])
+
+						d3.selectAll('.menu')
+							.style('color', '#fff')
+
+						d3.selectAll('.tgl')
+							.style('color', '#fff')
+
+						d3.selectAll('.text')
+							.style('color', font_color)
+
+						setTimeout(() => {
+							d3.selectAll('.text')
+								.style('opacity', 1)
+						}, 100);
+
+						setTimeout(() => {
+							d3.selectAll('.fade')
+								.style('opacity', 1)
+						}, 200);
+
+						setTimeout(() => {
+							d3.selectAll('#dc2')
+								.style('opacity', 0.3)
+						}, 400);
+
+						function urlFormatter(url) {
+							return url.toString()
+								.split(' ').join('%20')
+								.split('#').join('%23')
+								.split(':').join('%3A')
+								.split('/').join('%2F')
+								.split('@').join('%40')
+						}
+
+						var social_url = params['url'][0];
+						var tweet = params['tweet'][0];
+
+						// d3.select('#social_meta_url')
+						// 	.attr('content', social_url)
+
+						d3.select('#tw')
+							.attr('href', 'https://twitter.com/home?status=' + urlFormatter(social_url + tweet))
+
+						d3.select('#footer')
+							.style('color', footer_color)
+
+						d3.select('#footer').selectAll('a')
+							.style('color', footer_color)
+
+
+						if (option && typeof option === "object") {
+							chart.setOption(option, true);
+						}
+
+						update(selected_country, selected_category, selected_dimension, false, false);
+					})
+				}
+			}
+		}
+	</script>
+</body>
+
+</html>
