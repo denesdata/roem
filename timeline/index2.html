@@ -1,0 +1,340 @@
+<head>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-array.v2.min.js"></script>
+    <script src="https://d3js.org/d3-random.v2.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-annotation/2.5.1/d3-annotation.min.js"></script>
+</head>
+
+<body>
+</body>
+<script>
+
+    var node = d3.select('body').append('svg');
+
+    d3.select(node)
+        .append("rect")
+        .attr("class", "background")
+        .attr("width", "100%")
+        .attr("height", "100%")
+        .attr("fill", "white")
+        .on("touchstart mouseover", () => {
+            var selectedCounty = "Total";
+            var selectedDate = d3.max(data, d => d.Date);
+        });
+
+    d3.select(node)
+        .append("g")
+        .attr("id", "plot")
+        .append("g")
+        .attr("id", "annotations");
+    d3.select(node)
+        .append("svg")
+        .attr("id", "map");
+
+    var mounted = false;
+
+    const root = d3.select(node);
+
+    let titleString = "Counties with at least one case (pink) or death (red) on ";
+
+    if (mapShows == "cases-per-capita") {
+        titleString = "Cases per capita on ";
+    } else if (mapShows == "deaths-per-capita") {
+        titleString = "Deaths per capita on ";
+    }
+
+    titleString += formatDateShort(selectedDate);
+
+    root
+        .selectAll("text.title")
+        .data([null])
+        .join("text")
+        .attr("class", "title")
+        .attr("x", 270)
+        .attr("y", margin.top + 15)
+        .attr("font-size", "0.85em")
+        .attr("text-anchor", "middle")
+        .text(titleString);
+
+    root
+        .attr("width", width)
+        .attr("height", width / aspectRatio)
+        .attr("viewBox", `0 0 ${viewbox.width} ${viewbox.height}`)
+        .attr("preserveAspectRatio", "none");
+
+    root.on("mouseleave", () => {
+        // HACK put this here because sometimes the event listener on the county
+        // element itself doesn't fire?
+        var selectedCounty = "Total";
+    });
+
+    plot(root.select("#plot"));
+
+    map(
+        root
+            .select("#map")
+            .attr("x", margin.left - 20)
+            .attr("y", margin.top + 30)
+            .attr("width", viewbox.width * 0.425)
+            .attr("height", viewbox.height - 250)
+            // .attr("viewBox", `0 0 ${viewbox.width * 0.5} ${viewbox.height - 250}`)
+            // .attr("preserveAspectRatio", "xMidYMid")
+            .attr("font-size", d3.min([18, (18 * viewbox.height) / 600]))
+    );
+
+    if (mounted) {
+        annotate(root.select("#annotations").raise());
+    } else {
+        var mounted = true;
+    }
+
+    chart2 = function () {
+        const height = viewbox.height / 2;
+
+        let node = this;
+
+        if (node === undefined) {
+            node = DOM.svg();
+        }
+
+        const svg = d3.select(node);
+
+        svg
+            .attr("width", "100%")
+            .attr("viewBox", `0 0 ${viewbox.width} ${height}`)
+            .attr("preserveAspectRatio", "none");
+
+        const allDaysInRange = d3.timeDay.range(...d3.extent(testsData, d => d.Date));
+
+        const testsByDay = Array.from(
+            d3.group([...testsData, ...allDaysInRange.map(dt => ({ Date: dt }))], d =>
+                d.Date.getTime()
+            ),
+            ([k, v]) => v
+        )
+            .map(day => [
+                day[0].Date,
+                day.length > 1
+                    ? d3.rollup(day, v => d3.sum(v, d => d.Count), d => d.Result)
+                    : new Map()
+            ])
+            .map(
+                ([day, data]) => (
+                    data.set("Total", d3.sum([...data.values()])), [day, data]
+                )
+            );
+
+        //     const rollup = d3.rollup(day, v => d3.sum(v, d => d.Count), d => d.Result);
+        //     const obj = { Date: day[0].Date };
+
+        //     [...rollup.entries()].reduce(
+        //       (obj, [key, value]) => ((obj[key] = value), obj),
+        //       obj
+        //     );
+
+        //     return obj;
+        //   });
+
+        testsByDay.sort((a, b) => a[0].getTime() - b[0].getTime());
+
+        // return testsByDay;
+
+        const testsPerDay = testsByDay
+            .map(([day, data], i) => {
+                if (i > 1) {
+                    const [prevDay, prevData] = testsByDay[i - 1];
+                    const Positive =
+                        (data.get("Positive") || NaN) - (prevData.get("Positive") || NaN);
+                    const Negative =
+                        (data.get("Negative") || NaN) - (prevData.get("Negative") || NaN);
+                    const Pending =
+                        (data.get("Pending") || NaN) - (prevData.get("Pending") || NaN);
+                    const Total =
+                        (data.get("Total") || NaN) - (prevData.get("Total") || NaN);
+
+                    return { Date: day, Positive, Negative, Pending, Total };
+                } else {
+                    return {
+                        Date: day,
+                        Positive: NaN,
+                        Negative: NaN,
+                        Pending: NaN,
+                        Total: NaN
+                    };
+                }
+            })
+            .filter(d => d.Date >= new Date("2020-03-01")); // FIXME if better data becomes available later.
+
+        // return testsPerDay;
+
+        const y = d3
+            .scaleLinear()
+            .domain([0, d3.max(testsPerDay, d => d.Total)])
+            .nice()
+            .range([height - margin.bottom, margin.top]);
+
+        const yAxis = g =>
+            g
+                .attr("transform", `translate(${viewbox.width - margin.right},0)`)
+                .call(d3.axisRight(y).ticks(5))
+                .call(g =>
+                    g
+                        .style("font-size", "small")
+                        .select(".domain")
+                        .remove()
+                );
+
+        const extent = d3.extent(data, d => d.Date);
+        const difference = (extent[1] - extent[0]) / 86000 / 1000;
+        const distance = x(extent[1]) - x(extent[0]);
+        const interval = distance / difference;
+        const bandwidth = interval - 6;
+
+        svg
+            .selectAll("text.title")
+            .data([null])
+            .join("text")
+            .attr("class", "title")
+            .attr("x", 60)
+            .attr("y", 40)
+            .attr("font-size", "1.125em")
+            .text("Tests per day");
+
+        svg
+            .selectAll("text.subtitle")
+            .data([null])
+            .join("text")
+            .attr("class", "subtitle")
+            .attr("x", 45)
+            .attr("y", 65)
+            .attr("font-size", "0.85em")
+            .text("grey: total tests; pink: positive tests");
+
+        svg
+            .selectAll("text.no-data")
+            .data([null])
+            .join("text")
+            .attr("class", "subtitle")
+            .attr("x", x(new Date("2020-03-07T12:00-07:00")))
+            .attr("y", y(0) - 10)
+            .attr("font-size", "0.85em")
+            .attr("text-anchor", "end")
+            .text("poor/no data available prior to March 08");
+
+        svg
+            .selectAll("text.no-data")
+            .data([null])
+            .join("text")
+            .attr("class", "subtitle")
+            .attr("x", x(new Date("2020-03-22T12:00-07:00")))
+            .attr("y", y(0) - 100)
+            .attr("font-size", "0.85em")
+            .attr("text-anchor", "end")
+            .text("incomplete data after March 22");
+
+        svg
+            .selectAll("rect.total-tests")
+            .data(testsPerDay)
+            .join(enter =>
+                enter
+                    .append("rect")
+                    .attr("class", "total-tests")
+                    .attr("x", d => x(d.Date))
+                    .attr("y", d => y(d.Total))
+                    .attr("height", d => y(0) - y(d.Total))
+                    .attr("width", bandwidth)
+                    .attr("transform", `translate(-${bandwidth / 2},0)`)
+            )
+            .attr("fill", d =>
+                d.Date.getTime() === selectedDate.getTime() ? "#888" : "#ccc"
+            );
+
+        svg
+            .selectAll("rect.positive-tests")
+            .data(testsPerDay)
+            .join(enter =>
+                enter
+                    .append("rect")
+                    .attr("class", "positive-tests")
+                    .attr("x", d => x(d.Date))
+                    .attr("y", d => y(d.Positive))
+                    .attr("height", d => y(0) - y(d.Positive))
+                    .attr("width", bandwidth)
+                    .attr("transform", `translate(-${bandwidth / 2},0)`)
+            )
+            .attr("fill", d =>
+                d.Date.getTime() === selectedDate.getTime()
+                    ? colors.cases
+                    : colors.casesFaded
+            );
+
+        svg
+            .selectAll("text.total-tests-label")
+            .data(testsPerDay)
+            .join(enter =>
+                enter
+                    .append("text")
+                    .attr("class", "total-tests-label")
+                    .attr("x", d => x(d.Date))
+                    .attr("y", d => y(d.Total))
+                    .attr("dy", -4)
+                    .attr("text-anchor", "middle")
+                    .attr("font-size", "small")
+                    .text(d => formatNumber(d.Total))
+            )
+            .attr("visibility", d =>
+                d.Date.getTime() === selectedDate.getTime() ? "visible" : "hidden"
+            );
+
+        svg
+            .selectAll("text.positive-tests-label")
+            .data(testsPerDay)
+            .join(enter =>
+                enter
+                    .append("text")
+                    .attr("class", "positive-tests-label")
+                    .attr("x", d => x(d.Date))
+                    .attr("y", d => y(d.Positive))
+                    .attr("dy", -4)
+                    .attr("text-anchor", "middle")
+                    .attr("font-size", "small")
+                    .attr("fill", "white")
+                    .text(d => formatNumber(d.Positive))
+            )
+            .attr("visibility", d =>
+                d.Total - d.Positive > 50 && d.Date.getTime() === selectedDate.getTime()
+                    ? "visible"
+                    : "hidden"
+            );
+
+        svg
+            .selectAll("g.x-axis")
+            .data([null])
+            .join("g")
+            .attr("class", "x-axis")
+            .call(xAxis)
+            .attr("transform", `translate(0,${height - margin.bottom})`);
+
+        svg
+            .selectAll("g.y-axis")
+            .data([null])
+            .join("g")
+            .attr("class", "y-axis")
+            .attr("transform", `translate(0,${viewbox.height - margin.bottom})`)
+            .call(yAxis);
+
+        svg.on("touchmove mousemove", function () {
+            const datum = bisect(d3.mouse(this)[0]);
+            const date = datum ? datum.date : d3.max(data, d => d.Date);
+
+            if (selectedDate.getTime() !== date.getTime()) {
+                var selectedDate = date;
+            }
+        });
+
+        svg.on("mouseleave", () => {
+            var selectedDate = d3.max(data, d => d.Date);
+        });
+    };
+
+</script>

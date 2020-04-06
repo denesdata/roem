@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="//www.w3.org/1999/xhtml">
+
+<head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
+        integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
+    <meta charset="utf-8">
+    <title>COVID-19 | Romania</title>
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
+        @import url(style.css);
+    </style>
+</head>
+
+<div id="body"></div>
+
+<script src="https://www.google.com/jsapi"></script>
+<script src="https://d3js.org/d3-selection.v1.min.js"></script>
+<script src="https://d3js.org/d3-axis.v1.min.js"></script>
+<script src="https://d3js.org/d3-format.v1.min.js"></script>
+<script src="https://d3js.org/d3-array.v2.min.js"></script>
+<script src="https://d3js.org/d3-color.v1.min.js"></script>
+<script src="https://d3js.org/d3-format.v1.min.js"></script>
+<script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+<script src="https://d3js.org/d3-time.v1.min.js"></script>
+<script src="https://d3js.org/d3-time-format.v2.min.js"></script>
+<script src="https://d3js.org/d3-scale.v3.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="https://d3js.org/d3-path.v1.min.js"></script>
+<script src="https://d3js.org/d3-shape.v1.min.js"></script>
+
+<script>
+    google.load("visualization", "1");
+    google.setOnLoadCallback(init);
+
+    function data_lists_to_object_array(data, skip_row = 0, skip_col = 0) {
+        var dummy = [];
+        var keys = data[skip_row]
+        for (i = 1 + skip_row; i < data.length; i++) {
+            var d = {};
+            for (j = skip_col; j < keys.length; j++) {
+                d[keys[j]] = data[i][j];
+            }
+            dummy.push(d);
+        }
+        return dummy
+    }
+
+    function data_to_lists(data, n_col) {
+        var ColumnNames = []
+        var DataArray = new Array(data.getNumberOfRows());
+
+        for (var col = 0; col < n_col; col++) {
+            ColumnNames.push(data.getColumnLabel(col))
+        }
+        for (var row = 0; row < data.getNumberOfRows(); row++) {
+            DataArray[row] = new Array(n_col);
+            for (var col = 0; col < n_col; col++) {
+                DataArray[row][col] = data.getValue(row, col);
+            }
+        }
+        return [ColumnNames].concat(DataArray)
+    }
+
+    function transpose(matrix) {
+        return matrix[0].map((col, i) => matrix.map(row => row[i]));
+    }
+
+    function getKeyValues(data, key) {
+        var dummy = [];
+        for (i = 0; i < data.length; i++) {
+            dummy.push(data[i][key])
+        }
+        return dummy
+    }
+
+    function getMax(data, key) {
+        return Math.max.apply(Math, data.map(function (o) {
+            return o[key];
+        }))
+    }
+
+    function sortObject(objs, key) {
+        return objs.sort((a, b) => (a[key] > b[key]) ? 1 : ((b[key] > a[key]) ? -1 : 0));
+    }
+
+    function object_to_matrix(data, key) {
+        var dummy = {};
+        for (i = 0; i < data.length; i++) {
+            d = {}
+            Object.keys(data[i]).forEach(function (j) {
+                if (j != key) {
+                    d[j] = data[i][j]
+                }
+            })
+            dummy[data[i][key]] = d
+        }
+        return dummy
+    }
+
+    function populate_ui(params) {
+        var logo = body.append('a').attr('href', params['logo_link'][lang]).attr('target', '_blank').attr('id', 'logo').attr('class', params['logo_link']['UI'])
+        logo.append('img').attr('src', params['logo_img'][lang]).attr('class', params['logo_img']['UI'])
+        body.append('h1').html(params['title'][lang]).attr('id', 'title').attr('class', params['title']['UI'])
+        body.append('h2').html(params['subtitle'][lang]).attr('id', 'subtitle').attr('class', params['subtitle']['UI'])
+        new Array('main', 'status', 'global', 'governance', 'stocks', 'firms', 'industry', 'exports').forEach(function (section) {
+            var sec = body.append('section').attr('id', section + '_section').attr('class', 'section');
+            sec.append('h2').html(params[section][lang]).attr('class', params[section]['UI'])
+            sec.append('p').html(params[section + '_content'][lang]).attr('class', params[section + '_content']['UI'])
+            sec.append('div').attr('id', section)
+        })
+
+    }
+
+    function render_graphs(params, all_data) {
+        Object.keys(all_data).forEach(function (key) {
+            console.log(key)
+            d3.select("#" + key).call(function (div) {
+            });
+        })
+
+        yearExtent = [2000, 2010]
+        format = d3.format(',')
+        a = [
+            { name: "Devyn", gender: "F", year: "2018", number: 154 },
+            { name: "Dedvyn", gender: "M", year: "2007", number: 183 },
+            { name: "Dedvyn", gender: "M", year: "2006", number: 0 },
+            { name: "Devyn", gender: "F", year: "2015", number: 216 },
+            { name: "Devyn", gender: "M", year: "2004", number: 228 },
+            { name: "Devyn", gender: "F", year: "2013", number: 217 },
+            { name: "Devyn", gender: "F", year: "2012", number: 193 },
+            { name: "Devyn", gender: "F", year: "2011", number: 194 },
+            { name: "Devdsyn", gender: "F", year: "2010", number: 190 },
+            { name: "Devyn", gender: "F", year: "2009", number: 221 },
+            { name: "Ddsevyn", gender: "F", year: "2008", number: 189 },
+            { name: "Devyn", gender: "F", year: "2007", number: 232 },
+            { name: "Devyn", gender: "F", year: "2006", number: 181 },
+            { name: "Devyn", gender: "F", year: "2005", number: 229 },
+            { name: "Devyn", gender: "F", year: "2004", number: 212 },
+            { name: "Devyn", gender: "F", year: "2003", number: 232 },
+            { name: "Devyn", gender: "F", year: "2002", number: 183 },
+            { name: "Devyn", gender: "F", year: "2001", number: 248 }]
+
+        width = 600;
+        DOM = d3.select('body')
+        function chart(data) {
+            const rowHeight = 45
+            const bands = 4
+            const padding = { top: 20, right: 10, bottom: 20, left: 10 }
+
+            const grouped = d3.group(data, d => d.name, d => d.gender)
+            const height = grouped.size * rowHeight
+
+            const x = d3.scaleTime()
+                .domain(yearExtent.map(y => new Date(y, 0, 1)))
+                .range([0, width - padding.left - padding.right])
+            const y = d3.scaleSqrt()
+                .domain([0, d3.max(data, d => d.number) / bands])
+                .range([rowHeight, 0])
+            const color = d3.scaleOrdinal(d3.schemeAccent)
+
+            const area = d3.area()
+                .x(d => x(new Date(d.year, 0, 1)))
+                .y0(y(0))
+                .y1(d => y(d.number))
+
+            const svg = DOM.append('svg')
+                .attr('width', width + padding.left + padding.right)
+                .attr('height', height + padding.top + padding.bottom)
+
+            // clip path
+            const clip = svg.append('clip').attr('id', 'clip')
+            d3.select(svg).append('clipPath')
+                .attr('id', clip.id)
+                .append('rect')
+                .attr('width', width)
+                .attr('height', rowHeight)
+
+            const chart = d3.select(svg).append('g')
+                .attr('transform', `translate(${padding.left}, ${padding.top})`)
+                .style('user-select', 'none')
+                .style('-moz-user-select', 'none')
+                .style('-webkit-user-select', 'none')
+
+            // axes
+            const axes = chart.selectAll('g.axis').data([0, height])
+                .enter().append('g')
+                .attr('transform', d => `translate(0, ${d})`)
+                .each(function (d) {
+                    d3.select(this).call(d === 0 ? d3.axisTop(x) : d3.axisBottom(x))
+                })
+
+            // names
+            const names = chart.selectAll('g.name').data(Array.from(grouped))
+                .enter().append('g')
+                .attr('transform', (d, i) => `translate(0, ${i * rowHeight})`)
+                .attr('clip-path', clip)
+
+            // genders
+            const genders = names.selectAll('g.gender').data(d => Array.from(d[1]))
+                .enter().append('g')
+            for (let i = 0; i < bands; i++)
+                genders.append('path')
+                    .attr('fill', d => color(d[0]))
+                    .attr('opacity', 1 / bands)
+                    .attr('transform', `translate(0, ${i * rowHeight})`)
+                    .attr('d', d => area(d[1]))
+
+            // name
+            names.append('text')
+                .attr('y', rowHeight - 5)
+                .text(d => d[0])
+
+            // values, brush
+            const rule = chart.append('g')
+            rule.append('rect')
+                .attr('width', 1)
+                .attr('height', height)
+            const brushTicks = rule.selectAll('text').data([-8.5, height + 17])
+                .enter().append('text')
+                .attr('y', d => d)
+                .attr('text-anchor', 'middle')
+                .attr('font-size', 12)
+            const opacity = d3.scalePow([0, 10], [0, 1]).exponent(2).clamp(true)
+            const values = genders.append('text')
+                .attr('text-anchor', 'end')
+                .attr('fill', d => color(d[0]))
+                .attr('y', d => d[0] === 'F' ? rowHeight - 5 : rowHeight - 25)
+            brush(x(x.domain()[1]))
+
+            d3.select(svg)
+                .on('mousemove', () => brush(d3.mouse(chart.node())[0]))
+                .on('touchmove', () => brush(d3.touches(chart.node())[0][0]))
+            function brush(px) {
+                const year = x.invert(px).getFullYear()
+
+                rule
+                    .attr('transform', `translate(${px}, 0)`)
+
+                brushTicks
+                    .text(year)
+                axes.selectAll('text')
+                    .attr('opacity', d => opacity(Math.abs(d.getFullYear() - year)))
+
+                values
+                    .attr('x', px - 5)
+                    .text(d => {
+                        const found = d[1].find(v => v.year == year) // TODO: bisect
+                        return found ? format(found.number) : ''
+                    })
+            }
+
+            return svg
+        }
+
+        chart(a)
+
+    }
+
+    // INIT AND SET PARAMETERS
+    GSheetID = '1znjlYZavONVrlu-iIFw-s-CxjVAAOdvTSFtHrPcoPO4';
+    var all_data = [];
+    var lang = 'HU';
+    var body = d3.select('#body');
+
+    //INIT GRAPHS
+
+    function init() {
+
+        var GSheetName = 'Szotar'
+        var query1 = new
+            google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID + '&sheet=' + GSheetName);
+        query1.setQuery("");
+        query1.send(handleQueryResponse1);
+
+        function handleQueryResponse1(response) {
+            var data = response.getDataTable();
+
+            var params = data_to_lists(data, 5) //data.getNumberOfColumns()
+            var params = object_to_matrix(data_lists_to_object_array(params, skip_row = 1), 'ID');
+
+            // console.log(params)
+            // FINISHED PARAMS LOADING
+
+            var GSheetName = 'governance'
+            var query2 = new
+                google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID + '&sheet=' + GSheetName);
+            query2.setQuery("");
+            query2.send(handleQueryResponse2);
+
+            function handleQueryResponse2(response) {
+                var data = response.getDataTable();
+
+                var sheet_data = data_to_lists(data, 12) //data.getNumberOfColumns()
+                sheet_data = data_lists_to_object_array(sheet_data);
+                sortObject(sheet_data, 'date')
+                all_data['main'] = sheet_data;
+                all_data['status'] = sheet_data;
+                all_data['governance'] = sheet_data;
+
+                console.log(all_data)
+                // FINISHED DATA LOADING
+
+                populate_ui(params)
+                // FINISHED BUILDING UI
+
+                render_graphs(params, all_data)
+                // FINISHED BUILDING UI
+
+            }
+
+        }
+    }
+</script>
+
+</html>
