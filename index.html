@@ -2,131 +2,141 @@
 <html lang="en" xmlns="//www.w3.org/1999/xhtml">
 
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -- szekelydata -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57335320-4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
 
-    <link rel="stylesheet" type="text/css" href="default.css" />
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.0/css/all.css"
-        integrity="sha384-Mmxa0mLqhmOeaE8vgOSbKacftZcsNYDjQzuCOm6D02luYSzBG8vpaOykv9lFQ51Y" crossorigin="anonymous">
-</head>
+        gtag('config', 'UA-57335320-4');
+    </script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -- medveterkep -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-57335320-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-57335320-2');
+    </script>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta name="description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta name="keywords"
+        content="csaladenes, d3.js, data visualization, infographic, d3plus, d3, echarts, leaflet, map, terkep, bear map, bear, medveterkep, bear attack, medvetamadas, szekelyland, szekelydata, romania, transylvania, erdely" />
+    <meta property="og:image" content="https://medve.csaladen.es/snapshot.png" />
+    <meta property="twitter:image" content="https://medve.csaladen.es/snapshot.png" />
+    <meta property="og:description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta property="twitter:description"
+        content="Térképre helyeztük a székelyföldi medvetámadásokat. #medve #medveterkep #medveradar #szekelydata #szekelyland #dataviz @csaladenes" />
+    <meta property="og:title" content="🐻 Medvetérkép | székelydata" />
+    <meta property="twitter:title" content="🐻 Medvetérkép | székelydata" />
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <meta property="og:url" content="http://csaladenes.egologo.ro/?p=1721" />
+    <meta property="twitter:url" content="http://csaladenes.egologo.ro/?p=1721" />
+    <meta property="og:site_name" content="székelydata" />
+    <meta property="fb:admins" content="100943737036023614165" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/favicon.ico" />
+    <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
+    <link rel="shortcut icon" href="https://szekelydata.csaladen.es/blog/favicon.ico" />
+
+    <title>🐻 Medvetérkép | székelydata</title>
+
+    <style>
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+
+            background-color: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            padding: 0;
+            margin: 0;
+            border: none;
+            overflow: hidden;
+        }
+
+        div {
+            transition: opacity 0.5s;
+            -webkit-transition: opacity 0.5s;
+        }
+
+        iframe {
+            border: 1px solid #9EA8B1;
+            overflow: hidden;
+            background: none;
+            padding: 0;
+            margin: 0;
+            display: block;
+        }
+
+        #fr {
+            z-index: 2;
+
+        }
+    </style>
 
 <body>
-    <div id="chart"></div>
-
-    <script src="https://www.google.com/jsapi"></script>
-    <script src="echarts.min.js"></script>
-    <script src="d3-selection.v1.min.js"></script>
+    <div id='fr'>
+        <iframe id="container">
+        </iframe>
+    </div>
     <script>
-        google.load("visualization", "1");
-        google.setOnLoadCallback(init);
 
-        global_GSheetID = '1znjlYZavONVrlu-iIFw-s-CxjVAAOdvTSFtHrPcoPO4';
+        var width = 1000;
+        var height = 640;
 
-        function data_lists_to_object_array(data) {
-            var dummy = [];
-            var keys = data[0]
-            for (i = 1; i < data.length; i++) {
-                var d = {};
-                for (j = 0; j < keys.length; j++) {
-                    d[keys[j]] = data[i][j];
-                }
-                dummy.push(d);
+        var rescale = function () {
+
+            //scale content
+            var container = document.getElementById("container")
+            var parent = document.body;
+            var scal = Math.min(
+                (parent.offsetWidth) /
+                width,
+                (parent.offsetHeight) /
+                height)
+
+            if (scal < 1) {
+
+                console.log('rendering...scaling', scal)
+                container.width = width
+                container.height = height
+
+                container.style.WebkitTransform = "scale(" + scal + ")";
+                container.style.OTransform = "scale(" + scal + ")";
+                container.style.MozTransform = "scale(" + scal + ")";
+                container.style.msTransform = "scale(" + scal + ")";
+                container.style.Transform = "scale(" + scal + ")";
+
+                container.style.WebkitTransformOrigin = "50% 50%";
+                container.style.OTransformOrigin = "50% 50%";
+                container.style.MozTransformOrigin = "50% 50%";
+                container.style.msTransformOrigin = "50% 50%";
+                container.style.TransformOrigin = "50% 50%";
             }
-            return dummy
-        }
-
-        function data_to_lists(ColumnNames, DataArray) {
-            return [ColumnNames].concat(DataArray)
-        }
-
-        function transpose(matrix) {
-            return matrix[0].map((col, i) => matrix.map(row => row[i]));
-        }
-
-        function getKeyValues(data, key) {
-            var dummy = [];
-            for (i = 0; i < data.length; i++) {
-                dummy.push(data[i][key])
+            else {
+                console.log('rendering...no scaling', scal)
+                container.width = parent.offsetWidth
+                container.height = parent.offsetHeight
             }
-            return dummy
-        }
 
-        function getMax(data, key) {
-            return Math.max.apply(Math, data.map(function (o) {
-                return o[key];
-            }))
-        }
+            container.setAttribute('src', 'http://ec2-18-222-45-223.us-east-2.compute.amazonaws.com/')
 
-        function sortObject(objs, key) {
-            return objs.sort((a, b) => (a[key] > b[key]) ? 1 : ((b[key] > a[key]) ? -1 : 0));
-        }
+        };
 
+        //init view
+        rescale();
 
-
-        function init() {
-
-            var GSheetID = global_GSheetID
-            var GSheetName = 'Kormányzat'
-            var all_data = [];
-
-            var query1 = new
-                google.visualization.Query("https://docs.google.com/spreadsheet/ccc?key=" + GSheetID + '&sheet=' + GSheetName);
-            //query.setQuery("select *  where B > 2  ");
-            query1.setQuery("");
-            query1.send(handleQueryResponse1);
-
-            function handleQueryResponse1(response) {
-                var data = response.getDataTable();
-                var n_col = 16 //data.getNumberOfColumns();
-                var ColumnNames = []
-                var DataArray = new Array(data.getNumberOfRows());
-
-                for (var col = 0; col < n_col; col++) {
-                    ColumnNames.push(data.getColumnLabel(col))
-                }
-                for (var row = 0; row < data.getNumberOfRows(); row++) {
-                    DataArray[row] = new Array(n_col);
-                    for (var col = 0; col < n_col; col++) {
-                        DataArray[row][col] = data.getValue(row, col);
-                    }
-                }
-
-                all_data[GSheetName] = data_to_lists(ColumnNames, DataArray)
-                var kormanyzat = data_lists_to_object_array(all_data[GSheetName]);
-                sortObject(kormanyzat, 'Datum')
-
-                // FINISHED DATA LOADING
-
-                var chart = echarts.init(d3.select("#chart").node());
-                option = {
-                    xAxis: {
-                        type: 'category',
-                        data: getKeyValues(kormanyzat, 'Datum')
-                    },
-                    yAxis: {
-                        type: 'value'
-                    },
-                    series: [{
-                        data: getKeyValues(kormanyzat, 'Esetek szama (RO)'),
-                        type: 'line',
-                        smooth: true,
-                        areaStyle: {
-                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
-                                offset: 0,
-                                color: 'rgb(255, 158, 68)'
-                            }, {
-                                offset: 1,
-                                color: 'rgb(255, 70, 131)'
-                            }])
-                        }
-                    }]
-                }
-
-                if (option && typeof option === "object") {
-                    chart.setOption(option, true);
-                }
-
-            }
-        }
     </script>
 </body>
-
-</html>
