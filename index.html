@@ -46,7 +46,6 @@
         iframe {
             height: 100%;
             width: 100%;
-
             background: #141e30;
             background: -webkit-linear-gradient(to bottom right, #141e30, #243b55);
             background: linear-gradient(to bottom right, #141e30, #243b55);
@@ -54,15 +53,25 @@
             display: flex;
             align-items: center;
             justify-content: center;
-
             padding: 0;
             margin: 0;
             border: none;
             overflow: hidden;
         }
+
+        iframe {
+            opacity: 0;
+            transition: opacity 4s linear;
+        }
     </style>
 
 <body>
-    <iframe src="//covid.csaladen.es/d/THMTF-3Wz/romana?orgId=1&kiosk">
+    <iframe id="iframe" src="//covid.csaladen.es/d/THMTF-3Wz/romana?orgId=1&kiosk">
     </iframe>
 </body>
+<script>
+    setTimeout(function () {
+        document.getElementById('iframe').style.opacity = 1;
+    }, 1000)
+
+</script>
