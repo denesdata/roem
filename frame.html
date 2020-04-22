@@ -27,26 +27,29 @@
         content="Impactul pandemiei de coronavirus asupra economiei din România | A koronavírus-járvány hatásai a román gazdaságra | Impact of the coronavirus pandemic on the Romanian economy #Romania #COVID19 #Coronavirus #Economy #Crisis" />
     <meta property="twitter:description"
         content="Impactul pandemiei de coronavirus asupra economiei din România | A koronavírus-járvány hatásai a román gazdaságra | Impact of the coronavirus pandemic on the Romanian economy #Romania #COVID19 #Coronavirus #Economy #Crisis" />
-    <meta property="og:title" content="🦠 COVID19 🇷🇴 Romania 📉 economy" />
-    <meta property="twitter:title" content="🦠 COVID19 🇷🇴 Romania 📉 economy" />
+    <meta property="og:title" content="COVID19 🇷🇴 Romania 📉 economy" />
+    <meta property="twitter:title" content="COVID19 🇷🇴 Romania 📉 economy" />
     <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
     <meta property="og:url" content="https://econ.ubbcluj.ro/coronavirus/" />
     <meta property="twitter:url" content="https://econ.ubbcluj.ro/coronavirus/" />
-    <meta property="og:site_name" content="🦠 COVID19 🇷🇴 Romania 📉 economy" />
+    <meta property="og:site_name" content="COVID19 🇷🇴 Romania 📉 economy" />
     <meta property="fb:admins" content="100943737036023614165" />
     <link rel="shortcut icon" href="https://denesdata.github.io/covid19-romania/favicon.ico" />
     <link rel="publisher" href="https://plus.google.com/106181965793093327960" />
     <link rel="shortcut icon" href="https://denesdata.github.io/covid19-romania/favicon.ico" />
 
-    <title>🦠 COVID19 🇷🇴 Romania 📉 economy</title>
+    <title>COVID19 🇷🇴 Romania 📉 economy</title>
 
     <style>
         html,
-        body {
+        body, iframe {
             height: 100%;
             width: 100%;
 
-            background-color: #ddd;
+            background: #141e30;
+            background: -webkit-linear-gradient(to bottom right, #141e30, #243b55);
+            background: linear-gradient(to bottom right, #141e30, #243b55);
+            border-color: #141e30;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -57,77 +60,9 @@
             overflow: hidden;
         }
 
-        div {
-            transition: opacity 0.5s;
-            -webkit-transition: opacity 0.5s;
-        }
-
-        iframe {
-            border: 1px solid #9EA8B1;
-            overflow: hidden;
-            background: none;
-            padding: 0;
-            margin: 0;
-            display: block;
-        }
-
-        #fr {
-            z-index: 2;
-
-        }
     </style>
 
 <body>
-    <div id='fr'>
-        <iframe id="container">
-        </iframe>
-    </div>
-    <script>
-
-        var width = 1000;
-        var height = 640;
-
-        var rescale = function () {
-
-            //scale content
-            var container = document.getElementById("container")
-            var parent = document.body;
-            var scal = Math.min(
-                (parent.offsetWidth) /
-                width,
-                (parent.offsetHeight) /
-                height)
-
-            if (scal < 1) {
-
-                console.log('rendering...scaling', scal)
-                container.width = width
-                container.height = height
-
-                container.style.WebkitTransform = "scale(" + scal + ")";
-                container.style.OTransform = "scale(" + scal + ")";
-                container.style.MozTransform = "scale(" + scal + ")";
-                container.style.msTransform = "scale(" + scal + ")";
-                container.style.Transform = "scale(" + scal + ")";
-
-                container.style.WebkitTransformOrigin = "50% 50%";
-                container.style.OTransformOrigin = "50% 50%";
-                container.style.MozTransformOrigin = "50% 50%";
-                container.style.msTransformOrigin = "50% 50%";
-                container.style.TransformOrigin = "50% 50%";
-            }
-            else {
-                console.log('rendering...no scaling', scal)
-                container.width = parent.offsetWidth
-                container.height = parent.offsetHeight
-            }
-
-            container.setAttribute('src', '//')
-
-        };
-
-        //init view
-        rescale();
-
-    </script>
+    <iframe src="//ec2-18-222-45-223.us-east-2.compute.amazonaws.com/d/THMTF-3Wz?kiosk">
+    </iframe>
 </body>
