@@ -23,37 +23,34 @@
             font-family: "Coda" !important;
         }
 
-        text {
+        /* text {
             font-size: 12px !important;
-        }
+        } */
     </style>
 </head>
 
-<body></body>
 <div id="viz"></div>
 <script>
 
-    var county = 'county';
-    var value = 'value';
     var lang = window.location.hash.slice(1);
 
-    // sample data array
-    var sample_data = [
-        { "value": 100, "weight": .45, "type": "alpha" },
-        { "value": 70, "weight": .60, "type": "beta" },
-        { "value": 40, "weight": -.2, "type": "gamma" },
-        { "value": 15, "weight": .1, "type": "delta" }
-    ]
+    d3.json("matrix_" + lang + ".json", function (error, data) {
+        console.log(data, error)
+        var visualization = d3plus.viz()
+            .container("#viz")     // container DIV to hold the visualization
+            .data(data)     // data to use with the visualization
+            .type("scatter")       // visualization type
+            .id(["id"]) // nesting keys
+            //.depth(1)              // 0-based depth
+            .x({ "value": "x" })         // key name to size bubbles
+            .y({ "value": "y", "limits": [0, 100] })         // key name to size bubbles
+            .color("y")        // color by each group
+            .font({ "family": "Coda", "size": 14, "align": "center", "secondary": { "family": "Coda" } })
+            // .legend(false)
+            // .tooltip("id")
+            .draw()                // finally, draw the visualization!
+    })
 
-    // instantiate d3plus
-    var visualization = d3plus.viz()
-        .container("#viz")  // container DIV to hold the visualization
-        .data(sample_data)  // data to use with the visualization
-        .type("scatter")    // visualization type
-        .id("type")         // key for which our data is unique on
-        .x("value")         // key for x-axis
-        .y("weight")        // key for y-axis
-        .draw()             // finally, draw the visualization!
 </script>
 
 </html>
