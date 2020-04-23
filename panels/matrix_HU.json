@@ -1,0 +1,116 @@
+[
+    {
+        "id": "Mez\u0151gazdas\u00e1g",
+        "x": 4.82,
+        "y": -0.7,
+        "value": 1
+    },
+    {
+        "id": "Kitermel\u0151ipar",
+        "x": 0.83,
+        "y": -4.0,
+        "value": 1
+    },
+    {
+        "id": "K\u00f6nny\u0171ipar",
+        "x": 9.37,
+        "y": -5.1,
+        "value": 1
+    },
+    {
+        "id": "Neh\u00e9zipar",
+        "x": 11.33,
+        "y": -27.0,
+        "value": 1
+    },
+    {
+        "id": "Energia, k\u00f6zm\u0171vek",
+        "x": 3.67,
+        "y": -11.9,
+        "value": 1
+    },
+    {
+        "id": "\u00c9p\u00edt\u0151ipar",
+        "x": 6.07,
+        "y": -14.0,
+        "value": 1
+    },
+    {
+        "id": "Kereskedelem \u00e9s jav\u00edt\u00e1s",
+        "x": 11.03,
+        "y": -29.6,
+        "value": 1
+    },
+    {
+        "id": "Sz\u00e1ll\u00edt\u00e1s \u00e9s logisztika",
+        "x": 6.84,
+        "y": -15.1,
+        "value": 1
+    },
+    {
+        "id": "Turizmus \u00e9s vend\u00e9gl\u00e1t\u00e1s",
+        "x": 2.12,
+        "y": -75.0,
+        "value": 1
+    },
+    {
+        "id": "Inform\u00e1ci\u00f3 \u00e9s kommunik\u00e1ci\u00f3",
+        "x": 5.95,
+        "y": 4.0,
+        "value": 1
+    },
+    {
+        "id": "P\u00e9nz\u00fcgyi szolg\u00e1ltat\u00e1sok \u00e9s biztos\u00edt\u00e1s",
+        "x": 2.75,
+        "y": -7.1,
+        "value": 1
+    },
+    {
+        "id": "Ingatlanszolg\u00e1ltat\u00e1sok",
+        "x": 8.28,
+        "y": -20.0,
+        "value": 1
+    },
+    {
+        "id": "Tudom\u00e1nyos \u00e9s professzion\u00e1lis szolg\u00e1ltat\u00e1sok",
+        "x": 5.67,
+        "y": -7.6,
+        "value": 1
+    },
+    {
+        "id": "Adminisztrat\u00edv szolg\u00e1ltat\u00e1sok",
+        "x": 2.84,
+        "y": -47.2,
+        "value": 1
+    },
+    {
+        "id": "K\u00f6zigazgat\u00e1s \u00e9s honv\u00e9delem",
+        "x": 6.14,
+        "y": 10.0,
+        "value": 1
+    },
+    {
+        "id": "Oktat\u00e1s",
+        "x": 3.89,
+        "y": -10.0,
+        "value": 1
+    },
+    {
+        "id": "Eg\u00e9szs\u00e9g\u00fcgy",
+        "x": 4.8,
+        "y": 14.7,
+        "value": 1
+    },
+    {
+        "id": "Kultur\u00e1lis, m\u0171v\u00e9szeti \u00e9s egy\u00e9b szolg\u00e1ltat\u00e1sok",
+        "x": 3.6,
+        "y": -60.4,
+        "value": 1
+    },
+    {
+        "id": NaN,
+        "x": 100.0,
+        "y": -15.4,
+        "value": 1
+    }
+]

@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <!-- load D3js -->
+    <script src="//d3plus.org/js/d3.js"></script>
+
+    <!-- load D3plus after D3js -->
+    <script src="//d3plus.org/js/d3plus.js"></script>
+
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: "Coda" !important;
+        }
+
+        text {
+            font-size: 12px !important;
+        }
+    </style>
+</head>
+
+<body></body>
+<div id="viz"></div>
+<script>
+
+    var county = 'county';
+    var value = 'value';
+    var lang = window.location.hash.slice(1);
+
+    // sample data array
+    var sample_data = [
+        { "value": 100, "weight": .45, "type": "alpha" },
+        { "value": 70, "weight": .60, "type": "beta" },
+        { "value": 40, "weight": -.2, "type": "gamma" },
+        { "value": 15, "weight": .1, "type": "delta" }
+    ]
+
+    // instantiate d3plus
+    var visualization = d3plus.viz()
+        .container("#viz")  // container DIV to hold the visualization
+        .data(sample_data)  // data to use with the visualization
+        .type("scatter")    // visualization type
+        .id("type")         // key for which our data is unique on
+        .x("value")         // key for x-axis
+        .y("weight")        // key for y-axis
+        .draw()             // finally, draw the visualization!
+</script>
+
+</html>
