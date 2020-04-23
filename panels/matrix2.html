@@ -27,13 +27,11 @@
 <body></body>
 <script>
 
-    var county = 'county';
-    var value = 'value';
     var lang = window.location.hash.slice(1);
 
     var colors = ['darkRed', 'crimson', 'orange', 'gold']
     new d3plus.Plot()
-        .data('matrix_HU.json')
+        .data('matrix_'+lang+'.json')
         .groupBy("id")
         .size("value")
         .sizeMin(20)
