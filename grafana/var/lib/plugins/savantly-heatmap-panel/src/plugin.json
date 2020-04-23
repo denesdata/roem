@@ -1,0 +1,29 @@
+{
+  "type": "panel",
+  "name": "Heatmap",
+  "id": "savantly-heatmap-panel",
+
+  "info": {
+    "description": "Heatmap panel for grafana",
+    "author": {
+      "name": "Jeremy Branham",
+      "url": "https://github.com/jdbranham"
+    },
+    "keywords": ["heatmap", "panel"],
+    "links": [
+      {"name": "Project site", "url": "https://github.com/savantly-net/grafana-heatmap"},
+      {"name": "Apache License", "url": "https://github.com/savantly-net/grafana-heatmap/blob/master/LICENSE"}
+    ],
+    "version": "0.2.0",
+    "updated": "2016-10-16",
+    "logos": {
+        "small": "img/icn-heatmap-panel.svg",
+        "large": "img/icn-heatmap-panel.svg"
+    }
+  },
+  
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}

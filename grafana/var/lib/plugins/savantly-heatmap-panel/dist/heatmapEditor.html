@@ -1,0 +1,84 @@
+<div class="gf-form-group">
+	<h5>Development</h5>
+	<div class="gf-form">
+		<label class="gf-form-label width-10">Debug<tip>Display messages in browser console</tip></label> 
+		<editor-checkbox text="Enable" model="ctrl.panel.treeMap.debug" class="gf-form-checkbox" ></editor-checkbox>
+	</div>
+</div>
+<div class="gf-form-group">
+	<h5>Group Options</h5>
+
+	<div class="gf-form">
+		<label class="gf-form-label width-10">Grouped</label> 
+		<editor-checkbox text="Enable" model="ctrl.panel.treeMap.enableGrouping" class="gf-form-checkbox" ></editor-checkbox>
+	</div>
+	<div class="gf-form">
+		<label class="gf-form-label width-10">Group Depth</label> 
+		<input type="text" ng-model="ctrl.panel.treeMap.depth" ng-blur="ctrl.render()" class="gf-form-input width-10" >
+	</div>
+	<div class="gf-form">
+		<label class="gf-form-label width-10">Default Aggregation</label> 
+		<select
+			ng-options="option for option in ctrl.options.treeMap.aggregationFunctions" class="width-10"
+			ng-model="ctrl.panel.treeMap.aggregationFunction" ng-change="ctrl.refresh()"></select>
+	</div>
+	<div class="gf-form">
+		<label class="gf-form-label width-10">Time Blocks<tip>Adds a group at the deepest level. Use 'timestamp' in your Group Order to override the nesting level</tip></label> 
+		<editor-checkbox text="Enable" model="ctrl.panel.treeMap.enableTimeBlocks" class="gf-form-checkbox width-10" ></editor-checkbox>
+		<label class="gf-form-label width-10" ng-show="ctrl.panel.treeMap.enableTimeBlocks">Time Format<tip>ISO Format String</tip></label> 
+		<input type="text"
+			bs-typeahead="ctrl.options.treeMap.timestampFormats"
+			ng-show="ctrl.panel.treeMap.enableTimeBlocks"
+			class="gf-form-input width-20"
+			ng-model="ctrl.panel.treeMap.timestampFormat" ng-change="ctrl.refresh()"></input>
+	</div>
+	
+	<div class="gf-form">
+		<label class="gf-form-label width-10">Group Order</label> 
+		<div class="gf-form"  ng-repeat="idString in ctrl.panel.treeMap.ids track by $index">
+			<input type="text" ng-model="idString" placeholder="alias" data-min-length=0 ng-change="ctrl.changeTreeMapId(idString, $index)" class="gf-form-input width-10">
+			<label class="gf-form-label">
+				<i class="fa fa-trash pointer" ng-click="ctrl.removeTreeMapId($index)"></i>
+			</label>
+		</div>
+		<div class="gf-form">
+			<label class="gf-form-label">
+				<i class="fa fa-plus pointer" ng-click="ctrl.addTreeMapId()"></i>
+			</label>
+		</div>
+	</div>
+</div>
+
+<div class="gf-form-group">
+	<div class="edit-tab-content">
+		<div class="gf-form-group">
+			<h5>Grouping <tip>Regex match example: /server[0-3]/i </tip></h5>
+			
+			<div class="gf-form-inline" ng-repeat="group in ctrl.panel.treeMap.groups">
+				<div class="gf-form">
+					<label class="gf-form-label">group name</label>
+				</div>
+				<div class="gf-form width-10">
+					<input type="text" ng-model="group.key" ng-blur="ctrl.render()" data-min-length=0 data-items=100 class="gf-form-input">
+				</div>
+				
+				<div class="gf-form">
+					<label class="gf-form-label">regex</label>
+				</div>
+				<div class="gf-form width-10">
+					<input type="text" ng-model="group.value" bs-typeahead="getSeriesNames" ng-blur="ctrl.render()" data-min-length=0 data-items=100 class="gf-form-input">
+				</div>
+
+				<div class="gf-form">
+					<label class="gf-form-label">
+						<i class="fa fa-trash pointer" ng-click="ctrl.removeTreeMapGroup(group)"></i>
+					</label>
+				</div>
+			</div>
+		</div>
+
+		<button class="btn btn-inverse" ng-click="ctrl.addTreeMapGroup()">
+			<i class="fa fa-plus"></i>&nbsp;Add group
+		</button>
+	</div>
+</div>

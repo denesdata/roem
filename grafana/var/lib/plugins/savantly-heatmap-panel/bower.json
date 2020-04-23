@@ -1,0 +1,20 @@
+{
+  "name": "grafana-heatmap",
+  "homepage": "https://github.com/savantly-net/grafana-heatmap",
+  "authors": [
+    "Jeremy <jdbranham@hotmail.com>"
+  ],
+  "description": "A heatmap panel plugin for grafana",
+  "main": "module.js",
+  "license": "APACHE 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3plus": "^1.9.8"
+  }
+}

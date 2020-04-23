@@ -1,0 +1,33 @@
+{
+  "name": "ryantxu-ajax-panel",
+  "version": "0.0.7-dev",
+  "description": "AJAX Panel Plugin for Grafana",
+  "scripts": {
+    "build": "grafana-toolkit plugin:build",
+    "test": "grafana-toolkit plugin:test",
+    "dev": "grafana-toolkit plugin:dev",
+    "watch": "grafana-toolkit plugin:dev --watch"
+  },
+  "keywords": [
+    "ajax",
+    "grafana",
+    "plugin",
+    "panel",
+    "webcamera"
+  ],
+  "author": "ryantxu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryantxu/ajax-panel.git"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.22.1"
+  },
+  "devDependencies": {
+    "@grafana/toolkit": "canary",
+    "@types/grafana": "github:CorpGlory/types-grafana.git"
+  }
+}
