@@ -5,10 +5,18 @@
     <meta charset="utf-8">
     <script src="https://d3plus.org/js/d3plus-geomap.v0.6.full.min.js"></script>
     <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
         body {
             margin: 0;
             overflow: hidden;
-            background:none;
+            background: none;
+        }
+        div, text {
+            font-family: "Coda" !important;
+        }
+        text {
+            font-size:14px !important;
         }
     </style>
 </head>
@@ -19,7 +27,6 @@
     var county = 'county';
     var value = 'value';
     var lang = window.location.hash.slice(1);
-    console.log(lang)
 
     var colors = ['darkRed', 'crimson', 'orange', 'gold']
     var chart = new d3plus.Geomap()
@@ -30,6 +37,15 @@
             axisConfig: {
                 tickFormat: function (d) {
                     return Math.round(d) + " %";
+                },
+                barConfig: {
+                    stroke: "lightGray"
+                },
+                shapeConfig: {
+                    labelConfig: {
+                        fontColor: "lightGray"
+                    },
+                    stroke: "lightGray"
                 }
             }
         })
