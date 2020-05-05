@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <!-- load D3js -->
+    <script src="//d3plus.org/js/d3.js"></script>
+
+    <!-- load D3plus after D3js -->
+    <script src="//d3plus.org/js/d3plus.js"></script>
+
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: "Coda" !important;
+        }
+
+        .d3plus_tooltip_data_container .d3plus_tooltip_data_block:nth-child(5) {
+            display: none;
+        }
+    </style>
+</head>
+
+<div id="viz"></div>
+<script>
+
+    var lang = window.location.hash.slice(1);
+
+    d3.json("matrix_label.json", function (error, label) {
+        // console.log(label, label['x'][lang])
+        d3.json("matrix_" + lang + ".json", function (error, data) {
+            // console.log(data, error)
+            x = label['x'][lang];
+            y = label['y'][lang];
+            c = ' ';
+            data.forEach(function (d) {
+                d[x] = d['x'];
+                d[y] = d['y'];
+                d[c] = Math.round(d['c'], 1);
+            })
+            var visualization = d3plus.viz()
+                .container("#viz")     // container DIV to hold the visualization
+                .data(data)     // data to use with the visualization
+                .type("scatter")       // visualization type
+                .background('none')
+                .axes({ 'background': { 'color': 'none', 'stroke': 'none' }, 'ticks': false })
+                .id(["id"]) // nesting keys
+                .labels({ 'padding': -10 })
+                .x({
+                    "value": x,
+                    'label': { 'value': x, 'padding': 20 },
+                    'grid': { 'color': '#243b55' },
+                    'ticks': { 'color': '#243b55' },
+                    'axis': { 'color': '#243b55' }
+                })         // key name to size bubbles
+                .y({
+                    "value": y,
+                    'label': { 'value': y, 'padding': 30 },
+                    'grid': { 'color': '#243b55' },
+                    'ticks': { 'color': '#243b55' },
+                    'axis': { 'color': 'lightGray' }
+                })         // key name to size bubbles
+                .color(c)        // color by each group
+                .format({
+                    'number': function (d) {
+                        return d + ' %';
+                    }
+                })
+                .font({ "family": "Coda", "size": 14, "align": "center", "secondary": { "family": "Coda" }, 'color': 'lightGray' })
+                .legend(false)
+                .tooltip([x, y])
+                .draw()                // finally, draw the visualization!
+        })
+    })
+
+</script>
+
+</html>

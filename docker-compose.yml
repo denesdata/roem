@@ -1,63 +1,107 @@
-version: '3'
-services:
-   grafana:
-      image: grafana/grafana
-      container_name: grafana
-      restart: always
-      ports:
-         - '3000:3000'
-      volumes:
-         - ./grafana/var/lib:/var/lib/grafana
-      environment:
-         - GF_INSTALL_PLUGINS=yesoreyeram-boomtheme-panel,savantly-heatmap-panel,ryantxu-ajax-panel
-         - GF_SECURITY_ALLOW_EMBEDDING=true
-         - GF_AUTH_ANONYMOUS_ENABLED=true
-         - GF_SECURITY_COOKIE_SAMESITE=none
-         - GF_SECURITY_COOKIE_SECURE=true
-      networks:
-         dc2net:
-            ipv4_address: 172.28.1.3
-   influxdb:
-      image: influxdb
-      container_name: influxdb
-      restart: always
-      volumes:
-         - ./influxdb:/var/lib/influxdb
-      environment:
-         - INFLUXDB_ADMIN_USER=admin
-         - INFLUXDB_USER=user
-         - INFLUXDB_ADMIN_PASSWORD=XXXA
-         - INFLUXDB_USER_PASSWORD=XXXU
-      networks:
-         dc2net:
-            ipv4_address: 172.28.1.2
-   jupyter:
-      build: ./jupyter
-      container_name: jupyter
-      restart: always
-      ports:
-         - '8888:8888'
-      volumes:
-         - ./jupyter:/home/jovyan/work
-         - ./html:/html
-      networks:
-         dc2net:
-            ipv4_address: 172.28.1.1
-   nginx:
-      image: nginx
-      container_name: nginx
-      restart: always
-      ports:
-         - '80:80'
-         - '443:443'
-      volumes:
-         - ./html:/usr/share/nginx/html
-      networks:
-         dc2net:
-            ipv4_address: 172.28.1.4
+version: "3"
+
 networks:
-    dc2net:
-        ipam:
-            driver: default
-            config:
-                - subnet: 172.28.0.0/16
+  web:
+    external: true
+  internal:
+    external: false
+    
+services:
+  traefik:
+    image: traefik:1.7.2-alpine
+    user: '0'
+    container_name: traefik
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - $PWD/traefik.toml:/traefik.toml
+      - $PWD/acme.json:/acme.json
+    ports:
+      - 80:80
+      - 443:443
+    labels:
+      - traefik.frontend.rule=Host:covid-backup-monitor.csaladen.es
+      - traefik.port=8080
+    networks:
+      - web
+  
+  grafana:
+    image: grafana/grafana
+    user: '0'
+    container_name: grafana
+    restart: always
+    volumes:
+      - ./grafana/var/lib/:/var/lib/grafana
+    environment:
+      - GF_INSTALL_PLUGINS=yesoreyeram-boomtheme-panel,savantly-heatmap-panel,ryantxu-ajax-panel
+      - GF_SECURITY_ALLOW_EMBEDDING=true
+      - GF_AUTH_ANONYMOUS_ENABLED=true
+      - GF_SECURITY_COOKIE_SAMESITE=none
+      - GF_SECURITY_COOKIE_SECURE=true
+    labels:
+      - traefik.backend=grafana
+      - traefik.frontend.rule=Host:covid-backup.csaladen.es
+      - traefik.docker.network=web
+      - traefik.port=3000
+    networks:
+      - internal
+      - web
+    depends_on:
+      - traefik
+  
+  influxdb:
+    image: influxdb
+    user: '0'
+    container_name: influxdb
+    restart: always
+    volumes:
+      - ./influxdb:/var/lib/influxdb
+    environment:
+      - INFLUXDB_ADMIN_USER=admin
+      - INFLUXDB_USER=user
+      - INFLUXDB_ADMIN_PASSWORD
+      - INFLUXDB_USER_PASSWORD
+    networks:    
+      - internal
+    labels:
+      - traefik.enable=false
+    depends_on:
+      - traefik 
+  
+  jupyter:
+    build: ./jupyter
+    user: '0'
+    container_name: jupyter
+    hostname: jupyter
+    restart: always
+    volumes:
+      - ./jupyter:/home/jovyan/work
+      - ./html:/home/jovyan/html
+    labels:
+      - traefik.backend=jupyter
+      - traefik.frontend.rule=Host:covid-backup-jupyter.csaladen.es
+      - traefik.docker.network=web
+      - traefik.port=8888
+    networks:
+      - internal
+      - web
+    depends_on:
+      - traefik
+  
+  httpd:
+    image: httpd
+    user: '0'
+    container_name: httpd
+    hostname: httpd     
+    restart: always
+    volumes:
+      - ./html:/usr/local/apache2/htdocs/    
+    labels:
+      - traefik.backend=httpd
+      - traefik.frontend.rule=Host:covid-backup-html.csaladen.es
+      - traefik.docker.network=web
+      - traefik.port=80
+    networks:
+      - internal
+      - web
+    depends_on:
+      - traefik
