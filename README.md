@@ -1,10 +1,11 @@
-Desco platform data env is aset of docker services running influx, neo4j and the node REST API.   
-Both influx and and neo4j are loaded with all UPP data.  
-Each service is accessible on it's default ports:
-- influx:8086
-- neo4j:7474
-- desco-rest-api:4000
-- grafana:3000
-
-Start with `docker-compose up --build`
-or `docker-compose up --build -d` to run in detached mode (background)
+# 🇷🇴💹📉📊 
+# [COVID-19 – Romanian Economic Impact Monitor](https://econ.ubbcluj.ro/coronavirus)
+[![RoEIM](/snapshot.png "RoEIM")](https://econ.ubbcluj.ro/coronavirus)
+## 🇷🇴 Impactul pandemiei de coronavirus asupra economiei din România: date, analize și previziuni
+Proiect de cercetare care include și realizarea acestei platforme online specializate, prin care cercetătorii universității implicați în acest demers științific publică o serie de date relevante privind impactul economic al pandemiei COVID-19 în forma unor infografice interactive, menite să arate o imagine comprehensivă, actualizată în timp real a situației economiei românești. Obiectivul principal al proiectului constă în oferirea unui sprijin real factorilor decizionali din politica și economia românească prin realizarea și actualizarea frecventă a analizei situației generate de epidemia de COVID-19, respectiv prin oferirea unui punct de pornire pentru realizarea unor scenarii de previziune pentru o mai bună protejare a societății, a companiilor, a angajaților acestora, respectiv a lanțurilor de aprovizionare din economia reală.
+## 🇬🇧 Impact of the coronavirus pandemic on the Romanian economy: facts and forecasts
+A research project carried out by researchers of the Faculty of Economics and Business Administration of the Babeș-Bolyai University (Cluj-Napoca, Romania), which includes the daily publication of data on the economic impact of the coronavirus pandemic in Romania. Interactive infographics refreshed on a daily basis are meant to offer a comprehensive and relevant picture about the current state of the Romanian economy.
+The purpose of our website is to offer support for economic and policy decision makers in Romania by providing a precise and regularly updated analysis of the current situation caused by COVID-19, and by offering background studies for the development of forecasting scenarios with the aim to better protect society, employees, companies and supply chains.
+## 🇭🇺 A koronavírus-járvány hatásai a román gazdaságra: tények és előrejelzések
+A Babeș-Bolyai Tudományegyetem Közgazdaság- és Gazdálkodástudományi Karának kutatási projektje, melyben a kutatócsoport tagjai naponta közzéteszik elemzéseiket a koronavírus-járvány romániai gazdasági hatásaira nézve. A naponta frissített, interaktív infografikák segítségével egy átfogó és tiszta képet kívánunk nyújtani az aktuális gazdasági helyzetről Romániában.
+Weboldalunk célja, hogy segítséget nyújtson a gazdasági és politikai döntéshozóknak azáltal, hogy tényadatokra alapozva, folyamatosan frissítve ismerteti az aktuális helyzetet és támpontot nyújtson a romániai előrejelzési szcenáriók kialakításához a társadalom, az alkalmazottak, a vállalatok és az ellátási láncok védelme érdekében.
