@@ -20,7 +20,7 @@ services:
       - 80:80
       - 443:443
     labels:
-      - traefik.frontend.rule=Host:covid-monitor.csaladen.es
+      - traefik.frontend.rule=Host:covid-backup-monitor.csaladen.es
       - traefik.port=8080
     networks:
       - web
@@ -32,15 +32,19 @@ services:
     restart: always
     volumes:
       - ./grafana/var/lib/:/var/lib/grafana
+      - ./html/:/html
     environment:
-      - GF_INSTALL_PLUGINS=yesoreyeram-boomtheme-panel,savantly-heatmap-panel,ryantxu-ajax-panel
+      - GF_INSTALL_PLUGINS=grafana-clock-panel,yesoreyeram-boomtheme-panel,savantly-heatmap-panel,ryantxu-ajax-panel
       - GF_SECURITY_ALLOW_EMBEDDING=true
       - GF_AUTH_ANONYMOUS_ENABLED=true
       - GF_SECURITY_COOKIE_SAMESITE=none
       - GF_SECURITY_COOKIE_SECURE=true
+      - GF_RENDERING_SERVER_URL=http://renderer:8081/render
+      - GF_RENDERING_CALLBACK_URL=http://grafana:3000/
+      - GF_LOG_FILTERS=rendering:debug
     labels:
       - traefik.backend=grafana
-      - traefik.frontend.rule=Host:covid.csaladen.es
+      - traefik.frontend.rule=Host:covid-backup.csaladen.es
       - traefik.docker.network=web
       - traefik.port=3000
     networks:
@@ -49,6 +53,16 @@ services:
     depends_on:
       - traefik
   
+  renderer:
+    image: grafana/grafana-image-renderer
+    user: '0'
+    container_name: renderer
+    restart: always
+    networks:
+      - internal
+    labels:
+      - traefik.enable=false
+    
   influxdb:
     image: influxdb
     user: '0'
@@ -65,8 +79,6 @@ services:
       - internal
     labels:
       - traefik.enable=false
-    depends_on:
-      - traefik 
   
   jupyter:
     build: ./jupyter
@@ -79,7 +91,7 @@ services:
       - ./html:/home/jovyan/html
     labels:
       - traefik.backend=jupyter
-      - traefik.frontend.rule=Host:covid-jupyter.csaladen.es
+      - traefik.frontend.rule=Host:covid-backup-jupyter.csaladen.es
       - traefik.docker.network=web
       - traefik.port=8888
     networks:
@@ -98,7 +110,7 @@ services:
       - ./html:/usr/local/apache2/htdocs/    
     labels:
       - traefik.backend=httpd
-      - traefik.frontend.rule=Host:covid-html.csaladen.es
+      - traefik.frontend.rule=Host:covid-backup-html.csaladen.es
       - traefik.docker.network=web
       - traefik.port=80
     networks:
