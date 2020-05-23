@@ -26,7 +26,13 @@
 
     var county = 'county';
     var value = 'value';
-    var lang = window.location.hash.slice(1);
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
 
     var colors = ['darkRed', 'crimson', 'orange', 'gold']
     var chart = new d3plus.Geomap()
@@ -39,13 +45,13 @@
                     return Math.round(d) + " %";
                 },
                 barConfig: {
-                    stroke: "lightGray"
+                    stroke: (theme=='dark')?axdark:axlight
                 },
                 shapeConfig: {
                     labelConfig: {
-                        fontColor: "lightGray"
+                        fontColor: (theme=='dark')?axdark:axlight
                     },
-                    stroke: "lightGray"
+                    stroke: (theme=='dark')?axdark:axlight
                 }
             }
         })
@@ -53,7 +59,7 @@
         .tiles(false)
         .ocean("transparent")
         .loadingMessage(false)
-        .label(d => d[county] + ' | ' + d[value] + " %")
+        .label(d => d[county] + ' 📉 ' + d[value] + " %")
 
     chart.topojson("romania-counties.json", function (map) {
         map['objects']['ROU_adm1']['geometries'].forEach(function (d, i) {

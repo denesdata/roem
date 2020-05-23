@@ -26,7 +26,13 @@
 
     var county = 'county';
     var value = 'value';
-    var lang = window.location.hash.slice(1);
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
 
     // var colors = ['#1F60C4', '#C0D8FF', '#FFF899','#FFF899','#FFF899', '#E0B400', '#E0B400', '#E0B400', '#E0B400', '#E0B400', '#E0B400','#E0B400', '#E0B400','#E0B400', '#E0B400']
     var colors = ['#C0D8FF','#FFF899','darkorange','crimson','crimson','crimson','crimson','crimson','crimson','crimson','crimson','darkred','darkred']
@@ -37,13 +43,13 @@
             color: colors,
             axisConfig: {
                 barConfig: {
-                    stroke: "lightGray"
+                    stroke: (theme=='dark')?axdark:axlight
                 },
                 shapeConfig: {
                     labelConfig: {
-                        fontColor: "lightGray"
+                        fontColor: (theme=='dark')?axdark:axlight
                     },
-                    stroke: "lightGray"
+                    stroke: (theme=='dark')?axdark:axlight
                 }
             }
         })

@@ -1,1 +1,1 @@
-jupyter nbconvert --execute /home/jovyan/work/formatter.ipynb
+jupyter nbconvert --execute /home/jovyan/work/formatter.ipynb --ExecutePreprocessor.timeout=-1

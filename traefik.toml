@@ -18,7 +18,7 @@ defaultEntryPoints = ["http", "https"]
 entrypoint="dashboard"
 
 [acme] 
-email = "<YOUR_EMAIL_HERE>" 
+email = "mail@myserv.er" 
 storage = "acme.json" 
 entryPoint = "https" 
 onHostRule = true
@@ -26,6 +26,6 @@ onHostRule = true
   entryPoint = "http"
 
 [docker] 
-domain = "<YOUR_DOMAIN_HERE>" 
+domain = "myserv.er" 
 watch = true
 network = "web"
