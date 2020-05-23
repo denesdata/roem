@@ -9,3 +9,13 @@ The purpose of our website is to offer support for economic and policy decision 
 ## 🇭🇺 A koronavírus-járvány hatásai a román gazdaságra: tények és előrejelzések
 A Babeș-Bolyai Tudományegyetem Közgazdaság- és Gazdálkodástudományi Karának kutatási projektje, melyben a kutatócsoport tagjai naponta közzéteszik elemzéseiket a koronavírus-járvány romániai gazdasági hatásaira nézve. A naponta frissített, interaktív infografikák segítségével egy átfogó és tiszta képet kívánunk nyújtani az aktuális gazdasági helyzetről Romániában.
 Weboldalunk célja, hogy segítséget nyújtson a gazdasági és politikai döntéshozóknak azáltal, hogy tényadatokra alapozva, folyamatosan frissítve ismerteti az aktuális helyzetet és támpontot nyújtson a romániai előrejelzési szcenáriók kialakításához a társadalom, az alkalmazottak, a vállalatok és az ellátási láncok védelme érdekében.
+## 💻 Build
+To learn about the technologies used or build a similar site like this you can follow the instructions on the [Wiki](https://github.com/denesdata/covid19-romania/wiki) page. If you discovered any bugs or have any specific suggestions or feature reqests please use the [Issues](https://github.com/denesdata/covid19-romania/issues) page.
+## 📰 Cite
+If you would like to use the site as an information source or any of the visualizations or the data presented, you are free to do so under an MIT attribution [license](https://github.com/denesdata/covid19-romania/blob/master/LICENSE). If you would like to refer to it in publications or other scientific works of any kind, please use the following style: 
+- 🇷🇴 UBB-FSEGA (2020): COVID-19 - Romanian Economic Impact Monitor,  
+https://econ.ubbcluj.ro/coronavirus/, data ultimei accesări: ...
+- 🇬🇧 UBB-FSEGA (2020): COVID-19 - Romanian Economic Impact Monitor,  
+https://econ.ubbcluj.ro/coronavirus/, last accessed on: ...
+- 🇭🇺 BBTE-KGTK (2020): COVID-19 - Romanian Economic Impact Monitor,  
+https://econ.ubbcluj.ro/coronavirus/, utolsó betöltés dátuma: ...
