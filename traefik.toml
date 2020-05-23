@@ -5,7 +5,7 @@ defaultEntryPoints = ["http", "https"]
     address = ":8080"
     [entryPoints.dashboard.auth]
       [entryPoints.dashboard.auth.basic]
-        users = ["admin:$apr1$trBI0LFn$opiVn.flisvqKUGykGIdb."] 
+        users = ["admin:<YOUR_HASH_HERE>"] 
   [entryPoints.http]
   address = ":80"
     [entryPoints.http.redirect]
@@ -18,7 +18,7 @@ defaultEntryPoints = ["http", "https"]
 entrypoint="dashboard"
 
 [acme] 
-email = "mail@csaladen.es" 
+email = "<YOUR_EMAIL_HERE>" 
 storage = "acme.json" 
 entryPoint = "https" 
 onHostRule = true
@@ -26,6 +26,6 @@ onHostRule = true
   entryPoint = "http"
 
 [docker] 
-domain = "csaladen.es" 
+domain = "<YOUR_DOMAIN_HERE>" 
 watch = true
 network = "web"
