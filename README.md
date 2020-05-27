@@ -11,6 +11,14 @@ A Babeș-Bolyai Tudományegyetem Közgazdaság- és Gazdálkodástudományi Kar�
 Weboldalunk célja, hogy segítséget nyújtson a gazdasági és politikai döntéshozóknak azáltal, hogy tényadatokra alapozva, folyamatosan frissítve ismerteti az aktuális helyzetet és támpontot nyújtson a romániai előrejelzési szcenáriók kialakításához a társadalom, az alkalmazottak, a vállalatok és az ellátási láncok védelme érdekében.
 ## 💻 Build
 To learn about the technologies used or build a similar site like this you can follow the instructions on the [Wiki](https://github.com/denesdata/covid19-romania/wiki) page. If you discovered any bugs or have any specific suggestions or feature reqests please use the [Issues](https://github.com/denesdata/covid19-romania/issues) page.
+## ✉ Contact
+For any technical or visualization-related questions you may contact [Dénes](mailto:mail@csaladen.es). For economics-related queries and anything else about the site content, or further collaborations, you may contact [Levente](mailto:levente.szasz@econ.ubbcluj.ro).
+- [B&aacute;lint Csaba](https://www.linkedin.com/in/csaba-b%C3%A1lint-cfa-16b9a665/)
+- [Csala D&eacute;nes](https://www.linkedin.com/in/csaladenes/)
+- [Cs&iacute;ki Ott&oacute;](https://www.linkedin.com/in/ott%C3%B3-cs%C3%ADki-a01820109/)
+- [Nagy B&aacute;lint Zsolt](https://www.linkedin.com/in/balint-zsolt-nagy-phd-8796621/)
+- [R&aacute;cz B&eacute;la-Gergely](https://www.linkedin.com/in/raczbela/)
+- [Sz&aacute;sz Levente](https://www.linkedin.com/in/leventeszasz/)
 ## 📰 Cite
 If you would like to use the site as an information source or any of the visualizations or the data presented, you are free to do so under an MIT attribution [license](https://github.com/denesdata/covid19-romania/blob/master/LICENSE). If you would like to refer to it in publications or other scientific works of any kind, please use the following style: 
 - 🇷🇴 UBB-FSEGA (2020): COVID-19 - Romanian Economic Impact Monitor,  
