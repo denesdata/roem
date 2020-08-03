@@ -1,4 +1,4 @@
-version: "3"
+version: "2.2"
 
 networks:
   web:
@@ -20,7 +20,7 @@ services:
       - 80:80
       - 443:443
     labels:
-      - traefik.frontend.rule=Host:monitor.myserv.er
+      - traefik.frontend.rule=Host:covid-monitor.csaladen.es
       - traefik.port=8080
     networks:
       - web
@@ -44,7 +44,7 @@ services:
       - GF_LOG_FILTERS=rendering:debug
     labels:
       - traefik.backend=grafana
-      - traefik.frontend.rule=Host:grafana.myserv.er
+      - traefik.frontend.rule=Host:covid.csaladen.es
       - traefik.docker.network=web
       - traefik.port=3000
     networks:
@@ -52,6 +52,10 @@ services:
       - web
     depends_on:
       - traefik
+    mem_limit: 128m
+    mem_reservation: 64m
+    cpus: 0.8
+    privileged: true
   
   renderer:
     image: grafana/grafana-image-renderer
@@ -62,6 +66,9 @@ services:
       - internal
     labels:
       - traefik.enable=false
+    mem_limit: 512m
+    memswap_limit: 900m
+    cpus: 0.5
     
   influxdb:
     image: influxdb
@@ -75,10 +82,17 @@ services:
       - INFLUXDB_USER=user
       - INFLUXDB_ADMIN_PASSWORD
       - INFLUXDB_USER_PASSWORD
+      # - INFLUXDB_DATA_INDEX_VERSION=tsi1
+      - INFLUXDB_DATA_CACHE_MAX_MEMORY_SIZE=500m
     networks:    
       - internal
     labels:
       - traefik.enable=false
+    mem_limit: 512m
+    memswap_limit: 900m
+    mem_reservation: 256m
+    cpus: 0.5
+    privileged: true
   
   jupyter:
     build: ./jupyter
@@ -91,7 +105,7 @@ services:
       - ./html:/home/jovyan/html
     labels:
       - traefik.backend=jupyter
-      - traefik.frontend.rule=Host:jupyter.myserv.er
+      - traefik.frontend.rule=Host:covid-jupyter.csaladen.es
       - traefik.docker.network=web
       - traefik.port=8888
     networks:
@@ -99,6 +113,11 @@ services:
       - web
     depends_on:
       - traefik
+    mem_limit: 512m
+    memswap_limit: 1024m
+    mem_reservation: 128m
+    cpus: 0.5
+    # privileged: true
   
   httpd:
     image: httpd
@@ -110,7 +129,7 @@ services:
       - ./html:/usr/local/apache2/htdocs/    
     labels:
       - traefik.backend=httpd
-      - traefik.frontend.rule=Host:html.myserv.er
+      - traefik.frontend.rule=Host:covid-html.csaladen.es
       - traefik.docker.network=web
       - traefik.port=80
     networks:
