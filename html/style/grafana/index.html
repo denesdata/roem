@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="[[.AppleTouchIcon]]" />
   <link rel="mask-icon" href="public/img/grafana_mask_icon.svg" color="#F05A28" />
 
-  <link rel="stylesheet" href="public/build/grafana.[[ .Theme ]].41bc4b193210d0f89.css" />
+  <link rel="stylesheet" href="public/build/grafana.[[ .Theme ]].XXX.css" />
 
   <script>
     performance.mark('css done blocking');
@@ -193,14 +193,14 @@
     </div>
     <div class="preloader__text">Loading...</div>
       <div class="preloader__text preloader__text--fail">
-      <a target="_top" href="https://covid-backup.csaladen.es/d/ro">
+      <a target="_top" href="https://myserv.er/d/ro">
         <img style="width:400px;"
-          src="https://raw.githubusercontent.com/denesdata/covid19-romania/master/html/promo/econ.ubbcluj.ro_coronavirus_error.png" /></a>
-      <br /><br />&nbsp;&nbsp;<a target="_top" href="https://covid-backup.csaladen.es/d/ro">RO |
+          src="error.png" /></a>
+      <br /><br />&nbsp;&nbsp;<a target="_top" href="https://myserv.er/d/ro">RO |
         Română</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-        target="_top" href="https://covid-backup.csaladen.es/d/en">EN |
+        target="_top" href="https://myserv.er/d/en">EN |
         English</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-        target="_top" href="https://covid-backup.csaladen.es/d/hu">HU | Magyar</a>
+        target="_top" href="https://myserv.er/d/hu">HU | Magyar</a>
     </div>
   </div>
 
@@ -263,15 +263,63 @@
   <!-- End Google Tag Manager -->
   [[end]]
 
-
-  <script src="public/build/runtime.41bc4b193210d0f899b3.js" type="text/javascript"></script>
-  <script src="public/build/angular~app.41bc4b193210d0f899b3.js" type="text/javascript"></script>
-  <script src="public/build/app.41bc4b193210d0f899b3.js" type="text/javascript"></script>
-  <script src="public/build/moment~app.41bc4b193210d0f899b3.js" type="text/javascript"></script>
-  <script src="public/build/vendors~app.41bc4b193210d0f899b3.js" type="text/javascript"></script>
+    <script>
+        const DEVICE=((window.innerWidth < 1000)?'mobile':'desktop');
+        var SCROLL_STATIC=true;
+        const LOADED=new Set();
+        window.mobileCheck = function() {
+          let check = false;
+          (function(a){if(/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4))) check = true;})(navigator.userAgent||navigator.vendor||window.opera);
+          return check;
+        };
+        const MOBILE=window.mobileCheck();
+        console.log(MOBILE)
+    </script>
+  <script src="public/build/runtime.XXX.js" type="text/javascript"></script>
+  <script src="public/build/angular~app.XXX.js" type="text/javascript"></script>
+  <script src="public/build/app.XXX.js" type="text/javascript"></script>
+  <script src="public/build/moment~app.XXX.js" type="text/javascript"></script>
+  <script src="public/build/vendors~app.XXX.js" type="text/javascript"></script>
   <script>
     performance.mark('js done blocking');
   </script>
+<script>
+  function scroll_nicely(d) {
+      console.log('scrolling to', d)
+      document.querySelector(d).scrollIntoView();
+    }
+  var refreshInterval = setInterval(() => {
+      console.log('Waiting for menu...')
+      if  (document.querySelector('#mynav')) {
+          clearInterval(refreshInterval);
+      } else {
+          lang = window.location.href.slice(window.location.href.search('/d/') + 3, window.location.href.search('/d/') + 5)
+          menu_sections = {
+                 'hu': '<table style="line-height:XRXRLHpx" class="XRXRCLASS"><tr><td style="width: auto;" onclick="scroll_nicely(\'.dashboard-container\')"><div><i class="fa fa-arrow-circle-up"></i></div><div class="nav-text">Kezdőoldal</div></td><td onclick="scroll_nicely(\'#panel-12\')"><div><i class="fa fa-bar-chart"></i></div><div class="nav-text">Helyzetjelentés</div></td><td onclick="scroll_nicely(\'#panel-19\')"><div><i class="fa fa-globe"></i></div><div class="nav-text">Globális események</div></td><td onclick="scroll_nicely(\'#panel-18\')"><div><i class="fa fa-gavel"></i></div><div class="nav-text">Kormányzati intézkedések</div></td><td onclick="scroll_nicely(\'#panel-98\')"><div><i class="fa fa-forward"></i></div><div class="nav-text">Makrogazdasági mutatók</div></td><td onclick="scroll_nicely(\'#panel-17\')"><div><i class="fa fa-line-chart"></i></div><div class="nav-text">A pénzügyi piacok reakciói</div></td><td onclick="scroll_nicely(\'#panel-16\')"><div><i class="fa fa-car"></i></div><div class="nav-text">Vállalati intézkedések</div></td><td onclick="scroll_nicely(\'#panel-15\')"><div><i class="fa fa-industry"></i></div><div class="nav-text">Iparági hatások</div></td><td onclick="scroll_nicely(\'#panel-108\')"><div><i class="fa fa-train"></i></div><div class="nav-text">Mobilitási mutatók</div></td><td onclick="scroll_nicely(\'#panel-124\')"><div><i class="fa fa-home"></i></div><div class="nav-text">Ingatlanpiac</div></td><td onclick="scroll_nicely(\'#panel-66\')"><div><i class="fa fa-coffee"></i></div><div class="nav-text">Csapatunk</div></td></tr></table>',
+                 'ro': '<table style="line-height:XRXRLHpx" class="XRXRCLASS"><tr><td style="width: auto;" onclick="scroll_nicely(\'.dashboard-container\')"><div><i class="fa fa-arrow-circle-up"></i></div><div class="nav-text">Acasă</div></td><td onclick="scroll_nicely(\'#panel-12\')"><div><i class="fa fa-bar-chart"></i></div><div class="nav-text">Situația actuală</div></td><td onclick="scroll_nicely(\'#panel-19\')"><div><i class="fa fa-globe"></i></div><div class="nav-text">Evenimente globale</div></td><td onclick="scroll_nicely(\'#panel-18\')"><div><i class="fa fa-gavel"></i></div><div class="nav-text">Măsuri guvernamentale</div></td><td onclick="scroll_nicely(\'#panel-98\')"><div><i class="fa fa-forward"></i></div><div class="nav-text">Indicatori macroeconomici</div></td><td onclick="scroll_nicely(\'#panel-17\')"><div><i class="fa fa-line-chart"></i></div><div class="nav-text">Reacții ale piețelor financiare</div></td><td onclick="scroll_nicely(\'#panel-16\')"><div><i class="fa fa-car"></i></div><div class="nav-text">Măsuri ale companiilor</div></td><td onclick="scroll_nicely(\'#panel-15\')"><div><i class="fa fa-industry"></i></div><div class="nav-text">Efecte sectoriale</div></td><td onclick="scroll_nicely(\'#panel-108\')"><div><i class="fa fa-train"></i></div><div class="nav-text">Indici de mobilitate</div></td><td onclick="scroll_nicely(\'#panel-124\')"><div><i class="fa fa-home"></i></div><div class="nav-text">Piața imobiliară</div></td><td onclick="scroll_nicely(\'#panel-66\')"><div><i class="fa fa-coffee"></i></div><div class="nav-text">Echipa noastră</div></td></tr></table>',
+                 'en': '<table style="line-height:XRXRLHpx" class="XRXRCLASS"><tr><td style="width: auto;" onclick="scroll_nicely(\'.dashboard-container\')"><div><i class="fa fa-arrow-circle-up"></i></div><div class="nav-text">Home</div></td><td onclick="scroll_nicely(\'#panel-12\')"><div><i class="fa fa-bar-chart"></i></div><div class="nav-text">Status report</div></td><td onclick="scroll_nicely(\'#panel-19\')"><div><i class="fa fa-globe"></i></div><div class="nav-text">Global events</div></td><td onclick="scroll_nicely(\'#panel-18\')"><div><i class="fa fa-gavel"></i></div><div class="nav-text">Governmental measures</div></td><td onclick="scroll_nicely(\'#panel-98\')"><div><i class="fa fa-forward"></i></div><div class="nav-text">Macroeconomic indicators</div></td><td onclick="scroll_nicely(\'#panel-17\')"><div><i class="fa fa-line-chart"></i></div><div class="nav-text">Financial market reactions</div></td><td onclick="scroll_nicely(\'#panel-16\')"><div><i class="fa fa-car"></i></div><div class="nav-text">Company measures</div></td><td onclick="scroll_nicely(\'#panel-15\')"><div><i class="fa fa-industry"></i></div><div class="nav-text">Industry effects</div></td><td onclick="scroll_nicely(\'#panel-108\')"><div><i class="fa fa-train"></i></div><div class="nav-text">Mobility indicators</div></td><td onclick="scroll_nicely(\'#panel-124\')"><div><i class="fa fa-home"></i></div><div class="nav-text">Real estate market</div></td><td onclick="scroll_nicely(\'#panel-66\')"><div><i class="fa fa-coffee"></i></div><div class="nav-text">Our team</div></td></tr></table>'
+            }
+          if (window.location.href.search('noMenu=') > -1) {
+            clearInterval(refreshInterval);
+          } 
+          else {
+              if  (document.querySelector('.dashboard-container')) {
+                  var mynav = document.createElement('div');
+                  mynav.id="mynav"
+                  //try jquery then try lazyload
+                  document.querySelector(".navbar").appendChild(mynav)
+                  document.querySelector("#mynav").innerHTML += (menu_sections[lang]
+                    .replace('XRXRLH', ((window.innerWidth < 1600) ? '18' : '24'))
+                    .replace('XRXRCLASS', DEVICE))
+                  //if (DEVICE=='desktop') {
+                  if (!(MOBILE)) {
+                      document.querySelector(".view").style.scrollBehavior='smooth';
+                  }
+              }
+          }
+      }
+    }, 300);
+</script>
 </body>
 
 </html>
