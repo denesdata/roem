@@ -1,3 +1,4 @@
+
 #panel-90 .panel-menu-container {display: none !important;}
 #panel-90 .panel-title-container {cursor: auto !important;}
 #panel-10 .panel-menu-container {display: none !important;}
@@ -10,10 +11,10 @@
 #panel-82 .panel-title-container {cursor: auto !important;}
 #panel-6 .panel-menu-container {display: none !important;}
 #panel-6 .panel-title-container {cursor: auto !important;}
-#panel-12 .panel-menu-container {display: none !important;}
-#panel-12 .panel-title-container {cursor: auto !important;}
 #panel-93 .panel-menu-container {display: none !important;}
 #panel-93 .panel-title-container {cursor: auto !important;}
+#panel-12 .panel-menu-container {display: none !important;}
+#panel-12 .panel-title-container {cursor: auto !important;}
 #panel-19 .panel-menu-container {display: none !important;}
 #panel-19 .panel-title-container {cursor: auto !important;}
 #panel-18 .panel-menu-container {display: none !important;}
@@ -28,8 +29,10 @@
 #panel-86 .panel-title-container {cursor: auto !important;}
 #panel-15 .panel-menu-container {display: none !important;}
 #panel-15 .panel-title-container {cursor: auto !important;}
-#panel-14 .panel-menu-container {display: none !important;}
-#panel-14 .panel-title-container {cursor: auto !important;}
+#panel-108 .panel-menu-container {display: none !important;}
+#panel-108 .panel-title-container {cursor: auto !important;}
+#panel-124 .panel-menu-container {display: none !important;}
+#panel-124 .panel-title-container {cursor: auto !important;}
 #panel-92 .panel-menu-container {display: none !important;}
 #panel-92 .panel-title-container {cursor: auto !important;}
 #panel-85 .panel-menu-container {display: none !important;}
@@ -40,11 +43,43 @@
 #panel-66 .panel-title-container {cursor: auto !important;}
 #panel-106 .panel-menu-container {display: none !important;}
 #panel-106 .panel-title-container {cursor: auto !important;}
-#panel-105 .panel-menu-container {display: none !important;}
-#panel-105 .panel-title-container {cursor: auto !important;}
-#panel-8 .panel-menu-container {display: none !important;}
-#panel-8 .panel-title-container {cursor: auto !important;}
+#panel-119 .panel-menu-container {display: none !important;}
+#panel-119 .panel-title-container {cursor: auto !important;}
 #panel-13 .panel-menu-container {display: none !important;}
 #panel-13 .panel-title-container {cursor: auto !important;}
+#panel-122 .panel-menu-container {display: none !important;}
+#panel-122 .panel-title-container {cursor: auto !important;}
+#panel-8 .panel-menu-container {display: none !important;}
+#panel-8 .panel-title-container {cursor: auto !important;}
+#panel-121 .panel-menu-container {display: none !important;}
+#panel-121 .panel-title-container {cursor: auto !important;}
 #panel-57 .panel-menu-container {display: none !important;}
 #panel-57 .panel-title-container {cursor: auto !important;}
+#panel-123 .panel-menu-container {display: none !important;}
+#panel-123 .panel-title-container {cursor: auto !important;}
+#panel-107 .graph-legend-table .graph-legend-icon {display: none;}
+#panel-107 .graph-legend-table td{padding: 1px 2px;}
+#panel-112 .graph-legend-table .graph-legend-icon {display: none;}
+#panel-112 .graph-legend-table td{padding: 1px 2px;}
+#panel-115 .graph-legend-table .graph-legend-icon {display: none;}
+#panel-115 .graph-legend-table td{padding: 1px 2px;}
+#panel-117 .graph-legend-table .graph-legend-icon {display: none;}
+#panel-117 .graph-legend-table td{padding: 1px 2px;}
+#panel-116 .graph-legend-table .graph-legend-icon {display: none;}
+#panel-116 .graph-legend-table td{padding: 1px 2px;}
+#panel-114 .graph-legend-table .graph-legend-icon {display: none;}
+#panel-114 .graph-legend-table td{padding: 1px 2px;}
+#panel-107 .graph-legend-table thead {display: none;}
+#panel-107 .graph-legend-table tr td:first-child{width:80px !important;display: grid;}
+#panel-112 .graph-legend-table thead {display: none;}
+#panel-112 .graph-legend-table tr td:first-child{width:80px !important;display: grid;}
+#panel-115 .graph-legend-table thead {display: none;}
+#panel-115 .graph-legend-table tr td:first-child{width:80px !important;display: grid;}
+#panel-117 .graph-legend-table thead {display: none;}
+#panel-117 .graph-legend-table tr td:first-child{width:80px !important;display: grid;}
+#panel-116 .graph-legend-table thead {display: none;}
+#panel-116 .graph-legend-table tr td:first-child{width:80px !important;display: grid;}
+#panel-114 .graph-legend-table thead {display: none;}
+#panel-114 .graph-legend-table tr td:first-child{width:80px !important;display: grid;}
+#panel-110 .graph-legend-table tr td:first-child{width:190px !important;display: inline-block;}
+#panel-111 .graph-legend-table tr td:first-child{width:190px !important;display: inline-block;}

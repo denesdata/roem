@@ -83,6 +83,7 @@
                 .font({ "family": "Coda", "size": 14, "align": "center", "secondary": { "family": "Coda" }, 'color': (theme=='dark')?axdark:axlight })
                 .legend(false)
                 .tooltip([x, y])
+                .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
                 .draw()                // finally, draw the visualization!
         })
     })

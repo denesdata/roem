@@ -114,6 +114,7 @@
             rawdata.filter((d)=>(['date']+sets['groups'][id]).indexOf(d['indicator'])>-1)
                 .filter((d)=>(d['value'])!='row')
 //         console.log(data)
+        data=data.filter((d)=>((d['index']<3)||(d['index']>5)))
         var k=2;
         data.forEach(function(d){
             d[sets['lang']['desc'][lang]]=sets['lang'][d['indicator']][lang+'_description']
@@ -167,6 +168,7 @@
         .tooltip({'small':'300','value':{' ':[sets['lang']['month'][lang],sets['lang']['type'][lang],'indicator',sets['lang']['desc'][lang],sets['lang']['data'][lang]]}})
         .font({ "family": "Coda", "size": 13, "align": "center", "secondary": { "family": "Coda" }, 'color': (theme=='dark')?axdark:axlight })
         .height({'small':10})
+        .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
         .draw()
       })
     })

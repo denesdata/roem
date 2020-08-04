@@ -1,0 +1,146 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="//d3plus.org/js/d3plus-geomap.v0.6.full.min.js"></script>
+<!--     <script src="d3plus-geomap.v0.6.full.js"></script> -->
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+        div, text {
+            font-family: "Coda" !important;
+        }
+        .d3plus-viz-colorScale text, .d3plus-viz-timeline text, .d3plus-tooltip {
+            font-size:12px !important;
+        }
+    </style>
+</head>
+
+<body></body>
+<script>
+
+    var county = 'county';
+    var value = 'price';
+    var color = 'price';
+    var size='pop';
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
+
+    // var colors = ['darkRed', 'crimson', 'orange', 'gold', 'seaGreen', 'royalBlue']
+    var colors = ['gold','darkorange','crimson','darkred','darkred']
+    var months={12:{'HU':'December','RO':'Decembrie','EN':'December'},
+                1:{'HU':'Január','RO':'Ianuarie','EN':'January'},2:{'HU':'Február','RO':'Februarie','EN':'February'},
+                3:{'HU':'Március','RO':'Martie','EN':'March'},4:{'HU':'Április','RO':'Aprilie','EN':'April'},
+               5:{'HU':'Május','RO':'Mai','EN':'May'},6:{'HU':'Június','RO':'Iunie','EN':'June'},
+                7:{'HU':'Július','RO':'Iulie','EN':'July'},8:{'HU':'Augusztus','RO':'August','EN':'August'}}
+    var ticks={'119-11-30':'2008 '+months[6][lang].slice(0,3)+' 30',
+               '119-12-31':'2019 '+months[12][lang].slice(0,3)+' 31',
+               '120-1-31':'2020 '+months[1][lang].slice(0,3)+' 31',
+               '120-2-29':' '+months[2][lang].slice(0,3)+' 29',
+                '120-3-31':' '+months[3][lang].slice(0,3)+' 31',
+                '120-4-30':' '+months[4][lang].slice(0,3)+' 30',
+                '120-5-31':' '+months[5][lang].slice(0,3)+' 31',
+               '120-6-30':' '+months[6][lang].slice(0,3)+' 30'}
+    var chart = new d3plus.Geomap()
+    
+    chart.data('county4c_' + lang + '.json')
+    .groupBy('county')
+    .label(function(d) { return 'f' })
+    .colorScale(color)
+        .colorScaleConfig({
+            color: colors,
+            axisConfig: {
+//                 tickFormat: function (d) {
+//                     return Math.round(d)
+//                 },
+                barConfig: {
+                    stroke: (theme=='dark')?axdark:axlight
+                },
+                shapeConfig: {
+                    labelConfig: {
+                        fontColor: (theme=='dark')?axdark:axlight
+                    },
+                    stroke: (theme=='dark')?axdark:axlight
+                }
+            }
+        })
+        .time('date')
+        .timelineConfig({
+            buttonBehavior:"ticks",
+            scale:'linear',
+            tickFormat:function(ms) {
+                week=new Date(ms).getYear()+'-'+(new Date(ms).getMonth()+1)+'-'+new Date(ms).getDate();
+                return ticks[week];
+              },
+            barConfig: {
+                stroke: (theme=='dark')?axdark:axlight
+            },
+            shapeConfig: {
+                labelConfig: {
+                    fontColor: (theme=='dark')?axdark:axlight
+                },
+                stroke: (theme=='dark')?axdark:axlight
+            },
+            handleConfig: {
+                fill: (theme=='dark')?axdark:axlight,
+                stroke: (theme=='dark')?axdark:axlight
+            }
+        })
+        .zoom(false)
+        .tiles(false)
+        .point(function(d) {
+            return [d['lon'], d['lat']];
+          })
+    .pointSize(function(d) {
+      return d[color];
+    })
+        .ocean("transparent")
+        .loadingMessage(false)
+        .label(d => d[county] + ' 🏢 ' + d[value]+' €/m²')
+    .pointSizeMin(20)
+    .pointSizeMax(50)    
+    .config({
+    
+    shapeConfig: {
+      Path: {
+        fill: (theme=='dark')?dark:light
+      },
+        label:function(d){
+            return d['price']
+        },
+        labelConfig: {
+                    fontColor: function(d){
+                    
+                        return (d['price']>1600)?((theme=='dark')?axdark:light):((theme=='dark')?dark:axlight)
+                    },
+            fontWeight:'bold',
+//             fontSize:function(d){return Math.max(12,Math.min(25,(d['price']-800)/30))},
+            fontMin:1,
+            fontMax:28,
+            fontResize:true,
+            padding:"8 5 5 5"
+        },
+    }
+  })
+    chart.topojson("romania-counties.json", function (map) {
+        map['objects']['ROU_adm1']['geometries'].forEach(function (d, i) {
+            d['id'] = i + 1
+        })
+        return map
+    })
+
+    chart.render();
+</script>
+
+</html>

@@ -1,0 +1,127 @@
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="//d3plus.org/js/d3plus-geomap.v0.6.full.min.js"></script>
+<!--     <script src="d3plus-geomap.v0.6.full.js"></script> -->
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+        div, text {
+            font-family: "Coda" !important;
+        }
+        text {
+            font-size:12px !important;
+        }
+    </style>
+</head>
+
+<body></body>
+<script>
+
+    var county = 'county';
+    var value = 'value';
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
+
+        var colors=['darkRed','crimson', 'gold','lavender','cadetBlue','darkCyan','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen']
+//         var colors=['darkRed','crimson', 'gold','lavender','seaGreen','darkCyan','royalBlue','royalBlue','royalBlue','royalBlue','royalBlue','royalBlue']
+     var months={12:{'HU':'December','RO':'Decembrie','EN':'December'},
+                1:{'HU':'Január','RO':'Ianuarie','EN':'January'},2:{'HU':'Február','RO':'Februarie','EN':'February'},
+                3:{'HU':'Március','RO':'Martie','EN':'March'},4:{'HU':'Április','RO':'Aprilie','EN':'April'},
+               5:{'HU':'Május','RO':'Mai','EN':'May'},6:{'HU':'Június','RO':'Iunie','EN':'June'},
+                7:{'HU':'Július','RO':'Iulie','EN':'July'},8:{'HU':'Augusztus','RO':'August','EN':'August'}}
+    var ticks={'12-31':'2019 '+months[12][lang].slice(0,3)+' 31',
+               '1-31':'2020 '+months[1][lang].slice(0,3)+' 31',
+               '2-29':' '+months[2][lang].slice(0,3)+' 29',
+                '3-31':' '+months[3][lang].slice(0,3)+' 31',
+                '4-30':' '+months[4][lang].slice(0,3)+' 30',
+                '5-31':' '+months[5][lang].slice(0,3)+' 31',
+                '6-30':' '+months[6][lang].slice(0,3)+' 30',
+                '7-31':' '+months[7][lang].slice(0,3)+' 31'}
+    var chart = new d3plus.Geomap()
+        .data('county4b_' + lang + '.json')
+        .colorScale(value)
+        .colorScaleConfig({
+            color: colors,
+//         scale: "jenks",
+            colorMid:0,
+            axisConfig: {
+                tickFormat: function (d) {
+                    return Math.round(d) + " %";
+                },
+                barConfig: {
+                    stroke: (theme=='dark')?axdark:axlight
+                },
+                shapeConfig: {
+                    labelConfig: {
+                        fontColor: (theme=='dark')?axdark:axlight
+                    },
+                    stroke: (theme=='dark')?axdark:axlight
+                },
+                domain:[-100,100]
+            },
+        })
+        .time('date')
+        .timelineConfig({
+            buttonBehavior:"ticks",
+            scale:'linear',
+            tickFormat:function(ms) {
+                week=(new Date(ms).getMonth()+1)+'-'+new Date(ms).getDate();
+                return ticks[week];
+              },
+            barConfig: {
+                stroke: (theme=='dark')?axdark:axlight
+            },
+            shapeConfig: {
+                labelConfig: {
+                    fontColor: (theme=='dark')?axdark:axlight
+                },
+                stroke: (theme=='dark')?axdark:axlight
+            },
+            handleConfig: {
+                fill: (theme=='dark')?axdark:axlight,
+                stroke: (theme=='dark')?axdark:axlight
+            }
+        })
+        .zoom(false)
+        .tiles(false)
+        .ocean("transparent")
+        .loadingMessage(false)
+        .label(d => d[county] + ' 🏠 ' + d[value] + " %")
+     .shapeConfig({
+      label:function(d){
+            return d[value+'_display']?d['county']:''
+        },
+                labelConfig: {
+//                 fontWeight:'bold',
+    //             fontSize:function(d){return Math.max(12,Math.min(25,(d['price']-800)/30))},
+                fontMin:1,
+                fontMax:18,
+                fontResize:true,
+                padding:"0 0 0 0"
+            }})
+
+    chart.topojson("romania-counties.json", function (map) {
+        map['objects']['ROU_adm1']['geometries'].forEach(function (d, i) {
+            d['id'] = i + 1
+        })
+        return map
+    })
+
+    chart.render();
+</script>
+
+</html>

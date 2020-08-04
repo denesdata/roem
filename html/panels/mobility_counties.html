@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <!-- load D3js -->
+    <script src="d3.min.js"></script>
+
+    <script src="topojson.js"></script>
+    
+    <!-- load D3plus after D3js -->
+    <script src="d3plus.js"></script>
+
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: "Coda" !important;
+        }
+
+        .d3plus_tooltip_data_container .d3plus_tooltip_data_block:nth-child(5) {
+            display: none;
+        }
+    </style>
+</head>
+
+<div id="viz"></div>
+<script>
+
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
+
+        d3.json('county3_' + lang + '.json', function (error, data) {
+            console.log(data)
+            var visualization = d3plus.viz()
+            .container("#viz")
+            .data(data)
+            .type("geo_map")
+            .coords("romania-counties.json", function (map) {
+                map['objects']['ROU_adm1']['geometries'].forEach(function (d, i) {
+                    d['id'] = i + 1
+                })
+                return map
+            })
+            .background('#243b55')
+            .aggs({'value':'mean'})
+            .id("id")
+            .text({'value':"county"})
+            .color({"value":"value",'range':["#0092B2", "#FFEE8D", "#759143"]})
+            .time({'value':'date','fixed':true,'solo':['2020-May-01','2020-May-15'],'scale':'linear'})
+            .legend({'font':{'color':(theme=='dark')?axdark:axlight}})
+            .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
+            .format({
+                    'number': function (d) {
+                        return Math.round(d,0) + ' %';
+                    }
+                })
+            .draw()
+            
+            visualization
+            
+        })
+
+</script>
+
+</html>

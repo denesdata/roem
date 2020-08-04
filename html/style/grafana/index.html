@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" sizes="180x180" href="[[.AppleTouchIcon]]" />
   <link rel="mask-icon" href="public/img/grafana_mask_icon.svg" color="#F05A28" />
 
-  <link rel="stylesheet" href="public/build/grafana.[[ .Theme ]].XXX.css" />
+  <link rel="stylesheet" href="public/build/grafana.[[ .Theme ]].YOUR_BUILD_STRING_HERE.css" />
 
   <script>
     performance.mark('css done blocking');
@@ -195,7 +195,7 @@
       <div class="preloader__text preloader__text--fail">
       <a target="_top" href="https://myserv.er/d/ro">
         <img style="width:400px;"
-          src="error.png" /></a>
+          src="https://myserv.er/snapshot.png" /></a>
       <br /><br />&nbsp;&nbsp;<a target="_top" href="https://myserv.er/d/ro">RO |
         Română</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
         target="_top" href="https://myserv.er/d/en">EN |
@@ -275,11 +275,11 @@
         const MOBILE=window.mobileCheck();
         console.log(MOBILE)
     </script>
-  <script src="public/build/runtime.XXX.js" type="text/javascript"></script>
-  <script src="public/build/angular~app.XXX.js" type="text/javascript"></script>
-  <script src="public/build/app.XXX.js" type="text/javascript"></script>
-  <script src="public/build/moment~app.XXX.js" type="text/javascript"></script>
-  <script src="public/build/vendors~app.XXX.js" type="text/javascript"></script>
+  <script src="public/build/runtime.YOUR_BUILD_STRING_HERE.js" type="text/javascript"></script>
+  <script src="public/build/angular~app.YOUR_BUILD_STRING_HERE.js" type="text/javascript"></script>
+  <script src="public/build/app.YOUR_BUILD_STRING_HERE.js" type="text/javascript"></script>
+  <script src="public/build/moment~app.YOUR_BUILD_STRING_HERE.js" type="text/javascript"></script>
+  <script src="public/build/vendors~app.YOUR_BUILD_STRING_HERE.js" type="text/javascript"></script>
   <script>
     performance.mark('js done blocking');
   </script>
