@@ -1,6 +1,6 @@
 # 🇷🇴💹📉📊 
 # [COVID-19 – Romanian Economic Impact Monitor](https://econ.ubbcluj.ro/coronavirus)
-[![RoEIM](/snapshot.png "RoEIM")](https://econ.ubbcluj.ro/coronavirus)
+[![RoEIM](/snapshot.png "RoEIM")](https://econ.ubbcluj.ro/coronavirus)  
 ## 🇷🇴 Impactul pandemiei de coronavirus asupra economiei din România: date, analize și previziuni
 Proiect de cercetare care include și realizarea acestei platforme online specializate, prin care cercetătorii universității implicați în acest demers științific publică o serie de date relevante privind impactul economic al pandemiei COVID-19 în forma unor infografice interactive, menite să arate o imagine comprehensivă, actualizată în timp real a situației economiei românești. Obiectivul principal al proiectului constă în oferirea unui sprijin real factorilor decizionali din politica și economia românească prin realizarea și actualizarea frecventă a analizei situației generate de epidemia de COVID-19, respectiv prin oferirea unui punct de pornire pentru realizarea unor scenarii de previziune pentru o mai bună protejare a societății, a companiilor, a angajaților acestora, respectiv a lanțurilor de aprovizionare din economia reală.
 ## 🇬🇧 Impact of the coronavirus pandemic on the Romanian economy: facts and forecasts
@@ -11,6 +11,8 @@ A Babeș-Bolyai Tudományegyetem Közgazdaság- és Gazdálkodástudományi Kar�
 Weboldalunk célja, hogy segítséget nyújtson a gazdasági és politikai döntéshozóknak azáltal, hogy tényadatokra alapozva, folyamatosan frissítve ismerteti az aktuális helyzetet és támpontot nyújtson a romániai előrejelzési szcenáriók kialakításához a társadalom, az alkalmazottak, a vállalatok és az ellátási láncok védelme érdekében.
 ## 💻 Build
 To learn about the technologies used or build a similar site like this you can follow the instructions on the [Wiki](https://github.com/denesdata/covid19-romania/wiki) page. If you discovered any bugs or have any specific suggestions or feature reqests please use the [Issues](https://github.com/denesdata/covid19-romania/issues) page.
+## 📊 Data
+We maintain a [data repository](https://github.com/denesdata/roeim/tree/master/data) updated daily that contains the data displayed on the site in a standardized format. You can read about this more [here](https://github.com/denesdata/roeim/wiki/5.-Data).
 ## ✉ Contact
 For any technical or visualization-related questions you may contact [Dénes](mailto:mail@csaladen.es). For economics-related queries and anything else about the site content, or further collaborations, you may contact [Levente](mailto:levente.szasz@econ.ubbcluj.ro).
 - [B&aacute;lint Csaba](https://www.linkedin.com/in/csaba-b%C3%A1lint-cfa-16b9a665/)
