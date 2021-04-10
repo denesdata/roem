@@ -20,7 +20,7 @@ services:
       - 80:80
       - 443:443
     labels:
-      - traefik.frontend.rule=Host:monitor.myserv.er
+      - traefik.frontend.rule=Host:myserv-monitor.er
       - traefik.port=8080
     networks:
       - web
@@ -44,7 +44,7 @@ services:
       - GF_LOG_FILTERS=rendering:debug
     labels:
       - traefik.backend=grafana
-      - traefik.frontend.rule=Host:myserv.er
+      - traefik.frontend.rule=Host:myserv-grafana.er
       - traefik.docker.network=web
       - traefik.port=3000
     networks:
@@ -52,9 +52,6 @@ services:
       - web
     depends_on:
       - traefik
-    mem_limit: 128m
-    mem_reservation: 32m
-    cpus: 0.8
     privileged: true
   
   renderer:
@@ -69,7 +66,6 @@ services:
     mem_limit: 400m
     memswap_limit: 700m
     cpus: 0.25
-    # privileged: true
     
   influxdb:
     image: influxdb
@@ -83,7 +79,6 @@ services:
       - INFLUXDB_USER=user
       - INFLUXDB_ADMIN_PASSWORD
       - INFLUXDB_USER_PASSWORD
-      # - INFLUXDB_DATA_INDEX_VERSION=tsi1
       - INFLUXDB_DATA_CACHE_MAX_MEMORY_SIZE=200m
       - INFLUXDB_DATA_CACHE_SNAPSHOT_MEMORY_SIZE=10m
       - INFLUXDB_DATA_WAL_FSYNC_DELAY=100ms
@@ -97,10 +92,6 @@ services:
       - internal
     labels:
       - traefik.enable=false
-    mem_limit: 300m
-    memswap_limit: 600m
-    mem_reservation: 200m
-    cpus: 0.6
     privileged: true
   
   jupyter:
@@ -112,9 +103,10 @@ services:
     volumes:
       - ./jupyter:/home/jovyan/work
       - ./html:/home/jovyan/html
+      - ./data:/home/jovyan/data
     labels:
       - traefik.backend=jupyter
-      - traefik.frontend.rule=Host:jupyter.myserv.er
+      - traefik.frontend.rule=Host:myserv-jupyter.er
       - traefik.docker.network=web
       - traefik.port=8888
     networks:
@@ -122,11 +114,8 @@ services:
       - web
     depends_on:
       - traefik
-    mem_limit: 400m
-    mem_reservation: 100m
-    cpus: 0.9
-    privileged: true
-  
+    cpus: 0.5
+    
   httpd:
     image: httpd
     user: '0'
@@ -137,7 +126,7 @@ services:
       - ./html:/usr/local/apache2/htdocs/    
     labels:
       - traefik.backend=httpd
-      - traefik.frontend.rule=Host:html.myserv.er
+      - traefik.frontend.rule=Host:myserv-html.er
       - traefik.docker.network=web
       - traefik.port=80
     networks:

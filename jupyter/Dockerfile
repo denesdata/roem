@@ -1,6 +1,7 @@
 FROM jupyter/base-notebook
 RUN pip install pandas
 RUN pip install influxdb
+RUN pip install influxdb-client
 RUN pip install matplotlib
 RUN pip install fuzzywuzzy
 RUN pip install openpyxl

@@ -20,6 +20,14 @@
         text {
             font-size:12px !important;
         }
+        :root {
+          --bg: #6495ed;
+          --font: #faf0e6;
+        }
+        .d3plus-tooltip {
+            background-color:var(--bg) !important;
+            color:var(--font);
+        }
     </style>
 </head>
 
@@ -35,24 +43,36 @@
     var light='#abcaee';
     var axdark='lightGray';
     var axlight='#52545c';
+    document.documentElement.style.setProperty("--bg", (theme=='dark')?dark:light);
+    document.documentElement.style.setProperty("--font", (theme=='dark')?axdark:axlight);
 
-        var colors=['darkRed','crimson', 'gold','lavender','cadetBlue','darkCyan','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen']
+        var colors=['darkRed','crimson', 'gold','lavender','cadetBlue','darkCyan','darkCyan','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen',
+                   'seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen','seaGreen']
 //         var colors=['darkRed','crimson', 'gold','lavender','seaGreen','darkCyan','royalBlue','royalBlue','royalBlue','royalBlue','royalBlue','royalBlue']
      var months={12:{'HU':'December','RO':'Decembrie','EN':'December'},
                 1:{'HU':'Január','RO':'Ianuarie','EN':'January'},2:{'HU':'Február','RO':'Februarie','EN':'February'},
                 3:{'HU':'Március','RO':'Martie','EN':'March'},4:{'HU':'Április','RO':'Aprilie','EN':'April'},
                5:{'HU':'Május','RO':'Mai','EN':'May'},6:{'HU':'Június','RO':'Iunie','EN':'June'},
-                7:{'HU':'Július','RO':'Iulie','EN':'July'},8:{'HU':'Augusztus','RO':'August','EN':'August'}}
-    var ticks={'12-31':'2019 '+months[12][lang].slice(0,3)+' 31',
-               '1-31':'2020 '+months[1][lang].slice(0,3)+' 31',
+                7:{'HU':'Július','RO':'Iulie','EN':'July'},8:{'HU':'Augusztus','RO':'August','EN':'August'},
+                9:{'HU':'Szeptember','RO':'Septembrie','EN':'September'},10:{'HU':'Október','RO':'Octombrie','EN':'October'},
+                11:{'HU':'November','RO':'Noiembrie','EN':'November'},
+                12:{'HU':'Decmber','RO':'Decembrie','EN':'December'}}
+    var ticks={'1-31':' '+months[1][lang].slice(0,3)+' 31',
+               '2-28':' '+months[2][lang].slice(0,3)+' 28',
                '2-29':' '+months[2][lang].slice(0,3)+' 29',
                 '3-31':' '+months[3][lang].slice(0,3)+' 31',
                 '4-30':' '+months[4][lang].slice(0,3)+' 30',
                 '5-31':' '+months[5][lang].slice(0,3)+' 31',
                 '6-30':' '+months[6][lang].slice(0,3)+' 30',
-                '7-31':' '+months[7][lang].slice(0,3)+' 31'}
+                '7-31':' '+months[7][lang].slice(0,3)+' 31',
+                  '8-31':' '+months[8][lang].slice(0,3)+' 31',
+               '9-30':' '+months[9][lang].slice(0,3)+' 30',
+               '10-31':' '+months[10][lang].slice(0,3)+' 31',
+              '11-30':' '+months[11][lang].slice(0,3)+' 30',
+              '12-31':' '+months[12][lang].slice(0,3)+' 31'}
+    var la={'HU':'📅 ','RO':'📅 la data de ','EN':'📅 on '}
     var chart = new d3plus.Geomap()
-        .data('county4b_' + lang + '.json')
+        .data('county4b_202102' + lang + '.json')
         .colorScale(value)
         .colorScaleConfig({
             color: colors,
@@ -76,11 +96,14 @@
         })
         .time('date')
         .timelineConfig({
+            render:titles,
             buttonBehavior:"ticks",
             scale:'linear',
             tickFormat:function(ms) {
-                week=(new Date(ms).getMonth()+1)+'-'+new Date(ms).getDate();
-                return ticks[week];
+                year=(new Date(ms).getYear())+1900
+                month=(new Date(ms).getMonth()+1)
+                week=month+'-'+new Date(ms).getDate();
+                return ((month==1)?year:'')+ticks[week];
               },
             barConfig: {
                 stroke: (theme=='dark')?axdark:axlight
@@ -97,7 +120,13 @@
             }
         })
         .zoom(false)
+    .detectVisible(false)
         .tiles(false)
+    .title(la[lang])
+    .titleConfig({
+                fontColor: (theme == 'dark') ? axdark : axlight
+            })
+        
         .ocean("transparent")
         .loadingMessage(false)
         .label(d => d[county] + ' 🏠 ' + d[value] + " %")
@@ -122,6 +151,12 @@
     })
 
     chart.render();
+    function titles(){
+        now=chart._timelineSelection[0];
+        titlestring=la[lang]+now.toLocaleDateString(lang,{'month':'long','day':'numeric'})
+        console.log(titlestring)
+        document.querySelector("#d3plus-textBox-0").querySelector("text").innerHTML=titlestring
+    }
 </script>
 
 </html>

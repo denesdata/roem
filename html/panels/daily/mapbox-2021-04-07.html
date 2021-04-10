@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Add a geocoder</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+        body {
+            margin: 0;
+            padding: 0;
+            border: none;
+        }
+        
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+        
+        .mapboxgl-popup {
+            font-family: "Coda";
+            font-weight: bold;
+            font-size: 13px;
+        }
+        
+        .mapboxgl-popup-content {
+            padding: 5px;
+        }
+        
+        .mapboxgl-ctrl-bottom-right,
+        .mapboxgl-ctrl-bottom-left {
+            visibility: hidden !important;
+        }
+        
+        .mapboxgl-ctrl-top-right {
+            margin: 0px 40px 0 0 !important;
+        }
+        
+        .mapboxgl-ctrl-geocoder {
+            background-color: #243b55 !important;
+            opacity: 0.9;
+            width: 200px !important;
+            height: 30px !important;
+            min-width: 180px !important;
+            max-width: 180px !important;
+            width: 180px !important;
+            /*         margin-right:-20px !important; */
+        }
+        
+        .mapboxgl-ctrl-geocoder--input {
+            color: lightGray !important;
+            height: 31px !important;
+            /*             height: 36px; */
+        }
+        /* @media screen and (min-width: 640px) .mapboxgl-ctrl-geocoder {
+            min-width: 170px i !important;
+        } */
+        
+        .mapboxgl-ctrl-geocoder--input::placeholder {
+            color: lightGray !important;
+        }
+        
+        .mapboxgl-ctrl-geocoder--icon {
+            fill: lightGray !important;
+            top: 5px !important;
+        }
+        
+        .mapboxgl-ctrl-geocoder .suggestions {
+            background-color: #243b55 !important;
+        }
+        
+        .mapboxgl-marker-anchor-center g {
+            fill: #243b55 !important;
+        }
+        
+        .mapboxgl-marker-anchor-center g circle {
+            fill: lightGray !important;
+        }
+        
+        .mapboxgl-ctrl-geocoder .suggestions>li>a {
+            color: lightGray !important;
+        }
+        
+        .mapboxgl-ctrl-geocoder .suggestions>.active>a,
+        .mapboxgl-ctrl-geocoder .suggestions>li>a:hover {
+            background-color: #141e30 !important;
+            color: lightGray !important;
+        }
+        
+        .mapboxgl-ctrl-geocoder--button {
+            background-color: #141e30 !important;
+        }
+        
+        .mapboxgl-ctrl-group {
+            background: #243b55 !important;
+            opacity: 0.9;
+        }
+        
+        .mapboxgl-ctrl button.mapboxgl-ctrl-geolocate .mapboxgl-ctrl-icon {
+            background-image: url("data:image/svg+xml;charset=utf-8,<svg width='29' height='29' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg' fill='lightGray'> <path d='M10 4C9 4 9 5 9 5v.1A5 5 0 0 0 5.1 9H5s-1 0-1 1 1 1 1 1h.1A5 5 0 0 0 9 14.9v.1s0 1 1 1 1-1 1-1v-.1a5 5 0 0 0 3.9-3.9h.1s1 0 1-1-1-1-1-1h-.1A5 5 0 0 0 11 5.1V5s0-1-1-1zm0 2.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 1 1 0-7z'/> <circle id='dot' cx='10' cy='10' r='2'/> <path id='stroke' d='M14 5l1 1-9 9-1-1 9-9z' display='none'/> </svg>") !important;
+        }
+        
+        #restrictii-fill,
+        #choropleth-fill,
+        #restrictii-tick,
+        #choropleth-tick {
+            position: absolute;
+            /*         z-index:99; */
+            background-color: #243b55 !important;
+            text-align: center;
+            color: lightGray;
+            font-family: "Coda";
+            font-weight: bold;
+            font-size: 13px;
+            border-radius: 3px;
+            opacity: 0.9;
+            height: 28px;
+            padding-left: 2px;
+            padding-right: 2px;
+            line-height: 28px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+        
+        #restrictii-fill,
+        #choropleth-fill {
+            width: 175px;
+            right: 50px;
+        }
+        
+        #restrictii-tick,
+        #choropleth-tick {
+            width: 25px;
+            right: 10px;
+            font-size: 30px !important;
+            line-height: 26px !important;
+        }
+        
+        #restrictii-fill,
+        #restrictii-tick {
+            top: 85px;
+        }
+        
+        #choropleth-fill,
+        #choropleth-tick {
+            top: 55px;
+        }
+        
+        #restrictii-fill:hover,
+        #choropleth-fill:hover {
+            opacity: 1
+        }
+        
+        .mapboxgl-ctrl-group {
+            margin-top: -30px !important;
+            margin-right: -30px !important;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Load the `mapbox-gl-geocoder` plugin. -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css" type="text/css">
+
+    <!-- Promise polyfill script is required -->
+    <!-- to use Mapbox GL Geocoder in IE 11. -->
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+    <div id="map"></div>
+    <div id='controls'>
+        <a id='restrictii-fill'></a><span id='restrictii-tick'></span>
+        <a id='choropleth-fill'></a><span id='choropleth-tick'><div style="background:lightGray;border-radius:5px;width:15px;height:15px;margin:5px;margin-top:6px">&nbsp;</div></span>
+    </div>
+
+    <script>
+        var hash = window.location.hash.slice(1);
+        var lang = hash.slice(0, hash.search('&'));
+        var theme = hash.slice(hash.search('&') + 1);
+        var dark = '#243b55';
+        var light = '#abcaee';
+        var axdark = 'lightGray';
+        var axlight = '#52545c';
+
+        var rosu = 'Scenariu 🔴 roșu<br>Restricții de mobilitate după 20:00<br>Magazinele închise după 18:00'
+        var galben = 'Scenariu 🟡 galben<br>Restricții de mobilitate după 20:00<br>și magazinele închise după 18:00<br>vineri, sâmbătă și duminică'
+        var piros = 'Piros 🔴 forgatókönyv<br>Kijárási korlátozás 20:00 után<br>Üzletek zárva 18:00 után'
+        var sarga = 'Sárga 🟡 forgatókönyv<br>Kijárási korlátozás 20:00 után<br>és az üzletek zárva 18:00 után<br>pénteken, szombaton és vasárnap'
+        var red = 'Red 🔴 scenario<br>Restrictions on mobility after 20:00<br>Shops closed after 18:00'
+        var yellow = 'Yellow 🟡 scenario<br>Restrictions on mobility after 20:00<br>and shops closed after 18:00 on<br>Friday, Saturday and Sunday'
+        var scenario = {
+            'HU': {
+                0: 'Zöld 🟢 forgatókönyv',
+                1: sarga,
+                2: sarga,
+                3: piros,
+                4: piros
+            },
+            'EN': {
+                0: 'Green 🟢 scenario',
+                1: yellow,
+                2: yellow,
+                3: red,
+                4: red
+            },
+            'RO': {
+                0: 'Scenariu 🟢 verde',
+                1: galben,
+                2: galben,
+                3: rosu,
+                4: rosu
+            }
+        }
+        var scenario2 = {
+            'HU': {
+                '0': 'Zöld 🟢 forgatókönyv',
+                '4-': sarga,
+                '4+': sarga,
+                '7.5-': piros,
+                '7.5+': piros
+            },
+            'EN': {
+                '0': 'Green 🟢 scenario',
+                '4-': yellow,
+                '4+': yellow,
+                '7.5-': red,
+                '7.5+': red
+            },
+            'RO': {
+                '0': 'Scenariu 🟢 verde',
+                '4-': galben,
+                '4+': galben,
+                '7.5-': rosu,
+                '7.5+': rosu
+            }
+        }
+
+        var restric = {
+            'RO': ['🚫 Scenariu', '📈 Rata de incidență'],
+            'HU': ['🚫 Forgatókönyv', "📈 Fertőzöttségi arány"],
+            'EN': ['🚫 Scenario', "📈 Incidence rate"]
+        }
+
+        mapboxgl.accessToken = 'XXX';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/<my_username>/<my_style_id>',
+            center: [24.907, 46.1], // starting position [lng, lat]
+            zoom: 5.9 // starting zoom 6.59/45.912/25.007
+        });
+
+        // Add the control to the map.
+        map.addControl(
+                new MapboxGeocoder({
+                    accessToken: mapboxgl.accessToken,
+                    // Limit seach results to Australia.
+                    countries: 'ro',
+
+                    showUserLocation: true,
+                    language: lang.toLocaleLowerCase(),
+                    mapboxgl: mapboxgl
+                })
+            )
+            //     Add geolocate control to the map.
+        map.addControl(
+            new mapboxgl.GeolocateControl({
+                positionOptions: {
+                    enableHighAccuracy: true
+                },
+                trackUserLocation: true
+            })
+        );
+        map.on('load', function() {
+
+            if (lang == 'EN') {
+                map.setLayoutProperty('settlement-minor-label', 'text-field', [
+                    'get',
+                    'name_' + lang.toLocaleLowerCase()
+                ]);
+                map.setLayoutProperty('settlement-major-label', 'text-field', [
+                    'get',
+                    'name_' + lang.toLocaleLowerCase()
+                ]);
+            }
+
+            map.addSource('restrictii', {
+                'type': 'geojson',
+                'data': 'https://myserv.er/panels/daily/new_uat_daily2_2021-04-06.json'
+            });
+
+            map.addLayer({
+                    'id': 'restrictii-fill',
+                    'type': 'fill',
+                    'source': 'restrictii',
+                    'paint': {
+                        'fill-color': ["step", ["get", "🚦"], "#239e69", 1, "#f5d232", 3, "#c52b69"],
+                        //     'fill-outline-color': ["step",["get","🚦"],"#176b46",1,"#8e791c",3,"#771a3f"]
+                        'fill-outline-color': 'rgba(0,0,0,0)'
+                    },
+                    'layout': {
+                        'visibility': 'none'
+
+                    }
+                },
+                'choropleth-labels');
+
+            map.addLayer({
+                    'id': 'restrictii-stroke',
+                    'type': 'line',
+                    'source': 'restrictii',
+                    'paint': {
+                        'line-color': ["step", ["get", "🚦"], "#1d8457", 1, "#dbbb2b", 3, "#aa255a"],
+                        'line-width': 1
+                            //     'fill-outline-color': ["step",["get","🚦"],"#176b46",1,"#8e791c",3,"#771a3f"]
+                            //         'fill-outline-color': 'rgba(40,40,40,0)'
+                    },
+                    'layout': {
+                        'visibility': 'none'
+
+                    }
+                },
+                'choropleth-labels');
+
+            // Create a popup, but don't add it to the map yet.
+            var popup = new mapboxgl.Popup({
+                closeButton: false,
+                closeOnClick: false
+            });
+
+            // When a click event occurs on a feature in the states layer, open a popup at the
+            // location of the click, with description HTML from its properties.
+            map.on('mouseenter', 'choropleth-stroke', function(e) {
+                map.getCanvas().style.cursor = 'pointer';
+
+                var description = '04-07' + ' 📆 ' + e.features[0].properties['🏠'] + ' 😐 ' + e.features[0].properties['📈'] + ' ‰' + '<br>' + scenario[lang][e.features[0].properties['🚦']];
+
+                popup
+                    .setLngLat(e.lngLat)
+                    .setHTML(description)
+                    .addTo(map);
+            });
+
+            map.on('mousemove', 'choropleth-fill', function(e) {
+                var description = '04-07' + ' 📆 ' + e.features[0].properties['🏠'] + ' 😐 ' + e.features[0].properties['📈'] + ' ‰' + '<br>' + scenario[lang][e.features[0].properties['🚦']];
+
+                popup
+                    .setLngLat(e.lngLat)
+                    .setHTML(description)
+                    .addTo(map);
+            });
+
+
+            // Change it back to a pointer when it leaves.
+            map.on('mouseleave', 'choropleth-fill', function() {
+                map.getCanvas().style.cursor = '';
+                popup.remove();
+            });
+
+
+        })
+
+        var restrictiiLayer = 'restrictii-fill';
+        var choroplethLayer = 'choropleth-fill';
+        var s = document.getElementById(choroplethLayer.replace('fill', 'tick')).innerHTML;
+        layers = [restrictiiLayer, choroplethLayer]
+        for (i in layers) {
+            clickedLayer = layers[i]
+            var link = document.getElementById(clickedLayer);
+            link.textContent = restric[lang][i];
+            titles = {
+                'EN': 'Toggle colors between Scenarios and Incidence rate',
+                'RO': 'Schimbă culorile între Scenariu și Rata de incidență',
+                'HU': 'Színezés a Forgatókönv vagy Fertőzötsségi arány szerint'
+            }
+
+            link.title = titles[lang]
+        }
+
+        //         document.getElementById('restrictii-fill').style.backgroundColor=((theme=='dark')?dark:light)+' !important;'
+        //         document.getElementById('choropleth-fill').style.backgroundColor=((theme=='dark')?dark:light)+' !important;'
+        //         document.getElementById('restrictii-tick').style.backgroundColor=((theme=='dark')?dark:light)+' !important;'
+        //         document.getElementById('choropleth-tick').style.backgroundColor=((theme=='dark')?dark:light)+' !important;'
+        //         document.getElementById('restrictii-fill').style.color=((theme=='dark')?axdark:axlight)+' !important;'
+        //         document.getElementById('choropleth-fill').style.color=((theme=='dark')?axdark:axlight)+' !important;'
+        //         document.getElementById('restrictii-tick').style.color=((theme=='dark')?axdark:axlight)+' !important;'
+        //         document.getElementById('choropleth-tick').style.color=((theme=='dark')?axdark:axlight)+' !important;'
+
+        map.on('idle', function() {
+
+            var link = document.getElementById('controls');
+            link.onclick = function(e) {
+
+                e.preventDefault();
+                e.stopPropagation();
+
+                var visibility = map.getLayoutProperty(
+                    restrictiiLayer,
+                    'visibility'
+                );
+
+                // Toggle layer visibility by changing the layout object's visibility property.
+                if (visibility === 'visible') {
+                    map.setLayoutProperty(
+                        restrictiiLayer,
+                        'visibility',
+                        'none'
+                    );
+                    map.setLayoutProperty(
+                        restrictiiLayer.replace('fill', 'stroke'),
+                        'visibility',
+                        'none'
+                    );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer,
+                    //     'visibility',
+                    //     'visible'
+                    // );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer.replace('fill', 'stroke'),
+                    //     'visibility',
+                    //     'visible'
+                    // );
+                    document.getElementById(restrictiiLayer.replace('fill', 'tick')).innerHTML = ''
+                    document.getElementById(choroplethLayer.replace('fill', 'tick')).innerHTML = s
+                    this.className = '';
+                } else {
+                    this.className = 'active';
+                    map.setLayoutProperty(
+                        restrictiiLayer,
+                        'visibility',
+                        'visible'
+                    );
+                    map.setLayoutProperty(
+                        restrictiiLayer.replace('fill', 'stroke'),
+                        'visibility',
+                        'visible'
+                    );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer,
+                    //     'visibility',
+                    //     'none'
+                    // );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer.replace('fill', 'stroke'),
+                    //     'visibility',
+                    //     'none'
+                    // );
+                    document.getElementById(restrictiiLayer.replace('fill', 'tick')).innerHTML = s
+                    document.getElementById(choroplethLayer.replace('fill', 'tick')).innerHTML = ''
+                }
+
+            }
+
+        })
+    </script>
+
+</body>
+
+</html>

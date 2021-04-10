@@ -1,304 +1,559 @@
-
 <!doctype html>
-<html>
-
-<head>
+<ht2021-01-03>
     <meta charset="utf-8">
     <script src="//d3plus.org/js/d3plus-geomap.v0.6.full.min.js"></script>
-<!--     <script src="d3plus-geomap.v0.6.full.js"></script> -->
+    <!--     <script src="d3plus-geomap.v0.6.full.js"></script> -->
     <style>
         @import url(//fonts.googleapis.com/css?family=Coda:400,700);
-
         body {
             margin: 0;
             overflow: hidden;
             background: none;
         }
-        div, text {
+        
+        div,
+        text {
             font-family: "Coda" !important;
         }
+        
         text {
-            font-size:12px !important;
+            font-size: 12px !important;
         }
+        
         .d3plus-viz-title text {
-            font-size:14px !important;
+            font-size: 14px !important;
         }
-        #mybutton{
-            position:fixed;
-            top:25px;
-            right:32px;
-            
+        
+        #mybutton {
+            position: fixed;
+            top: 26px;
+            right: 32px;
         }
-        #mybutton2{
-            position:fixed;
-            top:55px;
-            right:32px;
+        
+        #mybutton2 {
+            position: fixed;
+            top: 51px;
+            right: 32px;
         }
-        #myswitch{
-            position:fixed;
-            top:32px;
-            right:0px;
-            
+        
+        #mybutton3 {
+            position: fixed;
+            top: 76px;
+            right: 32px;
         }
-        #myswitch2{
-            position:fixed;
-            top:57px;
-            right:0px;
+        
+        #myswitch {
+            position: fixed;
+            top: 32px;
+            right: 0px;
         }
-        .mbutton{
-            z-index:999;
-            text-align:right;
-            width:120px;
-            height:25px;
-            padding:5px;
+        
+        #myswitch2 {
+            position: fixed;
+            top: 57px;
+            right: 0px;
+        }
+        
+        #myswitch3 {
+            position: fixed;
+            top: 82px;
+            right: 0px;
+        }
+        
+        #mytitle {
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            text-align: center;
+            font-size: 12px;
+            visibility: hidden;
+        }
+        
+        .mbutton {
+            z-index: 999;
+            text-align: right;
+            width: 120px;
+            height: 25px;
+            padding: 5px;
             white-space: nowrap;
-            overflow:hidden;
-            font-size:12px !important;
+            overflow: hidden;
+            font-size: 12px !important;
         }
+        
         .switch {
-/*   position: relative;
-  display: inline-block; */
-            z-index:999;
-  width: 30px;
-  height: 17px;
-}
-
-.switch input { 
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-.slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0,0,0,0.2);
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-.slider:before {
-  position: absolute;
-  content: "";
-  height: 12px;
-  width: 12px;
-  left: 2px;
-  bottom: 2px;
-  background-color: lightGray;
-  -webkit-transition: .4s;
-  transition: .4s;
-}
-
-input:checked + .slider {
-  background-color: #1560b5;
-}
-
-input:focus + .slider {
-  box-shadow: 0 0 4px #1560b5;
-}
-
-input:checked + .slider:before {
-  -webkit-transform: translateX(13px);
-  -ms-transform: translateX(13px);
-  transform: translateX(13px);
-}
-
-/* Rounded sliders */
-.slider.round {
-  border-radius: 24px;
-}
-
-.slider.round:before {
-  border-radius: 50%;
-}
+            z-index: 999;
+            width: 30px;
+            height: 17px;
+        }
+        
+        .switch input {
+            opacity: 0;
+            width: 0;
+            height: 0;
+        }
+        
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.2);
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+        
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 12px;
+            width: 12px;
+            left: 2px;
+            bottom: 2px;
+            background-color: lightGray;
+            -webkit-transition: .4s;
+            transition: .4s;
+        }
+        
+        input:checked+.slider {
+            background-color: #1560b5;
+        }
+        
+        input:focus+.slider {
+            box-shadow: 0 0 4px #1560b5;
+        }
+        
+        input:checked+.slider:before {
+            -webkit-transform: translateX(13px);
+            -ms-transform: translateX(13px);
+            transform: translateX(13px);
+        }
+        /* Rounded sliders */
+        
+        .slider.round {
+            border-radius: 24px;
+        }
+        
+        .slider.round:before {
+            border-radius: 50%;
+        }
+        
+        #myviz {
+            height: 110%;
+            width: 100%;
+        }
+        :root {
+          --bg: #6495ed;
+          --font: #faf0e6;
+        }
+        .d3plus-tooltip {
+            background-color:var(--bg) !important;
+            color:var(--font);
+        }
     </style>
 </head>
 
 <body>
+    <div id='myviz'></div>
     <div id='mybutton' class='mbutton'></div>
     <div id='mybutton2' class='mbutton'></div>
+    <div id='mybutton3' class='mbutton'></div>
+    <div id='mytitle'></div>
 
-<label class="switch" id='myswitch' onclick='renderer();'>
+    <label class="switch" id='myswitch' onclick='renderer();'>
   <input type="checkbox" checked>
   <span class="slider round"></span>
 </label>
 
-<label class="switch" id='myswitch2' onclick='renderer();'>
+    <label class="switch" id='myswitch2' onclick='renderer();'>
   <input type="checkbox" checked>
   <span class="slider round" ></span>
 </label>
-        </body>
+    <label class="switch" id='myswitch3' onclick='renderer();'>
+  <input type="checkbox" checked>
+  <span class="slider round" ></span>
+</label>
+</body>
 <script>
-
     var county = 'county';
     var hash = window.location.hash.slice(1);
-    var lang = hash.slice(0,hash.search('&'));
-    var theme = hash.slice(hash.search('&')+1);
-    var dark='#243b55';
-    var light='#abcaee';
-    var axdark='lightGray';
-    var axlight='#52545c';
+    var lang = hash.slice(0, hash.search('&'));
+    var theme = hash.slice(hash.search('&') + 1);
+    var dark = '#243b55';
+    var light = '#abcaee';
+    var axdark = 'lightGray';
+    var axlight = '#52545c';
+    document.documentElement.style.setProperty("--bg", (theme=='dark')?dark:light);
+    document.documentElement.style.setProperty("--font", (theme=='dark')?axdark:axlight);
 
-//     var colors = ['darkRed', 'crimson', 'orange', 'gold', 'seaGreen', 'royalBlue']
-//     var colors = ['darkRed', 'crimson', 'orange', 'gold','lavender','seaGreen','royalBlue','royalBlue','midnightBlue','midnightBlue','midnightBlue','midnightBlue']
+    var colors3 = ['seaGreen', 'gold', 'orange', 'crimson', 'crimson', 'darkred', 
+                   'darkred', 'darkred','darkred', 'darkred', 'darkred','#3E2723', '#3E2723']
+    // var colors3 = ['#96D98D', '#F2CC0C', '#F2CC0C', '#F2CC0C', '#E02F44']
+    var months = {
+        1: {
+            'HU': 'Jan',
+            'RO': 'Ian',
+            'EN': 'Jan'
+        },
+        2: {
+            'HU': 'Feb',
+            'RO': 'Feb',
+            'EN': 'Feb'
+        },
+        3: {
+            'HU': 'Már',
+            'RO': 'Mar',
+            'EN': 'Mar'
+        },
+        4: {
+            'HU': 'Ápr',
+            'RO': 'Apr',
+            'EN': 'Apr'
+        },
+        5: {
+            'HU': 'Máj',
+            'RO': 'Mai',
+            'EN': 'May'
+        },
+        6: {
+            'HU': 'Jún',
+            'RO': 'Iun',
+            'EN': 'Jun'
+        },
+        7: {
+            'HU': 'Júl',
+            'RO': 'Iul',
+            'EN': 'Jul'
+        },
+        8: {
+            'HU': 'Aug',
+            'RO': 'Aug',
+            'EN': 'Aug'
+        },
+        9: {
+            'HU': 'Sze',
+            'RO': 'Sep',
+            'EN': 'Sep'
+        },
+        10: {
+            'HU': 'Okt',
+            'RO': 'Oct',
+            'EN': 'Oct'
+        },
+        11: {
+            'HU': 'Nov',
+            'RO': 'Noi',
+            'EN': 'Nov'
+        },
+        12: {
+            'HU': 'Dec',
+            'RO': 'Dec',
+            'EN': 'Dec'
+        }
+    }
+    var ticks = {
+        '120-2-23': '23',
+        '120-3-1': months[3][lang] + ' 1',
+        '120-3-8': '8',
+        '120-3-15': '15',
+        '120-3-22': '22',
+        '120-3-29': '29',
+        '120-4-5': months[4][lang] + ' 5',
+        '120-4-12': '12',
+        '120-4-19': '19',
+        '120-4-26': '26',
+        '120-5-3': months[5][lang] + ' 3',
+        '120-5-10': '10',
+        '120-5-17': '17',
+        '120-5-24': '24',
+        '120-5-31': '31',
+        '120-6-7': months[6][lang] + ' 7',
+        '120-6-14': '14',
+        '120-6-21': '21',
+        '120-6-28': '28',
+        '120-7-5': months[7][lang] + ' 5',
+        '120-7-12': '12',
+        '120-7-19': '19',
+        '120-7-26': '26',
+        '120-8-2': months[8][lang] + ' 2',
+        '120-8-9': '9',
+        '120-8-16': '16',
+        '120-8-23': '23',
+        '120-8-30': '30',
+        '120-9-6': months[9][lang] + ' 6',
+        '120-9-13': '13',
+        '120-9-20': '20',
+        '120-9-27': '27',
+        '120-10-4': months[10][lang] + ' 4',
+        '120-10-11':'11',
+        '120-10-18':'18',
+        '120-10-25':'25',
+        '120-11-1': months[11][lang] + ' 1',
+        '120-11-8':'8',
+        '120-11-15':'15',
+        '120-11-22':'22',
+        '120-11-29':'29',
+        '120-12-6': months[12][lang] + ' 6',
+        '120-12-13':'13',
+        '120-12-20':'20',
+        '120-12-27':'27',
+        '121-1-1': '2021',
+        '121-1-3': months[1][lang] + ' 3',
+        '121-1-10':'10',
+        '121-1-17':'17',
+        '121-1-24':'24',
+        '121-1-31':'31',
+        '121-2-7': months[2][lang] + ' 7',
+        '121-2-14':'14',
+        '121-2-21':'21',
+        '121-2-28':'28',
+        '121-3-7': months[3][lang] + ' 7',
+        '121-3-14':'14',
+        '121-3-21':'21',
+        '121-3-28':'28',
+        '121-4-4': months[4][lang] + ' 4',
+        '121-4-11':'14',
+        '121-4-18':'21',
+        '121-4-25':'25',
+    }
+
+    var maxes = {
+        'cases': 0,
+        'case_a': 0,
+        'case_cap': 0,
+        'case_cap_a': 0
+    }
     
-    var months={3:{'HU':'Már','RO':'Mar','EN':'Mar'},4:{'HU':'Ápr','RO':'Apr','EN':'Apr'},
-               5:{'HU':'Máj','RO':'Mai','EN':'May'},6:{'HU':'Jún','RO':'Iun','EN':'Jun'},
-                7:{'HU':'Júl','RO':'Iul','EN':'Jul'},8:{'HU':'Aug','RO':'Aug','EN':'Aug'}}
-    var ticks={'2-23':'23',
-               '3-1':months[3][lang]+' 1','3-8':'8','3-15':'15','3-22':'22','3-29':'29',
-             '4-5':months[4][lang]+' 5','4-12':'12','4-19':'19','4-26':'26',
-             '5-3':months[5][lang]+' 3','5-10':'10','5-17':'17','5-24':'24','5-31':'31',
-              '6-7':months[6][lang]+' 7','6-14':'14','6-21':'21','6-28':'28',
-              '7-5':months[7][lang]+' 5','7-12':'12','7-19':'19','7-26':'26',
-              '8-2':months[8][lang]+' 2','8-10':'10','8-17':'17','8-25':'25'}
-    
-    var maxes={'cases':0,'case_a':0,'case_cap':0,'case_cap_a':0}
+    var today = new Date();
+    var dd = String(today.getDate()).padStart(2, '0');
+    var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
+    var yyyy = today.getFullYear();
+
+    today = yyyy + '-' + mm + '-' + dd;
+    console.log(today,'daily/county2b_' + today+ '_'+lang + '.json')
+
     var chart = new d3plus.Geomap()
-        .data('county2b_' + lang + '.json')
+//         .data('daily/county2b_' + today+ '_'+lang + '.json',
+        .data('daily/county2b_' + '2021-04-07' + '_'+lang + '.json',
+             function(d){
+//                 console.log(d)
+            return d
+        })
         .colorScaleConfig({
             axisConfig: {
                 barConfig: {
-                    stroke: (theme=='dark')?axdark:axlight
+                    stroke: (theme == 'dark') ? axdark : axlight
                 },
                 shapeConfig: {
                     labelConfig: {
-                        fontColor: (theme=='dark')?axdark:axlight
+                        fontColor: (theme == 'dark') ? axdark : axlight
                     },
-                    stroke: (theme=='dark')?axdark:axlight
-                }
+                    stroke: (theme == 'dark') ? axdark : axlight
+                },
+//                 domain:[0,3]
+            },
+            labelConfig: {
+                fontColor: (theme == 'dark') ? axdark : axlight
             }
         })
         .time('date')
         .timelineConfig({
-            buttonBehavior:"ticks",
-//             brushing:true,
-            scale:'linear',
-            tickFormat:function(ms) {
-                week=(new Date(ms).getMonth()+1)+'-'+new Date(ms).getDate();
+            buttonBehavior: "ticks",
+            render:titles,
+            // brushing:true,
+            scale: 'linear',
+            tickFormat: function(ms) {
+                week=new Date(ms).getYear()+'-'+(new Date(ms).getMonth()+1)+'-'+new Date(ms).getDate();
                 return ticks[week];
-              },
+            },
             barConfig: {
-                stroke: (theme=='dark')?axdark:axlight
+                stroke: (theme == 'dark') ? axdark : axlight
             },
             shapeConfig: {
                 labelConfig: {
-                    fontColor: (theme=='dark')?axdark:axlight
+                    fontColor: (theme == 'dark') ? axdark : axlight
                 },
-                stroke: (theme=='dark')?axdark:axlight
+                stroke: (theme == 'dark') ? axdark : axlight
             },
             handleConfig: {
-                fill: (theme=='dark')?axdark:axlight,
-                stroke: (theme=='dark')?axdark:axlight
-            }
+                fill: (theme == 'dark') ? axdark : axlight,
+                stroke: (theme == 'dark') ? axdark : axlight
+            },
+            maxSize: 45
         })
         .zoom(false)
         .tiles(false)
+        .detectVisible(false)
         .ocean("transparent")
         .loadingMessage(false)
-  .config({
-    
-    shapeConfig: {
-        labelConfig: {
-//                 fontWeight:'bold',
-    //             fontSize:function(d){return Math.max(12,Math.min(25,(d['price']-800)/30))},
-                fontMin:1,
-                fontMax:18,
-                fontResize:true,
-                padding:"0 0 0 0"
+        .config({
+            shapeConfig: {
+                labelConfig: {
+                    fontMin: 1,
+                    fontMax: 18,
+                    fontResize: true,
+                    padding: "0 0 0 0"
+                }
             }
-    }
-  })
-        
+        })
 
-    chart.topojson("romania-counties.json", function (map) {
-        map['objects']['ROU_adm1']['geometries'].forEach(function (d, i) {
+
+    chart.topojson("romania-counties.json", function(map) {
+        map['objects']['ROU_adm1']['geometries'].forEach(function(d, i) {
             d['id'] = i + 1
         })
         return map
     })
-    
-       
-    var options={
-        'HU':{'1':'Esetek / 1000 fő','2':'Új esetek'},
-        'RO':{'1':'Cazuri / 1000 locuitori','2':'Cazuri noi'},
-        'EN':{'1':'Cases / 1000 people','2':'New cases'},
-    }
-    
-    var total={
-        'HU':{'0':'Összes eset','1':'Új esetek'},
-        'RO':{'0':'Total cazuri','1':'Cazuri noi'},
-        'EN':{'0':'Total cases','1':'New cases'},
+
+    var options = {
+        'HU': {
+            '1': 'Esetek / 1000 fő',
+            '2': 'Utolsó 14 nap',
+            '3': '3 szín'
+        },
+        'RO': {
+            '1': 'Cazuri / 1000 locuitori',
+            '2': 'Ultimele 14 zile',
+            '3': '3 culori'
+        },
+        'EN': {
+            '1': 'Cases / 1000 people',
+            '2': 'Last 14 days',
+            '3': '3 colors'
+        },
     }
 
-    function renderer(){
-        
-        option=String((document.querySelector("#myswitch").children[0].checked)?1:0)+''+
-        String((document.querySelector("#myswitch2").children[0].checked)?1:0)
-        if (option=='00') {
+    var total = {
+        'HU': {
+            '0': 'Összes eset',
+            '1': 'Utolsó 14 nap új esetei'
+        },
+        'RO': {
+            '0': 'Total cazuri',
+            '1': 'Cazuri noi din ultimele 14 zile'
+        },
+        'EN': {
+            '0': 'Total cases',
+            '1': 'New cases form the last 14 days'
+        },
+    }
+
+    var titlesMin = {
+        'HU': 'zöld zóna ≤ 1 ',
+        'RO': 'zonă verde ≤ 1 ',
+        'EN': 'green zone ≤ 1 '
+    }
+    var titlesMax = {
+        'HU': ' > 3 vörös zóna',
+        'RO': ' > 3 zonă roșie',
+        'EN': ' > 3 red zone'
+    }
+    var titles = {
+        'HU': '🟢 ‰ ≤1 zöld zóna 🟡 1< ‰ ≤3 sárga zóna 🔴 ‰ >3 vörös zóna',
+        'RO': '🟢 ‰ ≤1 zonă verde 🟡 1< ‰ ≤3 zonă galbenă 🔴 ‰ >3 zonă roșie',
+        'EN': '🟢 ‰ ≤1 green zone 🟡 1< ‰ ≤3 yellow zone 🔴 ‰ >3 red zone'
+    }
+
+    function renderer() {
+
+        option = String((document.querySelector("#myswitch").children[0].checked) ? 1 : 0) + '' +
+            String((document.querySelector("#myswitch2").children[0].checked) ? 1 : 0)
+        document.querySelector("#myswitch3").children[0].checked = ((option == '11') ? document.querySelector("#myswitch3").children[0].checked : false)
+        color3 = (document.querySelector("#myswitch3").children[0].checked) ? 1 : 0
+
+        var colors = ['#C0D8FF', '#FFF899', 'darkorange', 'crimson', 'darkred', 'darkred', '#460000', '#460000']
+        var label = ''
+        var k = 10
+
+        if (option == '00') {
             var value = 'cases';
-            var colors = ['#C0D8FF','#FFF899','darkorange','crimson','crimson','darkred','darkred','#460000','#460000','#460000']
-            var label=''
-            var k=1
+            var colors = ['#C0D8FF', '#FFF899', 'darkorange', 'crimson','darkred', 'darkred', 'darkred', '#460000', '#460000', '#460000', '#460000']
+            var k = 1
         }
-        if (option=='01') {
-            var value = 'case_a';
-            var colors = ['#C0D8FF','#FFF899','darkorange','crimson','darkred','darkred','#460000','#460000']
-            var label=''
-            var k=10
+        if (option == '01') {
+            var value = 'case_14';
+            var colors = ['#C0D8FF', '#FFF899', 'darkorange', 'crimson', 'darkred', 'darkred', 'darkred', '#460000','#460000','#460000']
         }
-        if (option=='10') {
+        if (option == '10') {
             var value = 'case_cap';
-            var colors = ['#C0D8FF','#FFF899','darkorange','crimson','darkred','darkred','#460000','#460000']
-            var label=' ‰'
-            var k=10
+            var colors = ['#C0D8FF', '#FFF899', 'darkorange', 'crimson', 'darkred', '#460000']
+            var label = ' ‰'
         }
-        if (option=='11') {
-            var value = 'case_cap_a';
-            var colors = ['#C0D8FF','#FFF899','darkorange','crimson','darkred','darkred','#460000','#460000']
-            var label=' ‰'
-            var k=10
+        if (option == '11') {
+            var value = 'case_14_cap';
+            var colors = ['#C0D8FF', '#FFF899', 'darkorange', 'crimson', 'darkred', '#460000']
+            var label = ' ‰'
         }
         chart
-            .colorScale(value)
+            .label(d => d[county] + ' 😐 ' + Math.round(d[value] * k) / k + label)
+            .colorScale(color3 ? (function(d) {
+                return Math.max(0, Math.floor(d[value]))
+            }) : value)
             .colorScaleConfig({
-                color: colors,
+                color: (color3 ? colors3 : colors),
+                axisConfig: {
+                    tickFormat: function(d) {
+                        return d + label;
+                    },
+                },
+                labelMax: color3 ? titlesMax[lang] : false,
+                labelMin: color3 ? titlesMin[lang] : false
             })
-            .label(d => d[county] + ' 😐 ' + Math.round(d[value]*k)/k+label)
-            .colorScaleConfig({
-                    axisConfig: {
-                        tickFormat: function (d) {
-                            return d+label;
-                        }
+            // .title(color3 ?
+            //     titles[lang] :
+            //     total[lang][option.slice(1, 2)] + ((option.slice(0, 1) == '0') ? '' : options[lang]['1'].slice(options[lang]['1'].search(' /'))))
+            .title(total[lang][option.slice(1, 2)] + ((option.slice(0, 1) == '0') ? '' : options[lang]['1'].slice(options[lang]['1'].search(' /'))))
+            .titleConfig({
+                padding: '8 0 0 0',
+                fontColor: (theme == 'dark') ? axdark : axlight
+            })
+            .shapeConfig({
+                label: function(d) {
+                    if (color3) {
+//                         console.log(Math.min(chart.height(),chart.width()))
+                        return Math.max(0, Math.floor(d[value]))>0 ? (Math.min(chart.height(),chart.width())>600)?d['county']:d['iso'] : ''
+                    } else {
+                        return d[value + '_display'] ? d['county'] : ''
                     }
+                }
             })
-        .title(total[lang][option.slice(1,2)]+((option.slice(0,1)=='0')?'':options[lang]['1'].slice(options[lang]['1'].search(' /'))))
-        .titleConfig({
-//                 fontWeight:'bold',
-            padding: '3 0 0 0',
-            fontColor: (theme=='dark')?axdark:axlight
-        }     ) 
-        .shapeConfig({
-      label:function(d){
-            return d[value+'_display']?d['county']:''
-        }})
-            .render();
+            // .render();
+
+        // document.querySelector("#mytitle").style.visibility = (color3 ? 'visible' : 'hidden');
+        document.querySelector("#mybutton3").style.visibility = ((option == '11') ? 'visible' : 'hidden');
+        document.querySelector("#myswitch3").style.visibility = ((option == '11') ? 'visible' : 'hidden');
+
+        setTimeout(function(){
+            chart.render();
+        },400)
+        
     }
     renderer();
     
- 
+    var la={'HU':', 📅 ','RO':', la data de 📅 ','EN':', on 📅 '}
+    var now=''
     
-    var b1=document.querySelector("#mybutton")  
+    function titles(){
+        now=chart._timelineSelection[0];
+        titlestring=total[lang][option.slice(1, 2)] + ((option.slice(0, 1) == '0') ? '' : options[lang]['1'].slice(options[lang]['1'].search(' /')))+la[lang]+now.toLocaleDateString(lang,{'month':'long','day':'numeric'})
+//         console.log(titlestring,now)
+        document.querySelector("#d3plus-textBox-0").querySelector("text").innerHTML=titlestring
+    }
+
+    var b1 = document.querySelector("#mybutton")
     b1.innerHTML = options[lang]['1']
-    b1.style.color=(theme=='dark')?axdark:axlight
-    var b2=document.querySelector("#mybutton2")  
+    b1.style.color = (theme == 'dark') ? axdark : axlight
+    var b2 = document.querySelector("#mybutton2")
     b2.innerHTML = options[lang]['2']
-    b2.style.color=(theme=='dark')?axdark:axlight
-    
+    b2.style.color = (theme == 'dark') ? axdark : axlight
+    var b3 = document.querySelector("#mybutton3")
+    b3.innerHTML = options[lang]['3']
+    b3.style.color = (theme == 'dark') ? axdark : axlight
+    var t = document.querySelector("#mytitle")
+    t.innerHTML = titles[lang]
+    t.style.color = (theme == 'dark') ? axdark : axlight
 </script>
 
 </html>

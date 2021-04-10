@@ -21,10 +21,31 @@
         div,
         text {
             font-family: "Coda" !important;
+/*             font-size:12px !important; */
         }
 
-        .d3plus_tooltip_data_container .d3plus_tooltip_data_block:nth-child(5) {
+        .d3plus_tooltip_data_container .d3plus_tooltip_data_block:nth-child(7) {
             display: none;
+        }
+        .d3plus_node {
+            font-size:12px !important;
+            border-color:grey !important;
+            color:black !important;
+            padding-left:5px !important;
+            padding-right:5px !important;
+        }
+        .d3plus_tooltip_description, .d3plus_tooltip_header{
+            font-weight:bold;
+        }
+        :root {
+          --bg: #6495ed;
+          --font: #faf0e6;
+        }
+        .d3plus_tooltip_data_block {
+            color:var(--font)  !important;
+        }
+        .d3plus_tooltip_data_block a {
+            color:var(--font)  !important;
         }
     </style>
 </head>
@@ -39,20 +60,31 @@
     var light='#abcaee';
     var axdark='lightGray';
     var axlight='#52545c';
+    document.documentElement.style.setProperty("--bg", (theme=='dark')?dark:light);
+    document.documentElement.style.setProperty("--font", (theme=='dark')?axdark:axlight);
+    var first = true;
+    var visualization ;
 
-    d3.json("matrix_label.json", function (error, label) {
+    d3.json("matrix_label_dt2.json", function (error, label) {
         // console.log(label, label['x'][lang])
-        d3.json("matrix_" + lang + ".json", function (error, data) {
-            // console.log(data, error)
+        d3.json("matrix_dt2_" + lang + ".json", function (error, data) {
+//             console.log(data, error)
             x = label['x'][lang];
             y = label['y'][lang];
             c = ' ';
+            t='q'
             data.forEach(function (d) {
                 d[x] = d['x'];
-                d[y] = d['y'];
-                d[c] = Math.round(d['c'], 1);
+                //d[y] = d['q1'];
+                d[c] = Math.round(d['c3'], 1);
             })
-            var visualization = d3plus.viz()
+            
+             function render(){
+            d3.select("#viz").remove();
+            d3.select('body').append('div').attr('id','viz')
+        
+      
+            visualization = d3plus.viz()
                 .container("#viz")     // container DIV to hold the visualization
                 .data(data)     // data to use with the visualization
                 .type("scatter")       // visualization type
@@ -68,13 +100,33 @@
                     'axis': { 'color': (theme=='dark')?dark:light }
                 })         // key name to size bubbles
                 .y({
-                    "value": y,
+                    "value": 'q3',
                     'label': { 'value': y, 'padding': 30 },
                     'grid': { 'color': (theme=='dark')?dark:light },
                     'ticks': { 'color': (theme=='dark')?dark:light },
-                    'axis': { 'color': (theme=='dark')?axdark:axlight }
+                    'axis': { 'color': (theme=='dark')?axdark:axlight },
+                'callback':function(d){
+                    visualization
+                    .color('c'+d.slice(-1)) 
+                }
                 })         // key name to size bubbles
                 .color(c)        // color by each group
+//                 .mouse({'click':function(d){
+//                     console.log(d)
+//                 }})
+                .ui([{"method":
+                      'y' ,
+//                       function (value) {
+//                         visualization
+//                         .y(value)
+//                     .color('c'+value.slice(-1))    
+//                     //.y({ "label": v3 })
+// //                     .tooltip([x, value])
+//                         .draw();
+                        
+                        "value": [{ "Q2 vs Q1": "q2" },{ "Q3 vs Q2": "q3" }],
+                        "label": " "
+                    }])
                 .format({
                     'number': function (d) {
                         return d + ' %';
@@ -82,12 +134,44 @@
                 })
                 .font({ "family": "Coda", "size": 14, "align": "center", "secondary": { "family": "Coda" }, 'color': (theme=='dark')?axdark:axlight })
                 .legend(false)
-                .tooltip([x, y])
+                .tooltip({'value':[x, 'q2','q3'],'background':(theme=='dark')?dark:light,'font':{'color':(theme=='dark')?axdark:axlight}})
                 .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
-                .draw()                // finally, draw the visualization!
+//                 .draw(clicker)                // finally, draw the visualization!
+                .draw()
+            
+            }
+            render();
+            var resizeTimer;
+            window.addEventListener("resize", function(){
+              clearTimeout(resizeTimer);
+              resizeTimer = setTimeout(function() {
+                render()
+              }, 250);
+            })
         })
     })
-
+    
+    function clicker(){
+    if (first) {
+        console.log('first run')
+        first=false;
+    setTimeout(function(){
+//         d3.select(d3.selectAll('.d3plus_button_element')[0][1]).attr('id','clickaroo');
+//         setTimeout(function(){
+//             var clickaroo = document.getElementById('clickaroo');
+//             clickaroo.click();
+//         },1000)
+        d3.select(d3.selectAll('.d3plus_button_element')[0][1]).node().click();
+    },1000)
+    }
+    }
+//     clicker();
+    
+//     setTimeout(function(){
+//         d3.select(d3.selectAll('.d3plus_node')[0][0]).attr('class','d3plus_node')
+//         d3.select(d3.selectAll('.d3plus_node')[0][1]).attr('class','d3plus_node d3plus_button_active')
+//     },2000)
+    
 </script>
 
 </html>

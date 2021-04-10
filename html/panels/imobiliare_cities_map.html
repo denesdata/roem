@@ -16,8 +16,14 @@
         div, text {
             font-family: "Coda" !important;
         }
+        :root {
+          --bg: #6495ed;
+          --font: #faf0e6;
+        }
         .d3plus-viz-colorScale text, .d3plus-viz-timeline text, .d3plus-tooltip {
             font-size:12px !important;
+            background-color:var(--bg) !important;
+            color:var(--font);
         }
     </style>
 </head>
@@ -33,9 +39,14 @@
     var lang = hash.slice(0,hash.search('&'));
     var theme = hash.slice(hash.search('&')+1);
     var dark='#243b55';
+    var dark2='#141e30';
     var light='#abcaee';
+    var light2='#ecf2ff';
     var axdark='lightGray';
     var axlight='#52545c';
+    document.documentElement.style.setProperty("--bg", (theme=='dark')?dark2:light2);
+    document.documentElement.style.setProperty("--font", (theme=='dark')?axdark:axlight);
+
 
     // var colors = ['darkRed', 'crimson', 'orange', 'gold', 'seaGreen', 'royalBlue']
     var colors = ['gold','darkorange','crimson','darkred','darkred']
@@ -43,7 +54,9 @@
                 1:{'HU':'Január','RO':'Ianuarie','EN':'January'},2:{'HU':'Február','RO':'Februarie','EN':'February'},
                 3:{'HU':'Március','RO':'Martie','EN':'March'},4:{'HU':'Április','RO':'Aprilie','EN':'April'},
                5:{'HU':'Május','RO':'Mai','EN':'May'},6:{'HU':'Június','RO':'Iunie','EN':'June'},
-                7:{'HU':'Július','RO':'Iulie','EN':'July'},8:{'HU':'Augusztus','RO':'August','EN':'August'}}
+                7:{'HU':'Július','RO':'Iulie','EN':'July'},8:{'HU':'Augusztus','RO':'August','EN':'August'},
+               9:{'HU':'Szeptember','RO':'Septembrie','EN':'September'},10:{'HU':'Október','RO':'Octombrie','EN':'October'},
+               11:{'HU':'November','RO':'Noiembrie','EN':'November'}}
     var ticks={'119-11-30':'2008 '+months[6][lang].slice(0,3)+' 30',
                '119-12-31':'2019 '+months[12][lang].slice(0,3)+' 31',
                '120-1-31':'2020 '+months[1][lang].slice(0,3)+' 31',
@@ -51,10 +64,21 @@
                 '120-3-31':' '+months[3][lang].slice(0,3)+' 31',
                 '120-4-30':' '+months[4][lang].slice(0,3)+' 30',
                 '120-5-31':' '+months[5][lang].slice(0,3)+' 31',
-               '120-6-30':' '+months[6][lang].slice(0,3)+' 30'}
+               '120-6-30':' '+months[6][lang].slice(0,3)+' 30',
+              '120-7-31':' '+months[7][lang].slice(0,3)+' 31',
+              '120-8-31':' '+months[8][lang].slice(0,3)+' 31',
+              '120-9-30':' '+months[9][lang].slice(0,3)+' 30',
+              '120-10-31':' '+months[10][lang].slice(0,3)+' 31',
+              '120-11-30':' '+months[11][lang].slice(0,3)+' 30',
+              '120-12-31':' '+months[12][lang].slice(0,3)+' 31',
+              '121-1-31':'2021 '+months[1][lang].slice(0,3)+' 31',
+              '121-2-28':' '+months[2][lang].slice(0,3)+' 28',
+              '121-3-31':' '+months[3][lang].slice(0,3)+' 31',
+              '121-4-30':' '+months[4][lang].slice(0,3)+' 30'}
+    var la={'HU':'📅 ','RO':'📅 la data de ','EN':'📅 on '}
     var chart = new d3plus.Geomap()
     
-    chart.data('county4c_' + lang + '.json')
+    chart.data('county4c_202102' + lang + '.json')
     .groupBy('county')
     .label(function(d) { return 'f' })
     .colorScale(color)
@@ -77,6 +101,7 @@
         })
         .time('date')
         .timelineConfig({
+            render:titles,
             buttonBehavior:"ticks",
             scale:'linear',
             tickFormat:function(ms) {
@@ -98,7 +123,13 @@
             }
         })
         .zoom(false)
+    .detectVisible(false)
         .tiles(false)
+    .title(la[lang])
+    .titleConfig({
+                fontColor: (theme == 'dark') ? axdark : axlight
+            })
+        
         .point(function(d) {
             return [d['lon'], d['lat']];
           })
@@ -141,6 +172,12 @@
     })
 
     chart.render();
+    function titles(){
+        now=chart._timelineSelection[0];
+        titlestring=la[lang]+now.toLocaleDateString(lang,{'month':'long','day':'numeric'})
+        console.log(titlestring)
+        document.querySelector("#d3plus-textBox-0").querySelector("text").innerHTML=titlestring
+    }
 </script>
 
 </html>

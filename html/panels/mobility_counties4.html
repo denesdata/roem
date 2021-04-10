@@ -1,0 +1,200 @@
+
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <script src="//d3plus.org/js/d3plus-geomap.v0.6.full.min.js"></script>
+<!--     <script src="d3plus-geomap.v0.6.full.js"></script> -->
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+        div, text {
+            font-family: "Coda" !important;
+        }
+        text {
+            font-size:12px !important;
+        }
+        :root {
+          --bg: #6495ed;
+          --font: #faf0e6;
+        }
+        .d3plus-tooltip {
+            background-color:var(--bg) !important;
+            color:var(--font);
+        }
+    </style>
+</head>
+
+<body></body>
+<script>
+
+    var county = 'county';
+    var value = 'value';
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
+    document.documentElement.style.setProperty("--bg", (theme=='dark')?dark:light);
+    document.documentElement.style.setProperty("--font", (theme=='dark')?axdark:axlight);
+
+//     var colors = ['darkRed', 'crimson', 'orange', 'gold', 'seaGreen', 'royalBlue']
+    var colors = ['darkRed', 'crimson', 'orange', 'gold','lavender','#67aa84','seaGreen','royalBlue',
+                  'midnightBlue','midnightBlue','midnightBlue','midnightBlue','midnightBlue','midnightBlue']
+    var months={
+        1:{'HU':'Jan','RO':'Ian','EN':'Jan'},
+        2:{'HU':'Feb','RO':'Feb','EN':'Feb'},
+        3:{'HU':'Már','RO':'Mar','EN':'Mar'},4:{'HU':'Ápr','RO':'Apr','EN':'Apr'},
+               5:{'HU':'Máj','RO':'Mai','EN':'May'},6:{'HU':'Jún','RO':'Iun','EN':'Jun'},
+                7:{'HU':'Júl','RO':'Iul','EN':'Jul'},8:{'HU':'Aug','RO':'Aug','EN':'Aug'},
+        9: {
+            'HU': 'Sze',
+            'RO': 'Sep',
+            'EN': 'Sep'
+        },10: {
+            'HU': 'Okt',
+            'RO': 'Oct',
+            'EN': 'Oct'
+        },11:{'HU':'Nov','RO':'Noi','EN':'Nov'},
+        12: {
+            'HU': 'Dec',
+            'RO': 'Dec',
+            'EN': 'Dec'
+        }}
+    var ticks={'120-2-23':'23',
+               '120-3-1':months[3][lang]+' 1','120-3-8':'8','120-3-15':'15','120-3-22':'22','120-3-29':'29',
+             '120-4-5':months[4][lang]+' 5','120-4-12':'12','120-4-19':'19','120-4-26':'26',
+             '120-5-3':months[5][lang]+' 3','120-5-10':'10','120-5-17':'17','120-5-24':'24','120-5-31':'31',
+              '120-6-7':months[6][lang]+' 7','120-6-14':'14','120-6-21':'21','120-6-28':'28',
+              '120-7-5':months[7][lang]+' 5','120-7-12':'12','120-7-19':'19','120-7-26':'26',
+              '120-8-2':months[8][lang]+' 2','120-8-9':'9','120-8-16':'16','120-8-23':'23','120-8-30':'30',
+        '120-9-6': months[9][lang] + ' 6',
+        '120-9-13': '13',
+        '120-9-20': months[9][lang] + ' 20',
+        '120-9-27': '27',
+        '120-10-4': months[10][lang] + ' 4',
+        '120-10-11':'11',
+        '120-10-18':'18',
+        '120-10-25':'25',
+        '120-11-1': months[11][lang] + ' 1',
+        '120-11-8':'8',
+        '120-11-15':'15',
+        '120-11-22':'22',
+        '120-11-29':'29',
+        '120-12-6': months[12][lang] + ' 6',
+        '120-12-13':'13',
+        '120-12-20':'20',
+        '120-12-27':'27',
+        '121-1-3': '2021 '+months[1][lang] + ' 3',
+        '121-1-10':'10',
+        '121-1-17':'17',
+        '121-1-24':'24',
+        '121-1-31':'31',
+        '121-2-7': months[2][lang] + ' 7',
+        '121-2-14':'14',
+        '121-2-21':'21',
+        '121-2-28':'28',
+        '121-3-7': months[3][lang] + ' 7',
+        '121-3-14':'14',
+        '121-3-21':'21',
+        '121-3-28':'28',
+        '121-4-4':months[4][lang] + ' 4',
+        '121-4-11':'11',
+        '121-4-18':'18',
+        '121-4-25':'25',
+        
+        }
+    var la={'HU':'📅 ','RO':'📅 la data de ','EN':'📅 on '}
+    var chart = new d3plus.Geomap()
+        .data('county3ag_' + lang + '.json')
+        .colorScale(value)
+        .colorScaleConfig({
+            color: colors,
+            axisConfig: {
+                tickFormat: function (d) {
+                    return Math.round(d) + " %";
+                },
+                barConfig: {
+                    stroke: (theme=='dark')?axdark:axlight
+                },
+                shapeConfig: {
+                    labelConfig: {
+                        fontColor: (theme=='dark')?axdark:axlight
+                    },
+                    stroke: (theme=='dark')?axdark:axlight
+                },
+                domain:[-50,100]
+            }
+        })
+        .time('date')
+        .timelineConfig({
+            render:titles,
+            buttonBehavior:"ticks",
+            scale:'linear',
+            tickFormat:function(ms) {
+                week=new Date(ms).getYear()+'-'+(new Date(ms).getMonth()+1)+'-'+new Date(ms).getDate();
+                return ticks[week];
+              },
+            barConfig: {
+                stroke: (theme=='dark')?axdark:axlight
+            },
+            shapeConfig: {
+                labelConfig: {
+                    fontColor: (theme=='dark')?axdark:axlight
+                },
+                stroke: (theme=='dark')?axdark:axlight
+            },
+            handleConfig: {
+                fill: (theme=='dark')?axdark:axlight,
+                stroke: (theme=='dark')?axdark:axlight
+            }
+        })
+        .zoom(false)
+        .tiles(false)
+        .detectVisible(false)
+        .ocean("transparent")
+        .title(la[lang])
+    .titleConfig({
+                fontColor: (theme == 'dark') ? axdark : axlight
+            })
+        .loadingMessage(false)
+        .label(d => d[county] + ' 🚇 ' + d[value] + " %")
+     .shapeConfig({
+      label:function(d){
+            return d[value+'_display']?d['county']:''
+        },
+                labelConfig: {
+//                 fontWeight:'bold',
+    //             fontSize:function(d){return Math.max(12,Math.min(25,(d['price']-800)/30))},
+                fontMin:1,
+                fontMax:18,
+                fontResize:true,
+                padding:"0 0 0 0"
+            }})
+
+    chart.topojson("romania-counties.json", function (map) {
+        map['objects']['ROU_adm1']['geometries'].forEach(function (d, i) {
+            d['id'] = i + 1
+        })
+        return map
+    })
+
+    chart.render();
+    
+    function titles(){
+        now=chart._timelineSelection[0];
+        titlestring=la[lang]+now.toLocaleDateString(lang,{'month':'long','day':'numeric'})
+        console.log(titlestring)
+        document.querySelector("#d3plus-textBox-0").querySelector("text").innerHTML=titlestring
+    }
+</script>
+
+</html>

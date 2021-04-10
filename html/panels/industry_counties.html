@@ -7,7 +7,6 @@
     <script src="//d3plus.org/js/d3plus-geomap.v0.6.full.min.js"></script>
     <style>
         @import url(//fonts.googleapis.com/css?family=Coda:400,700);
-
         body {
             margin: 0;
             overflow: hidden;
@@ -19,10 +18,19 @@
         text {
             font-size:12px !important;
         }
+        :root {
+          --bg: #6495ed;
+          --font: #faf0e6;
+        }
+        .d3plus-tooltip {
+            background-color:var(--bg) !important;
+            color:var(--font);
+        }
     </style>
 </head>
 
-<body></body>
+<body>
+    </body>
 <script>
 
     var county = 'county';
@@ -34,9 +42,12 @@
     var light='#abcaee';
     var axdark='lightGray';
     var axlight='#52545c';
+    document.documentElement.style.setProperty("--bg", (theme=='dark')?dark:light);
+    document.documentElement.style.setProperty("--font", (theme=='dark')?axdark:axlight);
 
-    var colors = ['darkRed', 'crimson', 'orange', 'gold']
+    var colors = ['crimson', 'gold','seagreen']
     var chart = new d3plus.Geomap()
+//     .height(screen.availHeight*1.1)
         .data('county_' + lang + '.json')
         .colorScale(value)
         .colorScaleConfig({
@@ -57,13 +68,33 @@
             }
         })
         .zoom(false)
+    .detectVisible(false)
+        .time('q0')
+        .timelineConfig({
+//             render:labels,
+            buttonPadding:20,
+            tickFormat:function(d) {
+                y=new Date(d).getYear()
+                var ticks={119:'Q2 vs Q1',120:'Q3 vs Q2'}
+                return ticks[y];
+              }
+//             on:{
+//                 click:labels
+//             }
+//             selection:'2019'
+//             axisConfig: {
+//                 //scale:'discrete'
+//             },
+//             buttonBehavior:'ticks'
+        })
         .tiles(false)
         .ocean("transparent")
         .loadingMessage(false)
-        .label(d => d[county] + ' 📉 ' + d[value] + " %")
+        .label(d => d[county] + ((d[value]<0)?' 📉 ':' 📈 ') + d[value] + " %")
     .shapeConfig({
       label:function(d){
-            return d[value+'_display']?d['county']:''
+            return d['display']?(d['high']?'➕ ':'➖ ')+d['county']:''
+//           return d['county']
         },
                 labelConfig: {
 //                 fontWeight:'bold',
@@ -80,8 +111,17 @@
         })
         return map
     })
-
     chart.render();
+    function labels(){
+        var b2 = document.querySelector("#d3plus-textBox-Tue-Jan-01-2019-000000-GMT0000-Greenwich-Mean-Time_0").querySelector('text')
+        b2.innerHTML = 'Q2 vs Q1'
+        var b3 = document.querySelector("#d3plus-textBox-Wed-Jan-01-2020-000000-GMT0000-Greenwich-Mean-Time_0").querySelector('text')
+        b3.innerHTML = 'Q3 vs Q2'
+    }
+//     setTimeout(function(){
+//         chart.render();
+//     },1000)
+    
 </script>
 
 </html>

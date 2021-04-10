@@ -1,0 +1,387 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <!-- load D3js -->
+    <script src="d3.min.js"></script>
+
+    <!-- load D3plus after D3js -->
+    <script src="d3plus.js"></script>
+    
+<!--     <script src="//d3plus.org/js/d3.js"></script> -->
+<!-- <script src="//d3plus.org/js/d3plus.js"></script> -->
+    
+<!--     <script src="d3plus.v1.9.8/d3.js"></script>
+<script src="d3plus.v1.9.8/d3plus.js"></script> -->
+
+    
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: none;
+        }
+
+        div,
+        text {
+            font-family: "Coda" !important;
+        }
+        #circles, #lines1, #lines2{
+            position:fixed;
+            top:0;
+            left:0;
+        }
+        #circles{
+            z-index:99
+        }
+        #lines1{
+            z-index:-99
+        }
+        #lines2{
+            z-index:-98
+        }
+        #d3plus{
+            margin-left: -10px;
+            margin-top: 15px;
+        }
+        #arrow1{
+            top:40%;
+            left:70%;
+            transform: rotate(-25deg);
+        }
+        #arrow2{
+            top:19%;
+            left:73%;
+            transform: rotate(160deg);
+        }
+        #arrow3{
+            top:34%;
+            left:48%;
+            transform: rotate(-33deg);
+        }
+        .arrow{
+            position:fixed;
+            z-index:10;
+            font-size:30px;
+            transition: opacity 1s;
+        }
+        .rectbg{
+            background-color:rgba(255,255,255,0.05);
+/*             background-color:rgba(1,1,1,0.1); */
+            transition: opacity 0.5s;
+        }
+        #rect1{
+            position:fixed;
+            top:15px;
+            left:60px;
+            width:calc(100% - 70px);
+            height:calc(50% - 30px);
+        }
+        #rect2{
+            position:fixed;
+            top:15px;
+            left:calc(50% + 20px);
+            width:calc(50% - 30px);
+            height:calc(100% - 65px);
+        }
+        .q{
+            font-size:12px;
+            width:200px;
+            text-align:center;
+            position:fixed;
+            z-index:50;
+            transition: opacity 0.5s;
+        }
+        #q1{
+            left:calc(25% - 60px);
+            bottom:calc(70px);
+        }
+        #q3{
+            left:calc(75% - 95px);
+            bottom:calc(70px);
+        }
+        #q4{
+            left:calc(75% - 95px);
+            top:calc(30px);
+        }
+        #q2{
+            left:calc(25% - 60px);
+            top:calc(30px);
+        }
+
+        .d3plus_tooltip_data_container .d3plus_tooltip_data_block:nth-child(5) {
+/*             display: none; */
+        }
+        .d3plus_data{
+            stroke-width:3px !important;
+        }
+        .d3plus_tooltip_data_block{
+            color:inherit !important;
+        }
+        .d3plus_tooltip_description, .d3plus_tooltip_header{
+            font-weight:bold;
+        }
+    </style>
+</head>
+<script>
+
+    var hash = window.location.hash.slice(1);
+    var lang = hash.slice(0,hash.search('&'));
+    var theme = hash.slice(hash.search('&')+1);
+    var dark='#243b55';
+    var light='#abcaee';
+    var axdark='lightGray';
+    var axlight='#52545c';
+    var months={0:{'HU':'','RO':'','EN':''},1:{'HU':'Jan','RO':'Ian','EN':'Jan'},2:{'HU':'Feb','RO':'Feb','EN':'Feb'},
+                3:{'HU':'Már','RO':'Mar','EN':'Mar'},4:{'HU':'Ápr','RO':'Apr','EN':'Apr'},
+               5:{'HU':'Máj','RO':'Mai','EN':'May'},6:{'HU':'Jún','RO':'Iun','EN':'Jun'},
+               7:{'HU':' Júl','RO':' Iul','EN':' Jul'},8:{'HU':'Aug','RO':'Aug','EN':'Aug'},
+               9:{'HU':'Sze','RO':'Sep','EN':'Sep'},10:{'HU':'Okt','RO':'Oct','EN':'Oct'},
+               11:{'HU':'Nov','RO':'Noi','EN':'Nov'},12:{'HU':'Dec','RO':'Dec','EN':'Dec'}}
+
+    d3.json("severity_label2.json", function (error, label) {
+//         console.log(label, label['x'][lang])
+        d3.json("severity1_5_" + lang + ".json", function (error, data) {
+            console.log(data, error)
+            x = label['x'][lang];
+            y = label['y'][lang];
+            s = label['s'][lang];
+            c = 'color';
+//             data['circles'].push({'month':0,x:10,y:20,s:1000,c:'red'})
+//             console.log(data, error)
+            function render0(){
+                d3.select("#circles").remove();
+                d3.select('body').append('div').attr('id','circles')
+                var visualization = d3plus.viz()
+                    .container("#circles")     // container DIV to hold the visualization
+                    .data(data['circles'])     // data to use with the visualization
+                    .type("scatter")       // visualization type
+                    .background('none')
+                    .axes({ 'background': { 'color': 'none', 'stroke': 'none' }, 'ticks': false })
+                    .id(["month"]) // nesting keys
+    //             .id(function(d){return months[d['month']][lang]})
+                    .labels({ 'padding': -10 ,'segments':5, 'resize':true})
+                    .x({
+                        "value": x ,
+                        'label': { 'value': x, 'padding': 20 },
+                         'grid': { 'color': 'none' },
+//                         'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+//                         'grid': { 'color': (theme=='dark')?dark:light },
+//                         'ticks': { 'color': (theme=='dark')?dark:light },
+//                         'axis': { 'color': (theme=='dark')?axdark:axlight },
+                        'range':[-15,50]
+                    })         // key name to size bubbles
+                    .y({
+                        "value": y,
+                        'label': { 'value': y, 'padding': 20 },
+                         'grid': { 'color': 'none' },
+//                         'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                        'range':[10,100]
+                    })         // key name to size bubbles
+//                     .size({"value":s,'scale':d3.scale.linear()})
+                .size({"value":s,'scale':{'range':
+                                           {"min": 10
+//                                             "max": 40
+                                           }}})
+                .size(s)    
+                .color(c)        // color by each group
+//                 .order('month')
+                .order(function(d){return 1000-d[s]})
+                    .text(function(d){return months[parseInt(d['month'].slice(-2))][lang]})
+                    .format({
+                        'number': function (d) {
+                            return d //+ ' %';
+                        }
+                    })
+                    .font({ "family": "Coda", "size": 12, "align": "center", "secondary": { "family": "Coda" }, 'color': (theme=='dark')?axdark:axlight })
+                    .legend(false)
+                    .tooltip({'sub':'month','value':[ y, x, s],'background':(theme=='dark')?dark:light,'font':{'color':(theme=='dark')?axdark:axlight}})
+                    .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
+                    .draw()                // finally, draw the visualization!
+            
+              // instantiate d3plus
+              }
+            function render1(){
+                d3.select("#lines1").remove();
+                d3.select('body').append('div').attr('id','lines1').style('opacity',0.5)
+                var visualization2 = d3plus.viz()
+                .container("#lines1")  // container DIV to hold the visualization
+                .data({'value':data['lines1b'],'stroke':{'width':2}})  // data to use with the visualization
+                .type("line")       // visualization type
+                .id(["line"])         // key for which our data is unique on
+                .labels({ 'padding': -10 })
+                .background('none')
+              
+//               .order('month')
+//                 .order(id)
+                .axes({ 'background': { 'color': 'none', 'stroke': 'none' }, 'ticks': false })
+                .x({
+                        "value": x ,
+                        'label': { 'value': x, 'padding': 20 },
+                        'grid': { 'color': 'none' },
+                        'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                    'range':[-15,50]
+                    })          // key to use for x-axis
+                .y({
+                        "value": y,
+                        'label': { 'value': y, 'padding': 20 },
+                        'grid': { 'color': 'none' },
+                        'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                    'range':[10,100]
+                })         // key name to size bubbles
+                .font({ "family": "Coda", "size": 12, "align": "center", "secondary": { "family": "Coda" }, 'color': 'none' })
+                .legend(false)
+                .tooltip(false)
+                .shape({'interpolate':'cardinal'})
+              .color(function(d){return (theme=='dark')?axdark:axlight})
+                .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
+                .draw()             // finally, draw the visualization!    
+            
+              }
+             function render2(){
+                d3.select("#lines2").remove();
+                d3.select('body').append('div').attr('id','lines2').style('opacity',0.5)
+                var visualization3 = d3plus.viz()
+                .container("#lines2")  // container DIV to hold the visualization
+                .data({'value':data['lines2b'],'stroke':{'width':2}})  // data to use with the visualization
+                .type("line")       // visualization type
+                .id(["line"])         // key for which our data is unique on
+                .labels({ 'padding': -10 })
+                .background('none')
+              .shape({'interpolate':'cardinal'})
+//               .order('month')
+                .axes({ 'background': { 'color': 'none', 'stroke': 'none' }, 'ticks': false })
+                .x({
+                        "value": x ,
+                        'label': { 'value': x, 'padding': 20 },
+                        'grid': { 'color': 'none' },
+                        'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                    'range':[-15,50]
+                    })          // key to use for x-axis
+                .y({
+                        "value": y,
+                        'label': { 'value': y, 'padding': 20 },
+                        'grid': { 'color': 'none' },
+                        'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                    'range':[10,100]
+                })         // key name to size bubbles
+                .font({ "family": "Coda", "size": 12, "align": "center", "secondary": { "family": "Coda" }, 'color': 'none' })
+                .legend(false)
+                .tooltip(false)
+              .color(function(d){return (theme=='dark')?axdark:axlight})
+                .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
+                .draw()             // finally, draw the visualization!    
+            
+              }
+            function render3(){
+                d3.select("#lines3").remove();
+                d3.select('body').append('div').attr('id','lines3').style('opacity',0.5)
+                var visualization3 = d3plus.viz()
+                .container("#lines3")  // container DIV to hold the visualization
+                .data({'value':data['lines3b'],'stroke':{'width':2}})  // data to use with the visualization
+                .type("line")       // visualization type
+                .id(["line"])         // key for which our data is unique on
+                .labels({ 'padding': -10 })
+                .background('none')
+              .shape({'interpolate':'cardinal'})
+//               .order('month')
+                .axes({ 'background': { 'color': 'none', 'stroke': 'none' }, 'ticks': false })
+                .x({
+                        "value": x ,
+                        'label': { 'value': x, 'padding': 20 },
+                        'grid': { 'color': 'none' },
+                        'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                    'range':[-15,50]
+                    })          // key to use for x-axis
+                .y({
+                        "value": y,
+                        'label': { 'value': y, 'padding': 20 },
+                        'grid': { 'color': 'none' },
+                        'ticks': { 'color': 'none'},
+                        'axis': { 'color': 'none' },
+                    'range':[10,100]
+                })         // key name to size bubbles
+                .font({ "family": "Coda", "size": 12, "align": "center", "secondary": { "family": "Coda" }, 'color': 'none' })
+                .legend(false)
+                .tooltip(false)
+              .color(function(d){return (theme=='dark')?axdark:axlight})
+                .messages({'background':'none','font':{'color':(theme=='dark')?axdark:axlight},'value':false})
+                .draw()             // finally, draw the visualization!    
+            
+              }
+            function arrow(){
+                d3.selectAll(".arrow").remove();
+                d3.select('body').append('div').attr('id','arrow1').attr('class','arrow')
+                    .html('→').style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                d3.select('body').append('div').attr('id','arrow2').attr('class','arrow')
+                    .html('→').style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                d3.select('body').append('div').attr('id','arrow3').attr('class','arrow')
+                    .html('→').style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                
+                d3.select("#rect1").remove();
+                d3.select('body').append('div').attr('id','rect1').attr('class','rectbg').style('opacity',0)
+                d3.select("#rect2").remove();
+                d3.select('body').append('div').attr('id','rect2').attr('class','rectbg').style('opacity',0)
+                
+                setTimeout(function(){
+                    d3.selectAll(".arrow").style('opacity',0.5)
+                    d3.selectAll(".rectbg").style('opacity',1)
+                },1000)
+            }
+             function quadrants(){
+                d3.select("#q1").remove();
+                d3.select('body').append('div').attr('id','q1').attr('class','q')
+                    .html(label['q1'][lang]).style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                 d3.select("#q2").remove();
+                d3.select('body').append('div').attr('id','q2').attr('class','q')
+                    .html(label['q2'][lang]).style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                 d3.select("#q3").remove();
+                d3.select('body').append('div').attr('id','q3').attr('class','q')
+                    .html(label['q3'][lang]).style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                 d3.select("#q4").remove();
+                d3.select('body').append('div').attr('id','q4').attr('class','q')
+                    .html(label['q4'][lang]).style('color',(theme=='dark')?axdark:axlight).style('opacity',0)
+                 setTimeout(function(){
+                    d3.selectAll(".q").style('opacity',0.5)
+                    if (document.body.offsetWidth<550){
+                     console.log('small screen, adjusting labels..')
+                        d3.selectAll(".q").style('width','140px').style('padding-left','30px')
+                    }
+                },2000)
+             }
+            
+            function render(){
+                render0();
+                render1();
+                render2();
+                render3();
+                
+                arrow();
+                quadrants();
+                
+            }
+            render();
+            var resizeTimer;
+            window.addEventListener("resize", function(){
+              clearTimeout(resizeTimer);
+              resizeTimer = setTimeout(function() {
+                render()
+              }, 250);
+            })
+            
+        })
+    })
+
+</script>
+
+</html>
