@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Add a geocoder</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.2.0/mapbox-gl.js"></script>
+    <style>
+        @import url(//fonts.googleapis.com/css?family=Coda:400,700);
+
+        body {
+            margin: 0;
+            padding: 0;
+            border: none;
+        }
+
+        :root {
+            --bg: #6495ed;
+            --font: #faf0e6;
+        }
+
+        #map {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 100%;
+        }
+
+        .mapboxgl-popup {
+            font-family: "Coda";
+            font-weight: bold;
+            font-size: 13px;
+        }
+
+        .mapboxgl-popup-content {
+            padding: 5px;
+            background-color: var(--bg);
+            color: var(--font);
+        }
+
+        .mapboxgl-popup-tip {
+/*             border-top-color: var(--bg) !important; */
+/*             border-bottom-color: var(--bg) !important; */
+/*             border-left-color: var(--bg) !important; */
+/*             border-right-color: var(--bg) !important; */
+        }
+        
+        .mapboxgl-popup-anchor-right .mapboxgl-popup-tip{
+            border-left-color: var(--bg) !important;
+        }
+        
+        .mapboxgl-popup-anchor-bottom .mapboxgl-popup-tip{
+            border-top-color: var(--bg) !important;
+        }
+        
+        .mapboxgl-popup-anchor-top .mapboxgl-popup-tip{
+            border-bottom-color: var(--bg) !important;
+        }
+        
+        .mapboxgl-popup-anchor-left .mapboxgl-popup-tip{
+            border-right-color: var(--bg) !important;
+        }
+
+        .mapboxgl-ctrl-bottom-right,
+        .mapboxgl-ctrl-bottom-left {
+            /*             visibility: hidden !important; */
+        }
+
+        .mapboxgl-ctrl-top-right {
+            margin: 0px 40px 0 0 !important;
+        }
+
+        .mapboxgl-ctrl-geocoder {
+            background-color: var(--bg) !important;
+            opacity: 0.9;
+            width: 200px !important;
+            height: 30px !important;
+            min-width: 180px !important;
+            max-width: 180px !important;
+            width: 180px !important;
+            /*         margin-right:-20px !important; */
+        }
+
+        .mapboxgl-ctrl-geocoder--input {
+            color: var(--font) !important;
+            height: 31px !important;
+            /*             height: 36px; */
+        }
+
+        /* @media screen and (min-width: 640px) .mapboxgl-ctrl-geocoder {
+            min-width: 170px i !important;
+        } */
+
+        .mapboxgl-ctrl-geocoder--input::placeholder {
+            color: var(--font) !important;
+        }
+
+        .mapboxgl-ctrl-geocoder--icon {
+            fill: var(--font) !important;
+            top: 5px !important;
+        }
+
+        .mapboxgl-ctrl-geocoder .suggestions {
+            background-color: var(--bg) !important;
+        }
+
+        .mapboxgl-marker-anchor-center g {
+            fill: var(--bg) !important;
+        }
+
+        .mapboxgl-marker-anchor-center g circle {
+            fill: var(--font) !important;
+        }
+
+        .mapboxgl-ctrl-geocoder .suggestions>li>a {
+            color: var(--font) !important;
+        }
+
+        .mapboxgl-ctrl-geocoder .suggestions>.active>a,
+        .mapboxgl-ctrl-geocoder .suggestions>li>a:hover {
+            background-color: var(--font) !important;
+            color: var(--bg) !important;
+        }
+
+        .mapboxgl-ctrl-geocoder--button {
+            background-color: var(--bg) !important;
+        }
+
+        .mapboxgl-ctrl-group {
+            background: var(--bg) !important;
+            opacity: 0.9;
+        }
+
+        .mapboxgl-ctrl button.mapboxgl-ctrl-geolocate .mapboxgl-ctrl-icon {
+            background-image: url("data:image/svg+xml;charset=utf-8,<svg width='29' height='29' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg' fill='lightGray'> <path d='M10 4C9 4 9 5 9 5v.1A5 5 0 0 0 5.1 9H5s-1 0-1 1 1 1 1 1h.1A5 5 0 0 0 9 14.9v.1s0 1 1 1 1-1 1-1v-.1a5 5 0 0 0 3.9-3.9h.1s1 0 1-1-1-1-1-1h-.1A5 5 0 0 0 11 5.1V5s0-1-1-1zm0 2.5a3.5 3.5 0 1 1 0 7 3.5 3.5 0 1 1 0-7z'/> <circle id='dot' cx='10' cy='10' r='2'/> <path id='stroke' d='M14 5l1 1-9 9-1-1 9-9z' display='none'/> </svg>");
+        }
+
+        #restrictii-fill,
+        #choropleth-fill,
+        #restrictii-tick,
+        #choropleth-tick {
+            position: absolute;
+            /*         z-index:99; */
+            background-color: var(--bg) !important;
+            text-align: center;
+            color: var(--font);
+            font-family: "Coda";
+            font-weight: bold;
+            font-size: 13px;
+            border-radius: 3px;
+            opacity: 0.9;
+            height: 28px;
+            padding-left: 2px;
+            padding-right: 2px;
+            line-height: 28px;
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        #restrictii-fill,
+        #choropleth-fill {
+            width: 175px;
+            right: 50px;
+        }
+
+        #restrictii-tick,
+        #choropleth-tick {
+            width: 25px;
+            right: 10px;
+            font-size: 30px !important;
+            line-height: 26px !important;
+        }
+
+        #choropleth-tick div,
+        #restrictii-tick div {
+            background: var(--font);
+        }
+
+        #restrictii-fill,
+        #restrictii-tick {
+            top: 85px;
+        }
+
+        #choropleth-fill,
+        #choropleth-tick {
+            top: 55px;
+        }
+
+        #restrictii-fill:hover,
+        #choropleth-fill:hover {
+            opacity: 1
+        }
+
+        .mapboxgl-ctrl-group {
+            margin-top: -30px !important;
+            margin-right: -30px !important;
+        }
+
+        #mb-attr {
+            color: var(--font);
+            margin-left: 10px;
+            position: fixed;
+            bottom: -4px;
+            left: 83px;
+            width: 350px;
+            font-family: "Coda";
+            z-index: 99;
+        }
+
+        .mapboxgl-control-container a {
+            color: var(--font);
+            font-family: "Coda";
+            text-decoration: none;
+        }
+
+        .mapboxgl-control-container a:hover {
+            color: var(--font);
+            text-decoration: none;
+        }
+
+        #mb-attr a {
+            font-weight: bold;
+        }
+
+        .mapboxgl-ctrl-bottom-right {
+            padding-right: 3px;
+            padding-bottom: 5px;
+        }
+
+        .mapboxgl-ctrl.mapboxgl-ctrl-attrib {
+            background: none;
+        }
+
+        .mapboxgl-ctrl-attrib-button {
+            top: 10px;
+            background-image: url("data:image/svg+xml;charset=utf-8,<svg width='24' height='24' viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg' fill='%23243b55'> <path d='M4 10a6 6 0 1 0 12 0 6 6 0 1 0-12 0m5-3a1 1 0 1 0 2 0 1 1 0 1 0-2 0m0 3a1 1 0 1 1 2 0v3a1 1 0 1 1-2 0'/> </svg>")
+        }
+
+        @media only screen and (max-width: 479px) {
+
+            .mapboxgl-ctrl-bottom-right,
+            #mb-attr {
+                display: none !important;
+            }
+        }
+
+        .sc-yellow {
+            color: #f5d232;
+        }
+
+        .sc-red {
+            color: #c52b69;
+        }
+
+        .sc-green {
+            color: #239e69;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Load the `mapbox-gl-geocoder` plugin. -->
+    <script
+        src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet"
+        href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.0/mapbox-gl-geocoder.css"
+        type="text/css">
+
+    <!-- Promise polyfill script is required -->
+    <!-- to use Mapbox GL Geocoder in IE 11. -->
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/es6-promise@4/dist/es6-promise.auto.min.js"></script>
+
+    <div id="map"></div>
+    <div id='controls'>
+        <a id='restrictii-fill'></a><span id='restrictii-tick'></span>
+        <a id='choropleth-fill'></a><span id='choropleth-tick'>
+            <div style="border-radius:5px;width:15px;height:15px;margin:5px;margin-top:6px">&nbsp;</div>
+        </span>
+    </div>
+
+    <script>
+        var hash = window.location.hash.slice(1);
+        var lang = hash.slice(0, hash.search('&'));
+        var theme = hash.slice(hash.search('&') + 1);
+        var dark = '#243b55';
+        var light = '#abcaee';
+        var axdark = 'lightGray';
+        var axlight = '#52545c';
+        document.documentElement.style.setProperty("--bg", (theme == 'dark') ? dark : light);
+        document.documentElement.style.setProperty("--font", (theme == 'dark') ? axdark : axlight);
+
+        var rosu = 'Scenariu <span class="sc-red">roșu</span><br>Restricții de mobilitate după 20:00<br>Magazinele închise după 18:00'
+        var galben = 'Scenariu <span class="sc-yellow">galben</span><br>Restricții de mobilitate după 20:00<br>și magazinele închise după 18:00<br>vineri, sâmbătă și duminică'
+        var piros = '<span class="sc-red">Piros</span> forgatókönyv<br>Kijárási korlátozás 20:00 után<br>Üzletek zárva 18:00 után'
+        var sarga = '<span class="sc-yellow">Sárga</span> forgatókönyv<br>Kijárási korlátozás 20:00 után<br>és az üzletek zárva 18:00 után<br>pénteken, szombaton és vasárnap'
+        var red = '<span class="sc-red">Red</span> scenario<br>Restrictions on mobility after 20:00<br>Shops closed after 18:00'
+        var yellow = '<span class="sc-yellow">Yellow</span> scenario<br>Restrictions on mobility after 20:00<br>and shops closed after 18:00 on<br>Friday, Saturday and Sunday'
+        var rosu0 = '<br><br>Rata de incidență este sub pragul<br>de 7.5‰ dar scenariul <span class="sc-red">roșu</span> este încă<br>în vigoare fiindcă depășise 7.5‰ în ultimele 14 zile. Scenariul <span class="sc-yellow">galben</span><br>se instituie sub 7‰.'
+        var galben0 = '<br><br>Rata de incidență este sub pragul<br>de 4‰ dar scenariul <span class="sc-yellow">galben</span> este încă<br>în vigoare fiindcă depășise 4‰ în ultimele 14 zile. Scenariul <span class="sc-green">verde</span><br>se instituie sub 3.5‰.'
+        var piros0 = '<br><br>A fertőzöttségi arány a 7.5‰ alatt van, de még a <span class="sc-red">piros</span> forgatókönyv érvényes, mivel meghaladta a 7.5‰-et az utóbbi<br>14 napban. A <span class="sc-yellow">sárga</span> forgatókönyv 7‰ alatt lép életbe.'
+        var sarga0 = '<br><br>A fertőzöttségi arány a 4‰ alatt van, de még a <span class="sc-yellow">sárga</span> forgatókönyv érvényes, mivel meghaladta a 4‰-et az utóbbi<br>14 napban. A <span class="sc-green">zöld</span> forgatókönyv 3.5‰ alatt lép életbe.'
+        var red0 = '<br><br>The incidence rate is under 7.5‰, but still the <span class="sc-red">red</span> scenario is in effect, since it has exceeded 7.5‰ in the past 14 days. The <span class="sc-yellow">yellow</span> scenario comes into effect under 7‰.'
+        var yellow0 = '<br><br>The incidence rate is under 4‰, but still the <span class="sc-yellow">yellow</span> scenario is in effect, since it has exceeded 4‰ in the past 14 days. The <span class="sc-green">green</span> scenario comes into effect under 3.5‰.'
+        var scenario = {
+            'HU': {
+                0: '<span class="sc-green">Zöld</span> forgatókönyv',
+                1: sarga + sarga0,
+                2: sarga,
+                3: piros + piros0,
+                4: piros
+            },
+            'EN': {
+                0: '<span class="sc-green">Green</span> scenario',
+                1: yellow + yellow0,
+                2: yellow,
+                3: red + red0,
+                4: red
+            },
+            'RO': {
+                0: 'Scenariu <span class="sc-green">verde</span>',
+                1: galben + galben0,
+                2: galben,
+                3: rosu + rosu0,
+                4: rosu
+            }
+        }
+        var scenario2 = {
+            'HU': {
+                '0': 'Zöld 🟢 forgatókönyv',
+                '4-': sarga + sarga0,
+                '4+': sarga,
+                '7.5-': piros + piros0,
+                '7.5+': piros
+            },
+            'EN': {
+                '0': 'Green 🟢 scenario',
+                '4-': yellow + yellow0,
+                '4+': yellow,
+                '7.5-': red + red0,
+                '7.5+': red
+            },
+            'RO': {
+                '0': 'Scenariu 🟢 verde',
+                '4-': galben + galben0,
+                '4+': galben,
+                '7.5-': rosu + rosu0,
+                '7.5+': rosu
+            }
+        }
+
+        var restric = {
+            'RO': ['🚫 Scenariu', '📈 Rata de incidență'],
+            'HU': ['🚫 Forgatókönyv', "📈 Fertőzöttségi arány"],
+            'EN': ['🚫 Scenario', "📈 Incidence rate"]
+        }
+
+        mapboxgl.accessToken = 'pk.eyJ1IjoiY3NhbGFkZW5lcyIsImEiOiJjajQ0YzFmcjkxOHlzMzNtZ3A0ZDlyZnZsIn0.iDOBmJibZ81VFxQvkOmS8A';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/csaladenes/cknf7hmpn3nwh17r0yzmf7gzr',
+            center: [25.1, 45.9], // starting position [lng, lat]
+            zoom: 5.9 // starting zoom 6.59/45.912/25.007
+        });
+
+        // Add the control to the map.
+        map.addControl(
+            new MapboxGeocoder({
+                accessToken: mapboxgl.accessToken,
+                // Limit seach results to Australia.
+                countries: 'ro',
+
+                showUserLocation: true,
+                language: lang.toLocaleLowerCase(),
+                mapboxgl: mapboxgl
+            })
+        )
+        //     Add geolocate control to the map.
+        map.addControl(
+            new mapboxgl.GeolocateControl({
+                positionOptions: {
+                    enableHighAccuracy: true
+                },
+                trackUserLocation: true
+            })
+        );
+        map.on('load', function () {
+
+            if (lang == 'EN') {
+                map.setLayoutProperty('settlement-minor-label', 'text-field', [
+                    'get',
+                    'name_' + lang.toLocaleLowerCase()
+                ]);
+                map.setLayoutProperty('settlement-major-label', 'text-field', [
+                    'get',
+                    'name_' + lang.toLocaleLowerCase()
+                ]);
+            }
+
+            map.addSource('restrictii', {
+                'type': 'geojson',
+                'data': './new_uat_daily2_2021-04-12.json'
+            });
+
+            map.addLayer({
+                'id': 'restrictii-fill',
+                'type': 'fill',
+                'source': 'restrictii',
+                'paint': {
+                    'fill-color': ["step", ["get", "🚦"], "#239e69", 1, "#f5d232", 3, "#c52b69"],
+                    //     'fill-outline-color': ["step",["get","🚦"],"#176b46",1,"#8e791c",3,"#771a3f"]
+                    'fill-outline-color': 'rgba(0,0,0,0)'
+                },
+                'layout': {
+                    'visibility': 'none'
+
+                }
+            },
+                'choropleth-labels');
+
+            map.addLayer({
+                'id': 'restrictii-stroke',
+                'type': 'line',
+                'source': 'restrictii',
+                'paint': {
+                    'line-color': ["step", ["get", "🚦"], "#1d8457", 1, "#dbbb2b", 3, "#aa255a"],
+                    'line-width': 1
+                    //     'fill-outline-color': ["step",["get","🚦"],"#176b46",1,"#8e791c",3,"#771a3f"]
+                    //         'fill-outline-color': 'rgba(40,40,40,0)'
+                },
+                'layout': {
+                    'visibility': 'none'
+
+                }
+            }, 'choropleth-labels');
+
+            // Create a popup, but don't add it to the map yet.
+            var popup = new mapboxgl.Popup({
+                closeButton: false,
+                closeOnClick: false
+            });
+
+            function tooltip(e) {
+                return '04-13' + ' 📆 ' + e.features[0].properties['🏠'] + ' ' + (e.features[0].properties['🚦'] > 0 ? e.features[0].properties['🚦'] > 2 ? '🙁' : '😐' : '🙂') + ' ' + e.features[0].properties['📈'] + ' ‰' + '<br>' + scenario[lang][e.features[0].properties['🚦']];
+            }
+
+            // When a click event occurs on a feature in the states layer, open a popup at the
+            // location of the click, with description HTML from its properties.
+            map.on('mouseenter', 'choropleth-stroke', function (e) {
+                map.getCanvas().style.cursor = 'pointer';
+
+                var description = tooltip(e)
+
+                popup
+                    .setLngLat(e.lngLat)
+                    .setHTML(description)
+                    .addTo(map);
+            });
+
+            map.on('mousemove', 'choropleth-fill', function (e) {
+                var description = tooltip(e)
+
+                popup
+                    .setLngLat(e.lngLat)
+                    .setHTML(description)
+                    .addTo(map);
+            });
+
+
+            // Change it back to a pointer when it leaves.
+            map.on('mouseleave', 'choropleth-fill', function () {
+                map.getCanvas().style.cursor = '';
+                popup.remove();
+            });
+
+            var el = document.createElement("div")
+            el.id = 'mb-attr'
+            el.innerHTML = "Thank you to <a href='https://www.mapbox.com/community/' target='_blank'>Mapbox Community team</a> for sponsoring our map.";
+            document.querySelector('.mapboxgl-ctrl-bottom-left .mapboxgl-ctrl').appendChild(el)
+
+        })
+
+        var restrictiiLayer = 'restrictii-fill';
+        var choroplethLayer = 'choropleth-fill';
+        var s = document.getElementById(choroplethLayer.replace('fill', 'tick')).innerHTML;
+        layers = [restrictiiLayer, choroplethLayer]
+        for (i in layers) {
+            clickedLayer = layers[i]
+            var link = document.getElementById(clickedLayer);
+            link.textContent = restric[lang][i];
+            titles = {
+                'EN': 'Toggle colors between Scenarios and Incidence rate',
+                'RO': 'Schimbă culorile între Scenariu și Rata de incidență',
+                'HU': 'Színezés a Forgatókönv vagy Fertőzötsségi arány szerint'
+            }
+
+            link.title = titles[lang]
+        }
+
+        map.on('idle', function () {
+
+            var link = document.getElementById('controls');
+            link.onclick = function (e) {
+
+                e.preventDefault();
+                e.stopPropagation();
+
+                var visibility = map.getLayoutProperty(
+                    restrictiiLayer,
+                    'visibility'
+                );
+
+                // Toggle layer visibility by changing the layout object's visibility property.
+                if (visibility === 'visible') {
+                    map.setLayoutProperty(
+                        restrictiiLayer,
+                        'visibility',
+                        'none'
+                    );
+                    map.setLayoutProperty(
+                        restrictiiLayer.replace('fill', 'stroke'),
+                        'visibility',
+                        'none'
+                    );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer,
+                    //     'visibility',
+                    //     'visible'
+                    // );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer.replace('fill', 'stroke'),
+                    //     'visibility',
+                    //     'visible'
+                    // );
+                    document.getElementById(restrictiiLayer.replace('fill', 'tick')).innerHTML = ''
+                    document.getElementById(choroplethLayer.replace('fill', 'tick')).innerHTML = s
+                    this.className = '';
+                } else {
+                    this.className = 'active';
+                    map.setLayoutProperty(
+                        restrictiiLayer,
+                        'visibility',
+                        'visible'
+                    );
+                    map.setLayoutProperty(
+                        restrictiiLayer.replace('fill', 'stroke'),
+                        'visibility',
+                        'visible'
+                    );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer,
+                    //     'visibility',
+                    //     'none'
+                    // );
+                    // map.setLayoutProperty(
+                    //     choroplethLayer.replace('fill', 'stroke'),
+                    //     'visibility',
+                    //     'none'
+                    // );
+                    document.getElementById(restrictiiLayer.replace('fill', 'tick')).innerHTML = s
+                    document.getElementById(choroplethLayer.replace('fill', 'tick')).innerHTML = ''
+                }
+
+            }
+
+        })
+    </script>
+
+</body>
+
+</html>
