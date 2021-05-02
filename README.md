@@ -12,7 +12,7 @@ Weboldalunk célja, hogy segítséget nyújtson a gazdasági és politikai dönt
 ## 💻 Build
 To learn about the technologies used or build a similar site like this you can follow the instructions on the [Wiki](https://github.com/denesdata/covid19-romania/wiki) page. If you discovered any bugs or have any specific suggestions or feature reqests please use the [Issues](https://github.com/denesdata/covid19-romania/issues) page.
 ## 📊 Data
-We maintain a [data repository](https://github.com/denesdata/roeim/tree/master/data) updated daily that contains the data displayed on the site in a standardized format. You can read about this more [here](https://github.com/denesdata/roeim/wiki/5.-Data).
+We maintain a [data repository](https://github.com/denesdata/roeim/tree/master/data) updated daily by [@roeimbot](https://github.com/roeim) that contains the data displayed on the site in a standardized format. You can read about this more [here](https://github.com/denesdata/roeim/wiki/5.-Data).
 ## ✉ Contact
 For any technical or visualization-related questions you may contact [Dénes](mailto:mail@csaladen.es). For economics-related queries and anything else about the site content, or further collaborations, you may contact [Levente](mailto:levente.szasz@econ.ubbcluj.ro).
 - [B&aacute;lint Csaba](https://www.linkedin.com/in/csaba-b%C3%A1lint-cfa-16b9a665/)
