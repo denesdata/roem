@@ -1,6 +1,10 @@
 # 🇷🇴💹📉📊 
 # [COVID-19 – Romanian Economic Impact Monitor](https://econ.ubbcluj.ro/coronavirus)
 [![RoEIM](/snapshot.png "RoEIM")](https://econ.ubbcluj.ro/coronavirus)  
+
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/denesdata/roeim/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/denesdata/roeim?label=last%20update)](https://github.com/denesdata/roeim)
+
 ## 🇷🇴 Impactul pandemiei de coronavirus asupra economiei din România: date, analize și previziuni
 Proiect de cercetare care include și realizarea acestei platforme online specializate, prin care cercetătorii universității implicați în acest demers științific publică o serie de date relevante privind impactul economic al pandemiei COVID-19 în forma unor infografice interactive, menite să arate o imagine comprehensivă, actualizată în timp real a situației economiei românești. Obiectivul principal al proiectului constă în oferirea unui sprijin real factorilor decizionali din politica și economia românească prin realizarea și actualizarea frecventă a analizei situației generate de epidemia de COVID-19, respectiv prin oferirea unui punct de pornire pentru realizarea unor scenarii de previziune pentru o mai bună protejare a societății, a companiilor, a angajaților acestora, respectiv a lanțurilor de aprovizionare din economia reală.
 ## 🇬🇧 Impact of the coronavirus pandemic on the Romanian economy: facts and forecasts
