@@ -2,7 +2,7 @@
 # [COVID-19 – Romanian Economic Impact Monitor](https://econ.ubbcluj.ro/coronavirus)
 [![RoEIM](/snapshot.png "RoEIM")](https://econ.ubbcluj.ro/coronavirus)  
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/denesdata/roeim/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/denesdata/roeim/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/denesdata/roeim?label=last%20update)](https://github.com/denesdata/roeim)
 
 ## 🇷🇴 Impactul pandemiei de coronavirus asupra economiei din România: date, analize și previziuni
