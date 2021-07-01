@@ -1,5 +1,5 @@
 Datum1,type,media,desc,lang,link
-2021-06-12 00:00:00,🎥,Digi24 (interviu cu dr. Szász Levente),Jurnal 12 iunie ora 13 (de la 48:19),RO,https://www.digi24.ro/emisiuni/jurnale/jurnal-ora-13-00-12-iunie-2-1561159?fbclid=IwAR1IQfzKuTcsNj-_2mDx1sFKj-vScqpFxyUcG8Kyd_WNpkc9DF39ZlEc6Is
+2021-06-12 00:00:00,🎥,Digi24,"Jurnal 12 iunie ora 13, interviu cu dr Szász Levente (de la 48:19)",RO,https://www.digi24.ro/emisiuni/jurnale/jurnal-ora-13-00-12-iunie-2-1561159?fbclid=IwAR1IQfzKuTcsNj-_2mDx1sFKj-vScqpFxyUcG8Kyd_WNpkc9DF39ZlEc6Is
 2021-06-08 00:01:00,📰,Portal Med,România are o hartă interactivă a ratei de acoperire vaccinală,RO,https://portalmed.ro/stiri-medicale/romania-harta-interactiva-rata-acoperire-vaccinala/
 2021-06-08 00:00:00,📰,Népújság,Interaktív oltástérképet készítettek a BBTE kutatói,HU,https://www.e-nepujsag.ro/articles/interaktiv-oltasterkepet-keszitettek-a-bbte-kutatoi
 2021-06-07 00:01:00,📰,Friss Újság,Helységekre lebontott interaktív oltástérkép,HU,https://www.frissujsag.ro/helysegekre-lebontott-interaktiv-oltasterkep?fbclid=IwAR2uwjs_gFSN5YIvPyWSgZu-GKAbIbdsdX0_mbBuISl-Eg6WlXptMtakCm8
@@ -291,7 +291,7 @@ Datum1,type,media,desc,lang,link
 2020-08-11 00:00:00,📰,Agerpres,Comunicat de presă - Universitatea Babeş-Bolyai,RO,https://www.agerpres.ro/comunicate/2020/06/15/comunicat-de-presa-universitatea-babes-bolyai--522878
 2020-08-10 00:00:00,📰,Ziua de Cluj,Efectele COVID asupra economiei. Studiu: vârful crizei pare să fie depășit deja,RO,https://zcj.ro/economie/efectele-covid-asupra-economiei-studiu-varful-crizei-pare-sa-fie-depasit-deja--200391.html
 2020-08-09 00:00:00,📰,Ér hangja,100 nap telt el az első koronavírusos eset óta Románában – melyek a gazdaságra gyakorolt fő hatások?,HU,https://erhangja.ro/kozelet/100-nap-telt-el-az-elso-koronavirusos-eset-ota-romanaban-melyek-a-gazdasagra-gyakorolt-fo-hatasok
-2020-08-08 00:00:00,📰,A,Gazdasági mérleg az első koronavírusos eset utáni 100. napon - Temesvári Rádió,HU,https://app.box.com/s/e75ho8awuzbjd1anau2eavyp0xwkgkha?fbclid=IwAR3pw_2Cnc9lqB0498HBV0a8S_MwCTXn7CHQKwHGKB2OIs6vFtRkm23axyk
+2020-08-08 00:00:00,📰,Temesvári Rádió,Gazdasági mérleg az első koronavírusos eset utáni 100. napon,HU,https://app.box.com/s/e75ho8awuzbjd1anau2eavyp0xwkgkha?fbclid=IwAR3pw_2Cnc9lqB0498HBV0a8S_MwCTXn7CHQKwHGKB2OIs6vFtRkm23axyk
 2020-08-07 00:01:00,📰,Népújság,Túl a válság csúcsán,HU,https://www.e-nepujsag.ro/articles/tul-a-valsag-csucsan
 2020-08-07 00:00:00,📰,Transindex,Hogyan alakult az 1000 lakosra eső új fertőzésszám az utóbbi időszakban?,HU,https://itthon.transindex.ro/?hir=60931&hogyan_alakult_az_1000_lakosra_eso_uj_fertozesszam_az_utobbi_idoszakban?
 2020-08-06 00:00:00,📰,Friss újság,A COVID-19 hatásai a gazdaságra,HU,https://www.frissujsag.ro/a-covid-19-hatasai-a-gazdasagra
