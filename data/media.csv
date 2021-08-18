@@ -1,5 +1,11 @@
 Datum1,type,media,desc,lang,link
+2021-08-12 00:00:00,🎥,"Erdély TV (interviu cu dr. Nagy Bálint Zsolt, de la 5:50 până la 8:13)",Híradó,HU,https://www.facebook.com/erdelytv/videos/518517672750432/
+2021-08-08 00:00:00,📰,Magyar Elektronikus Lexikon,Koronavírus: egy szomszédos országban a legmagasabb a normalitásindex,HU,https://mel.hu/koronavirus-egy-szomszedos-orszagban-a-legmagasabb-a-normalitasindex-125756.html
+2021-08-06 00:01:00,📰,B Cool Magazin,Most már biztosan állítják lesz negyedik hullám,HU,https://bcoolmagazin.hu/most-mar-biztosan-allitjak-lesz-negyedik-hullam/
 2021-08-06 00:00:00,📰,Transindex,Járvány? Veszélyhelyzet? Romániában a leglazább az élet egész Európában,HU,https://itthon.transindex.ro/?hir=64906&jarvany%3F_veszelyhelyzet%3F_romaniaban_a_leglazabb_az_elet_egesz_europaban
+2021-08-05 00:00:00,📰,Szatmári Friss Újság,A legközelebb a normalitáshoz,HU,https://www.frissujsag.ro/a-legkozelebb-a-normalitashoz
+2021-08-04 00:04:00,📰,Hírnavigátor,Visszatért az élet,HU,https://hirnavigator.hu/hir/1975708-visszatert-az-elet
+2021-08-04 00:03:00,📰,Házi Patika,Itt sikerült a leginkább visszatérni a járvány előtti élethez,HU,https://www.hazipatika.com/napi_egeszseg/fertozo_betegsegek/cikkek/itt_sikerult_a_leginkabb_visszaterni_a_jarvany_elotti_elethez/20210804093302
 2021-08-04 00:02:00,📰,Székelyföld.ma,Felmérés: Romániában a legmagasabb a normalitásindex,HU,https://szekelyfold.ma/hirek/felmeres-romaniaban-a-legmagasabb-a-normalitasindex
 2021-08-04 00:01:00,📰,Pesti Hírlap.hu,Visszatért az élet,HU,https://pestihirlap.hu/2021/08/04/visszatert-az-elet/
 2021-08-04 00:00:00,📰,Europa Liberă,"Primii la relaxare, penultimii la vaccinare. România, în topul european al revenirii la „normalitate”",RO,https://romania.europalibera.org/a/rom%c3%a2nia-%c3%aen-top-relaxare/31391869.html
@@ -29,6 +35,8 @@ Datum1,type,media,desc,lang,link
 2021-08-03 00:02:00,📰,Szatmár.ro,Felmérés: Romániában a legmagasabb a normalitásindex,HU,https://www.szatmar.ro/Felmeres_Romaniaban_a_legmagasabb_a_normalitasindex/hirek/114651
 2021-08-03 00:01:00,📰,Maszol,EU-s szinten Romániában állt vissza a leginkább az élet a járvány előtti megszokott kerékvágásba,hU,https://maszol.ro/belfold/EU-s-szinten-Romaniaban-allt-vissza-a-leginkabb-az-elet-a-jarvany-elotti-megszokott-kerekvagasba
 2021-08-03 00:00:00,📰,Adevărul,"România, cea mai relaxată ţară din lume la debutul Valului 4 al pandemiei. Jurma: Prioritatea naţională a fost relaxarea",RO,https://m.adevarul.ro/news/societate/romania-cea-mai-relaxata-tara-lume-debutul-valului-4-pandemiei-jurma-prioritatea-nationala-fost-relaxarea-1_61080dd55163ec4271b59c65/index.html?source=biziday
+2021-08-02 00:09:00,📰,Bugetul.ro,Medicul Octavian Jurma: ‘Nu avem nici o garanție că numărul cazurilor și deceselor nu e ajustat în continuare la declarațiile și deciziile politice’,RO,https://www.bugetul.ro/medicul-octavian-jurma-nu-avem-nici-o-garantie-ca-numarul-cazurilor-si-deceselor-nu-e-ajustat-in-continuare-la-declaratiile-si-deciziile-politice/
+2021-08-02 00:08:00,📰,B1 TV,"Octavian Jurma: Întâmpinăm invazia de Delta cu cea mai mare relaxare din Europa. Relaxarea asta pe credit se va plăti în spitale, la toamnă",RO,https://www.b1tv.ro/eveniment/octavian-jurma-intampinam-invazia-de-delta-cu-cea-mai-mare-relaxare-din-europa-relaxarea-asta-pe-credit-se-va-plati-in-spitale-la-toamna-1046081.html
 2021-08-02 00:07:00,📰,USD24.ro,Octavian Jurma: Întâmpinăm invazia de Delta cu cea mai mare relaxare din Europa,RO,https://usd24.ro/octavian-jurma-intampinam-invazia-de-delta-cu-cea-mai-mare-relaxare-din-europa/
 2021-08-02 00:06:00,📰,Money.ro,Epidemiolog: Întâmpinăm invazia de Delta cu cea mai mare relaxare din Europa,RO,https://www.money.ro/epidemiolog-intampinam-invazia-de-delta-cu-cea-mai-mare-relaxare-din-europa/
 2021-08-02 00:05:00,📰,Cazier.eu,Octavian Jurma: Întâmpinăm invazia de Delta cu cea mai mare relaxare din Europa,RO,https://cazier.eu/octavian-jurma-intampinam-invazia-de-delta-cu-cea-mai-mare-relaxare-din-europa/
