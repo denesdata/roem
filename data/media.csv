@@ -1,5 +1,5 @@
 Datum1,type,media,desc,lang,link
-2021-08-12 00:00:00,🎥,"Erdély TV (interviu cu dr. Nagy Bálint Zsolt, de la 5:50 până la 8:13)",Híradó,HU,https://www.facebook.com/erdelytv/videos/518517672750432/
+2021-08-12 00:00:00,🎥,Erdély TV,Híradó  (de la 5:50 până la 8:13),HU,https://www.facebook.com/erdelytv/videos/518517672750432/
 2021-08-08 00:00:00,📰,Magyar Elektronikus Lexikon,Koronavírus: egy szomszédos országban a legmagasabb a normalitásindex,HU,https://mel.hu/koronavirus-egy-szomszedos-orszagban-a-legmagasabb-a-normalitasindex-125756.html
 2021-08-06 00:01:00,📰,B Cool Magazin,Most már biztosan állítják lesz negyedik hullám,HU,https://bcoolmagazin.hu/most-mar-biztosan-allitjak-lesz-negyedik-hullam/
 2021-08-06 00:00:00,📰,Transindex,Járvány? Veszélyhelyzet? Romániában a leglazább az élet egész Európában,HU,https://itthon.transindex.ro/?hir=64906&jarvany%3F_veszelyhelyzet%3F_romaniaban_a_leglazabb_az_elet_egesz_europaban
@@ -22,7 +22,7 @@ Datum1,type,media,desc,lang,link
 2021-08-03 00:15:00,📰,Ziare.com,"România, cea mai relaxată ţară din lume în fața restricțiilor impuse în pandemie. Suntem urmați de Nigeria în topul mondial ANALIZĂ",RO,https://ziare.com/social/stiri-sociale/restrictii-pandemie-romania-cea-mai-relaxata-tara-din-lume-1693302
 2021-08-03 00:14:00,📰,MS Rádió,Visszatértünk a normalitáshoz?,HU,https://www.marosvasarhelyiradio.ro/hirek/visszatertunk-a-normalitashoz/
 2021-08-03 00:13:00,📰,Etleboro.org,Normalitásindex: továbbra is Romániában sikerült a leginkább visszatérni a vírushelyzet előtti élethez,HU,https://etleboro.org/g/0c7b4f7806d131923f007691cbe628fbro/normalit%C3%A1sindex-tov%C3%A1bbra-is-rom%C3%A1ni%C3%A1ban-siker%C3%BClt-a-legink%C3%A1bb-visszat%C3%A9rni-a-v%C3%ADrushelyzet-el%C5%91tti-%C3%A9lethez
-2021-08-03 00:12:00,📰,Portfólió.hu (scroll jos la 2021. augusztus 03. 14:32),Romániában a legmagasabb a normalitásindex,HU,https://www.portfolio.hu/gazdasag/20210803/delta-varians-tobb-mint-39-ezer-uj-fertozottet-talaltak-iranban-494998
+2021-08-03 00:12:00,📰,Portfólió.hu,Romániában a legmagasabb a normalitásindex (scroll jos la 2021. augusztus 03. 14:32),HU,https://www.portfolio.hu/gazdasag/20210803/delta-varians-tobb-mint-39-ezer-uj-fertozottet-talaltak-iranban-494998
 2021-08-03 00:11:00,📰,Index.hu,A kolozsvári kutatók szerint a románok vezetik a normalitásindexet,HU,https://index.hu/kulfold/2021/08/03/koronavirus-jarvany-oltas-vilag/a-romanoknak-sikerult-a-vilagon-leginkabb-visszaterni-a-jarvany-elotti-elethez/
 2021-08-03 00:10:00,📰,Krónika,Normalitásindex: továbbra is Romániában sikerült a leginkább visszatérni a vírushelyzet előtti élethez,HU,https://kronikaonline.ro/belfold/egy-felmeres-szerint-romaniaban-a-legmagasabb-a-normalitasindex
 2021-08-03 00:09:00,📰,Mandiner.hu,Romániában a legmagasabb a normalitásindex,HU,https://mandiner.hu/cikk/20210803_romaniaban_a_legmagasabb_a_normalitasindex
