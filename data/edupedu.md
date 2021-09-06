@@ -1,4 +1,4 @@
-Last updated: `2021-09-06 02:30:42 (RO UTC +3)`  
+Last updated: `2021-09-06 03:04:04 (RO UTC +3)`  
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
   
@@ -47,12 +47,12 @@ Localities above 5‰, but below 6‰ incidence in the past 7 days (in ‰ - thi
 |    | judet_norm    | uat_norm   | 08-29   | 08-30   | 08-31   | 09-01   | 09-02   | 09-03   | 09-04   |
 |---:|:--------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
 |  1 | Arad          | Dezna      | 5.31    | 5.31    | 5.31    | 5.31    | 5.31    | 5.31    |         |
-|  2 | Caraș-Severin | Lupac      |         |         |         | 5.35    | 5.73    |         |         |
-|  3 | Dolj          | Bechet     |         |         |         |         |         | 5.52    |         |
+|  2 | Caraș-Severin | Lupac      |         |         |         | 5.35    | 5.73    | 6+      | 6+      |
+|  3 | Dolj          | Bechet     |         |         |         |         |         | 5.52    | 6+      |
 |  4 | Iași          | Răchiteni  |         | 5.77    | 5.47    | 5.47    |         |         |         |
 |  5 | Satu Mare     | Bătarci    |         |         |         |         | 5.0     |         |         |
-|  6 | Satu Mare     | Cămărzana  |         |         | 5.75    |         |         |         |         |
+|  6 | Satu Mare     | Cămărzana  |         |         | 5.75    | 6+      | 6+      | 6+      | 6+      |
 |  7 | Satu Mare     | Turț       |         |         |         |         |         |         | 5.11    |
-|  8 | Satu Mare     | Târșolț    |         |         |         |         |         | 5.05    |         |
+|  8 | Satu Mare     | Târșolț    |         |         |         |         |         | 5.05    | 6+      |
 |  9 | Sălaj         | Șimișna    |         |         |         |         |         |         | 5.08    |
 | 10 | Timiș         | Secaș      |         |         |         |         |         | 5.13    | 5.13    |
