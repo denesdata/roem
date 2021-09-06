@@ -1,4 +1,4 @@
-Last updated: `2021-09-06 03:15:54 (RO UTC +3)`  
+Last updated: `2021-09-06 15:41:35 (RO UTC +3)`  
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
   
@@ -33,26 +33,32 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 6‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm    | uat_norm   | 08-29   | 08-30   | 08-31   | 09-01   | 09-02   | 09-03   |   09-04 |
-|---:|:--------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|--------:|
-|  1 | Arad          | Ignești    |         | 10.14   | 10.14   | 10.14   | 10.14   | 10.14   |   10.14 |
-|  2 | Caraș-Severin | Lupac      |         |         |         |         |         | 6.11    |    6.49 |
-|  3 | Cluj          | Mărgău     | 14.27   | 13.65   | 13.65   | 13.65   | 12.41   | 11.17   |   10.55 |
-|  4 | Dolj          | Bechet     |         |         |         |         |         |         |    6.18 |
-|  5 | Satu Mare     | Cămărzana  |         |         |         | 6.16    | 6.57    | 7.39    |    7.39 |
-|  6 | Satu Mare     | Târșolț    |         |         |         |         |         |         |    7.25 |
+|    | judet_norm    | uat_norm   | 08-30   | 08-31   | 09-01   | 09-02   | 09-03   | 09-04   | 09-05   |
+|---:|:--------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  1 | Arad          | Dezna      |         |         |         |         |         |         | 7.09    |
+|  2 | Arad          | Ignești    | 10.14   | 10.14   | 10.14   | 10.14   | 10.14   | 10.14   | 10.16   |
+|  3 | Caraș-Severin | Lupac      |         |         |         |         | 6.11    | 6.49    |         |
+|  4 | Cluj          | Mărgău     | 13.65   | 13.65   | 13.65   | 12.41   | 11.17   | 10.55   | 10.59   |
+|  5 | Dolj          | Bechet     |         |         |         |         |         | 6.18    | 6.62    |
+|  6 | Satu Mare     | Cămărzana  |         |         | 6.16    | 6.57    | 7.39    | 7.39    | 8.22    |
+|  7 | Satu Mare     | Turț       |         |         |         |         |         |         | 6.03    |
+|  8 | Satu Mare     | Târșolț    |         |         |         |         |         | 7.25    | 7.57    |
+|  9 | Sălaj         | Șimișna    |         |         |         |         |         |         | 7.67    |
   
 Localities above 5‰, but below 6‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm    | uat_norm   | 08-29   | 08-30   | 08-31   | 09-01   | 09-02   | 09-03   | 09-04   |
-|---:|:--------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Arad          | Dezna      | 5.31    | 5.31    | 5.31    | 5.31    | 5.31    | 5.31    |         |
-|  2 | Caraș-Severin | Lupac      |         |         |         | 5.35    | 5.73    | 6+      | 6+      |
-|  3 | Dolj          | Bechet     |         |         |         |         |         | 5.52    | 6+      |
-|  4 | Iași          | Răchiteni  |         | 5.77    | 5.47    | 5.47    |         |         |         |
-|  5 | Satu Mare     | Bătarci    |         |         |         |         | 5.0     |         |         |
-|  6 | Satu Mare     | Cămărzana  |         |         | 5.75    | 6+      | 6+      | 6+      | 6+      |
-|  7 | Satu Mare     | Turț       |         |         |         |         |         |         | 5.11    |
-|  8 | Satu Mare     | Târșolț    |         |         |         |         |         | 5.05    | 6+      |
-|  9 | Sălaj         | Șimișna    |         |         |         |         |         |         | 5.08    |
-| 10 | Timiș         | Secaș      |         |         |         |         |         | 5.13    | 5.13    |
+|    | judet_norm    | uat_norm    | 08-30   | 08-31   | 09-01   | 09-02   | 09-03   | 09-04   | 09-05   |
+|---:|:--------------|:------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  1 | Arad          | Cărand      |         |         |         |         |         |         | 5.58    |
+|  2 | Arad          | Dezna       | 5.31    | 5.31    | 5.31    | 5.31    | 5.31    |         | 6+      |
+|  3 | Caraș-Severin | Lupac       |         |         | 5.35    | 5.73    | 6+      | 6+      | 5.36    |
+|  4 | Dolj          | Bechet      |         |         |         |         | 5.52    | 6+      | 6+      |
+|  5 | Iași          | Răchiteni   | 5.77    | 5.47    | 5.47    |         |         |         |         |
+|  6 | Satu Mare     | Bătarci     |         |         |         | 5.0     |         |         | 5.53    |
+|  7 | Satu Mare     | Cămărzana   |         | 5.75    | 6+      | 6+      | 6+      | 6+      | 6+      |
+|  8 | Satu Mare     | Gherța Mică |         |         |         |         |         |         | 5.2     |
+|  9 | Satu Mare     | Turț        |         |         |         |         |         | 5.11    | 6+      |
+| 10 | Satu Mare     | Târșolț     |         |         |         |         | 5.05    | 6+      | 6+      |
+| 11 | Sălaj         | Șimișna     |         |         |         |         |         | 5.08    | 6+      |
+| 12 | Teleorman     | Beuca       |         |         |         |         |         |         | 5.74    |
+| 13 | Timiș         | Secaș       |         |         |         |         | 5.13    | 5.13    | 5.13    |
