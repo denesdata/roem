@@ -1,11 +1,4 @@
 ,date,date2,url,vehicles,tir,enter,exit,net entry
-2021-08-14,2021-08-14,13.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-traficului-la-frontiera-in-ultimele-24-de-ore-24825.html,44300,10500,92500,88500,4000
-2021-08-15,2021-08-15,14.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-traficului-la-frontiera-in-ultimele-24-de-ore-24831.html,47400,9000,107600,119600,-12000
-2021-08-16,2021-08-16,15.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24833.html,42100,7000,93100,108000,-14900
-2021-08-17,2021-08-17,16.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24848.html,41200,12200,81500,88400,-6900
-2021-08-18,2021-08-18,17.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24856.html,41200,12600,73400,81500,-8100
-2021-08-19,2021-08-19,18.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24871.html,42600,16000,81800,81500,300
-2021-08-20,2021-08-20,19.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24886.html,41800,11900,79100,87400,-8300
 2021-08-21,2021-08-21,20.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24905.html,45600,8900,84800,104200,-19400
 2021-08-22,2021-08-22,21.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24907.html,45300,8000,90000,100000,-10000
 2021-08-23,2021-08-23,22.08.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-24911.html,47200,8100,89300,106000,-16700
@@ -26,6 +19,13 @@
 2021-09-07,2021-09-07,06.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25042.html,36000,13300,64200,75300,-11100
 2021-09-08,2021-09-08,07.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25050.html,36700,14600,59700,69600,-9900
 2021-09-09,2021-09-09,08.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25063.html,35200,13300,61500,66500,-5000
-2021-09-10,2021-09-10,09.09.2021,https://www.politiadefrontiera.ro/ro/main/i--25077.html,39600,13900,67700,74900,-7200
+2021-09-10,2021-09-10,09.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25077.html,39600,13900,67700,74900,-7200
 2021-09-11,2021-09-11,10.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25086.html,40000,12700,73300,76700,-3400
 2021-09-12,2021-09-12,11.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25094.html,41000,11500,82500,85500,-3000
+2021-09-13,2021-09-13,12.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25096.html,34800,8100,73400,74600,-1200
+2021-09-14,2021-09-14,13.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25108.html,36300,13900,60400,71200,-10800
+2021-09-15,2021-09-15,14.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25126.html,35000,14100,54800,63200,-8400
+2021-09-16,2021-09-16,15.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25147.html,36600,14600,57700,64100,-6400
+2021-09-17,2021-09-17,16.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25171.html,35700,14000,55900,65800,-9900
+2021-09-18,2021-09-18,17.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25191.html,39200,13000,66000,75000,-9000
+2021-09-19,2021-09-19,18.09.2021,https://www.politiadefrontiera.ro/ro/main/i-situatia-la-frontiera-in-ultimele-24-de-ore-25192.html,37600,10500,74400,72600,1800
