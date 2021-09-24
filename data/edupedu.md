@@ -1,4 +1,4 @@
-Last updated: `2021-09-23 10:07:03 (RO UTC +3)`  
+Last updated: `2021-09-24 10:07:07 (RO UTC +3)`  
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
   
@@ -33,149 +33,183 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 6‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm         | 09-16   | 09-17   | 09-18   | 09-19   | 09-20   | 09-21   | 09-22   |
+|    | judet_norm      | uat_norm         | 09-17   | 09-18   | 09-19   | 09-20   | 09-21   | 09-22   | 09-23   |
 |---:|:----------------|:-----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba            | Sâncel           |         |         |         |         |         | 6.15    | 6.54    |
-|  2 | Arad            | Cărand           | 10.22   | 10.22   | 6.51    |         |         |         |         |
-|  3 | Arad            | Frumușeni        |         |         |         |         |         | 6.09    | 6.09    |
-|  4 | Bistrița-Năsăud | Negrilești       |         |         | 6.13    | 6.56    | 6.56    | 6.56    | 6.56    |
-|  5 | Botoșani        | Roma             |         |         |         |         | 7.14    | 7.14    | 7.4     |
-|  6 | Botoșani        | Tudora           |         |         |         | 6.26    | 6.87    | 7.68    | 7.88    |
-|  7 | Caraș-Severin   | Gârnic           |         |         |         |         | 7.04    | 8.6     | 7.82    |
-|  8 | Caraș-Severin   | Pojejena         | 9.07    | 9.07    | 9.07    | 9.83    | 9.1     | 9.47    | 9.47    |
-|  9 | Caraș-Severin   | Ticvaniu Mare    |         |         |         | 6.01    | 7.01    | 8.01    | 8.01    |
-| 10 | Cluj            | Cătina           | 7.78    | 8.38    | 7.78    | 9.67    | 10.88   | 12.08   | 12.08   |
-| 11 | Cluj            | Geaca            |         |         |         |         |         | 6.96    | 6.96    |
-| 12 | Cluj            | Ploscoș          | 9.65    | 9.65    | 9.65    | 9.66    | 9.66    | 9.66    | 9.66    |
-| 13 | Dolj            | Bechet           | 6.4     |         |         |         |         |         |         |
-| 14 | Dolj            | Ghercești        |         |         |         |         |         |         | 7.57    |
-| 15 | Ilfov           | Afumați          |         |         | 6.05    |         | 6.18    | 6.29    | 6.77    |
-| 16 | Maramureș       | Asuaju de Sus    |         |         |         | 6.56    | 6.56    | 6.56    | 6.56    |
-| 17 | Maramureș       | Bârsana          |         | 6.07    | 7.8     | 8.24    | 8.45    | 8.89    | 9.1     |
-| 18 | Maramureș       | Giulești         |         |         |         |         | 7.25    | 7.88    | 7.88    |
-| 19 | Mehedinți       | Breznița-Motru   |         |         |         |         |         |         | 6.31    |
-| 20 | Neamț           | Tupilați         | 6.12    | 6.59    | 6.59    | 7.08    | 8.02    | 8.02    | 8.49    |
-| 21 | Olt             | Deveselu         |         |         |         |         |         |         | 6.22    |
-| 22 | Olt             | Studina          |         |         |         |         |         |         | 6.2     |
-| 23 | Prahova         | Brebu            |         |         |         |         |         |         | 6.02    |
-| 24 | Prahova         | Gura Vadului     |         |         |         |         | 6.32    | 6.32    | 6.8     |
-| 25 | Satu Mare       | Bixad            | 7.63    | 7.0     | 6.49    |         |         |         |         |
-| 26 | Satu Mare       | Bătarci          |         | 6.06    | 6.06    |         |         |         |         |
-| 27 | Satu Mare       | Doba             |         |         |         |         |         |         | 6.26    |
-| 28 | Satu Mare       | Gherța Mică      | 10.14   | 8.91    | 8.91    | 7.92    |         |         |         |
-| 29 | Satu Mare       | Negrești-Oaș     | 6.44    | 6.5     | 6.55    | 6.38    | 6.27    |         |         |
-| 30 | Satu Mare       | Tarna Mare       |         |         | 6.07    | 6.08    | 6.33    | 6.33    | 6.33    |
-| 31 | Satu Mare       | Turț             | 6.72    | 6.61    |         |         |         |         |         |
-| 32 | Satu Mare       | Târșolț          | 13.88   | 12.62   | 9.47    | 9.4     | 7.2     | 6.89    | 6.58    |
-| 33 | Satu Mare       | Vama             |         | 6.77    | 7.02    | 7.25    | 7.73    | 8.21    | 8.21    |
-| 34 | Satu Mare       | Viile Satu Mare  |         |         | 6.11    |         |         | 6.11    | 6.36    |
-| 35 | Sibiu           | Șeica Mică       | 11.15   | 11.15   | 11.15   | 10.03   | 10.03   | 10.03   | 10.03   |
-| 36 | Suceava         | Horodnic de Jos  |         |         | 6.45    | 6.85    |         |         |         |
-| 37 | Suceava         | Poieni-Solca     |         | 6.12    | 6.56    |         |         |         |         |
-| 38 | Sălaj           | Bobota           |         |         |         |         |         | 6.77    | 7.03    |
-| 39 | Sălaj           | Meseșenii de Jos |         |         |         | 6.03    |         |         |         |
-| 40 | Sălaj           | Mirșid           |         |         |         |         |         | 6.92    | 7.32    |
-| 41 | Sălaj           | Șimișna          | 7.67    | 6.82    |         |         |         |         |         |
-| 42 | Teleorman       | Blejești         |         |         |         |         |         | 6.75    | 7.03    |
-| 43 | Teleorman       | Islaz            |         |         |         |         | 6.42    | 7.27    | 7.49    |
-| 44 | Teleorman       | Măldăeni         |         |         |         |         |         |         | 6.48    |
-| 45 | Teleorman       | Uda-Clocociov    |         |         |         |         |         |         | 6.04    |
-| 46 | Teleorman       | Zâmbreasca       |         |         |         | 6.26    | 6.26    | 6.26    | 7.82    |
-| 47 | Timiș           | Bara             |         |         |         | 6.04    | 6.04    | 6.04    | 9.06    |
-| 48 | Timiș           | Bucovăț          |         |         |         |         | 6.37    | 7.65    | 7.65    |
-| 49 | Timiș           | Dumbrava         |         |         |         | 6.55    |         |         |         |
-| 50 | Timiș           | Ghiroda          |         |         |         |         |         |         | 6.72    |
-| 51 | Timiș           | Moravița         |         |         |         |         | 6.87    | 7.6     | 7.96    |
-| 52 | Vâlcea          | Horezu           |         |         |         |         |         | 6.09    | 6.23    |
+|  1 | Alba            | Ohaba            |         |         |         |         |         |         | 6.57    |
+|  2 | Alba            | Sâncel           |         |         |         |         | 6.15    | 6.54    | 7.31    |
+|  3 | Arad            | Cărand           | 10.22   | 6.51    |         |         |         |         |         |
+|  4 | Arad            | Frumușeni        |         |         |         |         | 6.09    | 6.09    | 6.09    |
+|  5 | Bistrița-Năsăud | Negrilești       |         | 6.13    | 6.56    | 6.56    | 6.56    | 6.56    | 8.2     |
+|  6 | Botoșani        | Roma             |         |         |         | 7.14    | 7.14    | 7.4     | 7.4     |
+|  7 | Botoșani        | Tudora           |         |         | 6.26    | 6.87    | 7.68    | 7.88    | 8.28    |
+|  8 | Caraș-Severin   | Fârliug          |         |         |         |         |         |         | 6.85    |
+|  9 | Caraș-Severin   | Gârnic           |         |         |         | 7.04    | 8.6     | 7.82    | 7.82    |
+| 10 | Caraș-Severin   | Pojejena         | 9.07    | 9.07    | 9.83    | 9.1     | 9.47    | 9.47    | 9.47    |
+| 11 | Caraș-Severin   | Ticvaniu Mare    |         |         | 6.01    | 7.01    | 8.01    | 8.01    | 7.51    |
+| 12 | Cluj            | Cătina           | 8.38    | 7.78    | 9.67    | 10.88   | 12.08   | 12.08   | 12.08   |
+| 13 | Cluj            | Geaca            |         |         |         |         | 6.96    | 6.96    | 6.96    |
+| 14 | Cluj            | Jichișu de Jos   |         |         |         |         |         |         | 6.11    |
+| 15 | Cluj            | Ploscoș          | 9.65    | 9.65    | 9.66    | 9.66    | 9.66    | 9.66    | 9.66    |
+| 16 | Călărași        | Curcani          |         |         |         |         |         |         | 6.08    |
+| 17 | Dolj            | Cârcea           |         |         |         |         |         |         | 6.09    |
+| 18 | Dolj            | Ghercești        |         |         |         |         |         | 7.57    |         |
+| 19 | Gorj            | Crasna           |         |         |         |         |         |         | 6.57    |
+| 20 | Ilfov           | Afumați          |         | 6.05    |         | 6.18    | 6.29    | 6.77    | 6.77    |
+| 21 | Ilfov           | Bragadiru        |         |         |         |         |         |         | 6.11    |
+| 22 | Ilfov           | Chiajna          |         |         |         |         |         |         | 6.36    |
+| 23 | Ilfov           | Dobroești        |         |         |         |         |         |         | 6.92    |
+| 24 | Maramureș       | Asuaju de Sus    |         |         | 6.56    | 6.56    | 6.56    | 6.56    | 6.56    |
+| 25 | Maramureș       | Bogdan Vodă      |         |         |         |         |         |         | 7.46    |
+| 26 | Maramureș       | Bârsana          | 6.07    | 7.8     | 8.24    | 8.45    | 8.89    | 9.1     | 9.1     |
+| 27 | Maramureș       | Giulești         |         |         |         | 7.25    | 7.88    | 7.88    | 7.56    |
+| 28 | Maramureș       | Ocna Șugatag     |         |         |         |         |         |         | 6.22    |
+| 29 | Mehedinți       | Breznița-Motru   |         |         |         |         |         | 6.31    | 6.31    |
+| 30 | Neamț           | Tupilați         | 6.59    | 6.59    | 7.08    | 8.02    | 8.02    | 8.49    | 7.55    |
+| 31 | Olt             | Cezieni          |         |         |         |         |         |         | 8.71    |
+| 32 | Olt             | Deveselu         |         |         |         |         |         | 6.22    | 7.47    |
+| 33 | Olt             | Studina          |         |         |         |         |         | 6.2     | 6.2     |
+| 34 | Prahova         | Brebu            |         |         |         |         |         | 6.02    | 6.59    |
+| 35 | Prahova         | Gura Vadului     |         |         |         | 6.32    | 6.32    | 6.8     | 8.75    |
+| 36 | Prahova         | Slănic           |         |         |         |         |         |         | 6.37    |
+| 37 | Satu Mare       | Bixad            | 7.0     | 6.49    |         |         |         |         |         |
+| 38 | Satu Mare       | Bătarci          | 6.06    | 6.06    |         |         |         |         |         |
+| 39 | Satu Mare       | Doba             |         |         |         |         |         | 6.26    |         |
+| 40 | Satu Mare       | Gherța Mică      | 8.91    | 8.91    | 7.92    |         |         |         |         |
+| 41 | Satu Mare       | Negrești-Oaș     | 6.5     | 6.55    | 6.38    | 6.27    |         |         |         |
+| 42 | Satu Mare       | Tarna Mare       |         | 6.07    | 6.08    | 6.33    | 6.33    | 6.33    | 6.08    |
+| 43 | Satu Mare       | Turț             | 6.61    |         |         |         |         |         |         |
+| 44 | Satu Mare       | Târșolț          | 12.62   | 9.47    | 9.4     | 7.2     | 6.89    | 6.58    |         |
+| 45 | Satu Mare       | Vama             | 6.77    | 7.02    | 7.25    | 7.73    | 8.21    | 8.21    | 8.21    |
+| 46 | Satu Mare       | Viile Satu Mare  |         | 6.11    |         |         | 6.11    | 6.36    | 6.62    |
+| 47 | Sibiu           | Șeica Mică       | 11.15   | 11.15   | 10.03   | 10.03   | 10.03   | 10.03   | 9.48    |
+| 48 | Suceava         | Horodnic de Jos  |         | 6.45    | 6.85    |         |         |         |         |
+| 49 | Suceava         | Poieni-Solca     | 6.12    | 6.56    |         |         |         |         |         |
+| 50 | Sălaj           | Bobota           |         |         |         |         | 6.77    | 7.03    | 7.03    |
+| 51 | Sălaj           | Meseșenii de Jos |         |         | 6.03    |         |         |         | 7.61    |
+| 52 | Sălaj           | Mirșid           |         |         |         |         | 6.92    | 7.32    | 7.73    |
+| 53 | Sălaj           | Șimișna          | 6.82    |         |         |         |         |         |         |
+| 54 | Teleorman       | Blejești         |         |         |         |         | 6.75    | 7.03    | 6.21    |
+| 55 | Teleorman       | Islaz            |         |         |         | 6.42    | 7.27    | 7.49    | 8.34    |
+| 56 | Teleorman       | Măldăeni         |         |         |         |         |         | 6.48    | 7.0     |
+| 57 | Teleorman       | Uda-Clocociov    |         |         |         |         |         | 6.04    | 6.79    |
+| 58 | Teleorman       | Zâmbreasca       |         |         | 6.26    | 6.26    | 6.26    | 7.82    | 7.82    |
+| 59 | Timiș           | Bara             |         |         | 6.04    | 6.04    | 6.04    | 9.06    | 9.06    |
+| 60 | Timiș           | Bucovăț          |         |         |         | 6.37    | 7.65    | 7.65    | 6.8     |
+| 61 | Timiș           | Dumbrava         |         |         | 6.55    |         |         |         |         |
+| 62 | Timiș           | Ghiroda          |         |         |         |         |         | 6.72    | 6.84    |
+| 63 | Timiș           | Moravița         |         |         |         | 6.87    | 7.6     | 7.96    | 8.68    |
+| 64 | Timiș           | Moșnița Nouă     |         |         |         |         |         |         | 6.4     |
+| 65 | Timiș           | Pădureni         |         |         |         |         |         |         | 6.8     |
+| 66 | Tulcea          | Izvoarele        |         |         |         |         |         |         | 6.09    |
+| 67 | Vâlcea          | Horezu           |         |         |         |         | 6.09    | 6.23    | 6.23    |
   
 Localities above 5‰, but below 6‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm         | 09-16   | 09-17   | 09-18   | 09-19   | 09-20   | 09-21   | 09-22   |
-|---:|:----------------|:-----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba            | Sâncel           |         |         |         |         | 5.38    | 6+      | 6+      |
-|  2 | Arad            | Frumușeni        |         |         | 5.37    | 5.37    | 5.37    | 6+      | 6+      |
-|  3 | Bihor           | Gepiu            | 5.32    | 5.32    | 5.32    |         |         |         |         |
-|  4 | Bistrița-Năsăud | Budacu de Jos    |         | 5.04    | 5.63    | 5.64    | 5.34    | 5.64    | 5.34    |
-|  5 | Bistrița-Năsăud | Nușeni           | 5.7     | 5.7     | 5.7     |         |         |         |         |
-|  6 | Bistrița-Năsăud | Șieu-Măgheruș    | 5.26    |         | 5.05    |         |         |         |         |
-|  7 | Bistrița-Năsăud | Șieu-Odorhei     |         |         |         |         |         |         | 5.69    |
-|  8 | Botoșani        | Roma             | 5.61    | 5.35    | 5.61    | 5.87    | 6+      | 6+      | 6+      |
-|  9 | Botoșani        | Tudora           |         | 5.22    | 5.02    | 6+      | 6+      | 6+      | 6+      |
-| 10 | Caraș-Severin   | Ciclova Română   |         |         |         |         | 5.46    | 5.46    | 5.46    |
-| 11 | Caraș-Severin   | Ciudanovița      | 5.05    | 5.05    | 5.05    | 5.06    |         |         |         |
-| 12 | Caraș-Severin   | Fârliug          |         |         |         | 5.14    | 5.14    | 5.71    | 5.14    |
-| 13 | Caraș-Severin   | Glimboca         |         |         |         |         | 5.27    | 5.27    | 5.27    |
-| 14 | Caraș-Severin   | Gârnic           |         |         |         | 5.47    | 6+      | 6+      | 6+      |
-| 15 | Caraș-Severin   | Ticvaniu Mare    |         |         | 5.97    | 6+      | 6+      | 6+      | 6+      |
-| 16 | Cluj            | Geaca            |         |         |         | 5.57    | 5.57    | 6+      | 6+      |
-| 17 | Cluj            | Săndulești       |         |         |         | 5.02    | 5.94    | 5.94    | 5.94    |
-| 18 | Călărași        | Curcani          |         |         |         |         |         | 5.53    | 5.9     |
-| 19 | Dolj            | Bechet           | 6+      | 5.96    | 5.3     | 5.09    |         | 5.31    | 5.09    |
-| 20 | Dolj            | Cârcea           |         |         |         |         |         | 5.45    | 5.45    |
-| 21 | Dolj            | Fărcaș           |         |         |         |         |         | 5.25    | 5.73    |
-| 22 | Dolj            | Ghercești        |         | 5.39    | 5.39    | 5.41    | 5.95    | 5.95    | 6+      |
-| 23 | Gorj            | Crasna           |         |         |         |         |         | 5.09    | 5.73    |
-| 24 | Ilfov           | Afumați          | 5.34    | 5.7     | 6+      | 5.94    | 6+      | 6+      | 6+      |
-| 25 | Ilfov           | Bragadiru        |         |         |         |         |         | 5.17    | 5.46    |
-| 26 | Ilfov           | Chiajna          |         |         |         |         |         |         | 5.43    |
-| 27 | Ilfov           | Dobroești        |         |         |         |         |         | 5.57    | 5.89    |
-| 28 | Ilfov           | Mogoșoaia        |         |         |         |         |         | 5.21    | 5.53    |
-| 29 | Ilfov           | Otopeni          |         |         |         |         |         |         | 5.27    |
-| 30 | Maramureș       | Asuaju de Sus    | 5.7     | 5.7     | 5.7     | 6+      | 6+      | 6+      | 6+      |
-| 31 | Maramureș       | Bogdan Vodă      |         |         |         |         |         | 5.42    | 5.42    |
-| 32 | Maramureș       | Bârsana          | 5.64    | 6+      | 6+      | 6+      | 6+      | 6+      | 6+      |
-| 33 | Maramureș       | Călinești        |         |         |         | 5.1     | 5.42    | 5.42    | 5.1     |
-| 34 | Maramureș       | Giulești         |         | 5.37    | 5.37    | 5.36    | 6+      | 6+      | 6+      |
-| 35 | Maramureș       | Ocna Șugatag     |         |         |         |         | 5.03    | 5.27    | 5.27    |
-| 36 | Maramureș       | Vișeu de Sus     |         |         |         |         | 5.25    | 5.42    | 5.47    |
-| 37 | Olt             | Deveselu         | 5.29    | 5.29    | 5.29    | 5.29    | 5.29    | 5.91    | 6+      |
-| 38 | Olt             | Milcov           |         |         |         |         | 5.11    | 5.11    | 5.11    |
-| 39 | Olt             | Studina          |         |         |         |         |         | 5.04    | 6+      |
-| 40 | Olt             | Traian           |         |         |         |         |         |         | 5.58    |
-| 41 | Prahova         | Brebu            |         |         |         |         |         | 5.3     | 6+      |
-| 42 | Prahova         | Slănic           |         |         |         |         |         |         | 5.44    |
-| 43 | Prahova         | Tătaru           |         |         |         |         |         |         | 5.03    |
-| 44 | Prahova         | Vâlcănești       |         |         |         |         | 5.18    | 5.18    | 5.18    |
-| 45 | Satu Mare       | Apa              |         |         |         | 5.12    | 5.49    | 5.49    | 5.49    |
-| 46 | Satu Mare       | Bixad            | 6+      | 6+      | 6+      | 5.84    |         |         |         |
-| 47 | Satu Mare       | Bătarci          | 5.53    | 6+      | 6+      | 5.0     |         |         |         |
-| 48 | Satu Mare       | Certeze          |         |         |         |         |         |         | 5.12    |
-| 49 | Satu Mare       | Călinești-Oaș    | 5.8     | 5.61    | 5.24    | 5.44    | 5.06    |         |         |
-| 50 | Satu Mare       | Doba             | 5.26    | 5.59    | 5.26    |         | 5.27    | 5.6     | 6+      |
-| 51 | Satu Mare       | Gherța Mică      | 6+      | 6+      | 6+      | 6+      | 5.7     |         |         |
-| 52 | Satu Mare       | Negrești-Oaș     | 6+      | 6+      | 6+      | 6+      | 6+      | 5.91    | 5.62    |
-| 53 | Satu Mare       | Supur            |         |         |         |         |         | 5.06    | 5.3     |
-| 54 | Satu Mare       | Tarna Mare       |         | 5.32    | 6+      | 6+      | 6+      | 6+      | 6+      |
-| 55 | Satu Mare       | Turț             | 6+      | 6+      | 5.91    |         |         |         |         |
-| 56 | Satu Mare       | Vama             | 5.81    | 6+      | 6+      | 6+      | 6+      | 6+      | 6+      |
-| 57 | Satu Mare       | Viile Satu Mare  |         |         | 6+      | 5.86    | 5.86    | 6+      | 6+      |
-| 58 | Suceava         | Botoșana         | 5.2     | 5.57    |         |         |         |         |         |
-| 59 | Suceava         | Frătăuții Vechi  |         |         |         |         | 5.45    | 5.28    | 5.12    |
-| 60 | Suceava         | Horodnic de Jos  | 5.24    | 5.64    | 6+      | 6+      |         |         |         |
-| 61 | Suceava         | Poieni-Solca     | 5.68    | 6+      | 6+      | 5.26    | 5.7     | 5.26    |         |
-| 62 | Suceava         | Todirești        |         |         |         |         |         | 5.02    |         |
-| 63 | Sălaj           | Bobota           |         |         |         |         | 5.47    | 6+      | 6+      |
-| 64 | Sălaj           | Bocșa            |         |         |         |         | 5.06    | 5.35    | 5.35    |
-| 65 | Sălaj           | Meseșenii de Jos |         | 5.05    | 5.36    | 6+      | 5.07    | 5.71    | 5.71    |
-| 66 | Sălaj           | Mirșid           |         |         |         |         | 5.29    | 6+      | 6+      |
-| 67 | Sălaj           | Șimișna          | 6+      | 6+      | 5.97    |         | 5.28    |         |         |
-| 68 | Teleorman       | Blejești         |         |         |         | 5.4     | 5.67    | 6+      | 6+      |
-| 69 | Teleorman       | Gălăteni         |         |         |         |         |         | 5.34    | 5.34    |
-| 70 | Teleorman       | Islaz            |         |         |         | 5.56    | 6+      | 6+      | 6+      |
-| 71 | Teleorman       | Măldăeni         |         |         |         |         |         | 5.44    | 6+      |
-| 72 | Teleorman       | Uda-Clocociov    |         |         |         |         | 5.28    | 5.28    | 6+      |
-| 73 | Timiș           | Bara             | 5.83    | 5.83    | 5.83    | 6+      | 6+      | 6+      | 6+      |
-| 74 | Timiș           | Becicherecu Mic  |         |         |         |         |         | 5.04    | 5.34    |
-| 75 | Timiș           | Bucovăț          | 5.13    | 5.56    | 5.13    | 5.95    | 6+      | 6+      | 6+      |
-| 76 | Timiș           | Cenei            |         |         | 5.62    | 5.29    | 5.29    | 5.63    | 5.96    |
-| 77 | Timiș           | Denta            |         |         |         | 5.28    | 5.28    |         |         |
-| 78 | Timiș           | Dumbrava         |         | 5.46    | 5.46    | 6+      | 5.82    | 5.82    | 5.46    |
-| 79 | Timiș           | Ghiroda          |         |         |         |         |         | 5.78    | 6+      |
-| 80 | Timiș           | Giulvăz          |         |         |         | 5.21    |         | 5.51    | 5.21    |
-| 81 | Timiș           | Moravița         |         |         | 5.79    | 5.79    | 6+      | 6+      | 6+      |
-| 82 | Timiș           | Moșnița Nouă     |         |         |         |         |         | 5.49    | 5.91    |
-| 83 | Timiș           | Parța            |         |         |         |         |         | 5.32    | 5.32    |
-| 84 | Timiș           | Pădureni         |         |         |         |         |         |         | 5.83    |
-| 85 | Timiș           | Sacoșu Turcesc   |         |         |         |         |         |         | 5.0     |
-| 86 | Timiș           | Șag              |         |         |         |         | 5.45    |         |         |
-| 87 | Vâlcea          | Horezu           |         |         |         | 5.36    | 5.65    | 6+      | 6+      |
+|     | judet_norm      | uat_norm         | 09-17   | 09-18   | 09-19   | 09-20   | 09-21   | 09-22   | 09-23   |
+|----:|:----------------|:-----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|   1 | Alba            | Sâncel           |         |         |         | 5.38    | 6+      | 6+      | 6+      |
+|   2 | Arad            | Frumușeni        |         | 5.37    | 5.37    | 5.37    | 6+      | 6+      | 6+      |
+|   3 | Arad            | Zădăreni         |         |         |         |         |         |         | 5.9     |
+|   4 | Bihor           | Gepiu            | 5.32    | 5.32    |         |         |         |         |         |
+|   5 | Bistrița-Năsăud | Budacu de Jos    | 5.04    | 5.63    | 5.64    | 5.34    | 5.64    | 5.34    | 5.04    |
+|   6 | Bistrița-Năsăud | Nușeni           | 5.7     | 5.7     |         |         |         |         |         |
+|   7 | Bistrița-Năsăud | Rodna            |         |         |         |         |         |         | 5.67    |
+|   8 | Bistrița-Năsăud | Runcu Salvei     |         |         |         |         |         |         | 5.31    |
+|   9 | Bistrița-Năsăud | Șieu-Măgheruș    |         | 5.05    |         |         |         |         |         |
+|  10 | Bistrița-Năsăud | Șieu-Odorhei     |         |         |         |         |         | 5.69    | 5.69    |
+|  11 | Botoșani        | Roma             | 5.35    | 5.61    | 5.87    | 6+      | 6+      | 6+      | 6+      |
+|  12 | Botoșani        | Tudora           | 5.22    | 5.02    | 6+      | 6+      | 6+      | 6+      | 6+      |
+|  13 | Caraș-Severin   | Ciclova Română   |         |         |         | 5.46    | 5.46    | 5.46    |         |
+|  14 | Caraș-Severin   | Ciudanovița      | 5.05    | 5.05    | 5.06    |         |         |         |         |
+|  15 | Caraș-Severin   | Fârliug          |         |         | 5.14    | 5.14    | 5.71    | 5.14    | 6+      |
+|  16 | Caraș-Severin   | Glimboca         |         |         |         | 5.27    | 5.27    | 5.27    | 5.8     |
+|  17 | Caraș-Severin   | Gârnic           |         |         | 5.47    | 6+      | 6+      | 6+      | 6+      |
+|  18 | Caraș-Severin   | Ticvaniu Mare    |         | 5.97    | 6+      | 6+      | 6+      | 6+      | 6+      |
+|  19 | Cluj            | Geaca            |         |         | 5.57    | 5.57    | 6+      | 6+      | 6+      |
+|  20 | Cluj            | Săndulești       |         |         | 5.02    | 5.94    | 5.94    | 5.94    | 5.48    |
+|  21 | Călărași        | Curcani          |         |         |         |         | 5.53    | 5.9     | 6+      |
+|  22 | Călărași        | Mitreni          |         |         |         |         |         |         | 5.11    |
+|  23 | Călărași        | Sărulești        |         |         |         |         |         |         | 5.07    |
+|  24 | Dolj            | Almăj            |         |         |         |         |         |         | 5.65    |
+|  25 | Dolj            | Bechet           | 5.96    | 5.3     | 5.09    |         | 5.31    | 5.09    |         |
+|  26 | Dolj            | Cârcea           |         |         |         |         | 5.45    | 5.45    | 6+      |
+|  27 | Dolj            | Fărcaș           |         |         |         |         | 5.25    | 5.73    | 5.73    |
+|  28 | Dolj            | Ghercești        | 5.39    | 5.39    | 5.41    | 5.95    | 5.95    | 6+      |         |
+|  29 | Dolj            | Șimnicu de Sus   |         |         |         |         |         |         | 5.06    |
+|  30 | Dâmbovița       | Cornățelu        |         |         |         |         |         |         | 5.25    |
+|  31 | Gorj            | Crasna           |         |         |         |         | 5.09    | 5.73    | 6+      |
+|  32 | Ilfov           | Afumați          | 5.7     | 6+      | 5.94    | 6+      | 6+      | 6+      | 6+      |
+|  33 | Ilfov           | Bragadiru        |         |         |         |         | 5.17    | 5.46    | 6+      |
+|  34 | Ilfov           | Chiajna          |         |         |         |         |         | 5.43    | 6+      |
+|  35 | Ilfov           | Dobroești        |         |         |         |         | 5.57    | 5.89    | 6+      |
+|  36 | Ilfov           | Dărăști-Ilfov    |         |         |         |         |         |         | 5.15    |
+|  37 | Ilfov           | Mogoșoaia        |         |         |         |         | 5.21    | 5.53    | 5.86    |
+|  38 | Ilfov           | Otopeni          |         |         |         |         |         | 5.27    | 5.56    |
+|  39 | Ilfov           | Popești-Leordeni |         |         |         |         |         |         | 5.56    |
+|  40 | Ilfov           | Voluntari        |         |         |         |         |         |         | 5.55    |
+|  41 | Maramureș       | Asuaju de Sus    | 5.7     | 5.7     | 6+      | 6+      | 6+      | 6+      | 6+      |
+|  42 | Maramureș       | Bogdan Vodă      |         |         |         |         | 5.42    | 5.42    | 6+      |
+|  43 | Maramureș       | Călinești        |         |         | 5.1     | 5.42    | 5.42    | 5.1     |         |
+|  44 | Maramureș       | Giulești         | 5.37    | 5.37    | 5.36    | 6+      | 6+      | 6+      | 6+      |
+|  45 | Maramureș       | Ocna Șugatag     |         |         |         | 5.03    | 5.27    | 5.27    | 6+      |
+|  46 | Maramureș       | Vima Mică        |         |         |         |         |         |         | 5.85    |
+|  47 | Maramureș       | Vișeu de Sus     |         |         |         | 5.25    | 5.42    | 5.47    | 5.25    |
+|  48 | Olt             | Deveselu         | 5.29    | 5.29    | 5.29    | 5.29    | 5.91    | 6+      | 6+      |
+|  49 | Olt             | Milcov           |         |         |         | 5.11    | 5.11    | 5.11    | 5.11    |
+|  50 | Olt             | Studina          |         |         |         |         | 5.04    | 6+      | 6+      |
+|  51 | Olt             | Traian           |         |         |         |         |         | 5.58    | 5.23    |
+|  52 | Prahova         | Brebu            |         |         |         |         | 5.3     | 6+      | 6+      |
+|  53 | Prahova         | Slănic           |         |         |         |         |         | 5.44    | 6+      |
+|  54 | Prahova         | Telega           |         |         |         |         |         |         | 5.36    |
+|  55 | Prahova         | Tătaru           |         |         |         |         |         | 5.03    | 5.03    |
+|  56 | Prahova         | Vâlcănești       |         |         |         | 5.18    | 5.18    | 5.18    | 5.73    |
+|  57 | Satu Mare       | Apa              |         |         | 5.12    | 5.49    | 5.49    | 5.49    | 5.49    |
+|  58 | Satu Mare       | Bixad            | 6+      | 6+      | 5.84    |         |         |         |         |
+|  59 | Satu Mare       | Bătarci          | 6+      | 6+      | 5.0     |         |         |         | 5.0     |
+|  60 | Satu Mare       | Certeze          |         |         |         |         |         | 5.12    | 5.29    |
+|  61 | Satu Mare       | Călinești-Oaș    | 5.61    | 5.24    | 5.44    | 5.06    |         |         |         |
+|  62 | Satu Mare       | Doba             | 5.59    | 5.26    |         | 5.27    | 5.6     | 6+      | 5.6     |
+|  63 | Satu Mare       | Gherța Mică      | 6+      | 6+      | 6+      | 5.7     |         |         |         |
+|  64 | Satu Mare       | Negrești-Oaș     | 6+      | 6+      | 6+      | 6+      | 5.91    | 5.62    | 5.5     |
+|  65 | Satu Mare       | Satu Mare        |         |         |         |         |         |         | 5.08    |
+|  66 | Satu Mare       | Supur            |         |         |         |         | 5.06    | 5.3     |         |
+|  67 | Satu Mare       | Tarna Mare       | 5.32    | 6+      | 6+      | 6+      | 6+      | 6+      | 6+      |
+|  68 | Satu Mare       | Turț             | 6+      | 5.91    |         |         |         |         |         |
+|  69 | Satu Mare       | Viile Satu Mare  |         | 6+      | 5.86    | 5.86    | 6+      | 6+      | 6+      |
+|  70 | Suceava         | Botoșana         | 5.57    |         |         |         |         |         | 5.2     |
+|  71 | Suceava         | Frătăuții Vechi  |         |         |         | 5.45    | 5.28    | 5.12    |         |
+|  72 | Suceava         | Horodnic de Jos  | 5.64    | 6+      | 6+      |         |         |         |         |
+|  73 | Suceava         | Poieni-Solca     | 6+      | 6+      | 5.26    | 5.7     | 5.26    |         |         |
+|  74 | Suceava         | Todirești        |         |         |         |         | 5.02    |         | 5.73    |
+|  75 | Sălaj           | Bobota           |         |         |         | 5.47    | 6+      | 6+      | 6+      |
+|  76 | Sălaj           | Bocșa            |         |         |         | 5.06    | 5.35    | 5.35    | 5.95    |
+|  77 | Sălaj           | Meseșenii de Jos | 5.05    | 5.36    | 6+      | 5.07    | 5.71    | 5.71    | 6+      |
+|  78 | Sălaj           | Mirșid           |         |         |         | 5.29    | 6+      | 6+      | 6+      |
+|  79 | Sălaj           | Șimișna          | 6+      | 5.97    |         | 5.28    |         |         |         |
+|  80 | Teleorman       | Blejești         |         |         | 5.4     | 5.67    | 6+      | 6+      | 6+      |
+|  81 | Teleorman       | Gălăteni         |         |         |         |         | 5.34    | 5.34    | 5.34    |
+|  82 | Teleorman       | Islaz            |         |         | 5.56    | 6+      | 6+      | 6+      | 6+      |
+|  83 | Teleorman       | Măldăeni         |         |         |         |         | 5.44    | 6+      | 6+      |
+|  84 | Teleorman       | Uda-Clocociov    |         |         |         | 5.28    | 5.28    | 6+      | 6+      |
+|  85 | Timiș           | Bara             | 5.83    | 5.83    | 6+      | 6+      | 6+      | 6+      | 6+      |
+|  86 | Timiș           | Becicherecu Mic  |         |         |         |         | 5.04    | 5.34    | 5.04    |
+|  87 | Timiș           | Bucovăț          | 5.56    | 5.13    | 5.95    | 6+      | 6+      | 6+      | 6+      |
+|  88 | Timiș           | Cenei            |         | 5.62    | 5.29    | 5.29    | 5.63    | 5.96    | 5.96    |
+|  89 | Timiș           | Denta            |         |         | 5.28    | 5.28    |         |         | 5.28    |
+|  90 | Timiș           | Dudeștii Noi     |         |         |         |         |         |         | 5.53    |
+|  91 | Timiș           | Dumbrava         | 5.46    | 5.46    | 6+      | 5.82    | 5.82    | 5.46    | 5.82    |
+|  92 | Timiș           | Dumbrăvița       |         |         |         |         |         |         | 5.49    |
+|  93 | Timiș           | Ghiroda          |         |         |         |         | 5.78    | 6+      | 6+      |
+|  94 | Timiș           | Giroc            |         |         |         |         |         |         | 5.2     |
+|  95 | Timiș           | Giulvăz          |         |         | 5.21    |         | 5.51    | 5.21    |         |
+|  96 | Timiș           | Mașloc           |         |         |         |         |         |         | 5.29    |
+|  97 | Timiș           | Moravița         |         | 5.79    | 5.79    | 6+      | 6+      | 6+      | 6+      |
+|  98 | Timiș           | Moșnița Nouă     |         |         |         |         | 5.49    | 5.91    | 6+      |
+|  99 | Timiș           | Parța            |         |         |         |         | 5.32    | 5.32    | 5.32    |
+| 100 | Timiș           | Pădureni         |         |         |         |         |         | 5.83    | 6+      |
+| 101 | Timiș           | Sacoșu Turcesc   |         |         |         |         |         | 5.0     | 5.0     |
+| 102 | Timiș           | Timișoara        |         |         |         |         |         |         | 5.35    |
+| 103 | Timiș           | Șag              |         |         |         | 5.45    |         |         |         |
+| 104 | Vaslui          | Tanacu           |         |         |         |         |         |         | 5.5     |
+| 105 | Vâlcea          | Băile Govora     |         |         |         |         |         |         | 5.55    |
+| 106 | Vâlcea          | Horezu           |         |         | 5.36    | 5.65    | 6+      | 6+      | 6+      |
