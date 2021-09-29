@@ -1,4 +1,4 @@
-Last updated: `2021-09-28 13:49:57 (RO UTC +3)`  
+Last updated: `2021-09-29 11:49:53 (RO UTC +3)`  
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
   
