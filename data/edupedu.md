@@ -1,6 +1,6 @@
-Last updated: `2021-10-02 04:33:59 (RO UTC +3)`  
+Last updated: `2021-10-02 10:07:05 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is:`2021-09-30`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2021-09-30`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
