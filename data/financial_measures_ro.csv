@@ -7,6 +7,8 @@ date,desc,link,lang,desc2,desc3
 2020-08-05,"NBR cuts the monetary policy rate by 25 bp to 1,50%",https://bnr.ro/page.aspx?prid=18197,EN,BNR,financial
 2020-11-12,NBR cuts minimum required reserve ratio for foreign exchange reserves form 6% to 5%,https://bnr.ro/page.aspx?prid=18596,EN,BNR,financial
 2021-01-16,"NBR cuts the monetary policy rate by 25 bp to 1,25% from 1,5%",https://www.bnro.ro/page.aspx?prid=18896,EN,BNR,financial
+2021-10-06,"NBR raises the monetary policy rate by 25 bp from 1,25% to 1,5% in order to ease inflationary pressures",https://www.bnr.ro/Rata-dobanzii-de-politica-monetara-1744-Mobile.aspx,EN,BNR,financial
+2021-11-09,"NBR raises the monetary policy rate by 25 bp from 1,5% to 1,75% in order to ease inflationary pressures",https://www.bnr.ro/page.aspx?prid=20136,EN,BNR,financial
 2021-03-15,The BET index of the Bucharest Stock Exchange reaches a new historical record at 10800 points ,https://www.zf.ro/burse-fonduri-mutuale/bursa-bucuresti-ajunge-10-800-puncte-sparge-maximul-istoric-indicele-19958463,EN,BVB,financial
 2020-03-25,The Financial Supervisory Authority lifts the 70% upper limit on the fixed-income holdings of private pension funds.,https://asfromania.ro/informatii-publice/media/arhiva/7032-deciziile-adoptate-de-consiliul-autoritatii-de-supraveghere-financiara-24-03-2020,EN,Other,financial
 2020-03-18,"Az RNB közreműködik a kormánnyal, az állami szervekkel és a bankrendszerrel a COVID-19 világjárvány negatív hatásainak enyhítése érdekében.",https://bnr.ro/page.aspx?prid=17576,HU,BNR,pénzügyi
@@ -17,6 +19,8 @@ date,desc,link,lang,desc2,desc3
 2020-08-05,"A RNB 25 bázisponttal csökkenti az irányadó kamatlábat 1,50%-ra",https://bnr.ro/page.aspx?prid=18197,HU,BNR,pénzügyi
 2020-11-12,A RNB 6%-ról 5%-ra csökkenti a kötelező devizabetétek minimális tartalékrátáját,https://bnr.ro/page.aspx?prid=18596,HU,BNR,pénzügyi
 2021-01-16,"A RNB 25 bázisponttal csökkenti az irányadó kamatlábat 1,50%-ról 1,25%-ra",https://www.bnro.ro/page.aspx?prid=18896,HU,BNR,pénzügyi
+2021-10-06,"A RNB 25 bázisponttal növeli az irányadó kamatlábat 1,25%-ról 1,50%-ra az inflációs nyomás enyhítésére",https://www.bnr.ro/Rata-dobanzii-de-politica-monetara-1744-Mobile.aspx,HU,BNR,pénzügyi
+2021-11-09,"A RNB 25 bázisponttal növeli az irányadó kamatlábat 1,5%-ról 1,75%-ra az inflációs nyomás enyhítésére",https://www.bnr.ro/page.aspx?prid=20136,HU,BNR,pénzügyi
 2021-03-15,A Bukaresti Értéktőzsde történelmi csúcsot ér el 10800 pontnál,https://www.zf.ro/burse-fonduri-mutuale/bursa-bucuresti-ajunge-10-800-puncte-sparge-maximul-istoric-indicele-19958463,HU,BVB,pénzügyi
 2020-03-25,"A pénzügyi felügyelet (ASF) feloldja a magánnyugdíjpénztárak fix jövedelmezőségű eszközökbe történő befetetéseinek felső, 70%-os határát.",https://asfromania.ro/informatii-publice/media/arhiva/7032-deciziile-adoptate-de-consiliul-autoritatii-de-supraveghere-financiara-24-03-2020,HU,Egyéb,pénzügyi
 2020-03-18,"BNR este implicată împreună cu guvernul, autoritățile publice și sistemul bancar în vederea limitării efectelor negative ale pandemiei de COVID-19",https://bnr.ro/page.aspx?prid=17576,RO,BNR,financiar
@@ -27,5 +31,7 @@ date,desc,link,lang,desc2,desc3
 2020-08-05,"BNR decide reducerea ratei dobânzii de politică monetară la 1,50%",https://bnr.ro/page.aspx?prid=18197,RO,BNR,financiar
 2020-11-12,BNR decide reducerea ratei rezervei minime pentru pasivele in valută la nivelul de 5% de la 6%,https://bnr.ro/page.aspx?prid=18596,RO,BNR,financiar
 2021-01-16,"BNR reduce rata dobânzii de politică monetară la nivelul de 1,25 la sută pe an, de la 1,50 la sută pe an. ",https://www.bnro.ro/page.aspx?prid=18896,RO,BNR,financiar
+2021-10-06,"BNR crește rata dobânzii de politică monetară  de la 1,25 la sută pe an la 1,50 la sută pe an, pentru a domoli presiunile inlaționiste. ",https://www.bnr.ro/Rata-dobanzii-de-politica-monetara-1744-Mobile.aspx,RO,BNR,financiar
+2021-11-09,"BNR crește rata dobânzii de politică monetară  de la 1,5 la sută pe an la 1,75 la sută pe an, pentru a domoli presiunile inlaționiste. ",https://www.bnr.ro/page.aspx?prid=20136,RO,BNR,financiar
 2021-03-15,Indicele BET al BVB atinge un nou record absolut istoric la 10800 de puncte.,https://www.zf.ro/burse-fonduri-mutuale/bursa-bucuresti-ajunge-10-800-puncte-sparge-maximul-istoric-indicele-19958463,RO,BVB,financiar
 2020-03-25,Autoritatea de Supraveghere Financiară ridică pragul de 70% de deținere de titluri de stat de către fondurile private de pensii,https://asfromania.ro/informatii-publice/media/arhiva/7032-deciziile-adoptate-de-consiliul-autoritatii-de-supraveghere-financiara-24-03-2020,RO,Altele,financiar
