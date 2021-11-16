@@ -1,37 +1,37 @@
-Last updated: `2021-11-16 11:53:45 (RO UTC +3)`  
+Last updated: `2021-11-16 14:11:52 (RO UTC +3)`  
   
 Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2021-11-15`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
   
-|    | judet_norm   | uat_norm      |   vaccination_ratio | date       |   population |   dose_1 |
-|---:|:-------------|:--------------|--------------------:|:-----------|-------------:|---------:|
-|  1 | Timiș        | Dumbrăvița    |               54.5  | 2021-10-05 |        14668 |     7994 |
-|  2 | Alba         | Rimetea       |               47.19 | 2021-10-05 |         1013 |      478 |
-|  3 | Cluj         | Cluj-Napoca   |               47.19 | 2021-10-05 |       327272 |   154440 |
-|  4 | Timiș        | Giroc         |               46.88 | 2021-10-05 |        17954 |     8417 |
-|  5 | Iași         | Valea Lupului |               46.7  | 2021-10-05 |        10086 |     4710 |
-|  6 | Dolj         | Cârcea        |               46.26 | 2021-10-05 |         2838 |     1313 |
-|  7 | Harghita     | Borsec        |               45.35 | 2021-10-05 |         2675 |     1213 |
-|  8 | Ilfov        | Otopeni       |               44.46 | 2021-10-05 |        18314 |     8142 |
-|  9 | Cluj         | Feleacu       |               43.54 | 2021-10-05 |         4134 |     1800 |
-| 10 | Cluj         | Florești      |               43.27 | 2021-10-05 |        41503 |    17958 |
+|    | judet_norm      | uat_norm        |   vaccination_ratio | date       |   population |   dose_1 |
+|---:|:----------------|:----------------|--------------------:|:-----------|-------------:|---------:|
+|  1 | Timiș           | Dumbrăvița      |               60.48 | 2021-11-05 |        14668 |     8871 |
+|  2 | Bistrița-Năsăud | Salva           |               57.46 | 2021-11-05 |         2753 |     1582 |
+|  3 | Dolj            | Cârcea          |               56.38 | 2021-11-05 |         2838 |     1600 |
+|  4 | Iași            | Valea Lupului   |               56.33 | 2021-11-05 |        10086 |     5681 |
+|  5 | Timiș           | Giroc           |               54.27 | 2021-11-05 |        17954 |     9744 |
+|  6 | Cluj            | Izvoru Crișului |               53.41 | 2021-11-05 |         1479 |      790 |
+|  7 | Ilfov           | Otopeni         |               52.5  | 2021-11-05 |        18314 |     9615 |
+|  8 | Alba            | Rimetea         |               52.42 | 2021-11-05 |         1013 |      531 |
+|  9 | Cluj            | Cluj-Napoca     |               52.38 | 2021-11-05 |       327272 |   171425 |
+| 10 | Ilfov           | Chiajna         |               52.32 | 2021-11-05 |        28196 |    14752 |
   
 Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
   
-|    | judet_norm      | uat_norm          |   vaccination_ratio | date       |   population |   dose_1 |
-|---:|:----------------|:------------------|--------------------:|:-----------|-------------:|---------:|
-| 10 | Bistrița-Năsăud | Parva             |                3.44 | 2021-10-05 |         2585 |       89 |
-|  9 | Bacău           | Berzunți          |                3.32 | 2021-10-05 |         5279 |      175 |
-|  8 | Bacău           | Stănișești        |                3.19 | 2021-10-05 |         4576 |      146 |
-|  7 | Dâmbovița       | Cojasca           |                2.99 | 2021-10-05 |         8975 |      268 |
-|  6 | Sibiu           | Jina              |                2.67 | 2021-10-05 |         3671 |       98 |
-|  5 | Suceava         | Valea Moldovei    |                2.56 | 2021-10-05 |         4680 |      120 |
-|  4 | Constanța       | Dobromir          |                2.38 | 2021-10-05 |         3702 |       88 |
-|  3 | Vrancea         | Slobozia Bradului |                2.04 | 2021-10-05 |         8807 |      180 |
-|  2 | Suceava         | Ulma              |                1.83 | 2021-10-05 |         2242 |       41 |
-|  1 | Ialomița        | Bărbulești        |                0.39 | 2021-10-05 |         7599 |       30 |
+|    | judet_norm   | uat_norm          |   vaccination_ratio | date       |   population |   dose_1 |
+|---:|:-------------|:------------------|--------------------:|:-----------|-------------:|---------:|
+| 10 | Bacău        | Stănișești        |                4.63 | 2021-11-05 |         4576 |      212 |
+|  9 | Brașov       | Augustin          |                4.63 | 2021-11-05 |         2116 |       98 |
+|  8 | Suceava      | Izvoarele Sucevei |                4.29 | 2021-11-05 |         2143 |       92 |
+|  7 | Dâmbovița    | Cojasca           |                4.28 | 2021-11-05 |         8975 |      384 |
+|  6 | Iași         | Ipatele           |                4    | 2021-11-05 |         1676 |       67 |
+|  5 | Constanța    | Dobromir          |                3.84 | 2021-11-05 |         3702 |      142 |
+|  4 | Suceava      | Valea Moldovei    |                3.48 | 2021-11-05 |         4680 |      163 |
+|  3 | Suceava      | Ulma              |                2.85 | 2021-11-05 |         2242 |       64 |
+|  2 | Vrancea      | Slobozia Bradului |                2.82 | 2021-11-05 |         8807 |      248 |
+|  1 | Ialomița     | Bărbulești        |                0.74 | 2021-11-05 |         7599 |       56 |
   
 # Incidence  
 Localities above 6‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
