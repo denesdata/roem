@@ -34,7 +34,7 @@ services:
       - ./grafana/var/lib/:/var/lib/grafana
       - ./html/:/html
     environment:
-      - GF_INSTALL_PLUGINS=grafana-clock-panel,yesoreyeram-boomtheme-panel,savantly-heatmap-panel,ryantxu-ajax-panel,grafana-worldmap-panel
+      - GF_INSTALL_PLUGINS=grafana-clock-panel,yesoreyeram-boomtheme-panel,savantly-heatmap-panel,ryantxu-ajax-panel,grafana-worldmap-panel,innius-video-panel
       - GF_SECURITY_ALLOW_EMBEDDING=true
       - GF_AUTH_ANONYMOUS_ENABLED=true
       - GF_SECURITY_COOKIE_SAMESITE=none
