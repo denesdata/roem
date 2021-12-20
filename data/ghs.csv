@@ -216,58 +216,58 @@ date,iso3,category,type,value,lang,langtype,langcategory
 2021-01-01,USA,norms,us,81.9,RO,SUA,Standarde
 2021-01-01,USA,norms,us,81.9,EN,USA,Standards
 2019-01-01,CHN,health,cn,49.4,HU,Kína,Egészségügyi rendszer
-2019-01-01,CHN,health,cn,49.4,RO,China,Sistemul medical
+2019-01-01,CHN,health,cn,49.4,RO,China,Sistemul de sănătate
 2019-01-01,CHN,health,cn,49.4,EN,China,Healthcare system
 2021-01-01,CHN,health,cn,51.8,HU,Kína,Egészségügyi rendszer
-2021-01-01,CHN,health,cn,51.8,RO,China,Sistemul medical
+2021-01-01,CHN,health,cn,51.8,RO,China,Sistemul de sănătate
 2021-01-01,CHN,health,cn,51.8,EN,China,Healthcare system
 2019-01-01,COL,health,co,43.7,HU,Kolumbia,Egészségügyi rendszer
-2019-01-01,COL,health,co,43.7,RO,Columbia,Sistemul medical
+2019-01-01,COL,health,co,43.7,RO,Columbia,Sistemul de sănătate
 2019-01-01,COL,health,co,43.7,EN,Colombia,Healthcare system
 2021-01-01,COL,health,co,48.5,HU,Kolumbia,Egészségügyi rendszer
-2021-01-01,COL,health,co,48.5,RO,Columbia,Sistemul medical
+2021-01-01,COL,health,co,48.5,RO,Columbia,Sistemul de sănătate
 2021-01-01,COL,health,co,48.5,EN,Colombia,Healthcare system
 2019-01-01,FRA,health,fr,68.1,HU,Franciaország,Egészségügyi rendszer
-2019-01-01,FRA,health,fr,68.1,RO,Franța,Sistemul medical
+2019-01-01,FRA,health,fr,68.1,RO,Franța,Sistemul de sănătate
 2019-01-01,FRA,health,fr,68.1,EN,France,Healthcare system
 2021-01-01,FRA,health,fr,70.4,HU,Franciaország,Egészségügyi rendszer
-2021-01-01,FRA,health,fr,70.4,RO,Franța,Sistemul medical
+2021-01-01,FRA,health,fr,70.4,RO,Franța,Sistemul de sănătate
 2021-01-01,FRA,health,fr,70.4,EN,France,Healthcare system
 2019-01-01,DEU,health,de,53.7,HU,Németország,Egészségügyi rendszer
-2019-01-01,DEU,health,de,53.7,RO,Germania,Sistemul medical
+2019-01-01,DEU,health,de,53.7,RO,Germania,Sistemul de sănătate
 2019-01-01,DEU,health,de,53.7,EN,Germany,Healthcare system
 2021-01-01,DEU,health,de,56.0,HU,Németország,Egészségügyi rendszer
-2021-01-01,DEU,health,de,56.0,RO,Germania,Sistemul medical
+2021-01-01,DEU,health,de,56.0,RO,Germania,Sistemul de sănătate
 2021-01-01,DEU,health,de,56.0,EN,Germany,Healthcare system
 2019-01-01,HUN,health,hu,57.0,HU,Magyarország,Egészségügyi rendszer
-2019-01-01,HUN,health,hu,57.0,RO,Ungaria,Sistemul medical
+2019-01-01,HUN,health,hu,57.0,RO,Ungaria,Sistemul de sănătate
 2019-01-01,HUN,health,hu,57.0,EN,Hungary,Healthcare system
 2021-01-01,HUN,health,hu,54.6,HU,Magyarország,Egészségügyi rendszer
-2021-01-01,HUN,health,hu,54.6,RO,Ungaria,Sistemul medical
+2021-01-01,HUN,health,hu,54.6,RO,Ungaria,Sistemul de sănătate
 2021-01-01,HUN,health,hu,54.6,EN,Hungary,Healthcare system
 2019-01-01,ITA,health,it,40.3,HU,Olaszország,Egészségügyi rendszer
-2019-01-01,ITA,health,it,40.3,RO,Italia,Sistemul medical
+2019-01-01,ITA,health,it,40.3,RO,Italia,Sistemul de sănătate
 2019-01-01,ITA,health,it,40.3,EN,Italy,Healthcare system
 2021-01-01,ITA,health,it,40.2,HU,Olaszország,Egészségügyi rendszer
-2021-01-01,ITA,health,it,40.2,RO,Italia,Sistemul medical
+2021-01-01,ITA,health,it,40.2,RO,Italia,Sistemul de sănătate
 2021-01-01,ITA,health,it,40.2,EN,Italy,Healthcare system
 2019-01-01,ROU,health,ro,45.4,HU,Románia,Egészségügyi rendszer
-2019-01-01,ROU,health,ro,45.4,RO,România,Sistemul medical
+2019-01-01,ROU,health,ro,45.4,RO,România,Sistemul de sănătate
 2019-01-01,ROU,health,ro,45.4,EN,Romania,Healthcare system
 2021-01-01,ROU,health,ro,47.9,HU,Románia,Egészségügyi rendszer
-2021-01-01,ROU,health,ro,47.9,RO,România,Sistemul medical
+2021-01-01,ROU,health,ro,47.9,RO,România,Sistemul de sănătate
 2021-01-01,ROU,health,ro,47.9,EN,Romania,Healthcare system
 2019-01-01,GBR,health,gb,66.0,HU,Egyesült Királyság,Egészségügyi rendszer
-2019-01-01,GBR,health,gb,66.0,RO,Marea Britanie,Sistemul medical
+2019-01-01,GBR,health,gb,66.0,RO,Marea Britanie,Sistemul de sănătate
 2019-01-01,GBR,health,gb,66.0,EN,United Kingdom,Healthcare system
 2021-01-01,GBR,health,gb,68.3,HU,Egyesült Királyság,Egészségügyi rendszer
-2021-01-01,GBR,health,gb,68.3,RO,Marea Britanie,Sistemul medical
+2021-01-01,GBR,health,gb,68.3,RO,Marea Britanie,Sistemul de sănătate
 2021-01-01,GBR,health,gb,68.3,EN,United Kingdom,Healthcare system
 2019-01-01,USA,health,us,75.2,HU,USA,Egészségügyi rendszer
-2019-01-01,USA,health,us,75.2,RO,SUA,Sistemul medical
+2019-01-01,USA,health,us,75.2,RO,SUA,Sistemul de sănătate
 2019-01-01,USA,health,us,75.2,EN,USA,Healthcare system
 2021-01-01,USA,health,us,75.2,HU,USA,Egészségügyi rendszer
-2021-01-01,USA,health,us,75.2,RO,SUA,Sistemul medical
+2021-01-01,USA,health,us,75.2,RO,SUA,Sistemul de sănătate
 2021-01-01,USA,health,us,75.2,EN,USA,Healthcare system
 2019-01-01,CHN,detect,cn,48.5,HU,Kína,Detektálás és monitorizálás
 2019-01-01,CHN,detect,cn,48.5,RO,China,Detectare și monitorizare
