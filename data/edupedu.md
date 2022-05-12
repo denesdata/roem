@@ -1,6 +1,6 @@
-Last updated: `2022-05-12 11:54:06 (RO UTC +3)`  
+Last updated: `2022-05-12 14:21:14 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-04-30`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-11`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,73 +36,41 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm    | 04-24   | 04-25   | 04-26   | 04-27   | 04-28   | 04-29   | 04-30   |
-|---:|:----------------|:------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba            | Ohaba       |         |         |         |         |         |         | 3.44    |
-|  2 | Bistrița-Năsăud | Cetate      | 3.23    |         |         |         |         |         |         |
-|  3 | Bucharest       | Sector 1    | 3.93    | 3.71    | 3.62    | 3.45    | 3.04    |         |         |
-|  4 | Buzău           | Brădeanu    | 3.1     |         |         |         |         |         |         |
-|  5 | Buzău           | Pardoși     | 3.15    |         |         |         |         |         |         |
-|  6 | Caraș-Severin   | Ciudanovița | 3.47    | 3.47    | 3.47    |         |         |         |         |
-|  7 | Caraș-Severin   | Văliug      | 3.85    | 3.85    | 3.85    |         |         |         |         |
-|  8 | Cluj            | Cluj-Napoca | 3.53    | 3.4     | 3.29    | 3.2     |         |         |         |
-|  9 | Hunedoara       | Cerbăl      | 4.95    | 4.95    | 4.95    | 4.95    | 4.95    | 4.95    | 4.95    |
-| 10 | Hunedoara       | Lelese      | 5.88    | 5.88    | 5.88    | 5.88    |         |         |         |
-| 11 | Ilfov           | Corbeanca   | 4.06    | 3.76    | 3.55    | 3.25    |         |         |         |
-| 12 | Sălaj           | Letca       | 3.65    | 3.04    | 3.04    | 3.04    | 3.04    | 3.04    | 3.04    |
-| 13 | Sălaj           | Marca       |         |         |         |         |         |         | 3.2     |
-| 14 | Timiș           | Jebel       | 3.93    | 3.69    | 3.44    | 3.2     |         |         |         |
+|    | judet_norm   | uat_norm         | 05-05   | 05-06   |   05-07 |   05-08 |   05-09 |   05-10 |   05-11 |
+|---:|:-------------|:-----------------|:--------|:--------|--------:|--------:|--------:|--------:|--------:|
+|  1 | Alba         | Ohaba            | 3.44    | 3.44    |    3.44 |    5.16 |    5.16 |    5.16 |    5.16 |
+|  2 | Alba         | Rimetea          |         |         |    3.02 |    3.02 |    3.02 |    3.02 |    3.02 |
+|  3 | Hunedoara    | Teliucu Inferior |         |         |    3.23 |    3.63 |    3.63 |    3.63 |    3.63 |
+|  4 | Mureș        | Crăiești         |         |         |    3.68 |    3.68 |    3.68 |    3.68 |    3.68 |
+|  5 | Timiș        | Bara             |         |         |    3.23 |    3.23 |    3.23 |    3.23 |    3.23 |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm           | 04-24   | 04-25   | 04-26   | 04-27   | 04-28   | 04-29   | 04-30   |
+|    | judet_norm      | uat_norm           | 05-05   | 05-06   | 05-07   | 05-08   | 05-09   | 05-10   | 05-11   |
 |---:|:----------------|:-------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba            | Noșlac             | 2.2     | 2.2     | 2.2     | 2.2     |         |         |         |
-|  2 | Alba            | Poșaga             | 2.23    | 2.23    | 2.23    | 2.23    | 2.23    |         |         |
-|  3 | Alba            | Rădești            |         | 2.37    | 2.37    | 2.37    | 2.37    | 2.37    | 2.37    |
-|  4 | Alba            | Sântimbru          | 2.65    | 2.65    | 2.65    | 2.65    | 2.65    |         |         |
-|  5 | Bihor           | Chișlaz            |         |         | 2.56    | 2.56    | 2.56    | 2.56    | 2.88    |
-|  6 | Bistrița-Năsăud | Cetate             | 3+      | 2.26    | 2.59    | 2.59    | 2.59    | 2.59    | 2.59    |
-|  7 | Bistrița-Năsăud | Silivașu de Câmpie | 2.2     | 2.2     | 2.2     | 2.2     | 2.2     | 2.2     | 2.2     |
-|  8 | Brașov          | Cristian           | 2.84    | 2.54    | 2.24    | 2.24    | 2.09    |         |         |
-|  9 | Brașov          | Sânpetru           | 2.09    |         |         |         |         |         |         |
-| 10 | Bucharest       | Sector 1           | 3+      | 3+      | 3+      | 3+      | 3+      | 2.96    | 2.76    |
-| 11 | Bucharest       | Sector 2           | 2.13    | 2.02    |         |         |         |         |         |
-| 12 | Bucharest       | Sector 6           | 2.11    |         |         |         |         |         |         |
-| 13 | Buzău           | Brădeanu           | 3+      | 2.66    | 2.66    | 2.66    |         |         |         |
-| 14 | Caraș-Severin   | Grădinari          | 2.49    | 2.0     | 2.0     | 2.0     |         |         |         |
-| 15 | Caraș-Severin   | Văliug             | 3+      | 3+      | 3+      | 2.57    | 2.57    |         |         |
-| 16 | Cluj            | Baciu              |         |         |         | 2.23    | 2.23    | 2.45    | 2.3     |
-| 17 | Cluj            | Chinteni           | 2.38    | 2.38    | 2.12    | 2.38    |         |         |         |
-| 18 | Cluj            | Cluj-Napoca        | 3+      | 3+      | 3+      | 3+      | 2.74    | 2.7     | 2.52    |
-| 19 | Cluj            | Florești           | 2.35    | 2.19    | 2.13    | 2.0     |         |         |         |
-| 20 | Cluj            | Mociu              | 2.2     |         |         |         |         |         |         |
-| 21 | Cluj            | Petreștii de Jos   | 2.04    | 2.04    | 2.04    | 2.04    | 2.04    | 2.04    |         |
-| 22 | Cluj            | Sâncraiu           | 2.6     | 2.6     | 2.6     |         |         |         |         |
-| 23 | Dolj            | Cârcea             | 2.48    | 2.48    | 2.48    | 2.48    |         |         |         |
-| 24 | Giurgiu         | Schitu             | 2.08    | 2.08    | 2.08    | 2.08    | 2.08    | 2.08    | 2.08    |
-| 25 | Hunedoara       | Boșorod            | 2.16    |         |         |         |         |         |         |
-| 26 | Hunedoara       | Densuș             | 2.88    | 2.16    |         |         |         |         |         |
-| 27 | Hunedoara       | General Berthelot  | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    |
-| 28 | Hunedoara       | Lelese             | 3+      | 3+      | 3+      | 3+      | 2.94    |         |         |
-| 29 | Hunedoara       | Rapoltu Mare       | 2.07    | 2.07    | 2.07    | 2.07    |         |         |         |
-| 30 | Ilfov           | Cernica            | 2.0     |         |         |         |         |         |         |
-| 31 | Ilfov           | Corbeanca          | 3+      | 3+      | 3+      | 3+      | 2.84    | 2.34    | 2.13    |
-| 32 | Ilfov           | Mogoșoaia          | 2.35    | 2.35    | 2.35    | 2.35    | 2.03    |         |         |
-| 33 | Ilfov           | Otopeni            | 2.0     | 2.0     |         |         |         |         |         |
-| 34 | Ilfov           | Tunari             |         |         | 2.08    | 2.08    |         |         |         |
-| 35 | Mehedinți       | Ilovița            |         |         |         |         |         | 2.36    | 2.36    |
-| 36 | Mehedinți       | Vlădaia            |         | 2.6     |         |         |         |         |         |
-| 37 | Olt             | Rotunda            | 2.37    | 2.37    | 2.37    | 2.37    |         |         |         |
-| 38 | Sibiu           | Alțina             | 2.66    | 2.66    | 2.66    | 2.66    | 2.13    |         |         |
-| 39 | Sălaj           | Lozna              |         |         | 2.19    | 2.19    | 2.19    | 2.19    | 2.19    |
-| 40 | Sălaj           | Marca              | 2.4     | 2.4     | 2.4     | 2.4     | 2.4     | 2.0     | 3+      |
-| 41 | Timiș           | Bucovăț            | 2.43    | 2.43    | 2.43    | 2.03    |         |         |         |
-| 42 | Timiș           | Dumbrăvița         | 2.73    | 2.52    | 2.73    | 2.68    | 2.32    | 2.32    | 2.37    |
-| 43 | Timiș           | Ghiroda            | 2.31    | 2.19    | 2.19    | 2.08    |         |         |         |
-| 44 | Timiș           | Giroc              | 2.4     | 2.18    | 2.14    | 2.01    |         |         |         |
-| 45 | Timiș           | Moșnița Nouă       | 2.46    | 2.01    |         |         |         |         |         |
-| 46 | Timiș           | Timișoara          | 2.71    | 2.51    | 2.42    | 2.34    | 2.02    |         |         |
-| 47 | Timiș           | Șag                | 2.21    |         |         |         |         |         |         |
-| 48 | Vaslui          | Vulturești         |         | 2.38    | 2.38    | 2.38    | 2.86    | 2.86    | 2.86    |
-| 49 | Vâlcea          | Mitrofani          | 2.34    | 2.34    | 2.34    | 2.34    | 2.34    |         |         |
+|  1 | Bihor           | Chișlaz            | 2.56    |         |         |         |         |         |         |
+|  2 | Bistrița-Năsăud | Silivașu de Câmpie | 2.2     |         |         |         |         |         |         |
+|  3 | Bucharest       | Sector 1           | 2.46    | 2.36    | 2.32    | 2.22    | 2.2     | 2.16    | 2.18    |
+|  4 | Caraș-Severin   | Răcășdia           | 2.4     |         |         |         |         |         |         |
+|  5 | Caraș-Severin   | Zorlențu Mare      | 2.07    | 2.07    | 2.07    | 2.07    | 2.07    | 2.07    | 2.07    |
+|  6 | Cluj            | Aiton              | 2.96    | 2.96    | 2.96    | 2.96    | 2.96    | 2.96    | 2.96    |
+|  7 | Cluj            | Băișoara           |         |         |         |         |         | 2.56    | 2.56    |
+|  8 | Cluj            | Ciurila            |         |         |         |         | 2.25    | 2.25    | 2.25    |
+|  9 | Cluj            | Cluj-Napoca        | 2.3     | 2.22    | 2.14    | 2.09    | 2.09    | 2.05    | 2.06    |
+| 10 | Cluj            | Gilău              | 2.08    | 2.19    | 2.19    | 2.41    | 2.41    | 2.41    | 2.3     |
+| 11 | Hunedoara       | General Berthelot  | 2.33    |         |         |         |         |         |         |
+| 12 | Hunedoara       | Ghelari            |         |         | 2.04    | 2.04    | 2.04    | 2.04    | 2.04    |
+| 13 | Hunedoara       | Lelese             |         |         | 2.95    | 2.98    | 2.98    | 2.98    | 2.98    |
+| 14 | Ilfov           | Tunari             |         |         | 2.08    |         |         |         |         |
+| 15 | Maramureș       | Groși              | 2.73    |         | 2.12    | 2.12    | 2.12    |         |         |
+| 16 | Maramureș       | Săcel              |         |         |         |         | 2.17    | 2.17    | 2.17    |
+| 17 | Mehedinți       | Vlădaia            |         | 2.6     | 2.6     | 2.59    |         |         |         |
+| 18 | Mureș           | Crăiești           | 2.45    | 2.45    | 3+      | 3+      | 3+      | 3+      | 3+      |
+| 19 | Mureș           | Solovăstru         |         | 2.27    | 2.27    | 2.58    |         |         |         |
+| 20 | Olt             | Văleni             |         | 2.07    | 2.07    | 2.07    | 2.07    | 2.07    | 2.07    |
+| 21 | Sălaj           | Bocșa              |         | 2.09    | 2.09    | 2.09    |         |         |         |
+| 22 | Sălaj           | Gârbou             | 2.08    | 2.08    | 2.08    | 2.6     | 2.6     | 2.6     | 2.6     |
+| 23 | Sălaj           | Hereclean          |         |         |         |         | 2.25    | 2.25    | 2.25    |
+| 24 | Sălaj           | Lozna              | 2.19    | 2.19    | 2.19    |         | 2.19    | 2.19    | 2.19    |
+| 25 | Sălaj           | Marca              |         |         | 2.0     | 2.01    | 2.01    | 2.01    | 2.01    |
+| 26 | Teleorman       | Pietroșani         | 2.43    | 2.43    | 2.43    | 2.44    | 2.44    | 2.44    | 2.44    |
