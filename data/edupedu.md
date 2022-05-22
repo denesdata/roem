@@ -1,6 +1,6 @@
-Last updated: `2022-05-21 11:53:59 (RO UTC +3)`  
+Last updated: `2022-05-22 11:04:01 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-20`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-21`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,34 +36,33 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm         |   05-14 | 05-15   | 05-16   | 05-17   | 05-18   | 05-19   | 05-20   |
-|---:|:-------------|:-----------------|--------:|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba         | Rimetea          |    3.02 |         |         |         |         |         |         |
-|  2 | Hunedoara    | Teliucu Inferior |    4.03 | 3.63    |         |         |         |         |         |
-|  3 | Mureș        | Crăiești         |    3.68 | 3.69    | 3.69    | 3.69    | 3.69    |         |         |
-|  4 | Sălaj        | Lozna            |    3.28 | 3.28    | 4.38    | 4.38    | 4.38    | 4.38    | 4.38    |
-|  5 | Timiș        | Bara             |    3.23 | 3.23    | 3.23    | 3.23    | 3.23    | 3.23    | 3.23    |
+|    | judet_norm   | uat_norm         | 05-15   | 05-16   | 05-17   | 05-18   | 05-19   | 05-20   | 05-21   |
+|---:|:-------------|:-----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  1 | Hunedoara    | Teliucu Inferior | 3.63    |         |         |         |         |         |         |
+|  2 | Mureș        | Crăiești         | 3.69    | 3.69    | 3.69    | 3.69    |         |         |         |
+|  3 | Sălaj        | Lozna            | 3.28    | 4.38    | 4.38    | 4.38    | 4.38    | 4.38    | 4.38    |
+|  4 | Timiș        | Bara             | 3.23    | 3.23    | 3.23    | 3.23    | 3.23    | 3.23    |         |
+|  5 | Vaslui       | Coroiești        |         |         |         |         |         |         | 3.19    |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm           | 05-14   | 05-15   | 05-16   | 05-17   | 05-18   | 05-19   | 05-20   |
+|    | judet_norm      | uat_norm           | 05-15   | 05-16   | 05-17   | 05-18   | 05-19   | 05-20   | 05-21   |
 |---:|:----------------|:-------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba            | Poșaga             | 2.23    | 2.24    |         |         |         |         |         |
-|  2 | Alba            | Rimetea            | 3+      | 2.02    | 2.02    | 2.02    | 2.02    | 2.02    | 2.02    |
-|  3 | Bistrița-Năsăud | Silivașu de Câmpie |         |         |         |         |         |         | 2.2     |
-|  4 | Cluj            | Ciurila            | 2.25    | 2.24    | 2.24    | 2.24    | 2.24    |         |         |
-|  5 | Călărași        | Vlad Țepeș         |         |         |         | 2.1     | 2.1     | 2.1     | 2.1     |
-|  6 | Dolj            | Cioroiași          |         | 2.18    | 2.18    | 2.18    | 2.18    | 2.18    |         |
-|  7 | Hunedoara       | Ghelari            | 2.04    | 2.03    | 2.03    | 2.03    | 2.03    |         |         |
-|  8 | Hunedoara       | Lelese             | 2.98    | 2.99    | 2.99    | 2.99    | 2.99    | 2.99    | 2.99    |
-|  9 | Hunedoara       | Teliucu Inferior   | 3+      | 3+      | 2.82    | 2.42    | 2.42    | 2.42    | 2.42    |
+|  1 | Alba            | Poșaga             | 2.24    |         |         |         |         |         |         |
+|  2 | Alba            | Rimetea            | 2.02    | 2.02    | 2.02    | 2.02    | 2.02    | 2.02    |         |
+|  3 | Bistrița-Năsăud | Silivașu de Câmpie |         |         |         |         |         | 2.2     | 2.2     |
+|  4 | Cluj            | Ciurila            | 2.24    | 2.24    | 2.24    | 2.24    |         |         |         |
+|  5 | Călărași        | Vlad Țepeș         |         |         | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     |
+|  6 | Dolj            | Cioroiași          | 2.18    | 2.18    | 2.18    | 2.18    | 2.18    |         |         |
+|  7 | Hunedoara       | Ghelari            | 2.03    | 2.03    | 2.03    | 2.03    |         |         |         |
+|  8 | Hunedoara       | Lelese             | 2.99    | 2.99    | 2.99    | 2.99    | 2.99    | 2.99    |         |
+|  9 | Hunedoara       | Teliucu Inferior   | 3+      | 2.82    | 2.42    | 2.42    | 2.42    | 2.42    |         |
 | 10 | Maramureș       | Coaș               | 2.09    | 2.09    | 2.09    | 2.09    | 2.09    | 2.09    | 2.09    |
-| 11 | Maramureș       | Vișeu de Jos       |         | 2.01    | 2.01    | 2.01    | 2.01    | 2.01    | 2.01    |
-| 12 | Mureș           | Crăiești           | 3+      | 3+      | 3+      | 3+      | 3+      | 2.46    | 2.46    |
-| 13 | Olt             | Văleni             | 2.07    | 2.07    |         |         |         |         |         |
-| 14 | Sălaj           | Gârbou             | 2.08    |         |         |         |         |         |         |
-| 15 | Sălaj           | Hereclean          |         | 2.0     |         |         |         |         |         |
-| 16 | Sălaj           | Românași           | 2.72    | 2.42    |         | 2.12    | 2.12    | 2.12    | 2.12    |
-| 17 | Teleorman       | Crevenicu          | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    |
-| 18 | Tulcea          | Carcaliu           | 2.13    |         |         |         |         |         |         |
-| 19 | Vaslui          | Coroiești          |         |         |         |         |         | 2.12    | 2.12    |
+| 11 | Maramureș       | Vișeu de Jos       | 2.01    | 2.01    | 2.01    | 2.01    | 2.01    | 2.01    |         |
+| 12 | Mureș           | Crăiești           | 3+      | 3+      | 3+      | 3+      | 2.46    | 2.46    |         |
+| 13 | Olt             | Văleni             | 2.07    |         |         |         |         |         |         |
+| 14 | Sălaj           | Hereclean          | 2.0     |         |         |         |         |         |         |
+| 15 | Sălaj           | Românași           | 2.42    |         | 2.12    | 2.12    | 2.12    | 2.12    | 2.12    |
+| 16 | Teleorman       | Crevenicu          | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    | 2.32    |
+| 17 | Tulcea          | Sfântu Gheorghe    |         |         |         |         |         |         | 2.58    |
+| 18 | Vaslui          | Coroiești          |         |         |         |         | 2.12    | 2.12    | 3+      |
