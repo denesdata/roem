@@ -1,6 +1,6 @@
-Last updated: `2022-05-28 11:54:04 (RO UTC +3)`  
+Last updated: `2022-05-29 11:04:09 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-27`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-28`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,23 +36,23 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   | 05-21   | 05-22   | 05-23   | 05-24   | 05-25   | 05-26   | 05-27   |
+|    | judet_norm   | uat_norm   | 05-22   | 05-23   | 05-24   | 05-25   | 05-26   | 05-27   | 05-28   |
 |---:|:-------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Sălaj        | Lozna      | 4.38    | 4.39    |         |         |         |         |         |
-|  2 | Teleorman    | Răsmirești |         |         |         |         |         |         | 4.2     |
-|  3 | Vaslui       | Coroiești  | 3.19    | 3.19    | 3.19    | 3.19    | 3.19    | 3.19    | 3.19    |
+|  1 | Sălaj        | Lozna      | 4.39    |         |         |         |         |         |         |
+|  2 | Teleorman    | Răsmirești |         |         |         |         |         | 4.2     | 4.2     |
+|  3 | Vaslui       | Coroiești  | 3.19    | 3.19    | 3.19    | 3.19    | 3.19    | 3.19    | 3.72    |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm           | 05-21   | 05-22   | 05-23   | 05-24   | 05-25   | 05-26   | 05-27   |
+|    | judet_norm      | uat_norm           | 05-22   | 05-23   | 05-24   | 05-25   | 05-26   | 05-27   | 05-28   |
 |---:|:----------------|:-------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Bistrița-Năsăud | Silivașu de Câmpie | 2.2     | 2.2     | 2.2     |         |         |         |         |
-|  2 | Cluj            | Mănăstireni        |         |         | 2.31    | 2.31    | 2.31    | 2.31    | 2.31    |
-|  3 | Călărași        | Vlad Țepeș         | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     |
-|  4 | Dâmbovița       | Moțăieni           |         |         | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    |
-|  5 | Maramureș       | Coaș               | 2.09    | 2.09    | 2.09    |         |         |         |         |
-|  6 | Sălaj           | Lozna              | 3+      | 3+      | 2.19    | 2.19    | 2.19    | 2.19    | 2.19    |
-|  7 | Sălaj           | Românași           | 2.12    |         |         |         |         |         |         |
-|  8 | Teleorman       | Crevenicu          | 2.32    | 2.33    | 2.33    | 2.33    | 2.33    |         |         |
-|  9 | Teleorman       | Răsmirești         |         |         |         |         | 2.8     | 2.8     | 3+      |
-| 10 | Tulcea          | Sfântu Gheorghe    | 2.58    | 2.59    | 2.59    | 2.59    | 2.59    |         |         |
+|  1 | Bistrița-Năsăud | Silivașu de Câmpie | 2.2     | 2.2     |         |         |         |         |         |
+|  2 | Cluj            | Mănăstireni        |         | 2.31    | 2.31    | 2.31    | 2.31    | 2.31    | 2.31    |
+|  3 | Covasna         | Covasna            |         |         |         |         |         |         | 2.11    |
+|  4 | Călărași        | Vlad Țepeș         | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     |
+|  5 | Dâmbovița       | Moțăieni           |         | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    |
+|  6 | Maramureș       | Coaș               | 2.09    | 2.09    |         |         |         |         |         |
+|  7 | Sălaj           | Lozna              | 3+      | 2.19    | 2.19    | 2.19    | 2.19    | 2.19    |         |
+|  8 | Teleorman       | Crevenicu          | 2.33    | 2.33    | 2.33    | 2.33    |         |         |         |
+|  9 | Teleorman       | Răsmirești         |         |         |         | 2.8     | 2.8     | 3+      | 3+      |
+| 10 | Tulcea          | Sfântu Gheorghe    | 2.59    | 2.59    | 2.59    | 2.59    |         |         |         |
