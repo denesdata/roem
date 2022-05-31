@@ -1,6 +1,6 @@
-Last updated: `2022-05-30 11:53:58 (RO UTC +3)`  
+Last updated: `2022-05-31 11:04:03 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-29`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-05-30`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,24 +36,23 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   | 05-23   | 05-24   | 05-25   | 05-26   | 05-27   | 05-28   | 05-29   |
-|---:|:-------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Teleorman    | Beuca      |         |         |         |         |         |         | 3.55    |
-|  2 | Teleorman    | Răsmirești |         |         |         |         | 4.2     | 4.2     | 4.22    |
-|  3 | Vaslui       | Coroiești  | 3.19    | 3.19    | 3.19    | 3.19    | 3.19    | 3.72    |         |
+|    | judet_norm   | uat_norm      | 05-24   | 05-25   | 05-26   | 05-27   | 05-28   | 05-29   | 05-30   |
+|---:|:-------------|:--------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  1 | Alba         | Ceru-Băcăinți |         |         |         |         |         |         | 4.35    |
+|  2 | Teleorman    | Beuca         |         |         |         |         |         | 3.55    | 3.55    |
+|  3 | Teleorman    | Răsmirești    |         |         |         | 4.2     | 4.2     | 4.22    | 4.22    |
+|  4 | Vaslui       | Coroiești     | 3.19    | 3.19    | 3.19    | 3.19    | 3.72    |         |         |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm      | uat_norm           | 05-23   | 05-24   | 05-25   | 05-26   | 05-27   | 05-28   | 05-29   |
-|---:|:----------------|:-------------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Bistrița-Năsăud | Silivașu de Câmpie | 2.2     |         |         |         |         |         |         |
-|  2 | Cluj            | Mănăstireni        | 2.31    | 2.31    | 2.31    | 2.31    | 2.31    | 2.31    |         |
-|  3 | Covasna         | Covasna            |         |         |         |         |         | 2.11    |         |
-|  4 | Călărași        | Vlad Țepeș         | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     |
-|  5 | Dâmbovița       | Moțăieni           | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    |
-|  6 | Maramureș       | Coaș               | 2.09    |         |         |         |         |         |         |
-|  7 | Sălaj           | Lozna              | 2.19    | 2.19    | 2.19    | 2.19    | 2.19    |         |         |
-|  8 | Teleorman       | Crevenicu          | 2.33    | 2.33    | 2.33    |         |         |         |         |
-|  9 | Teleorman       | Răsmirești         |         |         | 2.8     | 2.8     | 3+      | 3+      | 3+      |
-| 10 | Tulcea          | Sfântu Gheorghe    | 2.59    | 2.59    | 2.59    |         |         |         |         |
-| 11 | Vaslui          | Coroiești          | 3+      | 3+      | 3+      | 3+      | 3+      | 3+      | 2.12    |
+|    | judet_norm   | uat_norm        | 05-24   | 05-25   | 05-26   | 05-27   | 05-28   | 05-29   | 05-30   |
+|---:|:-------------|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  1 | Cluj         | Mănăstireni     | 2.31    | 2.31    | 2.31    | 2.31    | 2.31    |         |         |
+|  2 | Covasna      | Covasna         |         |         |         |         | 2.11    |         |         |
+|  3 | Călărași     | Vlad Țepeș      | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     | 2.1     |         |
+|  4 | Dâmbovița    | Moțăieni        | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    | 2.06    | 2.57    |
+|  5 | Sălaj        | Lozna           | 2.19    | 2.19    | 2.19    | 2.19    |         |         |         |
+|  6 | Teleorman    | Crevenicu       | 2.33    | 2.33    |         |         |         |         |         |
+|  7 | Teleorman    | Răsmirești      |         | 2.8     | 2.8     | 3+      | 3+      | 3+      | 3+      |
+|  8 | Tulcea       | Sfântu Gheorghe | 2.59    | 2.59    |         |         |         |         |         |
+|  9 | Vaslui       | Coroiești       | 3+      | 3+      | 3+      | 3+      | 3+      | 2.12    | 2.12    |
