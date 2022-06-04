@@ -1,6 +1,6 @@
-Last updated: `2022-06-03 11:53:44 (RO UTC +3)`  
+Last updated: `2022-06-04 11:03:57 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-02`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-03`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,20 +36,21 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm      | 05-27   | 05-28   | 05-29   | 05-30   | 05-31   | 06-01   | 06-02   |
+|    | judet_norm   | uat_norm      | 05-28   | 05-29   | 05-30   | 05-31   | 06-01   | 06-02   | 06-03   |
 |---:|:-------------|:--------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Alba         | Ceru-Băcăinți |         |         |         | 4.35    | 4.35    | 4.35    | 4.35    |
-|  2 | Teleorman    | Beuca         |         |         | 3.55    | 3.55    | 3.55    | 3.55    | 3.55    |
-|  3 | Teleorman    | Răsmirești    | 4.2     | 4.2     | 4.22    | 4.22    | 4.22    | 4.22    | 4.22    |
-|  4 | Vaslui       | Coroiești     | 3.19    | 3.72    |         |         |         |         |         |
+|  1 | Alba         | Ceru-Băcăinți |         |         | 4.35    | 4.35    | 4.35    | 4.35    | 4.35    |
+|  2 | Hunedoara    | Bunila        |         |         |         |         |         |         | 3.28    |
+|  3 | Teleorman    | Beuca         |         | 3.55    | 3.55    | 3.55    | 3.55    | 3.55    | 3.55    |
+|  4 | Teleorman    | Răsmirești    | 4.2     | 4.22    | 4.22    | 4.22    | 4.22    | 4.22    | 4.22    |
+|  5 | Vaslui       | Coroiești     | 3.72    |         |         |         |         |         |         |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm    | 05-27   | 05-28   | 05-29   | 05-30   | 05-31   | 06-01   | 06-02   |
-|---:|:-------------|:------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Cluj         | Mănăstireni | 2.31    | 2.31    |         |         |         |         |         |
-|  2 | Covasna      | Covasna     |         | 2.11    |         |         |         | 2.11    | 2.57    |
-|  3 | Călărași     | Vlad Țepeș  | 2.1     | 2.1     | 2.1     |         |         |         |         |
-|  4 | Dâmbovița    | Moțăieni    | 2.06    | 2.06    | 2.06    | 2.57    | 2.57    | 2.57    | 2.57    |
-|  5 | Sălaj        | Lozna       | 2.19    |         |         |         |         |         |         |
-|  6 | Vaslui       | Coroiești   | 3+      | 3+      | 2.12    | 2.12    | 2.12    | 2.12    |         |
+|    | judet_norm   | uat_norm        | 05-28   | 05-29   | 05-30   | 05-31   | 06-01   | 06-02   | 06-03   |
+|---:|:-------------|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
+|  1 | Cluj         | Mănăstireni     | 2.31    |         |         |         |         |         |         |
+|  2 | Covasna      | Covasna         | 2.11    |         |         |         | 2.11    | 2.57    | 2.57    |
+|  3 | Călărași     | Vlad Țepeș      | 2.1     | 2.1     |         |         |         |         |         |
+|  4 | Dâmbovița    | Moțăieni        | 2.06    | 2.06    | 2.57    | 2.57    | 2.57    | 2.57    |         |
+|  5 | Tulcea       | Sfântu Gheorghe |         |         |         |         |         |         | 2.59    |
+|  6 | Vaslui       | Coroiești       | 3+      | 2.12    | 2.12    | 2.12    | 2.12    |         |         |
