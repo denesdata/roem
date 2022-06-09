@@ -1,6 +1,6 @@
-Last updated: `2022-06-08 11:54:07 (RO UTC +3)`  
+Last updated: `2022-06-09 11:03:53 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-07`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-08`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,21 +36,20 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm      | 06-01   | 06-02   | 06-03   | 06-04   | 06-05   | 06-06   | 06-07   |
+|    | judet_norm   | uat_norm      | 06-02   | 06-03   | 06-04   | 06-05   | 06-06   | 06-07   | 06-08   |
 |---:|:-------------|:--------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
 |  1 | Alba         | Ceru-Băcăinți | 4.35    | 4.35    | 4.35    | 4.35    | 4.35    | 4.35    | 4.35    |
-|  2 | Bihor        | Abram         |         |         |         |         |         |         | 3.03    |
-|  3 | Hunedoara    | Bunila        |         |         | 3.28    | 3.28    | 3.28    | 3.28    | 3.28    |
+|  2 | Bihor        | Abram         |         |         |         |         |         | 3.03    | 3.03    |
+|  3 | Hunedoara    | Bunila        |         | 3.28    | 3.28    | 3.28    | 3.28    | 3.28    | 3.28    |
 |  4 | Teleorman    | Beuca         | 3.55    | 3.55    | 3.55    | 3.55    | 3.55    | 3.55    | 3.55    |
-|  5 | Teleorman    | Răsmirești    | 4.22    | 4.22    | 4.22    | 4.22    | 4.22    |         |         |
+|  5 | Teleorman    | Răsmirești    | 4.22    | 4.22    | 4.22    | 4.22    |         |         |         |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm        | 06-01   | 06-02   | 06-03   | 06-04   | 06-05   | 06-06   | 06-07   |
+|    | judet_norm   | uat_norm        | 06-02   | 06-03   | 06-04   | 06-05   | 06-06   | 06-07   | 06-08   |
 |---:|:-------------|:----------------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Bihor        | Abram           |         |         |         |         |         | 2.02    | 3+      |
-|  2 | Covasna      | Covasna         | 2.11    | 2.57    | 2.57    | 2.57    | 2.2     | 2.2     | 2.48    |
-|  3 | Dâmbovița    | Moțăieni        | 2.57    | 2.57    |         |         |         |         |         |
-|  4 | Teleorman    | Răsmirești      | 3+      | 3+      | 3+      | 3+      | 3+      | 2.81    | 2.81    |
-|  5 | Tulcea       | Sfântu Gheorghe |         |         | 2.59    |         |         |         |         |
-|  6 | Vaslui       | Coroiești       | 2.12    |         |         |         |         |         |         |
+|  1 | Bihor        | Abram           |         |         |         |         | 2.02    | 3+      | 3+      |
+|  2 | Covasna      | Covasna         | 2.57    | 2.57    | 2.57    | 2.2     | 2.2     | 2.48    | 2.66    |
+|  3 | Dâmbovița    | Moțăieni        | 2.57    |         |         |         |         |         |         |
+|  4 | Teleorman    | Răsmirești      | 3+      | 3+      | 3+      | 3+      | 2.81    | 2.81    |         |
+|  5 | Tulcea       | Sfântu Gheorghe |         | 2.59    |         |         |         |         |         |
