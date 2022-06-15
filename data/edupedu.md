@@ -1,6 +1,6 @@
-Last updated: `2022-06-14 11:54:04 (RO UTC +3)`  
+Last updated: `2022-06-15 11:04:09 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-13`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-14`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,19 +36,18 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm      |   06-07 |   06-08 |   06-09 | 06-10   | 06-11   | 06-12   | 06-13   |
-|---:|:-------------|:--------------|--------:|--------:|--------:|:--------|:--------|:--------|:--------|
-|  1 | Alba         | Ceru-Băcăinți |    4.35 |    4.35 |    4.35 | 4.35    | 4.35    | 4.37    |         |
-|  2 | Bihor        | Abram         |    3.03 |    3.03 |    3.03 | 3.03    | 3.03    | 3.04    | 3.04    |
-|  3 | Hunedoara    | Bunila        |    3.28 |    3.28 |    3.28 | 3.28    | 3.28    | 3.28    | 3.28    |
-|  4 | Teleorman    | Beuca         |    3.55 |    3.55 |    3.55 |         |         |         |         |
+|    | judet_norm   | uat_norm      |   06-08 |   06-09 | 06-10   | 06-11   | 06-12   | 06-13   | 06-14   |
+|---:|:-------------|:--------------|--------:|--------:|:--------|:--------|:--------|:--------|:--------|
+|  1 | Alba         | Ceru-Băcăinți |    4.35 |    4.35 | 4.35    | 4.35    | 4.37    |         |         |
+|  2 | Bihor        | Abram         |    3.03 |    3.03 | 3.03    | 3.03    | 3.04    | 3.04    | 3.04    |
+|  3 | Hunedoara    | Bunila        |    3.28 |    3.28 | 3.28    | 3.28    | 3.28    | 3.28    | 3.28    |
+|  4 | Teleorman    | Beuca         |    3.55 |    3.55 |         |         |         |         |         |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   | 06-07   | 06-08   | 06-09   | 06-10   | 06-11   | 06-12   | 06-13   |
+|    | judet_norm   | uat_norm   | 06-08   | 06-09   | 06-10   | 06-11   | 06-12   | 06-13   | 06-14   |
 |---:|:-------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Covasna      | Covasna    | 2.48    | 2.66    | 2.38    | 2.29    |         |         |         |
-|  2 | Hunedoara    | Cerbăl     |         |         | 2.48    | 2.48    | 2.48    | 2.48    | 2.48    |
-|  3 | Teleorman    | Beuca      | 3+      | 3+      | 3+      | 2.66    |         |         |         |
-|  4 | Teleorman    | Mereni     |         |         |         |         | 2.72    | 2.72    | 2.72    |
-|  5 | Teleorman    | Răsmirești | 2.81    |         |         |         |         |         |         |
+|  1 | Covasna      | Covasna    | 2.66    | 2.38    | 2.29    |         |         |         |         |
+|  2 | Hunedoara    | Cerbăl     |         | 2.48    | 2.48    | 2.48    | 2.48    | 2.48    | 2.48    |
+|  3 | Teleorman    | Beuca      | 3+      | 3+      | 2.66    |         |         |         |         |
+|  4 | Teleorman    | Mereni     |         |         |         | 2.72    | 2.72    | 2.72    | 2.72    |
