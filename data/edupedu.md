@@ -1,6 +1,6 @@
-Last updated: `2022-06-17 11:54:02 (RO UTC +3)`  
+Last updated: `2022-06-18 11:04:08 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-16`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-17`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,17 +36,15 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm      |   06-10 |   06-11 |   06-12 | 06-13   | 06-14   | 06-15   | 06-16   |
-|---:|:-------------|:--------------|--------:|--------:|--------:|:--------|:--------|:--------|:--------|
-|  1 | Alba         | Ceru-Băcăinți |    4.35 |    4.35 |    4.37 |         |         |         |         |
-|  2 | Bihor        | Abram         |    3.03 |    3.03 |    3.04 | 3.04    | 3.04    | 3.04    | 3.04    |
-|  3 | Hunedoara    | Bunila        |    3.28 |    3.28 |    3.28 | 3.28    | 3.28    | 3.28    | 3.28    |
+|    | judet_norm   | uat_norm      |   06-11 |   06-12 | 06-13   | 06-14   | 06-15   | 06-16   | 06-17   |
+|---:|:-------------|:--------------|--------:|--------:|:--------|:--------|:--------|:--------|:--------|
+|  1 | Alba         | Ceru-Băcăinți |    4.35 |    4.37 |         |         |         |         |         |
+|  2 | Bihor        | Abram         |    3.03 |    3.04 | 3.04    | 3.04    | 3.04    | 3.04    | 3.04    |
+|  3 | Hunedoara    | Bunila        |    3.28 |    3.28 | 3.28    | 3.28    | 3.28    | 3.28    |         |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   | 06-10   | 06-11   | 06-12   | 06-13   | 06-14   | 06-15   | 06-16   |
-|---:|:-------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Covasna      | Covasna    | 2.29    |         |         |         |         |         |         |
-|  2 | Hunedoara    | Cerbăl     | 2.48    | 2.48    | 2.48    | 2.48    | 2.48    | 2.48    | 2.48    |
-|  3 | Teleorman    | Beuca      | 2.66    |         |         |         |         |         |         |
-|  4 | Teleorman    | Mereni     |         | 2.72    | 2.72    | 2.72    | 2.72    | 2.72    | 2.72    |
+|    | judet_norm   | uat_norm   |   06-11 |   06-12 |   06-13 |   06-14 |   06-15 |   06-16 |   06-17 |
+|---:|:-------------|:-----------|--------:|--------:|--------:|--------:|--------:|--------:|--------:|
+|  1 | Hunedoara    | Cerbăl     |    2.48 |    2.48 |    2.48 |    2.48 |    2.48 |    2.48 |    2.48 |
+|  2 | Teleorman    | Mereni     |    2.72 |    2.72 |    2.72 |    2.72 |    2.72 |    2.72 |    2.72 |
