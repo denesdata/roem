@@ -1,6 +1,6 @@
-Last updated: `2022-06-21 18:04:20 (RO UTC +3)`  
+Last updated: `2022-06-22 11:04:15 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-20`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-21`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -36,15 +36,15 @@ Bottom 10 localities with the lowest vaccination ratio (in % - this [data](https
 # Incidence  
 Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   |   06-14 |   06-15 |   06-16 | 06-17   | 06-18   |
-|---:|:-------------|:-----------|--------:|--------:|--------:|:--------|:--------|
-|  1 | Bihor        | Abram      |    3.04 |    3.04 |    3.04 | 3.04    | 3.04    |
-|  2 | Hunedoara    | Bunila     |    3.28 |    3.28 |    3.28 |         |         |
+|    | judet_norm   | uat_norm   |   06-15 |   06-16 | 06-17   | 06-18   |
+|---:|:-------------|:-----------|--------:|--------:|:--------|:--------|
+|  1 | Bihor        | Abram      |    3.04 |    3.04 | 3.04    | 3.04    |
+|  2 | Hunedoara    | Bunila     |    3.28 |    3.28 |         |         |
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   | 06-14   | 06-15   | 06-16   | 06-17   |   06-18 |   06-19 |   06-20 |
-|---:|:-------------|:-----------|:--------|:--------|:--------|:--------|--------:|--------:|--------:|
-|  1 | Hunedoara    | Cerbăl     | 2.48    | 2.48    | 2.48    | 2.48    |    2.48 |    2.47 |    2.47 |
-|  2 | Prahova      | Tătaru     |         |         |         |         |    2.62 |    2.62 |    2.62 |
-|  3 | Teleorman    | Mereni     | 2.72    | 2.72    | 2.72    | 2.72    |    2.72 |    2.72 |    2.33 |
+|    | judet_norm   | uat_norm   | 06-15   | 06-16   | 06-17   |   06-18 |   06-19 |   06-20 |   06-21 |
+|---:|:-------------|:-----------|:--------|:--------|:--------|--------:|--------:|--------:|--------:|
+|  1 | Hunedoara    | Cerbăl     | 2.48    | 2.48    | 2.48    |    2.48 |    2.47 |    2.47 |    2.47 |
+|  2 | Prahova      | Tătaru     |         |         |         |    2.62 |    2.62 |    2.62 |    2.62 |
+|  3 | Teleorman    | Mereni     | 2.72    | 2.72    | 2.72    |    2.72 |    2.72 |    2.33 |    2.33 |
