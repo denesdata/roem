@@ -1,6 +1,6 @@
-Last updated: `2022-06-28 11:53:59 (RO UTC +3)`  
+Last updated: `2022-06-29 11:04:14 (RO UTC +3)`  
   
-Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-27`
+Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-06-28`
   
 # Vaccination  
 Top 10 localities with the highest vaccination ratio (in % - this [data](https://vaccinare-covid.gov.ro/situatia-vaccinarii-in-romania/) is **not** updated daily)  
@@ -41,9 +41,9 @@ Localities above 3‰ incidence in the past 7 days (in ‰ - this [data](https:/
   
 Localities above 2‰, but below 3‰ incidence in the past 7 days (in ‰ - this [data](https://data.gov.ro/dataset/transparenta-covid) is updated daily)  
   
-|    | judet_norm   | uat_norm   | 06-21   | 06-22   | 06-23   | 06-24   | 06-25   | 06-26   | 06-27   |
+|    | judet_norm   | uat_norm   | 06-22   | 06-23   | 06-24   | 06-25   | 06-26   | 06-27   | 06-28   |
 |---:|:-------------|:-----------|:--------|:--------|:--------|:--------|:--------|:--------|:--------|
-|  1 | Bucharest    | Sector 1   |         |         |         | 2.04    | 2.03    | 2.02    | 2.18    |
-|  2 | Hunedoara    | Cerbăl     | 2.47    | 2.47    |         |         |         |         |         |
-|  3 | Prahova      | Tătaru     | 2.62    | 2.62    | 2.62    | 2.62    | 2.62    | 2.62    | 2.62    |
-|  4 | Teleorman    | Mereni     | 2.33    |         |         |         |         |         |         |
+|  1 | Bucharest    | Sector 1   |         |         | 2.04    | 2.03    | 2.02    | 2.18    | 2.35    |
+|  2 | Hunedoara    | Cerbăl     | 2.47    |         |         |         |         |         |         |
+|  3 | Hunedoara    | Lelese     |         |         |         |         |         |         | 2.99    |
+|  4 | Prahova      | Tătaru     | 2.62    | 2.62    | 2.62    | 2.62    | 2.62    | 2.62    | 2.62    |
