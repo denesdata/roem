@@ -1,4 +1,4 @@
-Last updated: `2024-04-23 11:54:45 (RO UTC +3)`  
+Last updated: `2024-04-24 11:05:05 (RO UTC +3)`  
   
 Last published data in the [official database](https://data.gov.ro/dataset/transparenta-covid) is from: `2022-07-31`
   
