@@ -1,6 +1,8 @@
 Date,Name,Index
-Wed May 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),BZ=F,64.23
-Wed May 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),CL=F,61.43
+Thu May 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),BZ=F,63.43
+Thu May 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),CL=F,60.68
+Wed May 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),BZ=F,64.38
+Wed May 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),CL=F,61.57
 Tue May 20 2025 02:00:00 GMT+0300 (Eastern European Summer Time),BZ=F,64.76
 Tue May 20 2025 02:00:00 GMT+0300 (Eastern European Summer Time),CL=F,62.56
 Mon May 19 2025 02:00:00 GMT+0300 (Eastern European Summer Time),BZ=F,64.8
@@ -727,5 +729,3 @@ Fri Mar 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),BZ=F,83.55
 Fri Mar 01 2024 02:00:00 GMT+0200 (Eastern European Standard Time),CL=F,79.97
 Thu Feb 29 2024 02:00:00 GMT+0200 (Eastern European Standard Time),BZ=F,81.91
 Thu Feb 29 2024 02:00:00 GMT+0200 (Eastern European Standard Time),CL=F,78.26
-Wed Feb 28 2024 02:00:00 GMT+0200 (Eastern European Standard Time),BZ=F,82.15
-Wed Feb 28 2024 02:00:00 GMT+0200 (Eastern European Standard Time),CL=F,78.54
