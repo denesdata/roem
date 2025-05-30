@@ -65,7 +65,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2012-06-30T23:00:00.000Z",
     "price": 731,
     "lat": "44.3302",
@@ -92,7 +92,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2012-06-30T23:00:00.000Z",
     "price": 812,
     "lat": "44.9360",
@@ -164,7 +164,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2012-07-31T23:00:00.000Z",
     "price": 727,
     "lat": "44.3302",
@@ -191,7 +191,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2012-07-31T23:00:00.000Z",
     "price": 794,
     "lat": "44.9360",
@@ -263,7 +263,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2012-08-31T23:00:00.000Z",
     "price": 727,
     "lat": "44.3302",
@@ -290,7 +290,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2012-08-31T23:00:00.000Z",
     "price": 800,
     "lat": "44.9360",
@@ -362,7 +362,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2012-09-30T23:00:00.000Z",
     "price": 738,
     "lat": "44.3302",
@@ -389,7 +389,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2012-09-30T23:00:00.000Z",
     "price": 806,
     "lat": "44.9360",
@@ -461,7 +461,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2012-11-01T00:00:00.000Z",
     "price": 725,
     "lat": "44.3302",
@@ -488,7 +488,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2012-11-01T00:00:00.000Z",
     "price": 780,
     "lat": "44.9360",
@@ -560,7 +560,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2012-12-01T00:00:00.000Z",
     "price": 709,
     "lat": "44.3302",
@@ -587,7 +587,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2012-12-01T00:00:00.000Z",
     "price": 785,
     "lat": "44.9360",
@@ -659,7 +659,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-01-01T00:00:00.000Z",
     "price": 703,
     "lat": "44.3302",
@@ -686,7 +686,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-01-01T00:00:00.000Z",
     "price": 798,
     "lat": "44.9360",
@@ -758,7 +758,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-02-01T00:00:00.000Z",
     "price": 712,
     "lat": "44.3302",
@@ -785,7 +785,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-02-01T00:00:00.000Z",
     "price": 807,
     "lat": "44.9360",
@@ -857,7 +857,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-03-01T00:00:00.000Z",
     "price": 711,
     "lat": "44.3302",
@@ -884,7 +884,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-03-01T00:00:00.000Z",
     "price": 759,
     "lat": "44.9360",
@@ -956,7 +956,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-03-31T23:00:00.000Z",
     "price": 738,
     "lat": "44.3302",
@@ -983,7 +983,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-03-31T23:00:00.000Z",
     "price": 746,
     "lat": "44.9360",
@@ -1055,7 +1055,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-04-30T23:00:00.000Z",
     "price": 734,
     "lat": "44.3302",
@@ -1082,7 +1082,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-04-30T23:00:00.000Z",
     "price": 740,
     "lat": "44.9360",
@@ -1154,7 +1154,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-05-31T23:00:00.000Z",
     "price": 729,
     "lat": "44.3302",
@@ -1181,7 +1181,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-05-31T23:00:00.000Z",
     "price": 739,
     "lat": "44.9360",
@@ -1253,7 +1253,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-06-30T23:00:00.000Z",
     "price": 718,
     "lat": "44.3302",
@@ -1280,7 +1280,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-06-30T23:00:00.000Z",
     "price": 726,
     "lat": "44.9360",
@@ -1352,7 +1352,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-07-31T23:00:00.000Z",
     "price": 722,
     "lat": "44.3302",
@@ -1379,7 +1379,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-07-31T23:00:00.000Z",
     "price": 716,
     "lat": "44.9360",
@@ -1451,7 +1451,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-08-31T23:00:00.000Z",
     "price": 725,
     "lat": "44.3302",
@@ -1478,7 +1478,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-08-31T23:00:00.000Z",
     "price": 722,
     "lat": "44.9360",
@@ -1550,7 +1550,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-09-30T23:00:00.000Z",
     "price": 720,
     "lat": "44.3302",
@@ -1577,7 +1577,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-09-30T23:00:00.000Z",
     "price": 720,
     "lat": "44.9360",
@@ -1649,7 +1649,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-11-01T00:00:00.000Z",
     "price": 712,
     "lat": "44.3302",
@@ -1676,7 +1676,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-11-01T00:00:00.000Z",
     "price": 709,
     "lat": "44.9360",
@@ -1748,7 +1748,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2013-12-01T00:00:00.000Z",
     "price": 710,
     "lat": "44.3302",
@@ -1775,7 +1775,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2013-12-01T00:00:00.000Z",
     "price": 700,
     "lat": "44.9360",
@@ -1847,7 +1847,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-01-01T00:00:00.000Z",
     "price": 712,
     "lat": "44.3302",
@@ -1874,7 +1874,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-01-01T00:00:00.000Z",
     "price": 689,
     "lat": "44.9360",
@@ -1946,7 +1946,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-02-01T00:00:00.000Z",
     "price": 712,
     "lat": "44.3302",
@@ -1973,7 +1973,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-02-01T00:00:00.000Z",
     "price": 700,
     "lat": "44.9360",
@@ -2045,7 +2045,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-03-01T00:00:00.000Z",
     "price": 714,
     "lat": "44.3302",
@@ -2072,7 +2072,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-03-01T00:00:00.000Z",
     "price": 705,
     "lat": "44.9360",
@@ -2144,7 +2144,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-03-31T23:00:00.000Z",
     "price": 714,
     "lat": "44.3302",
@@ -2171,7 +2171,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-03-31T23:00:00.000Z",
     "price": 709,
     "lat": "44.9360",
@@ -2243,7 +2243,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-04-30T23:00:00.000Z",
     "price": 714,
     "lat": "44.3302",
@@ -2270,7 +2270,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-04-30T23:00:00.000Z",
     "price": 703,
     "lat": "44.9360",
@@ -2342,7 +2342,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-05-31T23:00:00.000Z",
     "price": 725,
     "lat": "44.3302",
@@ -2369,7 +2369,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-05-31T23:00:00.000Z",
     "price": 709,
     "lat": "44.9360",
@@ -2441,7 +2441,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-06-30T23:00:00.000Z",
     "price": 718,
     "lat": "44.3302",
@@ -2468,7 +2468,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-06-30T23:00:00.000Z",
     "price": 714,
     "lat": "44.9360",
@@ -2540,7 +2540,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-07-31T23:00:00.000Z",
     "price": 722,
     "lat": "44.3302",
@@ -2567,7 +2567,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-07-31T23:00:00.000Z",
     "price": 707,
     "lat": "44.9360",
@@ -2639,7 +2639,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-08-31T23:00:00.000Z",
     "price": 725,
     "lat": "44.3302",
@@ -2666,7 +2666,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-08-31T23:00:00.000Z",
     "price": 707,
     "lat": "44.9360",
@@ -2738,7 +2738,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-09-30T23:00:00.000Z",
     "price": 720,
     "lat": "44.3302",
@@ -2765,7 +2765,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-09-30T23:00:00.000Z",
     "price": 707,
     "lat": "44.9360",
@@ -2837,7 +2837,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-11-01T00:00:00.000Z",
     "price": 720,
     "lat": "44.3302",
@@ -2864,7 +2864,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-11-01T00:00:00.000Z",
     "price": 717,
     "lat": "44.9360",
@@ -2936,7 +2936,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2014-12-01T00:00:00.000Z",
     "price": 723,
     "lat": "44.3302",
@@ -2963,7 +2963,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2014-12-01T00:00:00.000Z",
     "price": 719,
     "lat": "44.9360",
@@ -3035,7 +3035,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-01-01T00:00:00.000Z",
     "price": 730,
     "lat": "44.3302",
@@ -3062,7 +3062,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-01-01T00:00:00.000Z",
     "price": 720,
     "lat": "44.9360",
@@ -3134,7 +3134,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-02-01T00:00:00.000Z",
     "price": 732,
     "lat": "44.3302",
@@ -3161,7 +3161,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-02-01T00:00:00.000Z",
     "price": 730,
     "lat": "44.9360",
@@ -3233,7 +3233,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-03-01T00:00:00.000Z",
     "price": 727,
     "lat": "44.3302",
@@ -3260,7 +3260,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-03-01T00:00:00.000Z",
     "price": 734,
     "lat": "44.9360",
@@ -3332,7 +3332,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-03-31T23:00:00.000Z",
     "price": 729,
     "lat": "44.3302",
@@ -3359,7 +3359,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-03-31T23:00:00.000Z",
     "price": 734,
     "lat": "44.9360",
@@ -3431,7 +3431,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-04-30T23:00:00.000Z",
     "price": 726,
     "lat": "44.3302",
@@ -3458,7 +3458,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-04-30T23:00:00.000Z",
     "price": 736,
     "lat": "44.9360",
@@ -3530,7 +3530,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-05-31T23:00:00.000Z",
     "price": 736,
     "lat": "44.3302",
@@ -3557,7 +3557,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-05-31T23:00:00.000Z",
     "price": 737,
     "lat": "44.9360",
@@ -3629,7 +3629,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-06-30T23:00:00.000Z",
     "price": 742,
     "lat": "44.3302",
@@ -3656,7 +3656,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-06-30T23:00:00.000Z",
     "price": 730,
     "lat": "44.9360",
@@ -3728,7 +3728,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-07-31T23:00:00.000Z",
     "price": 743,
     "lat": "44.3302",
@@ -3755,7 +3755,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-07-31T23:00:00.000Z",
     "price": 730,
     "lat": "44.9360",
@@ -3827,7 +3827,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-08-31T23:00:00.000Z",
     "price": 756,
     "lat": "44.3302",
@@ -3854,7 +3854,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-08-31T23:00:00.000Z",
     "price": 737,
     "lat": "44.9360",
@@ -3926,7 +3926,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-09-30T23:00:00.000Z",
     "price": 758,
     "lat": "44.3302",
@@ -3953,7 +3953,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-09-30T23:00:00.000Z",
     "price": 740,
     "lat": "44.9360",
@@ -4025,7 +4025,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-11-01T00:00:00.000Z",
     "price": 765,
     "lat": "44.3302",
@@ -4052,7 +4052,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-11-01T00:00:00.000Z",
     "price": 750,
     "lat": "44.9360",
@@ -4124,7 +4124,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2015-12-01T00:00:00.000Z",
     "price": 777,
     "lat": "44.3302",
@@ -4151,7 +4151,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2015-12-01T00:00:00.000Z",
     "price": 740,
     "lat": "44.9360",
@@ -4223,7 +4223,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-01-01T00:00:00.000Z",
     "price": 779,
     "lat": "44.3302",
@@ -4250,7 +4250,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-01-01T00:00:00.000Z",
     "price": 735,
     "lat": "44.9360",
@@ -4322,7 +4322,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-02-01T00:00:00.000Z",
     "price": 781,
     "lat": "44.3302",
@@ -4349,7 +4349,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-02-01T00:00:00.000Z",
     "price": 740,
     "lat": "44.9360",
@@ -4421,7 +4421,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-03-01T00:00:00.000Z",
     "price": 800,
     "lat": "44.3302",
@@ -4448,7 +4448,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-03-01T00:00:00.000Z",
     "price": 750,
     "lat": "44.9360",
@@ -4520,7 +4520,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-03-31T23:00:00.000Z",
     "price": 831,
     "lat": "44.3302",
@@ -4547,7 +4547,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-03-31T23:00:00.000Z",
     "price": 750,
     "lat": "44.9360",
@@ -4619,7 +4619,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-04-30T23:00:00.000Z",
     "price": 825,
     "lat": "44.3302",
@@ -4646,7 +4646,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-04-30T23:00:00.000Z",
     "price": 755,
     "lat": "44.9360",
@@ -4718,7 +4718,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-05-31T23:00:00.000Z",
     "price": 843,
     "lat": "44.3302",
@@ -4745,7 +4745,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-05-31T23:00:00.000Z",
     "price": 763,
     "lat": "44.9360",
@@ -4817,7 +4817,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-06-30T23:00:00.000Z",
     "price": 846,
     "lat": "44.3302",
@@ -4844,7 +4844,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-06-30T23:00:00.000Z",
     "price": 756,
     "lat": "44.9360",
@@ -4916,7 +4916,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-07-31T23:00:00.000Z",
     "price": 840,
     "lat": "44.3302",
@@ -4943,7 +4943,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-07-31T23:00:00.000Z",
     "price": 750,
     "lat": "44.9360",
@@ -5015,7 +5015,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-08-31T23:00:00.000Z",
     "price": 854,
     "lat": "44.3302",
@@ -5042,7 +5042,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-08-31T23:00:00.000Z",
     "price": 758,
     "lat": "44.9360",
@@ -5114,7 +5114,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-09-30T23:00:00.000Z",
     "price": 846,
     "lat": "44.3302",
@@ -5141,7 +5141,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-09-30T23:00:00.000Z",
     "price": 769,
     "lat": "44.9360",
@@ -5213,7 +5213,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-11-01T00:00:00.000Z",
     "price": 846,
     "lat": "44.3302",
@@ -5240,7 +5240,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-11-01T00:00:00.000Z",
     "price": 769,
     "lat": "44.9360",
@@ -5312,7 +5312,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2016-12-01T00:00:00.000Z",
     "price": 857,
     "lat": "44.3302",
@@ -5339,7 +5339,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2016-12-01T00:00:00.000Z",
     "price": 766,
     "lat": "44.9360",
@@ -5411,7 +5411,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-01-01T00:00:00.000Z",
     "price": 888,
     "lat": "44.3302",
@@ -5438,7 +5438,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-01-01T00:00:00.000Z",
     "price": 761,
     "lat": "44.9360",
@@ -5510,7 +5510,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-02-01T00:00:00.000Z",
     "price": 903,
     "lat": "44.3302",
@@ -5537,7 +5537,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-02-01T00:00:00.000Z",
     "price": 777,
     "lat": "44.9360",
@@ -5609,7 +5609,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-03-01T00:00:00.000Z",
     "price": 926,
     "lat": "44.3302",
@@ -5636,7 +5636,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-03-01T00:00:00.000Z",
     "price": 794,
     "lat": "44.9360",
@@ -5708,7 +5708,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-03-31T23:00:00.000Z",
     "price": 940,
     "lat": "44.3302",
@@ -5735,7 +5735,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-03-31T23:00:00.000Z",
     "price": 796,
     "lat": "44.9360",
@@ -5807,7 +5807,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-04-30T23:00:00.000Z",
     "price": 965,
     "lat": "44.3302",
@@ -5834,7 +5834,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-04-30T23:00:00.000Z",
     "price": 799,
     "lat": "44.9360",
@@ -5906,7 +5906,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-05-31T23:00:00.000Z",
     "price": 991,
     "lat": "44.3302",
@@ -5933,7 +5933,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-05-31T23:00:00.000Z",
     "price": 797,
     "lat": "44.9360",
@@ -6005,7 +6005,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-06-30T23:00:00.000Z",
     "price": 1000,
     "lat": "44.3302",
@@ -6032,7 +6032,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-06-30T23:00:00.000Z",
     "price": 795,
     "lat": "44.9360",
@@ -6104,7 +6104,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-07-31T23:00:00.000Z",
     "price": 1017,
     "lat": "44.3302",
@@ -6131,7 +6131,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-07-31T23:00:00.000Z",
     "price": 800,
     "lat": "44.9360",
@@ -6203,7 +6203,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-08-31T23:00:00.000Z",
     "price": 1020,
     "lat": "44.3302",
@@ -6230,7 +6230,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-08-31T23:00:00.000Z",
     "price": 808,
     "lat": "44.9360",
@@ -6302,7 +6302,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-09-30T23:00:00.000Z",
     "price": 1028,
     "lat": "44.3302",
@@ -6329,7 +6329,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-09-30T23:00:00.000Z",
     "price": 815,
     "lat": "44.9360",
@@ -6401,7 +6401,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-11-01T00:00:00.000Z",
     "price": 1034,
     "lat": "44.3302",
@@ -6428,7 +6428,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-11-01T00:00:00.000Z",
     "price": 818,
     "lat": "44.9360",
@@ -6500,7 +6500,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2017-12-01T00:00:00.000Z",
     "price": 1037,
     "lat": "44.3302",
@@ -6527,7 +6527,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2017-12-01T00:00:00.000Z",
     "price": 827,
     "lat": "44.9360",
@@ -6599,7 +6599,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-01-01T00:00:00.000Z",
     "price": 1039,
     "lat": "44.3302",
@@ -6626,7 +6626,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-01-01T00:00:00.000Z",
     "price": 837,
     "lat": "44.9360",
@@ -6698,7 +6698,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-02-01T00:00:00.000Z",
     "price": 1060,
     "lat": "44.3302",
@@ -6725,7 +6725,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-02-01T00:00:00.000Z",
     "price": 850,
     "lat": "44.9360",
@@ -6797,7 +6797,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-03-01T00:00:00.000Z",
     "price": 1071,
     "lat": "44.3302",
@@ -6824,7 +6824,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-03-01T00:00:00.000Z",
     "price": 854,
     "lat": "44.9360",
@@ -6896,7 +6896,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-03-31T23:00:00.000Z",
     "price": 1078,
     "lat": "44.3302",
@@ -6923,7 +6923,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-03-31T23:00:00.000Z",
     "price": 840,
     "lat": "44.9360",
@@ -6995,7 +6995,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-04-30T23:00:00.000Z",
     "price": 1089,
     "lat": "44.3302",
@@ -7022,7 +7022,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-04-30T23:00:00.000Z",
     "price": 845,
     "lat": "44.9360",
@@ -7094,7 +7094,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-05-31T23:00:00.000Z",
     "price": 1095,
     "lat": "44.3302",
@@ -7121,7 +7121,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-05-31T23:00:00.000Z",
     "price": 852,
     "lat": "44.9360",
@@ -7193,7 +7193,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-06-30T23:00:00.000Z",
     "price": 1093,
     "lat": "44.3302",
@@ -7220,7 +7220,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-06-30T23:00:00.000Z",
     "price": 860,
     "lat": "44.9360",
@@ -7292,7 +7292,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-07-31T23:00:00.000Z",
     "price": 1095,
     "lat": "44.3302",
@@ -7319,7 +7319,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-07-31T23:00:00.000Z",
     "price": 862,
     "lat": "44.9360",
@@ -7391,7 +7391,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-08-31T23:00:00.000Z",
     "price": 1116,
     "lat": "44.3302",
@@ -7418,7 +7418,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-08-31T23:00:00.000Z",
     "price": 857,
     "lat": "44.9360",
@@ -7490,7 +7490,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-09-30T23:00:00.000Z",
     "price": 1119,
     "lat": "44.3302",
@@ -7517,7 +7517,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-09-30T23:00:00.000Z",
     "price": 855,
     "lat": "44.9360",
@@ -7589,7 +7589,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-11-01T00:00:00.000Z",
     "price": 1119,
     "lat": "44.3302",
@@ -7616,7 +7616,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-11-01T00:00:00.000Z",
     "price": 871,
     "lat": "44.9360",
@@ -7688,7 +7688,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2018-12-01T00:00:00.000Z",
     "price": 1113,
     "lat": "44.3302",
@@ -7715,7 +7715,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2018-12-01T00:00:00.000Z",
     "price": 875,
     "lat": "44.9360",
@@ -7787,7 +7787,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-01-01T00:00:00.000Z",
     "price": 1100,
     "lat": "44.3302",
@@ -7814,7 +7814,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-01-01T00:00:00.000Z",
     "price": 869,
     "lat": "44.9360",
@@ -7886,7 +7886,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-02-01T00:00:00.000Z",
     "price": 1100,
     "lat": "44.3302",
@@ -7913,7 +7913,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-02-01T00:00:00.000Z",
     "price": 882,
     "lat": "44.9360",
@@ -7985,7 +7985,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-03-01T00:00:00.000Z",
     "price": 1100,
     "lat": "44.3302",
@@ -8012,7 +8012,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-03-01T00:00:00.000Z",
     "price": 888,
     "lat": "44.9360",
@@ -8084,7 +8084,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-03-31T23:00:00.000Z",
     "price": 1098,
     "lat": "44.3302",
@@ -8111,7 +8111,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-03-31T23:00:00.000Z",
     "price": 896,
     "lat": "44.9360",
@@ -8183,7 +8183,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-04-30T23:00:00.000Z",
     "price": 1094,
     "lat": "44.3302",
@@ -8210,7 +8210,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-04-30T23:00:00.000Z",
     "price": 892,
     "lat": "44.9360",
@@ -8282,7 +8282,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-05-31T23:00:00.000Z",
     "price": 1078,
     "lat": "44.3302",
@@ -8309,7 +8309,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-05-31T23:00:00.000Z",
     "price": 900,
     "lat": "44.9360",
@@ -8381,7 +8381,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-06-30T23:00:00.000Z",
     "price": 1081,
     "lat": "44.3302",
@@ -8408,7 +8408,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-06-30T23:00:00.000Z",
     "price": 900,
     "lat": "44.9360",
@@ -8480,7 +8480,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-07-31T23:00:00.000Z",
     "price": 1089,
     "lat": "44.3302",
@@ -8507,7 +8507,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-07-31T23:00:00.000Z",
     "price": 891,
     "lat": "44.9360",
@@ -8579,7 +8579,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-08-31T23:00:00.000Z",
     "price": 1096,
     "lat": "44.3302",
@@ -8606,7 +8606,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-08-31T23:00:00.000Z",
     "price": 900,
     "lat": "44.9360",
@@ -8678,7 +8678,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-09-30T23:00:00.000Z",
     "price": 1099,
     "lat": "44.3302",
@@ -8705,7 +8705,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-09-30T23:00:00.000Z",
     "price": 910,
     "lat": "44.9360",
@@ -8777,7 +8777,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-11-01T00:00:00.000Z",
     "price": 1114,
     "lat": "44.3302",
@@ -8804,7 +8804,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-11-01T00:00:00.000Z",
     "price": 909,
     "lat": "44.9360",
@@ -8876,7 +8876,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2019-12-01T00:00:00.000Z",
     "price": 1120,
     "lat": "44.3302",
@@ -8903,7 +8903,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2019-12-01T00:00:00.000Z",
     "price": 914,
     "lat": "44.9360",
@@ -8975,7 +8975,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-01-01T00:00:00.000Z",
     "price": 1119,
     "lat": "44.3302",
@@ -9002,7 +9002,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-01-01T00:00:00.000Z",
     "price": 914,
     "lat": "44.9360",
@@ -9074,7 +9074,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-02-01T00:00:00.000Z",
     "price": 1140,
     "lat": "44.3302",
@@ -9101,7 +9101,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-02-01T00:00:00.000Z",
     "price": 907,
     "lat": "44.9360",
@@ -9173,7 +9173,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-03-01T00:00:00.000Z",
     "price": 1168,
     "lat": "44.3302",
@@ -9200,7 +9200,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-03-01T00:00:00.000Z",
     "price": 920,
     "lat": "44.9360",
@@ -9272,7 +9272,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-03-31T23:00:00.000Z",
     "price": 1182,
     "lat": "44.3302",
@@ -9299,7 +9299,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-03-31T23:00:00.000Z",
     "price": 921,
     "lat": "44.9360",
@@ -9371,7 +9371,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-04-30T23:00:00.000Z",
     "price": 1171,
     "lat": "44.3302",
@@ -9398,7 +9398,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-04-30T23:00:00.000Z",
     "price": 926,
     "lat": "44.9360",
@@ -9470,7 +9470,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-05-31T23:00:00.000Z",
     "price": 1166,
     "lat": "44.3302",
@@ -9497,7 +9497,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-05-31T23:00:00.000Z",
     "price": 925,
     "lat": "44.9360",
@@ -9569,7 +9569,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-06-30T23:00:00.000Z",
     "price": 1169,
     "lat": "44.3302",
@@ -9596,7 +9596,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-06-30T23:00:00.000Z",
     "price": 925,
     "lat": "44.9360",
@@ -9668,7 +9668,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-07-31T23:00:00.000Z",
     "price": 1189,
     "lat": "44.3302",
@@ -9695,7 +9695,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-07-31T23:00:00.000Z",
     "price": 929,
     "lat": "44.9360",
@@ -9767,7 +9767,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-08-31T23:00:00.000Z",
     "price": 1196,
     "lat": "44.3302",
@@ -9794,7 +9794,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-08-31T23:00:00.000Z",
     "price": 934,
     "lat": "44.9360",
@@ -9866,7 +9866,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-09-30T23:00:00.000Z",
     "price": 1203,
     "lat": "44.3302",
@@ -9893,7 +9893,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-09-30T23:00:00.000Z",
     "price": 930,
     "lat": "44.9360",
@@ -9965,7 +9965,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-11-01T00:00:00.000Z",
     "price": 1211,
     "lat": "44.3302",
@@ -9992,7 +9992,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-11-01T00:00:00.000Z",
     "price": 930,
     "lat": "44.9360",
@@ -10064,7 +10064,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2020-12-01T00:00:00.000Z",
     "price": 1210,
     "lat": "44.3302",
@@ -10091,7 +10091,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2020-12-01T00:00:00.000Z",
     "price": 932,
     "lat": "44.9360",
@@ -10163,7 +10163,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-01-01T00:00:00.000Z",
     "price": 1216,
     "lat": "44.3302",
@@ -10190,7 +10190,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-01-01T00:00:00.000Z",
     "price": 943,
     "lat": "44.9360",
@@ -10262,7 +10262,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-02-01T00:00:00.000Z",
     "price": 1222,
     "lat": "44.3302",
@@ -10289,7 +10289,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-02-01T00:00:00.000Z",
     "price": 957,
     "lat": "44.9360",
@@ -10361,7 +10361,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-03-01T00:00:00.000Z",
     "price": 1240,
     "lat": "44.3302",
@@ -10388,7 +10388,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-03-01T00:00:00.000Z",
     "price": 955,
     "lat": "44.9360",
@@ -10460,7 +10460,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-03-31T23:00:00.000Z",
     "price": 1266,
     "lat": "44.3302",
@@ -10487,7 +10487,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-03-31T23:00:00.000Z",
     "price": 974,
     "lat": "44.9360",
@@ -10559,7 +10559,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-04-30T23:00:00.000Z",
     "price": 1286,
     "lat": "44.3302",
@@ -10586,7 +10586,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-04-30T23:00:00.000Z",
     "price": 980,
     "lat": "44.9360",
@@ -10658,7 +10658,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-05-31T23:00:00.000Z",
     "price": 1306,
     "lat": "44.3302",
@@ -10685,7 +10685,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-05-31T23:00:00.000Z",
     "price": 984,
     "lat": "44.9360",
@@ -10757,7 +10757,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-06-30T23:00:00.000Z",
     "price": 1325,
     "lat": "44.3302",
@@ -10784,7 +10784,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-06-30T23:00:00.000Z",
     "price": 999,
     "lat": "44.9360",
@@ -10856,7 +10856,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-07-31T23:00:00.000Z",
     "price": 1328,
     "lat": "44.3302",
@@ -10883,7 +10883,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-07-31T23:00:00.000Z",
     "price": 987,
     "lat": "44.9360",
@@ -10955,7 +10955,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-08-31T23:00:00.000Z",
     "price": 1323,
     "lat": "44.3302",
@@ -10982,7 +10982,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-08-31T23:00:00.000Z",
     "price": 990,
     "lat": "44.9360",
@@ -11054,7 +11054,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-09-30T23:00:00.000Z",
     "price": 1338,
     "lat": "44.3302",
@@ -11081,7 +11081,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-09-30T23:00:00.000Z",
     "price": 1000,
     "lat": "44.9360",
@@ -11153,7 +11153,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-11-01T00:00:00.000Z",
     "price": 1365,
     "lat": "44.3302",
@@ -11180,7 +11180,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-11-01T00:00:00.000Z",
     "price": 1000,
     "lat": "44.9360",
@@ -11252,7 +11252,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2021-12-01T00:00:00.000Z",
     "price": 1385,
     "lat": "44.3302",
@@ -11279,7 +11279,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2021-12-01T00:00:00.000Z",
     "price": 1003,
     "lat": "44.9360",
@@ -11351,7 +11351,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-01-01T00:00:00.000Z",
     "price": 1392,
     "lat": "44.3302",
@@ -11378,7 +11378,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-01-01T00:00:00.000Z",
     "price": 1017,
     "lat": "44.9360",
@@ -11450,7 +11450,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-02-01T00:00:00.000Z",
     "price": 1419,
     "lat": "44.3302",
@@ -11477,7 +11477,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-02-01T00:00:00.000Z",
     "price": 1023,
     "lat": "44.9360",
@@ -11549,7 +11549,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-03-01T00:00:00.000Z",
     "price": 1452,
     "lat": "44.3302",
@@ -11576,7 +11576,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-03-01T00:00:00.000Z",
     "price": 1016,
     "lat": "44.9360",
@@ -11648,7 +11648,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-03-31T23:00:00.000Z",
     "price": 1461,
     "lat": "44.3302",
@@ -11675,7 +11675,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-03-31T23:00:00.000Z",
     "price": 1017,
     "lat": "44.9360",
@@ -11747,7 +11747,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-04-30T23:00:00.000Z",
     "price": 1473,
     "lat": "44.3302",
@@ -11774,7 +11774,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-04-30T23:00:00.000Z",
     "price": 1037,
     "lat": "44.9360",
@@ -11846,7 +11846,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-05-31T23:00:00.000Z",
     "price": 1493,
     "lat": "44.3302",
@@ -11873,7 +11873,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-05-31T23:00:00.000Z",
     "price": 1037,
     "lat": "44.9360",
@@ -11945,7 +11945,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-06-30T23:00:00.000Z",
     "price": 1491,
     "lat": "44.3302",
@@ -11972,7 +11972,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-06-30T23:00:00.000Z",
     "price": 1046,
     "lat": "44.9360",
@@ -12044,7 +12044,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-07-31T23:00:00.000Z",
     "price": 1464,
     "lat": "44.3302",
@@ -12071,7 +12071,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-07-31T23:00:00.000Z",
     "price": 1050,
     "lat": "44.9360",
@@ -12143,7 +12143,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-08-31T23:00:00.000Z",
     "price": 1451,
     "lat": "44.3302",
@@ -12170,7 +12170,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-08-31T23:00:00.000Z",
     "price": 1056,
     "lat": "44.9360",
@@ -12242,7 +12242,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-09-30T23:00:00.000Z",
     "price": 1456,
     "lat": "44.3302",
@@ -12269,7 +12269,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-09-30T23:00:00.000Z",
     "price": 1063,
     "lat": "44.9360",
@@ -12341,7 +12341,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-11-01T00:00:00.000Z",
     "price": 1448,
     "lat": "44.3302",
@@ -12368,7 +12368,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-11-01T00:00:00.000Z",
     "price": 1071,
     "lat": "44.9360",
@@ -12440,7 +12440,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2022-12-01T00:00:00.000Z",
     "price": 1453,
     "lat": "44.3302",
@@ -12467,7 +12467,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2022-12-01T00:00:00.000Z",
     "price": 1086,
     "lat": "44.9360",
@@ -12539,7 +12539,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-01-01T00:00:00.000Z",
     "price": 1444,
     "lat": "44.3302",
@@ -12566,7 +12566,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-01-01T00:00:00.000Z",
     "price": 1076,
     "lat": "44.9360",
@@ -12638,7 +12638,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-02-01T00:00:00.000Z",
     "price": 1465,
     "lat": "44.3302",
@@ -12665,7 +12665,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-02-01T00:00:00.000Z",
     "price": 1085,
     "lat": "44.9360",
@@ -12737,7 +12737,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-03-01T00:00:00.000Z",
     "price": 1484,
     "lat": "44.3302",
@@ -12764,7 +12764,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-03-01T00:00:00.000Z",
     "price": 1074,
     "lat": "44.9360",
@@ -12836,7 +12836,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-03-31T23:00:00.000Z",
     "price": 1480,
     "lat": "44.3302",
@@ -12863,7 +12863,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-03-31T23:00:00.000Z",
     "price": 1072,
     "lat": "44.9360",
@@ -12935,7 +12935,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-04-30T23:00:00.000Z",
     "price": 1500,
     "lat": "44.3302",
@@ -12962,7 +12962,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-04-30T23:00:00.000Z",
     "price": 1079,
     "lat": "44.9360",
@@ -13034,7 +13034,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-05-31T23:00:00.000Z",
     "price": 1496,
     "lat": "44.3302",
@@ -13061,7 +13061,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-05-31T23:00:00.000Z",
     "price": 1068,
     "lat": "44.9360",
@@ -13133,7 +13133,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-06-30T23:00:00.000Z",
     "price": 1460,
     "lat": "44.3302",
@@ -13160,7 +13160,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-06-30T23:00:00.000Z",
     "price": 1065,
     "lat": "44.9360",
@@ -13232,7 +13232,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-07-31T23:00:00.000Z",
     "price": 1462,
     "lat": "44.3302",
@@ -13259,7 +13259,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-07-31T23:00:00.000Z",
     "price": 1088,
     "lat": "44.9360",
@@ -13331,7 +13331,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-08-31T23:00:00.000Z",
     "price": 1491,
     "lat": "44.3302",
@@ -13358,7 +13358,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-08-31T23:00:00.000Z",
     "price": 1076,
     "lat": "44.9360",
@@ -13430,7 +13430,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-09-30T23:00:00.000Z",
     "price": 1513,
     "lat": "44.3302",
@@ -13457,7 +13457,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-09-30T23:00:00.000Z",
     "price": 1076,
     "lat": "44.9360",
@@ -13529,7 +13529,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-11-01T00:00:00.000Z",
     "price": 1517,
     "lat": "44.3302",
@@ -13556,7 +13556,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-11-01T00:00:00.000Z",
     "price": 1080,
     "lat": "44.9360",
@@ -13628,7 +13628,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2023-12-01T00:00:00.000Z",
     "price": 1515,
     "lat": "44.3302",
@@ -13655,7 +13655,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2023-12-01T00:00:00.000Z",
     "price": 1088,
     "lat": "44.9360",
@@ -13727,7 +13727,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-01-01T00:00:00.000Z",
     "price": 1562,
     "lat": "44.3302",
@@ -13754,7 +13754,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-01-01T00:00:00.000Z",
     "price": 1083,
     "lat": "44.9360",
@@ -13826,7 +13826,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-02-01T00:00:00.000Z",
     "price": 1592,
     "lat": "44.3302",
@@ -13853,7 +13853,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-02-01T00:00:00.000Z",
     "price": 1087,
     "lat": "44.9360",
@@ -13925,7 +13925,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-03-01T00:00:00.000Z",
     "price": 1614,
     "lat": "44.3302",
@@ -13952,7 +13952,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-03-01T00:00:00.000Z",
     "price": 1111,
     "lat": "44.9360",
@@ -14024,7 +14024,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-03-31T23:00:00.000Z",
     "price": 1628,
     "lat": "44.3302",
@@ -14051,7 +14051,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-03-31T23:00:00.000Z",
     "price": 1118,
     "lat": "44.9360",
@@ -14123,7 +14123,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-04-30T23:00:00.000Z",
     "price": 1638,
     "lat": "44.3302",
@@ -14150,7 +14150,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-04-30T23:00:00.000Z",
     "price": 1116,
     "lat": "44.9360",
@@ -14222,7 +14222,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-05-31T23:00:00.000Z",
     "price": 1654,
     "lat": "44.3302",
@@ -14249,7 +14249,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-05-31T23:00:00.000Z",
     "price": 1132,
     "lat": "44.9360",
@@ -14321,7 +14321,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-06-30T23:00:00.000Z",
     "price": 1675,
     "lat": "44.3302",
@@ -14348,7 +14348,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-06-30T23:00:00.000Z",
     "price": 1131,
     "lat": "44.9360",
@@ -14420,7 +14420,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-07-31T23:00:00.000Z",
     "price": 1687,
     "lat": "44.3302",
@@ -14447,7 +14447,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-07-31T23:00:00.000Z",
     "price": 1136,
     "lat": "44.9360",
@@ -14519,7 +14519,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-08-31T23:00:00.000Z",
     "price": 1733,
     "lat": "44.3302",
@@ -14546,7 +14546,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-08-31T23:00:00.000Z",
     "price": 1141,
     "lat": "44.9360",
@@ -14618,7 +14618,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-09-30T23:00:00.000Z",
     "price": 1749,
     "lat": "44.3302",
@@ -14645,7 +14645,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-09-30T23:00:00.000Z",
     "price": 1150,
     "lat": "44.9360",
@@ -14717,7 +14717,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-11-01T00:00:00.000Z",
     "price": 1776,
     "lat": "44.3302",
@@ -14744,7 +14744,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-11-01T00:00:00.000Z",
     "price": 1159,
     "lat": "44.9360",
@@ -14816,7 +14816,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2024-12-01T00:00:00.000Z",
     "price": 1819,
     "lat": "44.3302",
@@ -14843,7 +14843,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2024-12-01T00:00:00.000Z",
     "price": 1155,
     "lat": "44.9360",
@@ -14915,7 +14915,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2025-01-01T00:00:00.000Z",
     "price": 1838,
     "lat": "44.3302",
@@ -14942,7 +14942,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2025-01-01T00:00:00.000Z",
     "price": 1187,
     "lat": "44.9360",
@@ -15014,7 +15014,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2025-02-01T00:00:00.000Z",
     "price": 1895,
     "lat": "44.3302",
@@ -15041,7 +15041,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2025-02-01T00:00:00.000Z",
     "price": 1210,
     "lat": "44.9360",
@@ -15113,7 +15113,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2025-03-01T00:00:00.000Z",
     "price": 1944,
     "lat": "44.3302",
@@ -15140,7 +15140,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2025-03-01T00:00:00.000Z",
     "price": 1244,
     "lat": "44.9360",
@@ -15212,7 +15212,7 @@
   {
     "countyEn": "Craiova",
     "countyRo": "Craiova",
-    "countyHu": "Krajova",
+    "countyHu": "Craiova",
     "date": "2025-03-31T23:00:00.000Z",
     "price": 1969,
     "lat": "44.3302",
@@ -15239,7 +15239,7 @@
   {
     "countyEn": "Ploiesti",
     "countyRo": "Ploiești",
-    "countyHu": "Ploeshti",
+    "countyHu": "Ploiești",
     "date": "2025-03-31T23:00:00.000Z",
     "price": 1267,
     "lat": "44.9360",
