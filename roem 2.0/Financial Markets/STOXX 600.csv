@@ -1,6 +1,7 @@
 Date,Price,Open,High,Low,Vol.,Change %
-Thu Oct 23 2025 02:00:00 GMT+0300 (Eastern European Summer Time),572.28,572.28,572.28,572.28,,0
-Wed Oct 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),572.28,573.3,574.3,571.46,,-0.0018
+Fri Oct 24 2025 02:00:00 GMT+0300 (Eastern European Summer Time),574.42,574.42,574.42,574.42,,0
+Thu Oct 23 2025 02:00:00 GMT+0300 (Eastern European Summer Time),574.42,572.28,574.84,572.28,,+0.37%
+Wed Oct 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),572.29,572.46,574.31,571.45,,-0.0018
 Tue Oct 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),573.3,572.66,574.03,571.38,,+0.21%
 Mon Oct 20 2025 02:00:00 GMT+0300 (Eastern European Summer Time),572.1,568.32,572.49,568.32,,+1.03%
 Fri Oct 17 2025 02:00:00 GMT+0300 (Eastern European Summer Time),566.24,568.85,568.98,560.84,,-0.0095
@@ -21,4 +22,3 @@ Mon Sep 29 2025 02:00:00 GMT+0300 (Eastern European Summer Time),555.53,555.69,5
 Fri Sep 26 2025 02:00:00 GMT+0300 (Eastern European Summer Time),554.52,550.63,555.15,550.63,,+0.78%
 Thu Sep 25 2025 02:00:00 GMT+0300 (Eastern European Summer Time),550.22,553.6,553.6,549.24,,-0.0066
 Wed Sep 24 2025 02:00:00 GMT+0300 (Eastern European Summer Time),553.88,554.85,555.18,551.68,,-0.0019
-Tue Sep 23 2025 02:00:00 GMT+0300 (Eastern European Summer Time),554.95,553.8,557.26,553.8,,+0.28%
