@@ -1,1 +1,25 @@
-#N/A
+Date,Price,Open,High,Low,Vol.,Change %
+Thu Nov 06 2025 02:00:00 GMT+0200 (Eastern European Standard Time),571.9,571.9,571.9,571.9,,0
+Wed Nov 05 2025 02:00:00 GMT+0200 (Eastern European Standard Time),571.9,570.58,573,566.4,,+0.23%
+Tue Nov 04 2025 02:00:00 GMT+0200 (Eastern European Standard Time),570.58,569.71,570.78,562.84,,-0.003
+Mon Nov 03 2025 02:00:00 GMT+0200 (Eastern European Standard Time),572.28,571.95,574.79,571.89,,+0.07%
+Fri Oct 31 2025 02:00:00 GMT+0200 (Eastern European Standard Time),571.89,574.49,574.61,571.15,,-0.0051
+Thu Oct 30 2025 02:00:00 GMT+0200 (Eastern European Standard Time),574.83,574.9,575.13,571.87,,-0.001
+Wed Oct 29 2025 02:00:00 GMT+0200 (Eastern European Standard Time),575.4,575.44,577.68,574.83,,-0.0006
+Tue Oct 28 2025 02:00:00 GMT+0200 (Eastern European Standard Time),575.76,576.31,576.44,574.96,,-0.0022
+Mon Oct 27 2025 02:00:00 GMT+0200 (Eastern European Standard Time),577.03,576.9,577.26,575.31,,+0.22%
+Fri Oct 24 2025 02:00:00 GMT+0300 (Eastern European Summer Time),575.76,575.55,576.18,572.82,,+0.23%
+Thu Oct 23 2025 02:00:00 GMT+0300 (Eastern European Summer Time),574.43,572.88,574.84,572.5,,+0.37%
+Wed Oct 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),572.29,572.46,574.31,571.45,,-0.0018
+Tue Oct 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),573.3,572.66,574.03,571.38,,+0.21%
+Mon Oct 20 2025 02:00:00 GMT+0300 (Eastern European Summer Time),572.1,568.32,572.49,568.32,,+1.03%
+Fri Oct 17 2025 02:00:00 GMT+0300 (Eastern European Summer Time),566.24,568.85,568.98,560.84,,-0.0095
+Thu Oct 16 2025 02:00:00 GMT+0300 (Eastern European Summer Time),571.66,567.93,571.66,567.34,,+0.69%
+Wed Oct 15 2025 02:00:00 GMT+0300 (Eastern European Summer Time),567.77,566.32,569.21,566.32,,+0.57%
+Tue Oct 14 2025 02:00:00 GMT+0300 (Eastern European Summer Time),564.54,564.83,564.83,560.31,,-0.0037
+Mon Oct 13 2025 02:00:00 GMT+0300 (Eastern European Summer Time),566.63,564.81,567.95,564.41,,+0.44%
+Fri Oct 10 2025 02:00:00 GMT+0300 (Eastern European Summer Time),564.16,570.88,572.13,564.03,,-0.0125
+Thu Oct 09 2025 02:00:00 GMT+0300 (Eastern European Summer Time),571.31,573.13,573.89,571.31,,-0.0043
+Wed Oct 08 2025 02:00:00 GMT+0300 (Eastern European Summer Time),573.79,569.24,574.32,569.24,,+0.79%
+Tue Oct 07 2025 02:00:00 GMT+0300 (Eastern European Summer Time),569.27,570.35,571.62,568.97,,-0.0017
+Mon Oct 06 2025 02:00:00 GMT+0300 (Eastern European Summer Time),570.24,570.87,571.67,567.85,,-0.0004
