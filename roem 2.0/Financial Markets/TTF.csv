@@ -1,4 +1,5 @@
 Date,Price,Open,High,Low,Vol.,Change %
+Fri Dec 05 2025 02:00:00 GMT+0200 (Eastern European Standard Time),27.266,27.36,27.36,27.105,1.08K,+0.66%
 Thu Dec 04 2025 02:00:00 GMT+0200 (Eastern European Standard Time),27.088,27.575,27.58,27.055,1.11K,-0.0396
 Wed Dec 03 2025 02:00:00 GMT+0200 (Eastern European Standard Time),28.206,27.995,28.27,27.995,1.11K,+0.56%
 Tue Dec 02 2025 02:00:00 GMT+0200 (Eastern European Standard Time),28.05,27.715,28.105,27.56,1.13K,-0.0063
@@ -19,4 +20,3 @@ Tue Nov 11 2025 02:00:00 GMT+0200 (Eastern European Standard Time),31.102,31.04,
 Mon Nov 10 2025 02:00:00 GMT+0200 (Eastern European Standard Time),31.071,31.3,31.465,30.84,9.39K,-0.0042
 Fri Nov 07 2025 02:00:00 GMT+0200 (Eastern European Standard Time),31.201,31.49,31.505,31.145,5.59K,-0.011
 Thu Nov 06 2025 02:00:00 GMT+0200 (Eastern European Standard Time),31.548,31.445,31.725,31.445,3.55K,-0.0085
-Wed Nov 05 2025 02:00:00 GMT+0200 (Eastern European Standard Time),31.819,32.1,32.12,31.695,2.28K,-0.0225
