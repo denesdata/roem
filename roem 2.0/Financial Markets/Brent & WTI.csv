@@ -195,8 +195,6 @@ Thu Jun 30 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,48.05
 Thu Jun 30 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,48.27
 Fri Jul 01 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,47.65
 Fri Jul 01 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,49.02
-Mon Jul 04 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,48.02
-Mon Jul 04 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Jul 05 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,45.64
 Tue Jul 05 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,46.73
 Wed Jul 06 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,45.7
@@ -367,8 +365,6 @@ Fri Oct 28 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,47.78
 Fri Oct 28 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,48.72
 Mon Oct 31 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.2
 Mon Oct 31 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,46.83
-Tue Nov 01 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Tue Nov 01 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,46.66
 Wed Nov 02 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,44.26
 Wed Nov 02 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,45.32
 Thu Nov 03 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,43.84
@@ -401,8 +397,6 @@ Tue Nov 22 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.1
 Tue Nov 22 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,48.07
 Wed Nov 23 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.54
 Wed Nov 23 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,46.72
-Thu Nov 24 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,47.54
-Thu Nov 24 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 25 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.32
 Fri Nov 25 2016 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,46.72
 Mon Nov 28 2016 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.64
@@ -471,8 +465,6 @@ Thu Jan 12 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.51
 Thu Jan 12 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,53.01
 Fri Jan 13 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.37
 Fri Jan 13 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,52.36
-Mon Jan 16 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.3
-Mon Jan 16 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 17 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.68
 Tue Jan 17 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,52.45
 Wed Jan 18 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,53.77
@@ -521,8 +513,6 @@ Thu Feb 16 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.16
 Thu Feb 16 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,53.41
 Fri Feb 17 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.48
 Fri Feb 17 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,53.41
-Mon Feb 20 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,55.25
-Mon Feb 20 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 21 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,56.34
 Tue Feb 21 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,54.02
 Wed Feb 22 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.9
@@ -659,8 +649,6 @@ Thu May 25 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,52.25
 Thu May 25 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,48.57
 Fri May 26 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,50.84
 Fri May 26 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,49.58
-Mon May 29 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,52.25
-Mon May 29 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue May 30 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,50.65
 Tue May 30 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,49.63
 Wed May 31 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,49.4
@@ -709,10 +697,6 @@ Thu Jun 29 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,47.02
 Thu Jun 29 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,44.88
 Fri Jun 30 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,47.08
 Fri Jun 30 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,46.02
-Mon Jul 03 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,49.13
-Mon Jul 03 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
-Tue Jul 04 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,49.15
-Tue Jul 04 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Wed Jul 05 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,47.58
 Wed Jul 05 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,45.11
 Thu Jul 06 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,48.53
@@ -799,8 +783,6 @@ Thu Aug 31 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,52.69
 Thu Aug 31 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,47.26
 Fri Sep 01 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,53.15
 Fri Sep 01 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,47.32
-Mon Sep 04 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,52.6
-Mon Sep 04 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 05 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,53.63
 Tue Sep 05 2017 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,48.63
 Wed Sep 06 2017 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,54.48
@@ -915,8 +897,6 @@ Tue Nov 21 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.28
 Tue Nov 21 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,56.84
 Wed Nov 22 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.92
 Wed Nov 22 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,57.88
-Thu Nov 23 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.27
-Thu Nov 23 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 24 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.58
 Fri Nov 24 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.94
 Mon Nov 27 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.25
@@ -959,8 +939,6 @@ Thu Dec 21 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.64
 Thu Dec 21 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.34
 Fri Dec 22 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.61
 Fri Dec 22 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.25
-Tue Dec 26 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Tue Dec 26 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,59.55
 Wed Dec 27 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,66.03
 Wed Dec 27 2017 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,59.67
 Thu Dec 28 2017 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,66.8
@@ -985,8 +963,6 @@ Thu Jan 11 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,70.36
 Thu Jan 11 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,63.81
 Fri Jan 12 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,69.64
 Fri Jan 12 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,64.22
-Mon Jan 15 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,70.31
-Mon Jan 15 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 16 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,69.4
 Tue Jan 16 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,63.82
 Wed Jan 17 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,69.19
@@ -1035,8 +1011,6 @@ Thu Feb 15 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.86
 Thu Feb 15 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,61.48
 Fri Feb 16 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.3
 Fri Feb 16 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,61.89
-Mon Feb 19 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.95
-Mon Feb 19 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 20 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.68
 Tue Feb 20 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,61.91
 Wed Feb 21 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.81
@@ -1225,8 +1199,6 @@ Mon Jul 02 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.71
 Mon Jul 02 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,73.89
 Tue Jul 03 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,75.87
 Tue Jul 03 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,74.19
-Wed Jul 04 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.99
-Wed Jul 04 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Thu Jul 05 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.09
 Thu Jul 05 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,73.05
 Fri Jul 06 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,74.98
@@ -1311,8 +1283,6 @@ Thu Aug 30 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.05
 Thu Aug 30 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,70.25
 Fri Aug 31 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.94
 Fri Aug 31 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,69.84
-Mon Sep 03 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.81
-Mon Sep 03 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 04 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.51
 Tue Sep 04 2018 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,69.82
 Wed Sep 05 2018 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.68
@@ -1427,10 +1397,6 @@ Tue Nov 20 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,61.5
 Tue Nov 20 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,53.39
 Wed Nov 21 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,61.65
 Wed Nov 21 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,54.41
-Thu Nov 22 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,61.11
-Thu Nov 22 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
-Fri Nov 23 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,57.69
-Fri Nov 23 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Mon Nov 26 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,59.7
 Mon Nov 26 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,51.46
 Tue Nov 27 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,59.58
@@ -1471,8 +1437,6 @@ Thu Dec 20 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,52.84
 Thu Dec 20 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,45.64
 Fri Dec 21 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,51.93
 Fri Dec 21 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,45.38
-Wed Dec 26 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Wed Dec 26 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,46.04
 Thu Dec 27 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,51.49
 Thu Dec 27 2018 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,44.48
 Fri Dec 28 2018 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,50.57
@@ -1737,10 +1701,6 @@ Tue Jul 02 2019 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,62.72
 Tue Jul 02 2019 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,56
 Wed Jul 03 2019 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,63.53
 Wed Jul 03 2019 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,57.06
-Thu Jul 04 2019 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,63.62
-Thu Jul 04 2019 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
-Fri Jul 05 2019 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,64.23
-Fri Jul 05 2019 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Mon Jul 08 2019 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,64.89
 Mon Jul 08 2019 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,57.35
 Tue Jul 09 2019 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,64.3
@@ -1947,8 +1907,6 @@ Tue Nov 26 2019 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.82
 Tue Nov 26 2019 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.25
 Wed Nov 27 2019 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,65.03
 Wed Nov 27 2019 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.12
-Thu Nov 28 2019 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.68
-Thu Nov 28 2019 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 29 2019 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.5
 Fri Nov 29 2019 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.12
 Mon Dec 02 2019 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.2
@@ -2019,8 +1977,6 @@ Thu Jan 16 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.63
 Thu Jan 16 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.52
 Fri Jan 17 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.05
 Fri Jan 17 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.55
-Mon Jan 20 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.63
-Mon Jan 20 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 21 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.66
 Tue Jan 21 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.25
 Wed Jan 22 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.11
@@ -2059,8 +2015,6 @@ Thu Feb 13 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,56.34
 Thu Feb 13 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,51.41
 Fri Feb 14 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,57.37
 Fri Feb 14 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,52.03
-Mon Feb 17 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,57.83
-Mon Feb 17 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 18 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,57.35
 Tue Feb 18 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,52.1
 Wed Feb 19 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,59.72
@@ -2137,8 +2091,6 @@ Wed Apr 08 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,25.22
 Wed Apr 08 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,24.97
 Thu Apr 09 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,20.23
 Thu Apr 09 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,22.9
-Mon Apr 13 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Apr 13 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,22.36
 Tue Apr 14 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,21.74
 Tue Apr 14 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,20.15
 Wed Apr 15 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,19.8
@@ -2175,8 +2127,6 @@ Wed May 06 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,24.2
 Wed May 06 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,23.88
 Thu May 07 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,24.23
 Thu May 07 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,23.68
-Fri May 08 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Fri May 08 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,24.73
 Mon May 11 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,25.53
 Mon May 11 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,24.02
 Tue May 12 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,26.67
@@ -2253,8 +2203,6 @@ Wed Jul 01 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,42.18
 Wed Jul 01 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,39.88
 Thu Jul 02 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,43.19
 Thu Jul 02 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,40.57
-Fri Jul 03 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,42.92
-Fri Jul 03 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Mon Jul 06 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,42.73
 Mon Jul 06 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,40.51
 Tue Jul 07 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,43.28
@@ -2335,8 +2283,6 @@ Thu Aug 27 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,44.84
 Thu Aug 27 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,42.88
 Fri Aug 28 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,45.22
 Fri Aug 28 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,42.96
-Mon Aug 31 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Aug 31 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,42.61
 Tue Sep 01 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,45.72
 Tue Sep 01 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,42.76
 Wed Sep 02 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,42.7
@@ -2345,8 +2291,6 @@ Thu Sep 03 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,42.72
 Thu Sep 03 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,41.39
 Fri Sep 04 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,41.1
 Fri Sep 04 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,39.69
-Mon Sep 07 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,40.67
-Mon Sep 07 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 08 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,38.53
 Tue Sep 08 2020 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,36.87
 Wed Sep 09 2020 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,39.98
@@ -2461,10 +2405,6 @@ Tue Nov 24 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.63
 Tue Nov 24 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,44.71
 Wed Nov 25 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,47.3
 Wed Nov 25 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,45.58
-Thu Nov 26 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.32
-Thu Nov 26 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
-Fri Nov 27 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.88
-Fri Nov 27 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Mon Nov 30 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,46.84
 Mon Nov 30 2020 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,45.2
 Tue Dec 01 2020 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,47.03
@@ -2531,8 +2471,6 @@ Thu Jan 14 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,55.76
 Thu Jan 14 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,53.47
 Fri Jan 15 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.8
 Fri Jan 15 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,52.25
-Mon Jan 18 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,54.21
-Mon Jan 18 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 19 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,55.38
 Tue Jan 19 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,52.87
 Wed Jan 20 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,55.66
@@ -2571,8 +2509,6 @@ Thu Feb 11 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,61.09
 Thu Feb 11 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.22
 Fri Feb 12 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.47
 Fri Feb 12 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,59.5
-Mon Feb 15 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.58
-Mon Feb 15 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 16 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.96
 Tue Feb 16 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,60.07
 Wed Feb 17 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,65.02
@@ -2639,8 +2575,6 @@ Wed Mar 31 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,63.52
 Wed Mar 31 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,59.19
 Thu Apr 01 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,63.85
 Thu Apr 01 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,61.41
-Mon Apr 05 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Apr 05 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,58.73
 Tue Apr 06 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,61.47
 Tue Apr 06 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,59.34
 Wed Apr 07 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,61.86
@@ -2679,8 +2613,6 @@ Thu Apr 29 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.26
 Thu Apr 29 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,65
 Fri Apr 30 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.73
 Fri Apr 30 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,63.5
-Mon May 03 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon May 03 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,64.46
 Tue May 04 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.91
 Tue May 04 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,65.72
 Wed May 05 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,69.71
@@ -2767,8 +2699,6 @@ Thu Jul 01 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.69
 Thu Jul 01 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.33
 Fri Jul 02 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.51
 Fri Jul 02 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.37
-Mon Jul 05 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,78.34
-Mon Jul 05 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Jul 06 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,75.81
 Tue Jul 06 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,73.62
 Wed Jul 07 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,74.31
@@ -2847,8 +2777,6 @@ Thu Aug 26 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,70.42
 Thu Aug 26 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,67.42
 Fri Aug 27 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,72.26
 Fri Aug 27 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,68.84
-Mon Aug 30 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Aug 30 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,69.28
 Tue Aug 31 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,73.45
 Tue Aug 31 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,68.43
 Wed Sep 01 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,71.99
@@ -2857,8 +2785,6 @@ Thu Sep 02 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,73.56
 Thu Sep 02 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,70.07
 Fri Sep 03 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,73.07
 Fri Sep 03 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,69.34
-Mon Sep 06 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,72.43
-Mon Sep 06 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 07 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,71.52
 Tue Sep 07 2021 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,68.49
 Wed Sep 08 2021 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,72.36
@@ -2973,10 +2899,6 @@ Tue Nov 23 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.43
 Tue Nov 23 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.32
 Wed Nov 24 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.37
 Wed Nov 24 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.32
-Thu Nov 25 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.05
-Thu Nov 25 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
-Fri Nov 26 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,72.37
-Fri Nov 26 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Mon Nov 29 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,73.34
 Mon Nov 29 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,69.88
 Tue Nov 30 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,70.86
@@ -3015,12 +2937,6 @@ Wed Dec 22 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,74.69
 Wed Dec 22 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,72.82
 Thu Dec 23 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,76.26
 Thu Dec 23 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,73.89
-Fri Dec 24 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,75.24
-Fri Dec 24 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
-Mon Dec 27 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Mon Dec 27 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,75.49
-Tue Dec 28 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Tue Dec 28 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.01
 Wed Dec 29 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,78.63
 Wed Dec 29 2021 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.58
 Thu Dec 30 2021 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,78.61
@@ -3047,8 +2963,6 @@ Thu Jan 13 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,85.8
 Thu Jan 13 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,81.97
 Fri Jan 14 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,87.17
 Fri Jan 14 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,83.82
-Mon Jan 17 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,87.82
-Mon Jan 17 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 18 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,88.83
 Tue Jan 18 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,85.42
 Wed Jan 19 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,89.64
@@ -3097,8 +3011,6 @@ Thu Feb 17 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,95.28
 Thu Feb 17 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,91.78
 Fri Feb 18 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,96.18
 Fri Feb 18 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,91.26
-Mon Feb 21 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,98.95
-Mon Feb 21 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 22 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,98.73
 Tue Feb 22 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,92.11
 Wed Feb 23 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,99.29
@@ -3175,8 +3087,6 @@ Wed Apr 13 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,108.49
 Wed Apr 13 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,104.26
 Thu Apr 14 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,110.83
 Thu Apr 14 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,106.84
-Mon Apr 18 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Apr 18 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,108.24
 Tue Apr 19 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,105.49
 Tue Apr 19 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,102.54
 Wed Apr 20 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,105.05
@@ -3195,8 +3105,6 @@ Thu Apr 28 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,105.78
 Thu Apr 28 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,105.47
 Fri Apr 29 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,108.36
 Fri Apr 29 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,104.59
-Mon May 02 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon May 02 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,105.18
 Tue May 03 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,104.94
 Tue May 03 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,102.53
 Wed May 04 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,110.53
@@ -3235,14 +3143,10 @@ Thu May 26 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,119.81
 Thu May 26 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,116.19
 Fri May 27 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,121.19
 Fri May 27 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,114.96
-Mon May 30 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,123.01
-Mon May 30 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue May 31 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,125.53
 Tue May 31 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,114.38
 Wed Jun 01 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,122.2
 Wed Jun 01 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,115.26
-Thu Jun 02 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Thu Jun 02 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,116.88
 Fri Jun 03 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,125.68
 Fri Jun 03 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,118.97
 Mon Jun 06 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,124.99
@@ -3265,8 +3169,6 @@ Thu Jun 16 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,125.78
 Thu Jun 16 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,117.56
 Fri Jun 17 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,119.22
 Fri Jun 17 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,109.56
-Mon Jun 20 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,118.25
-Mon Jun 20 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Jun 21 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,118.51
 Tue Jun 21 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,110.49
 Wed Jun 22 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,115.54
@@ -3285,8 +3187,6 @@ Thu Jun 30 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,119.78
 Thu Jun 30 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,107.76
 Fri Jul 01 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,119.21
 Fri Jul 01 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,110.3
-Mon Jul 04 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,121.8
-Mon Jul 04 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Jul 05 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,110.49
 Tue Jul 05 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,101.55
 Wed Jul 06 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,108.54
@@ -3365,8 +3265,6 @@ Thu Aug 25 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,98.81
 Thu Aug 25 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,93.33
 Fri Aug 26 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,101.13
 Fri Aug 26 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,93.63
-Mon Aug 29 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Aug 29 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,97.4
 Tue Aug 30 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,99.34
 Tue Aug 30 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,92.08
 Wed Aug 31 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,96.55
@@ -3375,8 +3273,6 @@ Thu Sep 01 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,92.24
 Thu Sep 01 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,87.09
 Fri Sep 02 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,93.09
 Fri Sep 02 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,87.29
-Mon Sep 05 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,94.22
-Mon Sep 05 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 06 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,91.43
 Tue Sep 06 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,87.35
 Wed Sep 07 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,86.83
@@ -3395,8 +3291,6 @@ Thu Sep 15 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,89.28
 Thu Sep 15 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,85.72
 Fri Sep 16 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,89.43
 Fri Sep 16 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,85.57
-Mon Sep 19 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Sep 19 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,86.15
 Tue Sep 20 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,89.62
 Tue Sep 20 2022 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,84.69
 Wed Sep 21 2022 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,89.86
@@ -3489,8 +3383,6 @@ Tue Nov 22 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,88.65
 Tue Nov 22 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,80.83
 Wed Nov 23 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,85.9
 Wed Nov 23 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,77.93
-Thu Nov 24 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,85.59
-Thu Nov 24 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 25 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.4
 Fri Nov 25 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.45
 Mon Nov 28 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.5
@@ -3531,8 +3423,6 @@ Thu Dec 22 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.58
 Thu Dec 22 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,77.68
 Fri Dec 23 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.45
 Fri Dec 23 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,79.57
-Tue Dec 27 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Tue Dec 27 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,79.45
 Wed Dec 28 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.7
 Wed Dec 28 2022 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.89
 Thu Dec 29 2022 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.96
@@ -3557,8 +3447,6 @@ Thu Jan 12 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.59
 Thu Jan 12 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.32
 Fri Jan 13 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.43
 Fri Jan 13 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,79.9
-Mon Jan 16 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.65
-Mon Jan 16 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 17 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.38
 Tue Jan 17 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,80.25
 Wed Jan 18 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.78
@@ -3607,8 +3495,6 @@ Thu Feb 16 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.84
 Thu Feb 16 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.45
 Fri Feb 17 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.97
 Fri Feb 17 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.31
-Mon Feb 20 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.79
-Mon Feb 20 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 21 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.14
 Tue Feb 21 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.28
 Wed Feb 22 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.55
@@ -3673,8 +3559,6 @@ Wed Apr 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,85.89
 Wed Apr 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,80.69
 Thu Apr 06 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,86.56
 Thu Apr 06 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,80.7
-Mon Apr 10 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Apr 10 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,79.79
 Tue Apr 11 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,87.32
 Tue Apr 11 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,81.54
 Wed Apr 12 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,88.31
@@ -3703,8 +3587,6 @@ Thu Apr 27 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,80.11
 Thu Apr 27 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,74.77
 Fri Apr 28 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,81.32
 Fri Apr 28 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,76.78
-Mon May 01 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon May 01 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.65
 Tue May 02 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.71
 Tue May 02 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,71.71
 Wed May 03 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,72.91
@@ -3713,8 +3595,6 @@ Thu May 04 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,73
 Thu May 04 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,68.52
 Fri May 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,75.85
 Fri May 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,71.32
-Mon May 08 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon May 08 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,73.13
 Tue May 09 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.76
 Tue May 09 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,73.68
 Wed May 10 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.7
@@ -3771,8 +3651,6 @@ Thu Jun 15 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,75.75
 Thu Jun 15 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,70.61
 Fri Jun 16 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.76
 Fri Jun 16 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,71.81
-Mon Jun 19 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.09
-Mon Jun 19 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Jun 20 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,75.79
 Tue Jun 20 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,70.94
 Wed Jun 21 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.92
@@ -3793,8 +3671,6 @@ Fri Jun 30 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,74.51
 Fri Jun 30 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,70.66
 Mon Jul 03 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,74.52
 Mon Jul 03 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,69.71
-Tue Jul 04 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.23
-Tue Jul 04 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Wed Jul 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.74
 Wed Jul 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,71.78
 Thu Jul 06 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.72
@@ -3871,8 +3747,6 @@ Thu Aug 24 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,84.07
 Thu Aug 24 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,79.52
 Fri Aug 25 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,85.42
 Fri Aug 25 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,80.47
-Mon Aug 28 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Aug 28 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,80.65
 Tue Aug 29 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,86.37
 Tue Aug 29 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,81.14
 Wed Aug 30 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,86.62
@@ -3881,8 +3755,6 @@ Thu Aug 31 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,87.29
 Thu Aug 31 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,83.55
 Fri Sep 01 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,89.98
 Fri Sep 01 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,85.52
-Mon Sep 04 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,90.42
-Mon Sep 04 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,91.25
 Tue Sep 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,86.74
 Wed Sep 06 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,91.79
@@ -3931,8 +3803,6 @@ Thu Oct 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,88.28
 Thu Oct 05 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,82.3
 Fri Oct 06 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,87.86
 Fri Oct 06 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,82.83
-Mon Oct 09 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,91.37
-Mon Oct 09 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Oct 10 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,90.7
 Tue Oct 10 2023 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,85.89
 Wed Oct 11 2023 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,87.58
@@ -3979,8 +3849,6 @@ Wed Nov 08 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.46
 Wed Nov 08 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,75.85
 Thu Nov 09 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.74
 Thu Nov 09 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.34
-Fri Nov 10 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.66
-Fri Nov 10 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Mon Nov 13 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.09
 Mon Nov 13 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.86
 Tue Nov 14 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.2
@@ -3997,8 +3865,6 @@ Tue Nov 21 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.42
 Tue Nov 21 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.35
 Wed Nov 22 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.76
 Wed Nov 22 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.8
-Thu Nov 23 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.85
-Thu Nov 23 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 24 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.82
 Fri Nov 24 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,74.83
 Mon Nov 27 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.49
@@ -4041,8 +3907,6 @@ Thu Dec 21 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.73
 Thu Dec 21 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,73.59
 Fri Dec 22 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.23
 Fri Dec 22 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,73.29
-Tue Dec 26 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Tue Dec 26 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,75.84
 Wed Dec 27 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.97
 Wed Dec 27 2023 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,74.31
 Thu Dec 28 2023 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.04
@@ -4067,8 +3931,6 @@ Thu Jan 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.21
 Thu Jan 11 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,72.15
 Fri Jan 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.89
 Fri Jan 12 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,72.94
-Mon Jan 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.76
-Mon Jan 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.15
 Tue Jan 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,72.63
 Wed Jan 17 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,78.88
@@ -4115,8 +3977,6 @@ Thu Feb 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.33
 Thu Feb 15 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.47
 Fri Feb 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.88
 Fri Feb 16 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,79.65
-Mon Feb 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,85.52
-Mon Feb 19 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.78
 Tue Feb 20 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.72
 Wed Feb 21 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.77
@@ -4173,8 +4033,6 @@ Wed Mar 27 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,84.94
 Wed Mar 27 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,82.15
 Thu Mar 28 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,86.17
 Thu Mar 28 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,83.96
-Mon Apr 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Apr 01 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,84.54
 Tue Apr 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,87.63
 Tue Apr 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,85.95
 Wed Apr 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,90.6
@@ -4221,8 +4079,6 @@ Thu May 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,84.81
 Thu May 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,80.59
 Fri May 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,83.6
 Fri May 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,79.65
-Mon May 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon May 06 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,80.1
 Tue May 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,82.69
 Tue May 07 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,79.97
 Wed May 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,82.44
@@ -4283,8 +4139,6 @@ Mon Jun 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,82.45
 Mon Jun 17 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,81.33
 Tue Jun 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,84.79
 Tue Jun 18 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,82.67
-Wed Jun 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,85.64
-Wed Jun 19 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Thu Jun 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,85.92
 Thu Jun 20 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,83.34
 Fri Jun 21 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,86.42
@@ -4305,8 +4159,6 @@ Tue Jul 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,88.28
 Tue Jul 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,84.09
 Wed Jul 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,88.25
 Wed Jul 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,85.19
-Thu Jul 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,88.34
-Thu Jul 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Fri Jul 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,88.66
 Fri Jul 05 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,84.44
 Mon Jul 08 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,87.15
@@ -4379,8 +4231,6 @@ Thu Aug 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,78.8
 Thu Aug 22 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,73.72
 Fri Aug 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,80.34
 Fri Aug 23 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.82
-Mon Aug 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Aug 26 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,78.4
 Tue Aug 27 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,81.51
 Tue Aug 27 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,76.5
 Wed Aug 28 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,80.04
@@ -4389,8 +4239,6 @@ Thu Aug 29 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,81.55
 Thu Aug 29 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,76.9
 Fri Aug 30 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,80.2
 Fri Aug 30 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,74.52
-Mon Sep 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,77.82
-Mon Sep 02 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,76.46
 Tue Sep 03 2024 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,71.28
 Wed Sep 04 2024 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,74.67
@@ -4515,8 +4363,6 @@ Tue Nov 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,74.56
 Tue Nov 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,69.05
 Wed Nov 27 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,73.91
 Wed Nov 27 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,69.03
-Thu Nov 28 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,73.92
-Thu Nov 28 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 29 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,74.16
 Fri Nov 29 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,68.26
 Mon Dec 02 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,72.81
@@ -4553,10 +4399,6 @@ Mon Dec 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,72.12
 Mon Dec 23 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,69.5
 Tue Dec 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,73.5
 Tue Dec 24 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,70.87
-Wed Dec 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,73.5
-Wed Dec 25 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
-Thu Dec 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Thu Dec 26 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,70.38
 Fri Dec 27 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,73.77
 Fri Dec 27 2024 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,71.28
 Mon Dec 30 2024 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,74.24
@@ -4573,8 +4415,6 @@ Tue Jan 07 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,77.84
 Tue Jan 07 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,74.99
 Wed Jan 08 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,77.37
 Wed Jan 08 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,73.99
-Thu Jan 09 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,78.44
-Thu Jan 09 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Jan 10 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,79.76
 Fri Jan 10 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,77.27
 Mon Jan 13 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.69
@@ -4587,8 +4427,6 @@ Thu Jan 16 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,82.39
 Thu Jan 16 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,79.35
 Fri Jan 17 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.02
 Fri Jan 17 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,78.56
-Mon Jan 20 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.68
-Mon Jan 20 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Jan 21 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80.57
 Tue Jan 21 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,76.79
 Wed Jan 22 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,80
@@ -4627,8 +4465,6 @@ Thu Feb 13 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,75.61
 Thu Feb 13 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,71.66
 Fri Feb 14 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,75.19
 Fri Feb 14 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,71.05
-Mon Feb 17 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,75.81
-Mon Feb 17 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Tue Feb 18 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,76.46
 Tue Feb 18 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,72.21
 Wed Feb 19 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,76.34
@@ -4715,8 +4551,6 @@ Wed Apr 16 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.94
 Wed Apr 16 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,62.88
 Thu Apr 17 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,69.33
 Thu Apr 17 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,65.07
-Mon Apr 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Apr 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,63.48
 Tue Apr 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.93
 Tue Apr 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,64.6
 Wed Apr 23 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.26
@@ -4735,8 +4569,6 @@ Thu May 01 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,62.37
 Thu May 01 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,60.59
 Fri May 02 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,61.57
 Fri May 02 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,59.67
-Mon May 05 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon May 05 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,58.5
 Tue May 06 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,62.37
 Tue May 06 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,60.42
 Wed May 07 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,60.31
@@ -4799,8 +4631,6 @@ Tue Jun 17 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,78.7
 Tue Jun 17 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.62
 Wed Jun 18 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,78.38
 Wed Jun 18 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.89
-Thu Jun 19 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,80.37
-Thu Jun 19 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Fri Jun 20 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,78.73
 Fri Jun 20 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,75.72
 Mon Jun 23 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,74.34
@@ -4821,8 +4651,6 @@ Wed Jul 02 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,70.8
 Wed Jul 02 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,68.66
 Thu Jul 03 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,70.42
 Thu Jul 03 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,68.13
-Fri Jul 04 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,71.03
-Fri Jul 04 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Mon Jul 07 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,71.95
 Mon Jul 07 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,69.16
 Tue Jul 08 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,72.5
@@ -4893,8 +4721,6 @@ Thu Aug 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.41
 Thu Aug 21 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,64.56
 Fri Aug 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.29
 Fri Aug 22 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,64.08
-Mon Aug 25 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,
-Mon Aug 25 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,65.18
 Tue Aug 26 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,66.89
 Tue Aug 26 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,63.6
 Wed Aug 27 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.75
@@ -4903,8 +4729,6 @@ Thu Aug 28 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.61
 Thu Aug 28 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,64.96
 Fri Aug 29 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.83
 Fri Aug 29 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,64.36
-Mon Sep 01 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.09
-Mon Sep 01 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Sep 02 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,68.09
 Tue Sep 02 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,65.95
 Wed Sep 03 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.76
@@ -4963,8 +4787,6 @@ Thu Oct 09 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,67.23
 Thu Oct 09 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,62.36
 Fri Oct 10 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,64.41
 Fri Oct 10 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,59.75
-Mon Oct 13 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,64.15
-Mon Oct 13 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,
 Tue Oct 14 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,63
 Tue Oct 14 2025 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,59.52
 Wed Oct 15 2025 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,62.33
@@ -5005,8 +4827,6 @@ Fri Nov 07 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.72
 Fri Nov 07 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,60.54
 Mon Nov 10 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.01
 Mon Nov 10 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,60.94
-Tue Nov 11 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.86
-Tue Nov 11 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Wed Nov 12 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,61.88
 Wed Nov 12 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,59.3
 Thu Nov 13 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.14
@@ -5029,8 +4849,6 @@ Tue Nov 25 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.99
 Tue Nov 25 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.25
 Wed Nov 26 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.81
 Wed Nov 26 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.81
-Thu Nov 27 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.18
-Thu Nov 27 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,
 Fri Nov 28 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.07
 Fri Nov 28 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.58
 Mon Dec 01 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,64.22
@@ -5069,8 +4887,6 @@ Tue Dec 23 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.7
 Tue Dec 23 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.55
 Wed Dec 24 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.7
 Wed Dec 24 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,58.72
-Fri Dec 26 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,
-Fri Dec 26 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,56.6
 Mon Dec 29 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,63.1
 Mon Dec 29 2025 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,57.89
 Tue Dec 30 2025 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,62.3
