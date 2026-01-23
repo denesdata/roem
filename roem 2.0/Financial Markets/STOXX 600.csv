@@ -1,6 +1,7 @@
 Date,Price,Open,High,Low,Vol.,Change %
-Thu Jan 22 2026 02:00:00 GMT+0200 (Eastern European Standard Time),602.66,602.66,602.66,602.66,,0
-Wed Jan 21 2026 02:00:00 GMT+0200 (Eastern European Standard Time),602.66,602.8,603.86,597.66,,-0.0002
+Fri Jan 23 2026 02:00:00 GMT+0200 (Eastern European Standard Time),608.86,608.86,608.86,608.86,,0
+Thu Jan 22 2026 02:00:00 GMT+0200 (Eastern European Standard Time),608.86,605.71,611.11,605.71,,+1.03%
+Wed Jan 21 2026 02:00:00 GMT+0200 (Eastern European Standard Time),602.67,602.48,603.87,597.65,,-0.0002
 Tue Jan 20 2026 02:00:00 GMT+0200 (Eastern European Standard Time),602.8,605.35,605.35,598.3,,-0.007
 Mon Jan 19 2026 02:00:00 GMT+0200 (Eastern European Standard Time),607.06,610.25,610.25,605.76,,-0.0119
 Fri Jan 16 2026 02:00:00 GMT+0200 (Eastern European Standard Time),614.38,614.55,615.05,612.41,,-0.0003
@@ -19,4 +20,3 @@ Tue Dec 30 2025 02:00:00 GMT+0200 (Eastern European Standard Time),592.78,588.83
 Mon Dec 29 2025 02:00:00 GMT+0200 (Eastern European Standard Time),589.25,588.86,590.15,587.81,,+0.09%
 Wed Dec 24 2025 02:00:00 GMT+0200 (Eastern European Standard Time),588.72,588.72,588.72,588.72,,0
 Tue Dec 23 2025 02:00:00 GMT+0200 (Eastern European Standard Time),588.73,587.34,589.47,587.23,,+0.34%
-Mon Dec 22 2025 02:00:00 GMT+0200 (Eastern European Standard Time),586.75,587.47,587.83,585.01,,-0.0013
