@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download Index and Commodity Data
+      - name: Download Index Data
         run: |
           # 1. Create the directory if it doesn't exist
           mkdir -p "roem 2.0/Financial Markets"
@@ -23,17 +23,15 @@ jobs:
           
           # 3. Download SSEC Index (Shanghai)
           curl -L "https://stooq.com/q/d/l/?s=^shc&i=d" -o "roem 2.0/Financial Markets/SSEC.csv"
-          
-          # 4. Download Dutch TTF Natural Gas Futures (tg.f)
-          curl -L "https://stooq.com/q/d/l/?s=tg.f&i=d" -o "roem 2.0/Financial Markets/TTF.csv"
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add all CSVs in that specific folder
-          git add "roem 2.0/Financial Markets/*.csv"
+          # Add only the existing CSVs in that folder
+          git add "roem 2.0/Financial Markets/BET index.csv"
+          git add "roem 2.0/Financial Markets/SSEC.csv"
           
           # Only commit if there are actual updates
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update BET, SSEC, and TTF: $(date +'%Y-%m-%d')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update BET and SSEC Index: $(date +'%Y-%m-%d')" && git push)
