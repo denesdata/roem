@@ -1,0 +1,27 @@
+name: Daily Stooq Data Download
+
+on:
+  schedule:
+    # 02:00 UTC is 04:00 AM Bucharest (Standard Time)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allows you to run it manually to test
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download BET Index CSV
+        run: |
+          # The -L flag follows redirects, -o saves to file
+          curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" -o bet_index.csv
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add bet_index.csv
+          # This line checks if there are changes; if not, it won't fail the build
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update BET Index: $(date +'%Y-%m-%d')" && git push)
