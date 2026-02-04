@@ -2,9 +2,9 @@ name: Daily Stooq Data Download
 
 on:
   schedule:
-    # 02:00 UTC is 04:00 AM Bucharest (Standard Time)
+    # 02:00 UTC is 04:00 AM Bucharest
     - cron: '0 2 * * *'
-  workflow_dispatch: # Allows you to run it manually to test
+  workflow_dispatch: 
 
 jobs:
   download:
@@ -13,15 +13,27 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download BET Index CSV
+      - name: Download Index and Commodity Data
         run: |
-          # The -L flag follows redirects, -o saves to file
-          curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" -o bet_index.csv
+          # 1. Create the directory if it doesn't exist
+          mkdir -p "roem 2.0/Financial Markets"
+          
+          # 2. Download BET Index (Romania)
+          curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" -o "roem 2.0/Financial Markets/BET index.csv"
+          
+          # 3. Download SSEC Index (Shanghai)
+          curl -L "https://stooq.com/q/d/l/?s=^shc&i=d" -o "roem 2.0/Financial Markets/SSEC.csv"
+          
+          # 4. Download Dutch TTF Natural Gas Futures (tg.f)
+          curl -L "https://stooq.com/q/d/l/?s=tg.f&i=d" -o "roem 2.0/Financial Markets/TTF.csv"
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add bet_index.csv
-          # This line checks if there are changes; if not, it won't fail the build
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update BET Index: $(date +'%Y-%m-%d')" && git push)
+          
+          # Add all CSVs in that specific folder
+          git add "roem 2.0/Financial Markets/*.csv"
+          
+          # Only commit if there are actual updates
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update BET, SSEC, and TTF: $(date +'%Y-%m-%d')" && git push)
