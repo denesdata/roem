@@ -1,4 +1,5 @@
 Data,IRCC,,,Variatie %,Variatie
+Thu Feb 12 2026 02:00:00 GMT+0200 (Eastern European Standard Time),5.53,-,,0.00 %,0.00
 Wed Feb 11 2026 02:00:00 GMT+0200 (Eastern European Standard Time),5.53,,,-0.18 %,-0.01
 Tue Feb 10 2026 02:00:00 GMT+0200 (Eastern European Standard Time),5.54,,,+0.36 %,+0.02
 Mon Feb 09 2026 02:00:00 GMT+0200 (Eastern European Standard Time),5.52,,,-0.18 %,-0.01
@@ -153,7 +154,7 @@ Fri Aug 01 2025 02:00:00 GMT+0300 (Eastern European Summer Time),5.61,,,-0.88 %,
 03 Iul 2025,6.14,,,-0.49 %,-0.03
 02 Iul 2025,6.17,,,-3.14 %,-0.20
 01 Iul 2025,6.37,,,-2.75 %,-0.18
-30 Iun 2025,6.55,,,+1.71 %,+0.11
+30 Iun 2025,6.55,,(max),+1.71 %,+0.11
 27 Iun 2025,6.44,,,-0.77 %,-0.05
 26 Iun 2025,6.49,,,+0.31 %,+0.02
 25 Iun 2025,6.47,,,+1.25 %,+0.08
@@ -163,5 +164,4 @@ Fri Aug 01 2025 02:00:00 GMT+0300 (Eastern European Summer Time),5.61,,,-0.88 %,
 19 Iun 2025,5.73,,,+2.32 %,+0.13
 18 Iun 2025,5.60,,,-7.74 %,-0.47
 17 Iun 2025,6.07,,,-3.34 %,-0.21
-16 Iun 2025,6.28,,,-4.41 %,-0.29
-13 Iun 2025,6.57,-,(max),0.00 %,0.00
+16 Iun 2025,6.28,-,,0.00 %,0.00
