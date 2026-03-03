@@ -1,4 +1,5 @@
 "Data","Simbol","*Valoare (RON)*","","","Variatie %","Variatie","Date"
+"Mon Mar 02 2026 02:00:00 GMT+0200 (Eastern European Standard Time)","1 EUR","50972","","","+0,0373 %","+0,0019","Mon Mar 02 2026 02:00:00 GMT+0200 (Eastern European Standard Time)"
 "Fri Feb 27 2026 02:00:00 GMT+0200 (Eastern European Standard Time)","1 EUR","50953","","","-0,0039 %","-2","Fri Feb 27 2026 02:00:00 GMT+0200 (Eastern European Standard Time)"
 "Thu Feb 26 2026 02:00:00 GMT+0200 (Eastern European Standard Time)","1 EUR","50955","","","+0,0039 %","+0,0002","Thu Feb 26 2026 02:00:00 GMT+0200 (Eastern European Standard Time)"
 "Wed Feb 25 2026 02:00:00 GMT+0200 (Eastern European Standard Time)","1 EUR","50953","","","-0,0020 %","-1","Wed Feb 25 2026 02:00:00 GMT+0200 (Eastern European Standard Time)"
@@ -77,6 +78,5 @@
 "05 Noi 2025","1 EUR","50851","","","-0,0275 %","-14","Wed Nov 05 2025 02:00:00 GMT+0200 (Eastern European Standard Time)"
 "04 Noi 2025","1 EUR","50865","","","+0,0079 %","+0,0004","Tue Nov 04 2025 02:00:00 GMT+0200 (Eastern European Standard Time)"
 "03 Noi 2025","1 EUR","50861","-","","-","-","Mon Nov 03 2025 02:00:00 GMT+0200 (Eastern European Standard Time)"
-"","","","","","","","#VALUE!"
 "","","","","","","","#VALUE!"
 "","","","","","","","#VALUE!"
