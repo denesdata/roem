@@ -16135,5 +16135,104 @@
     "price": 2214,
     "lat": "44.4268",
     "lon": "26.1025"
+  },
+  {
+    "countyEn": "National",
+    "countyRo": "Național",
+    "countyHu": "Országos",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1996,
+    "lat": "",
+    "lon": ""
+  },
+  {
+    "countyEn": "Iasi",
+    "countyRo": "Iași",
+    "countyHu": "Jászvásár",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1946,
+    "lat": "47.1585",
+    "lon": "27.6014"
+  },
+  {
+    "countyEn": "Craiova",
+    "countyRo": "Craiova",
+    "countyHu": "Craiova",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 2150,
+    "lat": "44.3302",
+    "lon": "23.7949"
+  },
+  {
+    "countyEn": "Sibiu",
+    "countyRo": "Sibiu",
+    "countyHu": "Nagyszeben",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1968,
+    "lat": "45.7983",
+    "lon": "24.1256"
+  },
+  {
+    "countyEn": "Oradea",
+    "countyRo": "Oradea",
+    "countyHu": "Nagyvárad",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1809,
+    "lat": "47.0722",
+    "lon": "21.9214"
+  },
+  {
+    "countyEn": "Ploiesti",
+    "countyRo": "Ploiești",
+    "countyHu": "Ploiești",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1355,
+    "lat": "44.9360",
+    "lon": "26.0129"
+  },
+  {
+    "countyEn": "Timisoara",
+    "countyRo": "Timișoara",
+    "countyHu": "Temesvár",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1909,
+    "lat": "45.7537",
+    "lon": "21.2257"
+  },
+  {
+    "countyEn": "Constanta",
+    "countyRo": "Constanța",
+    "countyHu": "Konstanca",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 1975,
+    "lat": "44.1733",
+    "lon": "28.6382"
+  },
+  {
+    "countyEn": "Cluj-Napoca",
+    "countyRo": "Cluj-Napoca",
+    "countyHu": "Kolozsvár",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 3272,
+    "lat": "46.7712",
+    "lon": "23.5881"
+  },
+  {
+    "countyEn": "Brasov",
+    "countyRo": "Brașov",
+    "countyHu": "Brassó",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 2265,
+    "lat": "45.6461",
+    "lon": "25.5938"
+  },
+  {
+    "countyEn": "Bucharest",
+    "countyRo": "București",
+    "countyHu": "Bukarest",
+    "date": "2026-02-01T00:00:00.000Z",
+    "price": 2236,
+    "lat": "44.4268",
+    "lon": "26.1025"
   }
 ]
