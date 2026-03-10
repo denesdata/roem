@@ -49,7 +49,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2012-06-30T23:00:00.000Z",
-    "price": 769,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -148,7 +148,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2012-07-31T23:00:00.000Z",
-    "price": 753,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -247,7 +247,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2012-08-31T23:00:00.000Z",
-    "price": 740,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -346,7 +346,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2012-09-30T23:00:00.000Z",
-    "price": 724,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -445,7 +445,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2012-11-01T00:00:00.000Z",
-    "price": 733,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -544,7 +544,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2012-12-01T00:00:00.000Z",
-    "price": 737,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -643,7 +643,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-01-01T00:00:00.000Z",
-    "price": 711,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -742,7 +742,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-02-01T00:00:00.000Z",
-    "price": 723,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -841,7 +841,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-03-01T00:00:00.000Z",
-    "price": 715,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -940,7 +940,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-03-31T23:00:00.000Z",
-    "price": 713,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1039,7 +1039,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-04-30T23:00:00.000Z",
-    "price": 714,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1138,7 +1138,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-05-31T23:00:00.000Z",
-    "price": 710,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1237,7 +1237,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-06-30T23:00:00.000Z",
-    "price": 696,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1336,7 +1336,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-07-31T23:00:00.000Z",
-    "price": 700,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1435,7 +1435,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-08-31T23:00:00.000Z",
-    "price": 696,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1534,7 +1534,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-09-30T23:00:00.000Z",
-    "price": 697,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1633,7 +1633,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-11-01T00:00:00.000Z",
-    "price": 689,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1732,7 +1732,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2013-12-01T00:00:00.000Z",
-    "price": 686,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1831,7 +1831,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-01-01T00:00:00.000Z",
-    "price": 677,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -1930,7 +1930,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-02-01T00:00:00.000Z",
-    "price": 681,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2029,7 +2029,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-03-01T00:00:00.000Z",
-    "price": 685,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2128,7 +2128,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-03-31T23:00:00.000Z",
-    "price": 693,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2227,7 +2227,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-04-30T23:00:00.000Z",
-    "price": 693,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2326,7 +2326,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-05-31T23:00:00.000Z",
-    "price": 691,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2425,7 +2425,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-06-30T23:00:00.000Z",
-    "price": 697,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2524,7 +2524,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-07-31T23:00:00.000Z",
-    "price": 690,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2623,7 +2623,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-08-31T23:00:00.000Z",
-    "price": 700,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2722,7 +2722,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-09-30T23:00:00.000Z",
-    "price": 700,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2821,7 +2821,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-11-01T00:00:00.000Z",
-    "price": 701,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -2920,7 +2920,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2014-12-01T00:00:00.000Z",
-    "price": 700,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3019,7 +3019,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-01-01T00:00:00.000Z",
-    "price": 701,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3118,7 +3118,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-02-01T00:00:00.000Z",
-    "price": 711,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3217,7 +3217,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-03-01T00:00:00.000Z",
-    "price": 713,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3316,7 +3316,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-03-31T23:00:00.000Z",
-    "price": 720,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3415,7 +3415,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-04-30T23:00:00.000Z",
-    "price": 723,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3514,7 +3514,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-05-31T23:00:00.000Z",
-    "price": 725,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3613,7 +3613,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-06-30T23:00:00.000Z",
-    "price": 727,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3712,7 +3712,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-07-31T23:00:00.000Z",
-    "price": 725,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3811,7 +3811,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-08-31T23:00:00.000Z",
-    "price": 725,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -3910,7 +3910,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-09-30T23:00:00.000Z",
-    "price": 727,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4009,7 +4009,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-11-01T00:00:00.000Z",
-    "price": 729,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4108,7 +4108,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2015-12-01T00:00:00.000Z",
-    "price": 728,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4207,7 +4207,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-01-01T00:00:00.000Z",
-    "price": 729,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4306,7 +4306,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-02-01T00:00:00.000Z",
-    "price": 733,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4405,7 +4405,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-03-01T00:00:00.000Z",
-    "price": 737,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4504,7 +4504,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-03-31T23:00:00.000Z",
-    "price": 743,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4603,7 +4603,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-04-30T23:00:00.000Z",
-    "price": 750,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4702,7 +4702,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-05-31T23:00:00.000Z",
-    "price": 750,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4801,7 +4801,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-06-30T23:00:00.000Z",
-    "price": 750,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4900,7 +4900,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-07-31T23:00:00.000Z",
-    "price": 750,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -4999,7 +4999,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-08-31T23:00:00.000Z",
-    "price": 756,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5098,7 +5098,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-09-30T23:00:00.000Z",
-    "price": 761,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5197,7 +5197,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-11-01T00:00:00.000Z",
-    "price": 766,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5296,7 +5296,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2016-12-01T00:00:00.000Z",
-    "price": 767,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5395,7 +5395,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-01-01T00:00:00.000Z",
-    "price": 769,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5494,7 +5494,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-02-01T00:00:00.000Z",
-    "price": 777,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5593,7 +5593,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-03-01T00:00:00.000Z",
-    "price": 787,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5692,7 +5692,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-03-31T23:00:00.000Z",
-    "price": 794,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5791,7 +5791,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-04-30T23:00:00.000Z",
-    "price": 800,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5890,7 +5890,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-05-31T23:00:00.000Z",
-    "price": 800,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -5989,7 +5989,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-06-30T23:00:00.000Z",
-    "price": 796,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6088,7 +6088,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-07-31T23:00:00.000Z",
-    "price": 796,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6187,7 +6187,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-08-31T23:00:00.000Z",
-    "price": 800,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6286,7 +6286,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-09-30T23:00:00.000Z",
-    "price": 810,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6385,7 +6385,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-11-01T00:00:00.000Z",
-    "price": 813,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6484,7 +6484,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2017-12-01T00:00:00.000Z",
-    "price": 825,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6583,7 +6583,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-01-01T00:00:00.000Z",
-    "price": 833,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6682,7 +6682,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-02-01T00:00:00.000Z",
-    "price": 846,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6781,7 +6781,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-03-01T00:00:00.000Z",
-    "price": 850,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6880,7 +6880,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-03-31T23:00:00.000Z",
-    "price": 850,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -6979,7 +6979,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-04-30T23:00:00.000Z",
-    "price": 848,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7078,7 +7078,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-05-31T23:00:00.000Z",
-    "price": 851,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7177,7 +7177,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-06-30T23:00:00.000Z",
-    "price": 862,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7276,7 +7276,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-07-31T23:00:00.000Z",
-    "price": 863,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7375,7 +7375,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-08-31T23:00:00.000Z",
-    "price": 857,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7474,7 +7474,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-09-30T23:00:00.000Z",
-    "price": 858,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7573,7 +7573,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-11-01T00:00:00.000Z",
-    "price": 861,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7672,7 +7672,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2018-12-01T00:00:00.000Z",
-    "price": 868,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7771,7 +7771,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-01-01T00:00:00.000Z",
-    "price": 877,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7870,7 +7870,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-02-01T00:00:00.000Z",
-    "price": 877,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -7969,7 +7969,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-03-01T00:00:00.000Z",
-    "price": 882,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8068,7 +8068,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-03-31T23:00:00.000Z",
-    "price": 890,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8167,7 +8167,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-04-30T23:00:00.000Z",
-    "price": 892,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8266,7 +8266,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-05-31T23:00:00.000Z",
-    "price": 898,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8365,7 +8365,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-06-30T23:00:00.000Z",
-    "price": 900,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8464,7 +8464,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-07-31T23:00:00.000Z",
-    "price": 900,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8563,7 +8563,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-08-31T23:00:00.000Z",
-    "price": 898,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8662,7 +8662,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-09-30T23:00:00.000Z",
-    "price": 903,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8761,7 +8761,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-11-01T00:00:00.000Z",
-    "price": 910,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8860,7 +8860,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2019-12-01T00:00:00.000Z",
-    "price": 915,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -8959,7 +8959,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-01-01T00:00:00.000Z",
-    "price": 915,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9058,7 +9058,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-02-01T00:00:00.000Z",
-    "price": 919,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9157,7 +9157,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-03-01T00:00:00.000Z",
-    "price": 921,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9256,7 +9256,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-03-31T23:00:00.000Z",
-    "price": 926,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9355,7 +9355,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-04-30T23:00:00.000Z",
-    "price": 929,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9454,7 +9454,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-05-31T23:00:00.000Z",
-    "price": 925,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9553,7 +9553,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-06-30T23:00:00.000Z",
-    "price": 928,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9652,7 +9652,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-07-31T23:00:00.000Z",
-    "price": 928,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9751,7 +9751,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-08-31T23:00:00.000Z",
-    "price": 937,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9850,7 +9850,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-09-30T23:00:00.000Z",
-    "price": 936,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -9949,7 +9949,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-11-01T00:00:00.000Z",
-    "price": 936,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10048,7 +10048,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2020-12-01T00:00:00.000Z",
-    "price": 932,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10147,7 +10147,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-01-01T00:00:00.000Z",
-    "price": 936,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10246,7 +10246,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-02-01T00:00:00.000Z",
-    "price": 957,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10345,7 +10345,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-03-01T00:00:00.000Z",
-    "price": 955,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10444,7 +10444,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-03-31T23:00:00.000Z",
-    "price": 964,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10543,7 +10543,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-04-30T23:00:00.000Z",
-    "price": 974,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10642,7 +10642,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-05-31T23:00:00.000Z",
-    "price": 981,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10741,7 +10741,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-06-30T23:00:00.000Z",
-    "price": 986,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10840,7 +10840,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-07-31T23:00:00.000Z",
-    "price": 987,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -10939,7 +10939,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-08-31T23:00:00.000Z",
-    "price": 987,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11038,7 +11038,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-09-30T23:00:00.000Z",
-    "price": 988,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11137,7 +11137,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-11-01T00:00:00.000Z",
-    "price": 1000,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11236,7 +11236,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2021-12-01T00:00:00.000Z",
-    "price": 1000,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11335,7 +11335,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-01-01T00:00:00.000Z",
-    "price": 1016,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11434,7 +11434,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-02-01T00:00:00.000Z",
-    "price": 1020,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11533,7 +11533,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-03-01T00:00:00.000Z",
-    "price": 1020,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11632,7 +11632,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-03-31T23:00:00.000Z",
-    "price": 1024,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11731,7 +11731,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-04-30T23:00:00.000Z",
-    "price": 1025,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11830,7 +11830,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-05-31T23:00:00.000Z",
-    "price": 1037,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -11929,7 +11929,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-06-30T23:00:00.000Z",
-    "price": 1037,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12028,7 +12028,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-07-31T23:00:00.000Z",
-    "price": 1040,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12127,7 +12127,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-08-31T23:00:00.000Z",
-    "price": 1048,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12226,7 +12226,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-09-30T23:00:00.000Z",
-    "price": 1053,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12325,7 +12325,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-11-01T00:00:00.000Z",
-    "price": 1065,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12424,7 +12424,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2022-12-01T00:00:00.000Z",
-    "price": 1059,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12523,7 +12523,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-01-01T00:00:00.000Z",
-    "price": 1071,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12622,7 +12622,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-02-01T00:00:00.000Z",
-    "price": 1070,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12721,7 +12721,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-03-01T00:00:00.000Z",
-    "price": 1071,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12820,7 +12820,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-03-31T23:00:00.000Z",
-    "price": 1072,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -12919,7 +12919,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-04-30T23:00:00.000Z",
-    "price": 1066,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13018,7 +13018,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-05-31T23:00:00.000Z",
-    "price": 1066,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13117,7 +13117,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-06-30T23:00:00.000Z",
-    "price": 1067,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13216,7 +13216,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-07-31T23:00:00.000Z",
-    "price": 1068,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13315,7 +13315,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-08-31T23:00:00.000Z",
-    "price": 1071,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13414,7 +13414,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-09-30T23:00:00.000Z",
-    "price": 1068,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13513,7 +13513,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-11-01T00:00:00.000Z",
-    "price": 1068,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13612,7 +13612,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2023-12-01T00:00:00.000Z",
-    "price": 1087,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13711,7 +13711,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-01-01T00:00:00.000Z",
-    "price": 1098,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13810,7 +13810,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-02-01T00:00:00.000Z",
-    "price": 1100,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -13909,7 +13909,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-03-01T00:00:00.000Z",
-    "price": 1107,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14008,7 +14008,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-03-31T23:00:00.000Z",
-    "price": 1114,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14107,7 +14107,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-04-30T23:00:00.000Z",
-    "price": 1124,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14206,7 +14206,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-05-31T23:00:00.000Z",
-    "price": 1131,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14305,7 +14305,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-06-30T23:00:00.000Z",
-    "price": 1131,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14404,7 +14404,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-07-31T23:00:00.000Z",
-    "price": 1140,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14503,7 +14503,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-08-31T23:00:00.000Z",
-    "price": 1146,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14602,7 +14602,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-09-30T23:00:00.000Z",
-    "price": 1152,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14701,7 +14701,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-11-01T00:00:00.000Z",
-    "price": 1166,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14800,7 +14800,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2024-12-01T00:00:00.000Z",
-    "price": 1174,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14899,7 +14899,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-01-01T00:00:00.000Z",
-    "price": 1186,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -14998,7 +14998,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-02-01T00:00:00.000Z",
-    "price": 1200,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15097,7 +15097,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-03-01T00:00:00.000Z",
-    "price": 1220,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15196,7 +15196,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-03-31T23:00:00.000Z",
-    "price": 1237,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15295,7 +15295,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-04-30T23:00:00.000Z",
-    "price": 1257,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15394,7 +15394,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-05-31T23:00:00.000Z",
-    "price": 1279,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15493,7 +15493,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-06-30T23:00:00.000Z",
-    "price": 1288,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15592,7 +15592,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-07-31T23:00:00.000Z",
-    "price": 1306,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15691,7 +15691,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-08-31T23:00:00.000Z",
-    "price": 1319,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15790,7 +15790,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-09-30T23:00:00.000Z",
-    "price": 1323,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15889,7 +15889,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-11-01T00:00:00.000Z",
-    "price": 1333,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -15988,7 +15988,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2025-12-01T00:00:00.000Z",
-    "price": 1345,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -16087,7 +16087,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2026-01-01T00:00:00.000Z",
-    "price": 1356,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
@@ -16186,7 +16186,7 @@
     "countyRo": "Ploiești",
     "countyHu": "Ploiești",
     "date": "2026-02-01T00:00:00.000Z",
-    "price": 1355,
+    "price": null,
     "lat": "44.9360",
     "lon": "26.0129"
   },
