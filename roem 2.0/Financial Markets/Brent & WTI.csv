@@ -1,14 +1,4 @@
 Date,Name,Index
-Mon Apr 04 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,36.05
-Mon Apr 04 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,34.3
-Tue Apr 05 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,35.88
-Tue Apr 05 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,34.52
-Wed Apr 06 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,37.77
-Wed Apr 06 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,37.74
-Thu Apr 07 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,37.15
-Thu Apr 07 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,37.3
-Fri Apr 08 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,40.71
-Fri Apr 08 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,39.74
 Mon Apr 11 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,41.58
 Mon Apr 11 2016 02:00:00 GMT+0300 (Eastern European Summer Time),WTI,40.46
 Tue Apr 12 2016 02:00:00 GMT+0300 (Eastern European Summer Time),Brent,43.02
@@ -4905,3 +4895,13 @@ Fri Feb 27 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,71.32
 Fri Feb 27 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,66.96
 Mon Mar 02 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,77.24
 Mon Mar 02 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,71.13
+Tue Mar 03 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,83.28
+Tue Mar 03 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,74.48
+Wed Mar 04 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,81.56
+Wed Mar 04 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,74.58
+Thu Mar 05 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,88.59
+Thu Mar 05 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,80.88
+Fri Mar 06 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,95.74
+Fri Mar 06 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,90.77
+Mon Mar 09 2026 02:00:00 GMT+0200 (Eastern European Standard Time),Brent,94.35
+Mon Mar 09 2026 02:00:00 GMT+0200 (Eastern European Standard Time),WTI,94.65
