@@ -4,7 +4,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2012-06-30T23:00:00.000Z",
-    "price": 900,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -103,7 +103,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2012-07-31T23:00:00.000Z",
-    "price": 868,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -202,7 +202,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2012-08-31T23:00:00.000Z",
-    "price": 859,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -301,7 +301,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2012-09-30T23:00:00.000Z",
-    "price": 853,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -400,7 +400,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2012-11-01T00:00:00.000Z",
-    "price": 850,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -499,7 +499,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2012-12-01T00:00:00.000Z",
-    "price": 830,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -598,7 +598,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-01-01T00:00:00.000Z",
-    "price": 809,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -697,7 +697,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-02-01T00:00:00.000Z",
-    "price": 800,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -796,7 +796,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-03-01T00:00:00.000Z",
-    "price": 794,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -895,7 +895,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-03-31T23:00:00.000Z",
-    "price": 787,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -994,7 +994,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-04-30T23:00:00.000Z",
-    "price": 775,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1093,7 +1093,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-05-31T23:00:00.000Z",
-    "price": 769,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1192,7 +1192,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-06-30T23:00:00.000Z",
-    "price": 758,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1291,7 +1291,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-07-31T23:00:00.000Z",
-    "price": 760,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1390,7 +1390,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-08-31T23:00:00.000Z",
-    "price": 750,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1489,7 +1489,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-09-30T23:00:00.000Z",
-    "price": 750,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1588,7 +1588,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-11-01T00:00:00.000Z",
-    "price": 746,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1687,7 +1687,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2013-12-01T00:00:00.000Z",
-    "price": 731,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1786,7 +1786,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-01-01T00:00:00.000Z",
-    "price": 721,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1885,7 +1885,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-02-01T00:00:00.000Z",
-    "price": 714,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -1984,7 +1984,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-03-01T00:00:00.000Z",
-    "price": 722,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2083,7 +2083,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-03-31T23:00:00.000Z",
-    "price": 722,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2182,7 +2182,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-04-30T23:00:00.000Z",
-    "price": 716,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2281,7 +2281,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-05-31T23:00:00.000Z",
-    "price": 709,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2380,7 +2380,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-06-30T23:00:00.000Z",
-    "price": 707,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2479,7 +2479,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-07-31T23:00:00.000Z",
-    "price": 700,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2578,7 +2578,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-08-31T23:00:00.000Z",
-    "price": 703,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2677,7 +2677,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-09-30T23:00:00.000Z",
-    "price": 714,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2776,7 +2776,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-11-01T00:00:00.000Z",
-    "price": 721,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2875,7 +2875,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2014-12-01T00:00:00.000Z",
-    "price": 714,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -2974,7 +2974,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-01-01T00:00:00.000Z",
-    "price": 711,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3073,7 +3073,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-02-01T00:00:00.000Z",
-    "price": 716,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3172,7 +3172,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-03-01T00:00:00.000Z",
-    "price": 731,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3271,7 +3271,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-03-31T23:00:00.000Z",
-    "price": 741,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3370,7 +3370,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-04-30T23:00:00.000Z",
-    "price": 754,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3469,7 +3469,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-05-31T23:00:00.000Z",
-    "price": 760,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3568,7 +3568,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-06-30T23:00:00.000Z",
-    "price": 761,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3667,7 +3667,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-07-31T23:00:00.000Z",
-    "price": 755,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3766,7 +3766,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-08-31T23:00:00.000Z",
-    "price": 760,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3865,7 +3865,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-09-30T23:00:00.000Z",
-    "price": 775,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -3964,7 +3964,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-11-01T00:00:00.000Z",
-    "price": 790,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4063,7 +4063,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2015-12-01T00:00:00.000Z",
-    "price": 786,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4162,7 +4162,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-01-01T00:00:00.000Z",
-    "price": 793,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4261,7 +4261,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-02-01T00:00:00.000Z",
-    "price": 805,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4360,7 +4360,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-03-01T00:00:00.000Z",
-    "price": 829,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4459,7 +4459,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-03-31T23:00:00.000Z",
-    "price": 845,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4558,7 +4558,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-04-30T23:00:00.000Z",
-    "price": 846,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4657,7 +4657,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-05-31T23:00:00.000Z",
-    "price": 846,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4756,7 +4756,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-06-30T23:00:00.000Z",
-    "price": 840,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4855,7 +4855,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-07-31T23:00:00.000Z",
-    "price": 833,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -4954,7 +4954,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-08-31T23:00:00.000Z",
-    "price": 836,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5053,7 +5053,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-09-30T23:00:00.000Z",
-    "price": 852,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5152,7 +5152,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-11-01T00:00:00.000Z",
-    "price": 875,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5251,7 +5251,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2016-12-01T00:00:00.000Z",
-    "price": 875,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5350,7 +5350,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-01-01T00:00:00.000Z",
-    "price": 883,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5449,7 +5449,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-02-01T00:00:00.000Z",
-    "price": 898,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5548,7 +5548,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-03-01T00:00:00.000Z",
-    "price": 923,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5647,7 +5647,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-03-31T23:00:00.000Z",
-    "price": 941,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5746,7 +5746,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-04-30T23:00:00.000Z",
-    "price": 954,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5845,7 +5845,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-05-31T23:00:00.000Z",
-    "price": 968,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -5944,7 +5944,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-06-30T23:00:00.000Z",
-    "price": 977,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6043,7 +6043,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-07-31T23:00:00.000Z",
-    "price": 979,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6142,7 +6142,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-08-31T23:00:00.000Z",
-    "price": 995,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6241,7 +6241,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-09-30T23:00:00.000Z",
-    "price": 1000,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6340,7 +6340,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-11-01T00:00:00.000Z",
-    "price": 1025,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6439,7 +6439,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2017-12-01T00:00:00.000Z",
-    "price": 1027,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6538,7 +6538,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-01-01T00:00:00.000Z",
-    "price": 1027,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6637,7 +6637,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-02-01T00:00:00.000Z",
-    "price": 1032,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6736,7 +6736,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-03-01T00:00:00.000Z",
-    "price": 1043,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6835,7 +6835,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-03-31T23:00:00.000Z",
-    "price": 1052,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -6934,7 +6934,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-04-30T23:00:00.000Z",
-    "price": 1050,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7033,7 +7033,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-05-31T23:00:00.000Z",
-    "price": 1054,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7132,7 +7132,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-06-30T23:00:00.000Z",
-    "price": 1051,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7231,7 +7231,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-07-31T23:00:00.000Z",
-    "price": 1046,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7330,7 +7330,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-08-31T23:00:00.000Z",
-    "price": 1050,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7429,7 +7429,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-09-30T23:00:00.000Z",
-    "price": 1055,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7528,7 +7528,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-11-01T00:00:00.000Z",
-    "price": 1071,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7627,7 +7627,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2018-12-01T00:00:00.000Z",
-    "price": 1074,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7726,7 +7726,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-01-01T00:00:00.000Z",
-    "price": 1073,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7825,7 +7825,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-02-01T00:00:00.000Z",
-    "price": 1073,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -7924,7 +7924,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-03-01T00:00:00.000Z",
-    "price": 1078,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8023,7 +8023,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-03-31T23:00:00.000Z",
-    "price": 1085,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8122,7 +8122,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-04-30T23:00:00.000Z",
-    "price": 1081,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8221,7 +8221,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-05-31T23:00:00.000Z",
-    "price": 1082,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8320,7 +8320,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-06-30T23:00:00.000Z",
-    "price": 1078,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8419,7 +8419,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-07-31T23:00:00.000Z",
-    "price": 1076,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8518,7 +8518,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-08-31T23:00:00.000Z",
-    "price": 1081,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8617,7 +8617,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-09-30T23:00:00.000Z",
-    "price": 1092,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8716,7 +8716,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-11-01T00:00:00.000Z",
-    "price": 1113,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8815,7 +8815,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2019-12-01T00:00:00.000Z",
-    "price": 1123,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -8914,7 +8914,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-01-01T00:00:00.000Z",
-    "price": 1125,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9013,7 +9013,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-02-01T00:00:00.000Z",
-    "price": 1133,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9112,7 +9112,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-03-01T00:00:00.000Z",
-    "price": 1140,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9211,7 +9211,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-03-31T23:00:00.000Z",
-    "price": 1138,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9310,7 +9310,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-04-30T23:00:00.000Z",
-    "price": 1138,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9409,7 +9409,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-05-31T23:00:00.000Z",
-    "price": 1142,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9508,7 +9508,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-06-30T23:00:00.000Z",
-    "price": 1155,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9607,7 +9607,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-07-31T23:00:00.000Z",
-    "price": 1160,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9706,7 +9706,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-08-31T23:00:00.000Z",
-    "price": 1170,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9805,7 +9805,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-09-30T23:00:00.000Z",
-    "price": 1185,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -9904,7 +9904,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-11-01T00:00:00.000Z",
-    "price": 1200,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10003,7 +10003,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2020-12-01T00:00:00.000Z",
-    "price": 1208,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10102,7 +10102,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-01-01T00:00:00.000Z",
-    "price": 1216,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10201,7 +10201,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-02-01T00:00:00.000Z",
-    "price": 1225,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10300,7 +10300,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-03-01T00:00:00.000Z",
-    "price": 1242,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10399,7 +10399,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-03-31T23:00:00.000Z",
-    "price": 1260,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10498,7 +10498,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-04-30T23:00:00.000Z",
-    "price": 1272,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10597,7 +10597,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-05-31T23:00:00.000Z",
-    "price": 1281,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10696,7 +10696,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-06-30T23:00:00.000Z",
-    "price": 1287,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10795,7 +10795,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-07-31T23:00:00.000Z",
-    "price": 1296,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10894,7 +10894,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-08-31T23:00:00.000Z",
-    "price": 1313,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -10993,7 +10993,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-09-30T23:00:00.000Z",
-    "price": 1333,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11092,7 +11092,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-11-01T00:00:00.000Z",
-    "price": 1357,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11191,7 +11191,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2021-12-01T00:00:00.000Z",
-    "price": 1365,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11290,7 +11290,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-01-01T00:00:00.000Z",
-    "price": 1379,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11389,7 +11389,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-02-01T00:00:00.000Z",
-    "price": 1394,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11488,7 +11488,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-03-01T00:00:00.000Z",
-    "price": 1415,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11587,7 +11587,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-03-31T23:00:00.000Z",
-    "price": 1431,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11686,7 +11686,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-04-30T23:00:00.000Z",
-    "price": 1442,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11785,7 +11785,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-05-31T23:00:00.000Z",
-    "price": 1444,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11884,7 +11884,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-06-30T23:00:00.000Z",
-    "price": 1442,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -11983,7 +11983,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-07-31T23:00:00.000Z",
-    "price": 1440,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12082,7 +12082,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-08-31T23:00:00.000Z",
-    "price": 1437,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12181,7 +12181,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-09-30T23:00:00.000Z",
-    "price": 1433,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12280,7 +12280,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-11-01T00:00:00.000Z",
-    "price": 1433,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12379,7 +12379,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2022-12-01T00:00:00.000Z",
-    "price": 1425,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12478,7 +12478,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-01-01T00:00:00.000Z",
-    "price": 1420,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12577,7 +12577,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-02-01T00:00:00.000Z",
-    "price": 1428,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12676,7 +12676,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-03-01T00:00:00.000Z",
-    "price": 1436,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12775,7 +12775,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-03-31T23:00:00.000Z",
-    "price": 1438,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12874,7 +12874,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-04-30T23:00:00.000Z",
-    "price": 1437,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -12973,7 +12973,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-05-31T23:00:00.000Z",
-    "price": 1439,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13072,7 +13072,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-06-30T23:00:00.000Z",
-    "price": 1436,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13171,7 +13171,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-07-31T23:00:00.000Z",
-    "price": 1441,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13270,7 +13270,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-08-31T23:00:00.000Z",
-    "price": 1451,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13369,7 +13369,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-09-30T23:00:00.000Z",
-    "price": 1468,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13468,7 +13468,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-11-01T00:00:00.000Z",
-    "price": 1490,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13567,7 +13567,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2023-12-01T00:00:00.000Z",
-    "price": 1516,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13666,7 +13666,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-01-01T00:00:00.000Z",
-    "price": 1533,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13765,7 +13765,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-02-01T00:00:00.000Z",
-    "price": 1555,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13864,7 +13864,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-03-01T00:00:00.000Z",
-    "price": 1572,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -13963,7 +13963,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-03-31T23:00:00.000Z",
-    "price": 1596,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14062,7 +14062,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-04-30T23:00:00.000Z",
-    "price": 1607,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14161,7 +14161,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-05-31T23:00:00.000Z",
-    "price": 1622,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14260,7 +14260,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-06-30T23:00:00.000Z",
-    "price": 1631,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14359,7 +14359,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-07-31T23:00:00.000Z",
-    "price": 1644,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14458,7 +14458,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-08-31T23:00:00.000Z",
-    "price": 1662,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14557,7 +14557,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-09-30T23:00:00.000Z",
-    "price": 1682,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14656,7 +14656,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-11-01T00:00:00.000Z",
-    "price": 1706,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14755,7 +14755,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2024-12-01T00:00:00.000Z",
-    "price": 1727,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14854,7 +14854,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-01-01T00:00:00.000Z",
-    "price": 1739,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -14953,7 +14953,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-02-01T00:00:00.000Z",
-    "price": 1767,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15052,7 +15052,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-03-01T00:00:00.000Z",
-    "price": 1787,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15151,7 +15151,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-03-31T23:00:00.000Z",
-    "price": 1810,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15250,7 +15250,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-04-30T23:00:00.000Z",
-    "price": 1836,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15349,7 +15349,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-05-31T23:00:00.000Z",
-    "price": 1849,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15448,7 +15448,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-06-30T23:00:00.000Z",
-    "price": 1866,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15547,7 +15547,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-07-31T23:00:00.000Z",
-    "price": 1888,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15646,7 +15646,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-08-31T23:00:00.000Z",
-    "price": 1905,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15745,7 +15745,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-09-30T23:00:00.000Z",
-    "price": 1923,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15844,7 +15844,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-11-01T00:00:00.000Z",
-    "price": 1948,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -15943,7 +15943,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2025-12-01T00:00:00.000Z",
-    "price": 1965,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -16042,7 +16042,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2026-01-01T00:00:00.000Z",
-    "price": 1974,
+    "price": null,
     "lat": "",
     "lon": ""
   },
@@ -16141,7 +16141,7 @@
     "countyRo": "Național",
     "countyHu": "Országos",
     "date": "2026-02-01T00:00:00.000Z",
-    "price": 1996,
+    "price": null,
     "lat": "",
     "lon": ""
   },
