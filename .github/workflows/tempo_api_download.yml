@@ -40,6 +40,8 @@ jobs:
           remotes::install_github("MarianNecula/TEMPO", upgrade = "never")
 
       - name: Run download script
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: Rscript "roem 2.0/R/download.R"
 
       - name: Commit and push data
