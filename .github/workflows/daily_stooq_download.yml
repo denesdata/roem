@@ -1,11 +1,9 @@
 name: Daily Stooq Data Download
-
 on:
   schedule:
     # 02:00 UTC is 04:00 AM Bucharest
     - cron: '0 2 * * *'
   workflow_dispatch: 
-
 jobs:
   download:
     runs-on: ubuntu-latest
@@ -15,23 +13,41 @@ jobs:
 
       - name: Download Index Data
         run: |
-          # 1. Create the directory if it doesn't exist
           mkdir -p "roem 2.0/Financial Markets"
-          
-          # 2. Download BET Index (Romania)
-          curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" -o "roem 2.0/Financial Markets/BET index.csv"
-          
-          # 3. Download SSEC Index (Shanghai)
-          curl -L "https://stooq.com/q/d/l/?s=^shc&i=d" -o "roem 2.0/Financial Markets/SSEC.csv"
+
+          curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
+            -H "Accept-Language: en-US,en;q=0.5" \
+            -H "Referer: https://stooq.com/" \
+            -o "roem 2.0/Financial Markets/BET index.csv"
+
+          sleep 3
+
+          curl -L "https://stooq.com/q/d/l/?s=^shc&i=d" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
+            -H "Accept-Language: en-US,en;q=0.5" \
+            -H "Referer: https://stooq.com/" \
+            -o "roem 2.0/Financial Markets/SSEC.csv"
+
+      - name: Validate Downloads
+        run: |
+          for f in "roem 2.0/Financial Markets/BET index.csv" "roem 2.0/Financial Markets/SSEC.csv"; do
+            if [ ! -s "$f" ]; then
+              echo "ERROR: $f is empty or missing"
+              exit 1
+            fi
+            echo "--- $f header ---"
+            head -1 "$f"
+          done
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Add only the existing CSVs in that folder
+
           git add "roem 2.0/Financial Markets/BET index.csv"
           git add "roem 2.0/Financial Markets/SSEC.csv"
-          
-          # Only commit if there are actual updates
+
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update BET and SSEC Index: $(date +'%Y-%m-%d')" && git push)
