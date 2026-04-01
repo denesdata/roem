@@ -1,9 +1,9 @@
-name: Download INSSE EAI_IND104P
+name: TEMPO API Download - EAI_IND104P
 
 on:
   schedule:
-    - cron: "0 7 1 * *"   # runs on the 1st of every month at 07:00 UTC
-  workflow_dispatch:        # lets you trigger it manually with a button
+    - cron: "0 7 1 * *"
+  workflow_dispatch:
 
 jobs:
   download:
@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 20
 
     permissions:
-      contents: write       # needed so the bot can commit the CSV back
+      contents: write
 
     steps:
       - name: Check out repo
@@ -35,13 +35,13 @@ jobs:
           remotes::install_github("MarianNecula/TEMPO", upgrade = "never")
 
       - name: Run download script
-        run: Rscript R/download.R
+        run: Rscript "roem/roem 2.0/R/download.R"
 
       - name: Commit and push data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add "roem/roem 2.0/TEMPO data/"
           git diff --staged --quiet \
             || git commit -m "data: EAI_IND104P update $(date +'%Y-%m-%d')"
           git push
@@ -50,5 +50,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: EAI_IND104P-${{ github.run_id }}
-          path: data/
+          path: "roem/roem 2.0/TEMPO data/"
           retention-days: 90
