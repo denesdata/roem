@@ -17,28 +17,40 @@ jobs:
         run: |
           python3 << 'EOF'
           import yfinance as yf
+          import pandas as pd
           import sys
+          import os
 
           tickers = {
-              "roem 2.0/Financial Markets/BET index.csv": "^BET.RO",
-              "roem 2.0/Financial Markets/SSEC.csv":      "^SSEC",
+              "roem 2.0/Financial Markets/BET index.csv": ("^BET.RO", "5d"),
+              "roem 2.0/Financial Markets/SSEC.csv":      ("^SSEC",   "max"),
           }
 
-          for path, ticker in tickers.items():
-              print(f"\nDownloading {ticker}...")
-              df = yf.download(ticker, period="max", interval="1d", auto_adjust=True)
+          for path, (ticker, period) in tickers.items():
+              print(f"\nDownloading {ticker} (period={period})...")
+              df = yf.download(ticker, period=period, interval="1d", auto_adjust=True)
 
               if df.empty:
                   print(f"ERROR: No data returned for {ticker}")
                   sys.exit(1)
 
+              # Flatten multi-level columns if present
               df.columns = [col[0] if isinstance(col, tuple) else col for col in df.columns]
               df.index.name = "Date"
-              df.to_csv(path)
 
-              print(f"Rows: {len(df)}")
+              # If file exists, append only new rows
+              if os.path.exists(path) and os.path.getsize(path) > 0:
+                  existing = pd.read_csv(path, index_col="Date", parse_dates=True)
+                  combined = pd.concat([existing, df])
+                  combined = combined[~combined.index.duplicated(keep="last")]
+                  combined.sort_index(inplace=True)
+                  combined.to_csv(path)
+                  print(f"Appended new rows. Total rows: {len(combined)}")
+              else:
+                  df.to_csv(path)
+                  print(f"Created new file. Rows: {len(df)}")
+
               print(df.tail(3))
-              print(f"Saved to: {path}")
 
           print("\nAll downloads complete.")
           EOF
