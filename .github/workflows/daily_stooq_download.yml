@@ -19,10 +19,9 @@ jobs:
           import yfinance as yf
           import sys
 
-          # BET Romania = ^BET, Shanghai = ^SSEC on Yahoo Finance
           tickers = {
-              "roem 2.0/Financial Markets/BET index.csv":  "^BET",
-              "roem 2.0/Financial Markets/SSEC.csv":       "^SSEC",
+              "roem 2.0/Financial Markets/BET index.csv": "^BET.RO",
+              "roem 2.0/Financial Markets/SSEC.csv":      "^SSEC",
           }
 
           for path, ticker in tickers.items():
@@ -33,7 +32,6 @@ jobs:
                   print(f"ERROR: No data returned for {ticker}")
                   sys.exit(1)
 
-              # Flatten multi-level columns if present
               df.columns = [col[0] if isinstance(col, tuple) else col for col in df.columns]
               df.index.name = "Date"
               df.to_csv(path)
