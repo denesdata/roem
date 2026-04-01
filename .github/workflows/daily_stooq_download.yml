@@ -1,9 +1,8 @@
 name: Daily Stooq Data Download
 on:
   schedule:
-    # 02:00 UTC is 04:00 AM Bucharest
     - cron: '0 2 * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 jobs:
   download:
     runs-on: ubuntu-latest
@@ -13,41 +12,59 @@ jobs:
 
       - name: Download Index Data
         run: |
-          mkdir -p "roem 2.0/Financial Markets"
+          python3 << 'EOF'
+          import requests
+          import time
+          import sys
 
-          # ^ encoded as %5E to avoid shell interpretation
-          HTTP_BET=$(curl -v -L "https://stooq.com/q/d/l/?s=%5Ebet&i=d" \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
-            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
-            -H "Accept-Language: en-US,en;q=0.5" \
-            -H "Referer: https://stooq.com/" \
-            -w "%{http_code}" \
-            -o "roem 2.0/Financial Markets/BET index.csv" 2>&1 | tail -5)
-          echo "BET HTTP status: $HTTP_BET"
-          echo "BET file size: $(wc -c < 'roem 2.0/Financial Markets/BET index.csv') bytes"
-          echo "BET preview:"
-          head -5 "roem 2.0/Financial Markets/BET index.csv"
+          session = requests.Session()
 
-          sleep 5
+          # First visit the main page to get cookies, like a real browser would
+          print("Visiting Stooq homepage to get cookies...")
+          session.get("https://stooq.com/", headers={
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+          })
+          print(f"Cookies received: {dict(session.cookies)}")
+          time.sleep(3)
 
-          HTTP_SSEC=$(curl -v -L "https://stooq.com/q/d/l/?s=%5Eshc&i=d" \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
-            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
-            -H "Accept-Language: en-US,en;q=0.5" \
-            -H "Referer: https://stooq.com/" \
-            -w "%{http_code}" \
-            -o "roem 2.0/Financial Markets/SSEC.csv" 2>&1 | tail -5)
-          echo "SSEC HTTP status: $HTTP_SSEC"
-          echo "SSEC file size: $(wc -c < 'roem 2.0/Financial Markets/SSEC.csv') bytes"
-          echo "SSEC preview:"
-          head -5 "roem 2.0/Financial Markets/SSEC.csv"
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language": "en-US,en;q=0.5",
+              "Referer": "https://stooq.com/",
+          }
+
+          files = {
+              "roem 2.0/Financial Markets/BET index.csv": "https://stooq.com/q/d/l/?s=^bet&i=d",
+              "roem 2.0/Financial Markets/SSEC.csv":      "https://stooq.com/q/d/l/?s=^shc&i=d",
+          }
+
+          for path, url in files.items():
+              print(f"\nDownloading: {url}")
+              r = session.get(url, headers=headers)
+              print(f"Status: {r.status_code}")
+              print(f"Content-Type: {r.headers.get('Content-Type')}")
+              print(f"Content-Length: {len(r.content)} bytes")
+              print(f"Preview: {r.text[:300]}")
+
+              if r.status_code != 200 or len(r.content) == 0:
+                  print(f"ERROR: Failed to download {path}")
+                  sys.exit(1)
+
+              with open(path, "wb") as f:
+                  f.write(r.content)
+              print(f"Saved to {path}")
+              time.sleep(3)
+
+          print("\nAll downloads complete.")
+          EOF
 
       - name: Validate Downloads
         run: |
           for f in "roem 2.0/Financial Markets/BET index.csv" "roem 2.0/Financial Markets/SSEC.csv"; do
             echo "--- $f ---"
             echo "Size: $(wc -c < "$f") bytes"
-            cat "$f"
+            head -3 "$f"
           done
 
       - name: Commit and Push changes
