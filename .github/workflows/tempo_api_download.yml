@@ -1,0 +1,54 @@
+name: Download INSSE EAI_IND104P
+
+on:
+  schedule:
+    - cron: "0 7 1 * *"   # runs on the 1st of every month at 07:00 UTC
+  workflow_dispatch:        # lets you trigger it manually with a button
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    permissions:
+      contents: write       # needed so the bot can commit the CSV back
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: "4.3"
+
+      - name: Cache R packages
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: r-pkgs-${{ runner.os }}
+
+      - name: Install R packages
+        shell: Rscript {0}
+        run: |
+          install.packages(c("remotes", "curl", "jsonlite"))
+          remotes::install_github("MarianNecula/TEMPO", upgrade = "never")
+
+      - name: Run download script
+        run: Rscript R/download.R
+
+      - name: Commit and push data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet \
+            || git commit -m "data: EAI_IND104P update $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Save CSV as downloadable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: EAI_IND104P-${{ github.run_id }}
+          path: data/
+          retention-days: 90
