@@ -1,66 +1,61 @@
-if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes")
-remotes::install_github("MarianNecula/TEMPO")
-library(TEMPO)
+name: TEMPO API Download - IND104P
 
-# ── Step 1: search TOC for the right matrix code ─────────────────────────────
-message("Fetching table of contents...")
-toc <- tryCatch(tempo_toc(), error = function(e) {
-  message("TOC fetch failed: ", conditionMessage(e))
-  NULL
-})
+on:
+  schedule:
+    - cron: "0 7 1 * *"
+  workflow_dispatch:
 
-if (!is.null(toc)) {
-  message("=== Columns in TOC ===")
-  print(names(toc))
-  message("=== First few rows ===")
-  print(head(toc))
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
 
-  # Search for GDP / national accounts related tables
-  matches <- toc[apply(toc, 1, function(row) {
-    any(grepl("EAI|PIB|GDP|IND104|conturi|national", row, ignore.case = TRUE))
-  }), ]
-  message("=== Matching matrices ===")
-  print(matches)
-}
+    permissions:
+      contents: write
 
-# ── Step 2: download with retry ───────────────────────────────────────────────
-TARGET_MATRIX <- "EAI_IND104P"
-MAX_TRIES <- 3
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
 
-message("\nDownloading matrix: ", TARGET_MATRIX)
+      - name: Install system dependencies
+        run: sudo apt-get install -y libcurl4-openssl-dev
 
-dir.create("roem 2.0/TEMPO data", showWarnings = FALSE, recursive = TRUE)
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: "4.3"
 
-result <- NULL
-for (i in seq_len(MAX_TRIES)) {
-  message("Attempt ", i, " of ", MAX_TRIES)
-  result <- tryCatch({
-    df <- tempo_bulk(TARGET_MATRIX)
-    out <- "roem 2.0/TEMPO data/EAI_IND104P.csv"
-    write.csv(df, out, row.names = FALSE)
-    message("Success: ", nrow(df), " rows saved to ", out)
-    df
-  }, error = function(e) {
-    message("Attempt ", i, " failed: ", conditionMessage(e))
-    Sys.sleep(10)
-    NULL
-  })
-  if (!is.null(result)) break
-}
+      - name: Cache R packages
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: r-pkgs-${{ runner.os }}
 
-# ── Step 3: log the run ───────────────────────────────────────────────────────
-log_entry <- data.frame(
-  matrix    = TARGET_MATRIX,
-  success   = !is.null(result),
-  rows      = if (!is.null(result)) nrow(result) else 0,
-  timestamp = as.character(Sys.time())
-)
+      - name: Install R packages
+        shell: Rscript {0}
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          install.packages(c("remotes", "curl", "jsonlite"))
+          remotes::install_github("MarianNecula/TEMPO", upgrade = "never")
 
-log_file <- "roem 2.0/TEMPO data/run_log.csv"
-if (file.exists(log_file)) {
-  existing <- read.csv(log_file)
-  log_entry <- rbind(existing, log_entry)
-}
-write.csv(log_entry, log_file, row.names = FALSE)
+      - name: Run download script
+        env:
+          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+        run: Rscript "roem 2.0/R/download.R"
 
-if (is.null(result)) stop("All attempts failed for matrix: ", TARGET_MATRIX)
+      - name: Commit and push data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "roem 2.0/TEMPO data/"
+          git diff --staged --quiet \
+            || git commit -m "data: IND104P update $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Save CSV as downloadable artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: IND104P-${{ github.run_id }}
+          path: "roem 2.0/TEMPO data/"
+          retention-days: 90
