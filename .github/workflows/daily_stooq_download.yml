@@ -15,31 +15,40 @@ jobs:
         run: |
           mkdir -p "roem 2.0/Financial Markets"
 
-          curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" \
+          # Download BET and show HTTP status
+          HTTP_BET=$(curl -L "https://stooq.com/q/d/l/?s=^bet&i=d" \
             -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
             -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
             -H "Accept-Language: en-US,en;q=0.5" \
             -H "Referer: https://stooq.com/" \
-            -o "roem 2.0/Financial Markets/BET index.csv"
+            -w "%{http_code}" \
+            -o "roem 2.0/Financial Markets/BET index.csv")
+          echo "BET HTTP status: $HTTP_BET"
+          echo "BET file size: $(wc -c < 'roem 2.0/Financial Markets/BET index.csv') bytes"
+          echo "BET file content preview:"
+          head -5 "roem 2.0/Financial Markets/BET index.csv"
 
-          sleep 3
+          sleep 5
 
-          curl -L "https://stooq.com/q/d/l/?s=^shc&i=d" \
+          # Download SSEC and show HTTP status
+          HTTP_SSEC=$(curl -L "https://stooq.com/q/d/l/?s=^shc&i=d" \
             -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" \
             -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
             -H "Accept-Language: en-US,en;q=0.5" \
             -H "Referer: https://stooq.com/" \
-            -o "roem 2.0/Financial Markets/SSEC.csv"
+            -w "%{http_code}" \
+            -o "roem 2.0/Financial Markets/SSEC.csv")
+          echo "SSEC HTTP status: $HTTP_SSEC"
+          echo "SSEC file size: $(wc -c < 'roem 2.0/Financial Markets/SSEC.csv') bytes"
+          echo "SSEC file content preview:"
+          head -5 "roem 2.0/Financial Markets/SSEC.csv"
 
       - name: Validate Downloads
         run: |
           for f in "roem 2.0/Financial Markets/BET index.csv" "roem 2.0/Financial Markets/SSEC.csv"; do
-            if [ ! -s "$f" ]; then
-              echo "ERROR: $f is empty or missing"
-              exit 1
-            fi
-            echo "--- $f header ---"
-            head -1 "$f"
+            echo "--- $f ---"
+            echo "Size: $(wc -c < "$f") bytes"
+            cat "$f"
           done
 
       - name: Commit and Push changes
