@@ -10,51 +10,37 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Install yfinance
+        run: pip install yfinance --break-system-packages
+
       - name: Download Index Data
         run: |
           python3 << 'EOF'
-          import requests
-          import time
+          import yfinance as yf
           import sys
 
-          session = requests.Session()
-
-          # First visit the main page to get cookies, like a real browser would
-          print("Visiting Stooq homepage to get cookies...")
-          session.get("https://stooq.com/", headers={
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-          })
-          print(f"Cookies received: {dict(session.cookies)}")
-          time.sleep(3)
-
-          headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
-              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-              "Accept-Language": "en-US,en;q=0.5",
-              "Referer": "https://stooq.com/",
+          # BET Romania = ^BET, Shanghai = ^SSEC on Yahoo Finance
+          tickers = {
+              "roem 2.0/Financial Markets/BET index.csv":  "^BET",
+              "roem 2.0/Financial Markets/SSEC.csv":       "^SSEC",
           }
 
-          files = {
-              "roem 2.0/Financial Markets/BET index.csv": "https://stooq.com/q/d/l/?s=^bet&i=d",
-              "roem 2.0/Financial Markets/SSEC.csv":      "https://stooq.com/q/d/l/?s=^shc&i=d",
-          }
+          for path, ticker in tickers.items():
+              print(f"\nDownloading {ticker}...")
+              df = yf.download(ticker, period="max", interval="1d", auto_adjust=True)
 
-          for path, url in files.items():
-              print(f"\nDownloading: {url}")
-              r = session.get(url, headers=headers)
-              print(f"Status: {r.status_code}")
-              print(f"Content-Type: {r.headers.get('Content-Type')}")
-              print(f"Content-Length: {len(r.content)} bytes")
-              print(f"Preview: {r.text[:300]}")
-
-              if r.status_code != 200 or len(r.content) == 0:
-                  print(f"ERROR: Failed to download {path}")
+              if df.empty:
+                  print(f"ERROR: No data returned for {ticker}")
                   sys.exit(1)
 
-              with open(path, "wb") as f:
-                  f.write(r.content)
-              print(f"Saved to {path}")
-              time.sleep(3)
+              # Flatten multi-level columns if present
+              df.columns = [col[0] if isinstance(col, tuple) else col for col in df.columns]
+              df.index.name = "Date"
+              df.to_csv(path)
+
+              print(f"Rows: {len(df)}")
+              print(df.tail(3))
+              print(f"Saved to: {path}")
 
           print("\nAll downloads complete.")
           EOF
@@ -62,6 +48,10 @@ jobs:
       - name: Validate Downloads
         run: |
           for f in "roem 2.0/Financial Markets/BET index.csv" "roem 2.0/Financial Markets/SSEC.csv"; do
+            if [ ! -s "$f" ]; then
+              echo "ERROR: $f is empty or missing"
+              exit 1
+            fi
             echo "--- $f ---"
             echo "Size: $(wc -c < "$f") bytes"
             head -3 "$f"
