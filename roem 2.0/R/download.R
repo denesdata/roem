@@ -6,11 +6,11 @@ TARGET_MATRIX <- "EAI_IND104P"
 
 message("Downloading matrix: ", TARGET_MATRIX)
 
-dir.create("data", showWarnings = FALSE)
+dir.create("roem/roem 2.0/TEMPO data", showWarnings = FALSE, recursive = TRUE)
 
 result <- tryCatch({
   df <- tempo_bulk(TARGET_MATRIX)
-  out <- paste0("data/", TARGET_MATRIX, ".csv")
+  out <- "roem/roem 2.0/TEMPO data/EAI_IND104P.csv"
   write.csv(df, out, row.names = FALSE)
   message("Success: ", nrow(df), " rows saved to ", out)
   df
@@ -19,7 +19,6 @@ result <- tryCatch({
   NULL
 })
 
-# Save a run log
 log_entry <- data.frame(
   matrix    = TARGET_MATRIX,
   success   = !is.null(result),
@@ -27,9 +26,5 @@ log_entry <- data.frame(
   timestamp = as.character(Sys.time())
 )
 
-log_file <- "data/run_log.csv"
-if (file.exists(log_file)) {
-  existing <- read.csv(log_file)
-  log_entry <- rbind(existing, log_entry)
-}
-write.csv(log_entry, log_file, row.names = FALSE)
+log_file <- "roem/roem 2.0/TEMPO data/run_log.csv"
+if (file
