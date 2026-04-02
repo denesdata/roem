@@ -20,69 +20,58 @@ meta_raw <- tryCatch({
 if (is.null(meta_raw)) stop("Cannot reach INSSE API.")
 meta <- fromJSON(meta_raw, simplifyVector = FALSE)
 dims <- meta$dimensionsMap
-message("Number of dimensions: ", length(dims))
 
-# ── Step 2: try multiple payload formats ──────────────────────────────────────
-data_url <- paste0(API_BASE, "/dataSet/", TARGET_MATRIX)
-
-# Extract dim info
 dim_info <- lapply(dims, function(d) {
   ids <- sapply(d$options, function(o) as.integer(o$nomItemId))
-  list(dimCode = d$dimCode, label = d$label, ids = ids, count = length(ids))
+  list(dimCode = as.integer(d$dimCode), label = d$label, ids = ids)
 })
 
 for (di in dim_info) {
-  message("Dim ", di$dimCode, " (", di$label, "): ", di$count, " items, first id: ", di$ids[1])
+  message("Dim ", di$dimCode, " (", di$label, "): ", length(di$ids), " items")
 }
 
-# Format 1: array of {dimCode, nomItemIds}
-payload1 <- list(
-  matrixName = TARGET_MATRIX,
-  language   = "en",
-  details    = lapply(dim_info, function(d) {
-    list(dimCode = d$dimCode, nomItemIds = d$ids)
-  })
-)
+# ── Step 2: try every likely DTO field name ───────────────────────────────────
+data_url <- paste0(API_BASE, "/dataSet/", TARGET_MATRIX)
+raw_file <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, "_raw.json"))
 
-# Format 2: flat array of nomItemId arrays in order
-payload2 <- lapply(dim_info, function(d) d$ids)
+# Build dimension block in different ways
+dim_block_a <- lapply(dim_info, function(d) {
+  list(dimCode = d$dimCode, nomItemIds = d$ids)
+})
 
-# Format 3: named list by dimCode
-payload3 <- setNames(
-  lapply(dim_info, function(d) d$ids),
-  sapply(dim_info, function(d) as.character(d$dimCode))
-)
+dim_block_b <- lapply(dim_info, function(d) {
+  list(dimCode = d$dimCode, selectedNomItemIds = d$ids)
+})
 
-# Format 4: same as TEMPO package likely uses — array of arrays
-payload4 <- list(
-  matrixName = TARGET_MATRIX,
-  language   = "en",
-  arr        = lapply(dim_info, function(d) d$ids)
-)
+dim_block_c <- lapply(dim_info, function(d) {
+  list(dimCode = d$dimCode, values = d$ids)
+})
 
-# Format 5: minimal — just the nomItemId arrays
-payload5 <- list(
-  matrixName = TARGET_MATRIX,
-  arr        = lapply(dim_info, function(d) d$ids)
-)
+dim_block_d <- lapply(dim_info, function(d) {
+  list(dimCode = d$dimCode, items = d$ids)
+})
 
 payloads <- list(
-  format1 = payload1,
-  format2 = payload2,
-  format3 = payload3,
-  format4 = payload4,
-  format5 = payload5
+  f1  = list(matrixName = TARGET_MATRIX, language = "en", details    = dim_block_a),
+  f2  = list(matrixName = TARGET_MATRIX, language = "en", details    = dim_block_b),
+  f3  = list(matrixName = TARGET_MATRIX, language = "en", details    = dim_block_c),
+  f4  = list(matrixName = TARGET_MATRIX, language = "en", details    = dim_block_d),
+  f5  = list(matrixName = TARGET_MATRIX, language = "en", dimensions = dim_block_a),
+  f6  = list(matrixName = TARGET_MATRIX, language = "en", dimensions = dim_block_b),
+  f7  = list(matrixName = TARGET_MATRIX, language = "en", query      = dim_block_a),
+  f8  = list(matrixName = TARGET_MATRIX, language = "en", filters    = dim_block_a),
+  f9  = list(matrixName = TARGET_MATRIX, language = "ro", details    = dim_block_a),
+  f10 = list(matrixName = TARGET_MATRIX, details  = dim_block_a)
 )
 
-# ── Step 3: try each payload format ──────────────────────────────────────────
-raw_file <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, "_raw.json"))
 best_response <- NULL
 best_format   <- NULL
+last_response <- NULL
 
 for (fmt_name in names(payloads)) {
-  message("\nTrying payload ", fmt_name, "...")
+  message("\nTrying format ", fmt_name, "...")
   payload_json <- toJSON(payloads[[fmt_name]], auto_unbox = TRUE)
-  message("Payload: ", substr(payload_json, 1, 200))
+  message("Payload preview: ", substr(payload_json, 1, 150))
 
   resp_text <- tryCatch({
     h <- new_handle()
@@ -91,54 +80,65 @@ for (fmt_name in names(payloads)) {
     resp <- curl_fetch_memory(data_url, handle = h)
     rawToChar(resp$content)
   }, error = function(e) {
-    message("Request failed: ", e$message)
-    NULL
+    message("Request error: ", e$message); NULL
   })
 
-  if (!is.null(resp_text)) {
-    message("Response size: ", nchar(resp_text), " chars")
-    message("First 300 chars: ", substr(resp_text, 1, 300))
+  last_response <- resp_text
 
-    if (!grepl('"status":500', resp_text) && nchar(resp_text) > 100) {
-      message("SUCCESS with ", fmt_name, "!")
+  if (!is.null(resp_text)) {
+    message("Response (first 300): ", substr(resp_text, 1, 300))
+    is_error <- grepl('"status":400|"status":500|"status":404', resp_text)
+    if (!is_error && nchar(resp_text) > 50) {
+      message("=== SUCCESS with format ", fmt_name, " ===")
       best_response <- resp_text
       best_format   <- fmt_name
       break
     }
   }
-  Sys.sleep(3)
+  Sys.sleep(2)
 }
 
-# ── Step 4: save response ─────────────────────────────────────────────────────
-if (!is.null(best_response)) {
-  writeLines(best_response, raw_file)
-  message("Saved raw response (", best_format, ") to: ", raw_file)
+# ── Step 3: save and parse ────────────────────────────────────────────────────
+final_response <- if (!is.null(best_response)) best_response else last_response
+writeLines(final_response, raw_file)
+message("Response saved to: ", raw_file)
 
+if (!is.null(best_response)) {
   result <- tryCatch(
     fromJSON(best_response, simplifyVector = TRUE),
     error = function(e) { message("Parse error: ", e$message); NULL }
   )
 
-  if (!is.null(result) && is.data.frame(result)) {
-    out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
-    write.csv(result, out, row.names = FALSE)
-    message("Saved CSV: ", nrow(result), " rows x ", ncol(result), " cols")
-  } else if (!is.null(result)) {
+  if (!is.null(result)) {
     message("Result class: ", class(result))
-    message("Result names: ", paste(names(result), collapse = ", "))
+    message("Names: ", paste(names(result), collapse = ", "))
     str(result, max.level = 2)
+
+    df <- if (is.data.frame(result)) {
+      result
+    } else if (is.list(result)) {
+      dfs <- Filter(is.data.frame, result)
+      if (length(dfs) > 0) dfs[[which.max(sapply(dfs, nrow))]] else NULL
+    } else NULL
+
+    if (!is.null(df) && nrow(df) > 0) {
+      out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
+      write.csv(df, out, row.names = FALSE)
+      message("CSV saved: ", nrow(df), " rows x ", ncol(df), " cols → ", out)
+    } else {
+      message("Response parsed but no dataframe found — check _raw.json")
+    }
   }
 } else {
-  message("All payload formats failed — saving last response for inspection")
-  writeLines(if (!is.null(resp_text)) resp_text else "{}", raw_file)
+  message("All formats failed — check _raw.json for last response")
 }
 
-# ── Step 5: log ───────────────────────────────────────────────────────────────
+# ── Step 4: log ───────────────────────────────────────────────────────────────
 log_entry <- data.frame(
-  matrix         = TARGET_MATRIX,
-  working_format = if (!is.null(best_format)) best_format else "none",
-  success        = !is.null(best_response),
-  timestamp      = as.character(Sys.time()),
+  matrix  = TARGET_MATRIX,
+  format  = if (!is.null(best_format)) best_format else "none",
+  success = !is.null(best_response),
+  timestamp = as.character(Sys.time()),
   stringsAsFactors = FALSE
 )
 
