@@ -9,42 +9,49 @@ message("Downloading matrix: ", TARGET_MATRIX)
 
 dir.create(OUTPUT_DIR, showWarnings = FALSE, recursive = TRUE)
 
-tryCatch({
-  tempo_bulk(TARGET_MATRIX, dir = OUTPUT_DIR)
-  message("Download call completed.")
+# Capture the return value directly — don't pass dir argument
+df <- tryCatch({
+  tempo_bulk(TARGET_MATRIX)
 }, error = function(e) {
   message("tempo_bulk error: ", conditionMessage(e))
+  NULL
 })
 
-# List what was written
-files_written <- list.files(OUTPUT_DIR, full.names = TRUE)
-message("Files in output dir:")
-print(files_written)
+message("Class of result: ", class(df))
+message("Type of result: ",  typeof(df))
 
-# If tempo_bulk wrote an xlsx or csv, copy it to a clean named CSV
-data_file <- files_written[grepl("IND104P|ind104p", files_written, ignore.case = TRUE)]
-data_file <- data_file[!grepl("run_log", data_file)]
-
-if (length(data_file) > 0) {
-  message("Data file found: ", data_file[1])
-  # If it's already a csv, just confirm; if xlsx read and re-save
-  if (grepl("\\.csv$", data_file[1], ignore.case = TRUE)) {
-    message("CSV confirmed at: ", data_file[1])
-  } else {
-    if (!requireNamespace("readxl", quietly = TRUE)) install.packages("readxl")
-    df <- readxl::read_excel(data_file[1])
+if (!is.null(df)) {
+  if (is.data.frame(df)) {
     out <- file.path(OUTPUT_DIR, "IND104P.csv")
     write.csv(df, out, row.names = FALSE)
-    message("Converted to CSV: ", out)
+    message("Saved dataframe: ", nrow(df), " rows, ", ncol(df), " cols → ", out)
+  } else if (is.list(df)) {
+    # Sometimes tempo_bulk returns a list of dataframes
+    message("Result is a list of length: ", length(df))
+    for (i in seq_along(df)) {
+      item <- df[[i]]
+      if (is.data.frame(item)) {
+        out <- file.path(OUTPUT_DIR, paste0("IND104P_", i, ".csv"))
+        write.csv(item, out, row.names = FALSE)
+        message("Saved list item ", i, ": ", nrow(item), " rows → ", out)
+      }
+    }
+  } else {
+    message("Unexpected result type — raw printing:")
+    print(df)
   }
 } else {
-  message("WARNING: no data file found for IND104P")
+  message("Result was NULL — nothing to save")
 }
 
 # Log the run
+files_written <- list.files(OUTPUT_DIR, pattern = "\\.csv$", full.names = FALSE)
+files_written <- files_written[files_written != "run_log.csv"]
+
 log_entry <- data.frame(
   matrix    = TARGET_MATRIX,
-  files     = paste(basename(files_written), collapse = "; "),
+  files     = paste(files_written, collapse = "; "),
+  rows      = if (!is.null(df) && is.data.frame(df)) nrow(df) else 0,
   timestamp = as.character(Sys.time())
 )
 
