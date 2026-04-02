@@ -18,21 +18,25 @@ meta_raw <- tryCatch({
 }, error = function(e) { message("Metadata fetch failed: ", e$message); NULL })
 
 if (is.null(meta_raw)) stop("Cannot reach INSSE API.")
-meta <- fromJSON(meta_raw)
 
-# ── Step 2: extract all nomItemIds from each dimension ────────────────────────
+# Parse with simplifyVector=FALSE to preserve nested list structure
+meta <- fromJSON(meta_raw, simplifyVector = FALSE)
+
 dims <- meta$dimensionsMap
 message("Number of dimensions: ", length(dims))
 
-# Build the details list — all item IDs for each dimension
+# ── Step 2: extract nomItemIds from each dimension ────────────────────────────
 details_list <- lapply(seq_along(dims), function(i) {
-  d <- dims[[i]]
-  ids <- d$options$nomItemId
+  d       <- dims[[i]]
+  options <- d$options
+  ids     <- sapply(options, function(o) o$nomItemId)
   message("Dim ", d$dimCode, " (", d$label, "): ", length(ids), " options")
-  ids
+  as.list(ids)
 })
 
-# The API expects a flat list of all selected nomItemIds per dimension
+message("Payload dim sizes: ", paste(sapply(details_list, length), collapse = " x "))
+
+# ── Step 3: build payload ─────────────────────────────────────────────────────
 payload <- list(
   language   = "en",
   matrixName = TARGET_MATRIX,
@@ -40,9 +44,7 @@ payload <- list(
   details    = details_list
 )
 
-message("Payload built. Dim sizes: ", paste(sapply(details_list, length), collapse = " x "))
-
-# ── Step 3: POST with retry ───────────────────────────────────────────────────
+# ── Step 4: POST with retry ───────────────────────────────────────────────────
 data_url <- paste0(API_BASE, "/dataSet/", TARGET_MATRIX)
 message("POSTing to: ", data_url)
 
@@ -53,7 +55,7 @@ for (i in seq_len(MAX_TRIES)) {
   message("Attempt ", i, " of ", MAX_TRIES)
   raw_text <- tryCatch({
     h <- new_handle()
-    handle_setopt(h, copypostfields = toJSON(payload, auto_unbox = FALSE))
+    handle_setopt(h, copypostfields = toJSON(payload, auto_unbox = TRUE))
     handle_setheaders(h, "Content-Type" = "application/json")
     resp <- curl_fetch_memory(data_url, handle = h)
     txt  <- rawToChar(resp$content)
@@ -65,39 +67,38 @@ for (i in seq_len(MAX_TRIES)) {
     Sys.sleep(15)
     NULL
   })
-  if (!is.null(raw_text)) break
+  if (!is.null(raw_text) && !grepl('"status":500', raw_text)) break
+  message("Got error response, retrying...")
+  Sys.sleep(15)
 }
 
 if (is.null(raw_text)) stop("All attempts failed.")
 
-# ── Step 4: parse and save ────────────────────────────────────────────────────
-# Save raw response always so we can inspect if needed
+# ── Step 5: save raw response ─────────────────────────────────────────────────
 raw_file <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, "_raw.json"))
 writeLines(raw_text, raw_file)
 message("Raw response saved to: ", raw_file)
 
-result <- tryCatch(fromJSON(raw_text), error = function(e) {
-  message("JSON parse error: ", e$message)
-  NULL
-})
+# ── Step 6: parse and save as CSV ─────────────────────────────────────────────
+result <- tryCatch(
+  fromJSON(raw_text, simplifyVector = TRUE),
+  error = function(e) { message("JSON parse error: ", e$message); NULL }
+)
 
 if (!is.null(result)) {
   message("Result class: ", class(result))
   message("Result names: ", paste(names(result), collapse = ", "))
-  str(result, max.level = 2)
 
-  # Try to extract the data frame — API typically returns dataset + metadata
   df <- if (is.data.frame(result)) {
     result
   } else if ("dataset" %in% names(result)) {
     as.data.frame(result$dataset)
   } else if (is.list(result)) {
-    # Find the largest data frame inside
     dfs <- Filter(is.data.frame, result)
     if (length(dfs) > 0) dfs[[which.max(sapply(dfs, nrow))]] else NULL
   } else NULL
 
-  if (!is.null(df)) {
+  if (!is.null(df) && nrow(df) > 0) {
     out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
     write.csv(df, out, row.names = FALSE)
     message("Saved: ", nrow(df), " rows x ", ncol(df), " cols → ", out)
@@ -106,10 +107,10 @@ if (!is.null(result)) {
   }
 }
 
-# ── Step 5: log ───────────────────────────────────────────────────────────────
+# ── Step 7: log ───────────────────────────────────────────────────────────────
 log_entry <- data.frame(
   matrix    = TARGET_MATRIX,
-  success   = !is.null(result),
+  success   = !is.null(result) && !grepl('"status":500', raw_text),
   timestamp = as.character(Sys.time()),
   stringsAsFactors = FALSE
 )
