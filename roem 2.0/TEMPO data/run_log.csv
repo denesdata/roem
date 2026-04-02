@@ -1,3 +1,4 @@
-"matrix","success","timestamp"
-"IND104P",NA,"2026-04-02 07:51:14.494661"
-"IND104P",FALSE,"2026-04-02 08:19:26.240909"
+"matrix","working_format","success","timestamp"
+"IND104P",NA,NA,"2026-04-02 07:51:14.494661"
+"IND104P",NA,FALSE,"2026-04-02 08:19:26.240909"
+"IND104P","format2",TRUE,"2026-04-02 08:23:13.522022"
