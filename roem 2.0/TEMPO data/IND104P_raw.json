@@ -1,0 +1,8 @@
+{
+  "timestamp": [1775117254984],
+  "status": [500],
+  "error": ["Internal Server Error"],
+  "exception": ["java.lang.NullPointerException"],
+  "message": ["No message available"],
+  "path": ["/tempo-ins/matrix/dataSet/IND104P"]
+}
