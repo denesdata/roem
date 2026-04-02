@@ -1,61 +1,49 @@
-name: TEMPO API Download - IND104P
+if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes")
+remotes::install_github("MarianNecula/TEMPO")
+library(TEMPO)
 
-on:
-  schedule:
-    - cron: "0 7 1 * *"
-  workflow_dispatch:
+TARGET_MATRIX <- "IND104P"
+OUTPUT_DIR    <- "roem 2.0/TEMPO data"
 
-jobs:
-  download:
-    runs-on: ubuntu-latest
-    timeout-minutes: 20
+message("Downloading matrix: ", TARGET_MATRIX)
 
-    permissions:
-      contents: write
+dir.create(OUTPUT_DIR, showWarnings = FALSE, recursive = TRUE)
 
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v4
+result <- NULL
+MAX_TRIES <- 3
 
-      - name: Install system dependencies
-        run: sudo apt-get install -y libcurl4-openssl-dev
+for (i in seq_len(MAX_TRIES)) {
+  message("Attempt ", i, " of ", MAX_TRIES)
+  result <- tryCatch({
+    df <- tempo_bulk(TARGET_MATRIX, dir = OUTPUT_DIR)
+    message("Success: saved to ", OUTPUT_DIR)
+    df
+  }, error = function(e) {
+    message("Attempt ", i, " failed: ", conditionMessage(e))
+    Sys.sleep(10)
+    NULL
+  })
+  if (!is.null(result)) break
+}
 
-      - name: Set up R
-        uses: r-lib/actions/setup-r@v2
-        with:
-          r-version: "4.3"
+if (!is.null(result)) {
+  out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
+  write.csv(result, out, row.names = FALSE)
+  message("CSV written to: ", out)
+}
 
-      - name: Cache R packages
-        uses: actions/cache@v4
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: r-pkgs-${{ runner.os }}
+log_entry <- data.frame(
+  matrix    = TARGET_MATRIX,
+  success   = !is.null(result),
+  rows      = if (!is.null(result)) nrow(result) else 0,
+  timestamp = as.character(Sys.time())
+)
 
-      - name: Install R packages
-        shell: Rscript {0}
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          install.packages(c("remotes", "curl", "jsonlite"))
-          remotes::install_github("MarianNecula/TEMPO", upgrade = "never")
+log_file <- file.path(OUTPUT_DIR, "run_log.csv")
+if (file.exists(log_file)) {
+  existing <- read.csv(log_file)
+  log_entry <- rbind(existing, log_entry)
+}
+write.csv(log_entry, log_file, row.names = FALSE)
 
-      - name: Run download script
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-        run: Rscript "roem 2.0/R/download.R"
-
-      - name: Commit and push data
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "roem 2.0/TEMPO data/"
-          git diff --staged --quiet \
-            || git commit -m "data: IND104P update $(date +'%Y-%m-%d')"
-          git push
-
-      - name: Save CSV as downloadable artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: IND104P-${{ github.run_id }}
-          path: "roem 2.0/TEMPO data/"
-          retention-days: 90
+if (is.null(result)) stop("All attempts failed for matrix: ", TARGET_MATRIX)
