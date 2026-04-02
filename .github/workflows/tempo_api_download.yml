@@ -45,16 +45,19 @@ jobs:
         run: Rscript "roem 2.0/R/download.R"
 
       - name: List output files
-        run: ls -lah "roem 2.0/TEMPO data/" || echo "Directory not found"
+        run: |
+          echo "=== Contents of TEMPO data dir ==="
+          ls -lah "roem 2.0/TEMPO data/" || echo "Directory not found"
 
       - name: Commit and push data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "roem 2.0/TEMPO data/"
           git stash
           git pull --rebase origin master
-          git stash pop
+          git stash pop || true
+          git add --force "roem 2.0/TEMPO data/"
+          git status
           git diff --staged --quiet \
             || git commit -m "data: IND104P update $(date +'%Y-%m-%d')"
           git push
