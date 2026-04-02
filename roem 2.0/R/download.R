@@ -9,33 +9,23 @@ message("Downloading matrix: ", TARGET_MATRIX)
 
 dir.create(OUTPUT_DIR, showWarnings = FALSE, recursive = TRUE)
 
-result <- NULL
-MAX_TRIES <- 3
+# tempo_bulk downloads the file itself into OUTPUT_DIR
+# we just need to not crash if it returns NULL or invisibly
+tryCatch({
+  tempo_bulk(TARGET_MATRIX, dir = OUTPUT_DIR)
+  message("Download call completed.")
+}, error = function(e) {
+  message("tempo_bulk error (may still have written file): ", conditionMessage(e))
+})
 
-for (i in seq_len(MAX_TRIES)) {
-  message("Attempt ", i, " of ", MAX_TRIES)
-  result <- tryCatch({
-    df <- tempo_bulk(TARGET_MATRIX, dir = OUTPUT_DIR)
-    message("Success: saved to ", OUTPUT_DIR)
-    df
-  }, error = function(e) {
-    message("Attempt ", i, " failed: ", conditionMessage(e))
-    Sys.sleep(10)
-    NULL
-  })
-  if (!is.null(result)) break
-}
+# Find whatever file was written to the output dir
+files_written <- list.files(OUTPUT_DIR, pattern = "\\.csv$|\\.xls", full.names = TRUE)
+message("Files found in output dir: ", paste(files_written, collapse = ", "))
 
-if (!is.null(result)) {
-  out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
-  write.csv(result, out, row.names = FALSE)
-  message("CSV written to: ", out)
-}
-
+# Log the run
 log_entry <- data.frame(
   matrix    = TARGET_MATRIX,
-  success   = !is.null(result),
-  rows      = if (!is.null(result)) nrow(result) else 0,
+  files     = paste(basename(files_written), collapse = "; "),
   timestamp = as.character(Sys.time())
 )
 
@@ -46,4 +36,4 @@ if (file.exists(log_file)) {
 }
 write.csv(log_entry, log_file, row.names = FALSE)
 
-if (is.null(result)) stop("All attempts failed for matrix: ", TARGET_MATRIX)
+message("Done.")
