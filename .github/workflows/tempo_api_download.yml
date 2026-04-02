@@ -29,25 +29,18 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: r-pkgs-${{ runner.os }}
+          key: r-pkgs-v2-${{ runner.os }}
 
       - name: Install R packages
         shell: Rscript {0}
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          install.packages(c("remotes", "curl", "jsonlite"))
-          remotes::install_github("MarianNecula/TEMPO", upgrade = "never")
+          install.packages(c("curl", "jsonlite"))
 
       - name: Run download script
-        env:
-          GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
         run: Rscript "roem 2.0/R/download.R"
 
       - name: List output files
-        run: |
-          echo "=== Contents of TEMPO data dir ==="
-          ls -lah "roem 2.0/TEMPO data/" || echo "Directory not found"
+        run: ls -lah "roem 2.0/TEMPO data/" || echo "Directory not found"
 
       - name: Commit and push data
         run: |
