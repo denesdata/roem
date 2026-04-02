@@ -60,28 +60,21 @@ for (i in seq_len(MAX_TRIES)) {
   message("  Response size: ", nchar(resp_text), " chars")
   message("  First 200 chars: ", substr(resp_text, 1, 200))
 
-  # Success: response contains "Valoare" (CSV header) and no error status
   is_error <- grepl('"status":400|"status":500|"status":404', resp_text)
   is_csv   <- grepl("Valoare", resp_text) && nchar(resp_text) > 100
 
   if (is_csv && !is_error) {
     message("  CSV detected — parsing...")
     df <- tryCatch(
-      read.csv(text = resp_text, stringsAsFactors = FALSE, fileEncoding = "UTF-8"),
-      error = function(e) {
-        # fallback without encoding
-        tryCatch(
-          read.csv(text = resp_text, stringsAsFactors = FALSE),
-          error = function(e2) { message("  CSV parse failed: ", e2$message); NULL }
-        )
-      }
+      read.csv(text = resp_text, stringsAsFactors = FALSE),
+      error = function(e) { message("  CSV parse failed: ", e$message); NULL }
     )
 
     if (!is.null(df) && nrow(df) > 0) {
       message("  Parsed: ", nrow(df), " rows x ", ncol(df), " cols")
       writeLines(resp_text, raw_file)
       out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
-      write.csv(df, out, row.names = FALSE, fileEncoding = "UTF-8")
+      write.csv(df, out, row.names = FALSE)
       message("  Saved → ", out)
       result <- df
       break
