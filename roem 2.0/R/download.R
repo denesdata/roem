@@ -13,76 +13,92 @@ meta_raw <- tryCatch({
   rawToChar(curl_fetch_memory(meta_url)$content)
 }, error = function(e) { stop("Metadata fetch failed: ", e$message) })
 
-meta <- fromJSON(meta_raw, simplifyVector = FALSE)
-dims <- meta$dimensionsMap
-
+meta     <- fromJSON(meta_raw, simplifyVector = FALSE)
+dims     <- meta$dimensionsMap
 dim_info <- lapply(dims, function(d) {
   ids <- sapply(d$options, function(o) as.integer(o$nomItemId))
   list(dimCode = as.integer(d$dimCode), ids = ids, label = d$label)
 })
-
 for (di in dim_info) message("Dim ", di$dimCode, " (", di$label, "): ", length(di$ids), " items")
 
-# ── Step 2: try the CSV pivot endpoint ───────────────────────────────────────
-# This is what the package actually uses: /tempo-ins/pivot
-pivot_url <- "http://statistici.insse.ro:8077/tempo-ins/pivot"
-
-# Pivot endpoint expects nomItemId arrays keyed as dim1, dim2, dim3
+# ── Step 2: build pivot payload ───────────────────────────────────────────────
+pivot_url     <- "http://statistici.insse.ro:8077/tempo-ins/pivot"
 pivot_payload <- setNames(
   lapply(dim_info, function(d) d$ids),
   paste0("dim", sapply(dim_info, function(d) d$dimCode))
 )
-pivot_payload$matrix <- TARGET_MATRIX
+pivot_payload$matrix   <- TARGET_MATRIX
 pivot_payload$language <- "en"
-
-message("Trying CSV pivot endpoint...")
 payload_json <- toJSON(pivot_payload, auto_unbox = TRUE)
-message("Payload preview: ", substr(payload_json, 1, 200))
 
-raw_file <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, "_raw.json"))
-result   <- NULL
+# ── Step 3: retry until we get a real CSV ────────────────────────────────────
+MAX_TRIES  <- 10
+SLEEP_SECS <- 20
+result     <- NULL
+raw_file   <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, "_raw.json"))
 
-resp_text <- tryCatch({
-  h <- new_handle()
-  handle_setopt(h, copypostfields = payload_json)
-  handle_setheaders(h, "Content-Type" = "application/json")
-  resp <- curl_fetch_memory(pivot_url, handle = h)
-  rawToChar(resp$content)
-}, error = function(e) { message("Pivot request failed: ", e$message); NULL })
+for (i in seq_len(MAX_TRIES)) {
+  message("Attempt ", i, " of ", MAX_TRIES, "...")
 
-if (!is.null(resp_text)) {
-  message("Response size: ", nchar(resp_text))
-  message("First 500 chars: ", substr(resp_text, 1, 500))
-  writeLines(resp_text, raw_file)
+  resp_text <- tryCatch({
+    h <- new_handle()
+    handle_setopt(h, copypostfields = payload_json)
+    handle_setheaders(h, "Content-Type" = "application/json")
+    handle_setopt(h, timeout = 60L)
+    rawToChar(curl_fetch_memory(pivot_url, handle = h)$content)
+  }, error = function(e) {
+    message("  Request error: ", e$message)
+    NULL
+  })
 
-  # Check if it looks like CSV
-  if (grepl(",", resp_text) && !grepl('"status":500|"status":400', resp_text)) {
-    message("Looks like CSV — parsing...")
+  if (is.null(resp_text)) {
+    message("  No response — waiting ", SLEEP_SECS, "s")
+    Sys.sleep(SLEEP_SECS)
+    next
+  }
+
+  message("  Response size: ", nchar(resp_text), " chars")
+  message("  First 200 chars: ", substr(resp_text, 1, 200))
+
+  # Success: response contains "Valoare" (CSV header) and no error status
+  is_error <- grepl('"status":400|"status":500|"status":404', resp_text)
+  is_csv   <- grepl("Valoare", resp_text) && nchar(resp_text) > 100
+
+  if (is_csv && !is_error) {
+    message("  CSV detected — parsing...")
     df <- tryCatch(
-      read.csv(text = resp_text, stringsAsFactors = FALSE),
-      error = function(e) { message("CSV parse failed: ", e$message); NULL }
+      read.csv(text = resp_text, stringsAsFactors = FALSE, fileEncoding = "UTF-8"),
+      error = function(e) {
+        # fallback without encoding
+        tryCatch(
+          read.csv(text = resp_text, stringsAsFactors = FALSE),
+          error = function(e2) { message("  CSV parse failed: ", e2$message); NULL }
+        )
+      }
     )
+
     if (!is.null(df) && nrow(df) > 0) {
+      message("  Parsed: ", nrow(df), " rows x ", ncol(df), " cols")
+      writeLines(resp_text, raw_file)
       out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
-      write.csv(df, out, row.names = FALSE)
-      message("Saved: ", nrow(df), " rows x ", ncol(df), " cols → ", out)
+      write.csv(df, out, row.names = FALSE, fileEncoding = "UTF-8")
+      message("  Saved → ", out)
       result <- df
-    }
-  } else {
-    # Try JSON parse
-    result <- tryCatch(fromJSON(resp_text), error = function(e) NULL)
-    if (!is.null(result) && is.data.frame(result)) {
-      out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
-      write.csv(result, out, row.names = FALSE)
-      message("Saved JSON-parsed data: ", nrow(result), " rows")
+      break
     }
   }
+
+  message("  Not a valid CSV yet — waiting ", SLEEP_SECS, "s before retry")
+  Sys.sleep(SLEEP_SECS)
 }
 
-# ── Step 3: log ───────────────────────────────────────────────────────────────
+if (is.null(result)) message("All ", MAX_TRIES, " attempts failed.")
+
+# ── Step 4: log ───────────────────────────────────────────────────────────────
 log_entry <- data.frame(
   matrix    = TARGET_MATRIX,
   success   = !is.null(result),
+  rows      = if (!is.null(result)) nrow(result) else 0,
   timestamp = as.character(Sys.time()),
   stringsAsFactors = FALSE
 )
