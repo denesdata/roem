@@ -1,59 +1,92 @@
-if (!requireNamespace("remotes", quietly = TRUE)) install.packages("remotes")
-remotes::install_github("MarianNecula/TEMPO")
-library(TEMPO)
+library(curl)
+library(jsonlite)
 
 TARGET_MATRIX <- "IND104P"
 OUTPUT_DIR    <- "roem 2.0/TEMPO data"
-
-message("Downloading matrix: ", TARGET_MATRIX)
+API_BASE      <- "http://statistici.insse.ro:8077/tempo-ins/matrix"
 
 dir.create(OUTPUT_DIR, showWarnings = FALSE, recursive = TRUE)
 
-# Set working directory to output dir so tempo_bulk writes files there
-old_wd <- getwd()
-setwd(OUTPUT_DIR)
-message("Working directory set to: ", getwd())
+# ── Step 1: get matrix metadata ───────────────────────────────────────────────
+message("Fetching metadata for: ", TARGET_MATRIX)
 
-df <- tryCatch({
-  tempo_bulk(matrices = TARGET_MATRIX)
-}, error = function(e) {
-  message("tempo_bulk error: ", conditionMessage(e))
-  NULL
-})
+meta_url <- paste0(API_BASE, "/", TARGET_MATRIX, "?lang=en")
+message("Metadata URL: ", meta_url)
 
-# Restore working directory
-setwd(old_wd)
+meta_raw <- tryCatch(
+  readLines(curl(meta_url), warn = FALSE),
+  error = function(e) { message("Metadata fetch failed: ", e$message); NULL }
+)
 
-message("Class of result: ", class(df))
+if (is.null(meta_raw)) stop("Cannot reach INSSE API.")
 
-# List everything written to output dir
-files_written <- list.files(OUTPUT_DIR, full.names = FALSE)
-message("Files in output dir: ", paste(files_written, collapse = ", "))
+meta <- fromJSON(paste(meta_raw, collapse = ""))
+message("Matrix name: ", meta$matrixName)
 
-if (!is.null(df)) {
-  if (is.data.frame(df)) {
-    out <- file.path(OUTPUT_DIR, "IND104P.csv")
-    write.csv(df, out, row.names = FALSE)
-    message("Saved: ", nrow(df), " rows → ", out)
-  } else if (is.list(df)) {
-    message("Result is list, length: ", length(df))
-    for (i in seq_along(df)) {
-      if (is.data.frame(df[[i]])) {
-        out <- file.path(OUTPUT_DIR, paste0("IND104P_", i, ".csv"))
-        write.csv(df[[i]], out, row.names = FALSE)
-        message("Saved part ", i, ": ", nrow(df[[i]]), " rows → ", out)
-      }
-    }
-  }
+# ── Step 2: build the data request payload ────────────────────────────────────
+# Get all dimension values for a full download
+dims <- meta$headline
+payload_dims <- lapply(dims$values, function(v) list(
+  id    = v$id,
+  value = v$text
+))
+names(payload_dims) <- dims$dimCode
+
+payload <- list(
+  language  = "en",
+  matrixName = TARGET_MATRIX,
+  queryType  = "DATA",
+  headline   = payload_dims
+)
+
+# ── Step 3: POST request for data ─────────────────────────────────────────────
+data_url <- paste0(API_BASE, "/dataSet/", TARGET_MATRIX)
+message("Requesting data from: ", data_url)
+
+MAX_TRIES <- 3
+result <- NULL
+
+for (i in seq_len(MAX_TRIES)) {
+  message("Attempt ", i, " of ", MAX_TRIES)
+  result <- tryCatch({
+    h <- new_handle()
+    handle_setopt(h, copypostfields = toJSON(payload, auto_unbox = TRUE))
+    handle_setheaders(h, "Content-Type" = "application/json")
+    resp <- curl_fetch_memory(data_url, handle = h)
+    raw_text <- rawToChar(resp$content)
+    message("Response size: ", nchar(raw_text), " chars")
+    parsed <- fromJSON(raw_text)
+    parsed
+  }, error = function(e) {
+    message("Attempt ", i, " failed: ", e$message)
+    Sys.sleep(15)
+    NULL
+  })
+  if (!is.null(result)) break
 }
 
-# Log the run — fixed column structure
+# ── Step 4: save ──────────────────────────────────────────────────────────────
+if (!is.null(result)) {
+  if (is.data.frame(result)) {
+    out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, ".csv"))
+    write.csv(result, out, row.names = FALSE)
+    message("Saved: ", nrow(result), " rows → ", out)
+  } else {
+    # Save raw JSON so we can inspect the structure
+    out <- file.path(OUTPUT_DIR, paste0(TARGET_MATRIX, "_raw.json"))
+    writeLines(toJSON(result, pretty = TRUE), out)
+    message("Saved raw JSON → ", out)
+    message("Structure: ")
+    str(result)
+  }
+} else {
+  message("All attempts failed.")
+}
+
+# ── Step 5: log ───────────────────────────────────────────────────────────────
 log_entry <- data.frame(
   matrix    = TARGET_MATRIX,
-  success   = !is.null(df),
-  files     = paste(list.files(OUTPUT_DIR, pattern = "\\.csv$")[
-                list.files(OUTPUT_DIR, pattern = "\\.csv$") != "run_log.csv"
-              ], collapse = "; "),
+  success   = !is.null(result),
   timestamp = as.character(Sys.time()),
   stringsAsFactors = FALSE
 )
@@ -61,13 +94,8 @@ log_entry <- data.frame(
 log_file <- file.path(OUTPUT_DIR, "run_log.csv")
 if (file.exists(log_file)) {
   existing <- read.csv(log_file, stringsAsFactors = FALSE)
-  # Force same columns before rbind
-  for (col in names(log_entry)) {
-    if (!col %in% names(existing)) existing[[col]] <- NA
-  }
-  existing <- existing[, names(log_entry)]
-  log_entry <- rbind(existing, log_entry)
+  for (col in names(log_entry)) if (!col %in% names(existing)) existing[[col]] <- NA
+  log_entry <- rbind(existing[, names(log_entry)], log_entry)
 }
 write.csv(log_entry, log_file, row.names = FALSE)
-
 message("Done.")
