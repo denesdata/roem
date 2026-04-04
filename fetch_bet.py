@@ -6,7 +6,7 @@ import yfinance as yf
 
 TICKER   = "^BET.RO"
 CSV_PATH = "roem 2.0/Financial Markets/BET index.csv"
-FIELDS   = ["Date", "Open", "High", "Low", "Close"]
+FIELDS   = ["Date", "Close"]
 
 
 def load_existing_dates():
