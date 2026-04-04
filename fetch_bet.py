@@ -1,65 +1,83 @@
 import csv
 import os
-from datetime import date, timedelta, datetime
+from datetime import date
+import pandas
 import yfinance as yf
 
 TICKER   = "^BET.RO"
 CSV_PATH = "roem 2.0/Financial Markets/BET index.csv"
-FIELDS   = ["date", "open", "high", "low", "close", "volume"]
+FIELDS   = ["Date", "Open", "High", "Low", "Close"]
 
 
 def load_existing_dates(path):
     if not os.path.exists(path):
         return set()
-    with open(path, newline="") as f:
-        return {row["date"] for row in csv.DictReader(f)}
+    with open(path, newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        return {row["Date"] for row in reader}
 
 
-def fetch(ticker, days_back=7):
-    start = (date.today() - timedelta(days=days_back * 2)).isoformat()
-    end   = (date.today() + timedelta(days=1)).isoformat()
-    df    = yf.download(ticker, start=start, end=end, auto_adjust=True, progress=False)
+def fetch(ticker, full_history=False):
+    period = "max" if full_history else "5d"
+    df = yf.download(ticker, period=period, auto_adjust=True, progress=False)
     if df.empty:
+        print("No data returned from Yahoo Finance.")
         return []
 
-    # yfinance returns MultiIndex columns when downloading a single ticker;
-    # flatten to simple column names
-    if isinstance(df.columns, __import__('pandas').MultiIndex):
+    # Flatten MultiIndex columns (yfinance >= 0.2.x returns these for single tickers)
+    if isinstance(df.columns, pandas.MultiIndex):
         df.columns = [col[0] for col in df.columns]
 
     rows = []
     for ts, row in df.iterrows():
+        if pandas.isna(row["Close"]):
+            continue
         rows.append({
-            "date":   ts.strftime("%Y-%m-%d"),
-            "open":   round(float(row["Open"]),  2),
-            "high":   round(float(row["High"]),  2),
-            "low":    round(float(row["Low"]),   2),
-            "close":  round(float(row["Close"]), 2),
-            "volume": int(row["Volume"]) if row["Volume"] == row["Volume"] else 0,
+            "Date":  ts.strftime("%Y-%m-%d"),
+            "Open":  round(float(row["Open"]),  2),
+            "High":  round(float(row["High"]),  2),
+            "Low":   round(float(row["Low"]),   2),
+            "Close": round(float(row["Close"]), 2),
         })
     return rows
 
 
-def append_new(path, rows, existing):
-    new = sorted([r for r in rows if r["date"] not in existing], key=lambda r: r["date"])
-    if not new:
-        print("No new rows.")
-        return 0
+def write_csv(path, rows):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    write_header = not os.path.exists(path)
-    with open(path, "a", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=FIELDS)
-        if write_header:
-            w.writeheader()
-        w.writerows(new)
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDS)
+        writer.writeheader()
+        writer.writerows(rows)
+    print(f"Written {len(rows)} rows to {path}")
+
+
+def append_new(path, rows, existing_dates):
+    new = sorted(
+        [r for r in rows if r["Date"] not in existing_dates],
+        key=lambda r: r["Date"]
+    )
+    if not new:
+        print("No new rows to add.")
+        return 0
+    with open(path, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDS)
+        writer.writerows(new)
     for r in new:
-        print(f"  added {r['date']}  close={r['close']}")
+        print(f"  added {r['Date']}  close={r['Close']}")
     return len(new)
 
 
 if __name__ == "__main__":
-    print(f"[{date.today()} UTC] Fetching {TICKER}...")
+    print(f"[{date.today()}] Fetching {TICKER}...")
+
     existing = load_existing_dates(CSV_PATH)
-    rows     = fetch(TICKER)
-    n        = append_new(CSV_PATH, rows, existing)
-    print(f"Done — {n} new row(s).")
+    full_history = len(existing) == 0
+
+    if full_history:
+        print("No existing data — fetching full history...")
+        rows = fetch(TICKER, full_history=True)
+        write_csv(CSV_PATH, rows)
+    else:
+        rows = fetch(TICKER, full_history=False)
+        n = append_new(CSV_PATH, rows, existing)
+        print(f"Done — {n} new row(s) added.")
