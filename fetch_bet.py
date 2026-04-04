@@ -21,6 +21,12 @@ def fetch(ticker, days_back=7):
     df    = yf.download(ticker, start=start, end=end, auto_adjust=True, progress=False)
     if df.empty:
         return []
+
+    # yfinance returns MultiIndex columns when downloading a single ticker;
+    # flatten to simple column names
+    if isinstance(df.columns, __import__('pandas').MultiIndex):
+        df.columns = [col[0] for col in df.columns]
+
     rows = []
     for ts, row in df.iterrows():
         rows.append({
@@ -52,7 +58,7 @@ def append_new(path, rows, existing):
 
 
 if __name__ == "__main__":
-    print(f"[{datetime.utcnow().date()} UTC] Fetching {TICKER}...")
+    print(f"[{date.today()} UTC] Fetching {TICKER}...")
     existing = load_existing_dates(CSV_PATH)
     rows     = fetch(TICKER)
     n        = append_new(CSV_PATH, rows, existing)
