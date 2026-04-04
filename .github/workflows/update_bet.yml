@@ -1,0 +1,33 @@
+name: Update BET Index
+
+on:
+  schedule:
+    - cron: "5 16 * * 1-5"   # 16:05 UTC = ~19:05 EET, after BVB closes at 17:25
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install yfinance
+
+      - run: python fetch_bet.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "roem 2.0/Financial Markets/BET index.csv"
+          git diff --cached --quiet || git commit -m "chore: update BET index $(date -u +'%Y-%m-%d')"
+          git push
