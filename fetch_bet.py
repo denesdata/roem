@@ -9,8 +9,15 @@ CSV_PATH = "roem 2.0/Financial Markets/BET index.csv"
 FIELDS   = ["Date", "Open", "High", "Low", "Close"]
 
 
+def load_existing_dates():
+    if not os.path.exists(CSV_PATH):
+        return set()
+    with open(CSV_PATH, newline="", encoding="utf-8") as f:
+        return {row["Date"] for row in csv.DictReader(f)}
+
+
 def fetch():
-    df = yf.download(TICKER, period="1mo", auto_adjust=True, progress=False)
+    df = yf.download(TICKER, period="5d", auto_adjust=True, progress=False)
     if isinstance(df.columns, pandas.MultiIndex):
         df.columns = [col[0] for col in df.columns]
     rows = []
@@ -28,10 +35,14 @@ def fetch():
 
 
 if __name__ == "__main__":
-    rows = fetch()
-    os.makedirs(os.path.dirname(CSV_PATH), exist_ok=True)
-    with open(CSV_PATH, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDS)
-        writer.writeheader()
-        writer.writerows(rows)
-    print(f"Written {len(rows)} rows.")
+    existing = load_existing_dates()
+    rows = [r for r in fetch() if r["Date"] not in existing]
+
+    if not rows:
+        print("No new rows.")
+    else:
+        with open(CSV_PATH, "a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=FIELDS)
+            writer.writerows(rows)
+        for r in rows:
+            print(f"Added {r['Date']}  close={r['Close']}")
