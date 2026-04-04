@@ -8,25 +8,37 @@ TICKER   = "^BET.RO"
 CSV_PATH = "roem 2.0/Financial Markets/BET index.csv"
 FIELDS   = ["Date", "Open", "High", "Low", "Close"]
 
+# BET index launched September 1997
+HISTORY_START = "1997-09-01"
+
 
 def load_existing_dates(path):
     if not os.path.exists(path):
         return set()
     with open(path, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        return {row["Date"] for row in reader}
+        return {row["Date"] for row in csv.DictReader(f)}
 
 
-def fetch(ticker, full_history=False):
-    period = "max" if full_history else "5d"
-    df = yf.download(ticker, period=period, auto_adjust=True, progress=False)
-    if df.empty:
-        print("No data returned from Yahoo Finance.")
-        return []
-
-    # Flatten MultiIndex columns (yfinance >= 0.2.x returns these for single tickers)
+def flatten(df):
+    """Flatten MultiIndex columns that yfinance returns for single tickers."""
     if isinstance(df.columns, pandas.MultiIndex):
         df.columns = [col[0] for col in df.columns]
+    return df
+
+
+def fetch(start, end=None):
+    if end is None:
+        end = date.today().isoformat()
+    print(f"  Downloading {TICKER}  {start} → {end}")
+
+    df = yf.download(TICKER, start=start, end=end, auto_adjust=True, progress=False)
+    print(f"  Raw rows returned: {len(df)}")
+
+    if df.empty:
+        return []
+
+    df = flatten(df)
+    print(f"  Columns after flatten: {df.columns.tolist()}")
 
     rows = []
     for ts, row in df.iterrows():
@@ -71,13 +83,16 @@ if __name__ == "__main__":
     print(f"[{date.today()}] Fetching {TICKER}...")
 
     existing = load_existing_dates(CSV_PATH)
-    full_history = len(existing) == 0
 
-    if full_history:
+    if not existing:
         print("No existing data — fetching full history...")
-        rows = fetch(TICKER, full_history=True)
-        write_csv(CSV_PATH, rows)
+        rows = fetch(start=HISTORY_START)
+        if rows:
+            write_csv(CSV_PATH, rows)
+        else:
+            print("ERROR: No data returned. Check ticker or Yahoo Finance availability.")
     else:
-        rows = fetch(TICKER, full_history=False)
+        print(f"Found {len(existing)} existing dates, fetching recent...")
+        rows = fetch(start=sorted(existing)[-1])
         n = append_new(CSV_PATH, rows, existing)
         print(f"Done — {n} new row(s) added.")
