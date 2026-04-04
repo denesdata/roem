@@ -26,9 +26,6 @@ def fetch():
             continue
         rows.append({
             "Date":  ts.strftime("%Y-%m-%d"),
-            "Open":  round(float(row["Open"]),  2),
-            "High":  round(float(row["High"]),  2),
-            "Low":   round(float(row["Low"]),   2),
             "Close": round(float(row["Close"]), 2),
         })
     return rows
