@@ -19,7 +19,7 @@ def load_existing_dates(path):
 
 
 def fetch(ticker):
-    df = yf.download(ticker, period="3mo", auto_adjust=True, progress=False)
+    df = yf.download(ticker, period="5d", auto_adjust=True, progress=False)
     if isinstance(df.columns, pandas.MultiIndex):
         df.columns = [col[0] for col in df.columns]
     rows = []
