@@ -6,7 +6,7 @@ import yfinance as yf
 
 INDICES = [
     {"ticker": "^BET.RO", "path": "roem 2.0/Financial Markets/BET index.csv"},
-    {"ticker": "^SSEC",   "path": "roem 2.0/Financial Markets/SSEC.csv"},
+    {"ticker": "000001.SS",   "path": "roem 2.0/Financial Markets/SSEC.csv"},
 ]
 FIELDS = ["Date", "Close"]
 
@@ -19,7 +19,7 @@ def load_existing_dates(path):
 
 
 def fetch(ticker):
-    df = yf.download(ticker, period="5d", auto_adjust=True, progress=False)
+    df = yf.download(ticker, period="3mo", auto_adjust=True, progress=False)
     if isinstance(df.columns, pandas.MultiIndex):
         df.columns = [col[0] for col in df.columns]
     rows = []
