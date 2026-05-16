@@ -25,7 +25,7 @@ Wed Jan 21 2026 01:58:00 GMT+0200 (Eastern European Standard Time),Brent,63.27
 Wed Jan 21 2026 01:58:00 GMT+0200 (Eastern European Standard Time),WTI,59.57
 Thu Jan 22 2026 01:58:00 GMT+0200 (Eastern European Standard Time),Brent,
 Thu Jan 22 2026 01:58:00 GMT+0200 (Eastern European Standard Time),WTI,59.98
-Fri Jan 23 2026 01:58:00 GMT+0200 (Eastern European Standard Time),Brent,62.61
+Fri Jan 23 2026 01:58:00 GMT+0200 (Eastern European Standard Time),Brent,
 Fri Jan 23 2026 01:58:00 GMT+0200 (Eastern European Standard Time),WTI,58.9
 Sat Jan 24 2026 01:58:00 GMT+0200 (Eastern European Standard Time),Brent,64
 Sat Jan 24 2026 01:58:00 GMT+0200 (Eastern European Standard Time),WTI,60.26
@@ -182,4 +182,6 @@ Wed May 13 2026 01:58:00 GMT+0300 (Eastern European Summer Time),WTI,98.51
 Thu May 14 2026 01:58:00 GMT+0300 (Eastern European Summer Time),Brent,105.63
 Thu May 14 2026 01:58:00 GMT+0300 (Eastern European Summer Time),WTI,96.81
 Fri May 15 2026 01:58:00 GMT+0300 (Eastern European Summer Time),Brent,105.72
-Fri May 15 2026 01:58:00 GMT+0300 (Eastern European Summer Time),WTI,97.32
+Fri May 15 2026 01:58:00 GMT+0300 (Eastern European Summer Time),WTI,96.92
+Sat May 16 2026 01:58:00 GMT+0300 (Eastern European Summer Time),Brent,109.24
+Sat May 16 2026 01:58:00 GMT+0300 (Eastern European Summer Time),WTI,101.16
