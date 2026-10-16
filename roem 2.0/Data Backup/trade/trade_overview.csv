@@ -1,0 +1,169 @@
+period,period_label,series,indicator,indicator_label_en,indicator_label_ro,indicator_label_hu,value,unit
+2001-01-01,2001,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,11384993947,usd
+2001-01-01,2001,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,15551610400,usd
+2001-01-01,2001,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,2000539543,usd
+2001-01-01,2001,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,2113702870,usd
+2001-01-01,2001,total_exports,total_exports,Total export,Export total,Teljes export,13385533490,usd
+2001-01-01,2001,total_imports,total_imports,Total import,Import total,Teljes import,17665313270,usd
+2001-01-01,2001,net_exports,net_exports,Net export,Export net,Nettó export,-4279779780,usd
+2002-01-01,2002,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,13875689074,usd
+2002-01-01,2002,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,17861459163,usd
+2002-01-01,2002,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,2601834138,usd
+2002-01-01,2002,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,2591857855,usd
+2002-01-01,2002,total_exports,total_exports,Total export,Export total,Teljes export,16477523212,usd
+2002-01-01,2002,total_imports,total_imports,Total import,Import total,Teljes import,20453317018,usd
+2002-01-01,2002,net_exports,net_exports,Net export,Export net,Nettó export,-3975793806,usd
+2003-01-01,2003,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,17618055327,usd
+2003-01-01,2003,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,24002855002,usd
+2003-01-01,2003,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,3373473000,usd
+2003-01-01,2003,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,3295167000,usd
+2003-01-01,2003,total_exports,total_exports,Total export,Export total,Teljes export,20991528327,usd
+2003-01-01,2003,total_imports,total_imports,Total import,Import total,Teljes import,27298022002,usd
+2003-01-01,2003,net_exports,net_exports,Net export,Export net,Nettó export,-6306493675,usd
+2004-01-01,2004,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,23485311856,usd
+2004-01-01,2004,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,32663438442,usd
+2004-01-01,2004,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,3954176300,usd
+2004-01-01,2004,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,4244303600,usd
+2004-01-01,2004,total_exports,total_exports,Total export,Export total,Teljes export,27439488156,usd
+2004-01-01,2004,total_imports,total_imports,Total import,Import total,Teljes import,36907742042,usd
+2004-01-01,2004,net_exports,net_exports,Net export,Export net,Nettó export,-9468253886,usd
+2005-01-01,2005,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,27729576248,usd
+2005-01-01,2005,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,40462566839,usd
+2005-01-01,2005,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,4831332763,usd
+2005-01-01,2005,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,5238260840,usd
+2005-01-01,2005,total_exports,total_exports,Total export,Export total,Teljes export,32560909011,usd
+2005-01-01,2005,total_imports,total_imports,Total import,Import total,Teljes import,45700827680,usd
+2005-01-01,2005,net_exports,net_exports,Net export,Export net,Nettó export,-13139918669,usd
+2006-01-01,2006,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,32633852030,usd
+2006-01-01,2006,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,51601825619,usd
+2006-01-01,2006,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,7257357474,usd
+2006-01-01,2006,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,7245404382,usd
+2006-01-01,2006,total_exports,total_exports,Total export,Export total,Teljes export,39891209504,usd
+2006-01-01,2006,total_imports,total_imports,Total import,Import total,Teljes import,58847230001,usd
+2006-01-01,2006,net_exports,net_exports,Net export,Export net,Nettó export,-18956020497,usd
+2007-01-01,2007,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,40470699879,usd
+2007-01-01,2007,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,70414395147,usd
+2007-01-01,2007,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,10146748086,usd
+2007-01-01,2007,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,9546035600,usd
+2007-01-01,2007,total_exports,total_exports,Total export,Export total,Teljes export,50617447965,usd
+2007-01-01,2007,total_imports,total_imports,Total import,Import total,Teljes import,79960430747,usd
+2007-01-01,2007,net_exports,net_exports,Net export,Export net,Nettó export,-29342982782,usd
+2008-01-01,2008,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,49673522432,usd
+2008-01-01,2008,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,84285770502,usd
+2008-01-01,2008,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,12183516572,usd
+2008-01-01,2008,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,11253474080,usd
+2008-01-01,2008,total_exports,total_exports,Total export,Export total,Teljes export,61857039004,usd
+2008-01-01,2008,total_imports,total_imports,Total import,Import total,Teljes import,95539244582,usd
+2008-01-01,2008,net_exports,net_exports,Net export,Export net,Nettó export,-33682205578,usd
+2009-01-01,2009,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,40578773629,usd
+2009-01-01,2009,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,54344079522,usd
+2009-01-01,2009,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,10170739723,usd
+2009-01-01,2009,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,10591717618,usd
+2009-01-01,2009,total_exports,total_exports,Total export,Export total,Teljes export,50749513352,usd
+2009-01-01,2009,total_imports,total_imports,Total import,Import total,Teljes import,64935797139,usd
+2009-01-01,2009,net_exports,net_exports,Net export,Export net,Nettó export,-14186283787,usd
+2010-01-01,2010,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,49413386103,usd
+2010-01-01,2010,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,62006624402,usd
+2010-01-01,2010,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,8787336163,usd
+2010-01-01,2010,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,8242535413,usd
+2010-01-01,2010,total_exports,total_exports,Total export,Export total,Teljes export,58200722266,usd
+2010-01-01,2010,total_imports,total_imports,Total import,Import total,Teljes import,70249159815,usd
+2010-01-01,2010,net_exports,net_exports,Net export,Export net,Nettó export,-12048437549,usd
+2011-01-01,2011,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,62692001406,usd
+2011-01-01,2011,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,76365284687,usd
+2011-01-01,2011,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,10105306557,usd
+2011-01-01,2011,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,9622616930,usd
+2011-01-01,2011,total_exports,total_exports,Total export,Export total,Teljes export,72797307963,usd
+2011-01-01,2011,total_imports,total_imports,Total import,Import total,Teljes import,85987901617,usd
+2011-01-01,2011,net_exports,net_exports,Net export,Export net,Nettó export,-13190593654,usd
+2012-01-01,2012,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,57904330434,usd
+2012-01-01,2012,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,70259718629,usd
+2012-01-01,2012,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,10804294338,usd
+2012-01-01,2012,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,9337791206,usd
+2012-01-01,2012,total_exports,total_exports,Total export,Export total,Teljes export,68708624772,usd
+2012-01-01,2012,total_imports,total_imports,Total import,Import total,Teljes import,79597509835,usd
+2012-01-01,2012,net_exports,net_exports,Net export,Export net,Nettó export,-10888885063,usd
+2013-01-01,2013,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,65881441578,usd
+2013-01-01,2013,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,73452191656,usd
+2013-01-01,2013,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,18098396798,usd
+2013-01-01,2013,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,11751984935,usd
+2013-01-01,2013,total_exports,total_exports,Total export,Export total,Teljes export,83979838376,usd
+2013-01-01,2013,total_imports,total_imports,Total import,Import total,Teljes import,85204176591,usd
+2013-01-01,2013,net_exports,net_exports,Net export,Export net,Nettó export,-1224338215,usd
+2014-01-01,2014,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,69877890844,usd
+2014-01-01,2014,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,77889070909,usd
+2014-01-01,2014,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,20724748450,usd
+2014-01-01,2014,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,12682269096,usd
+2014-01-01,2014,total_exports,total_exports,Total export,Export total,Teljes export,90602639294,usd
+2014-01-01,2014,total_imports,total_imports,Total import,Import total,Teljes import,90571340005,usd
+2014-01-01,2014,net_exports,net_exports,Net export,Export net,Nettó export,31299289,usd
+2015-01-01,2015,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,60605047667,usd
+2015-01-01,2015,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,69857682405,usd
+2015-01-01,2015,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,19053666749,usd
+2015-01-01,2015,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,11490005677,usd
+2015-01-01,2015,total_exports,total_exports,Total export,Export total,Teljes export,79658714416,usd
+2015-01-01,2015,total_imports,total_imports,Total import,Import total,Teljes import,81347688082,usd
+2015-01-01,2015,net_exports,net_exports,Net export,Export net,Nettó export,-1688973666,usd
+2016-01-01,2016,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,63581004346,usd
+2016-01-01,2016,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,74604616829,usd
+2016-01-01,2016,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,20899878304,usd
+2016-01-01,2016,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,12177261284,usd
+2016-01-01,2016,total_exports,total_exports,Total export,Export total,Teljes export,84480882650,usd
+2016-01-01,2016,total_imports,total_imports,Total import,Import total,Teljes import,86781878113,usd
+2016-01-01,2016,net_exports,net_exports,Net export,Export net,Nettó export,-2300995463,usd
+2017-01-01,2017,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,70626887500,usd
+2017-01-01,2017,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,85318177451,usd
+2017-01-01,2017,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,24558587131,usd
+2017-01-01,2017,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,15311357370,usd
+2017-01-01,2017,total_exports,total_exports,Total export,Export total,Teljes export,95185474631,usd
+2017-01-01,2017,total_imports,total_imports,Total import,Import total,Teljes import,100629534821,usd
+2017-01-01,2017,net_exports,net_exports,Net export,Export net,Nettó export,-5444060190,usd
+2018-01-01,2018,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,80077606267,usd
+2018-01-01,2018,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,97877632898,usd
+2018-01-01,2018,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,28049310836,usd
+2018-01-01,2018,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,18452170059,usd
+2018-01-01,2018,total_exports,total_exports,Total export,Export total,Teljes export,108126917102,usd
+2018-01-01,2018,total_imports,total_imports,Total import,Import total,Teljes import,116329802957,usd
+2018-01-01,2018,net_exports,net_exports,Net export,Export net,Nettó export,-8202885855,usd
+2019-01-01,2019,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,77298748437,usd
+2019-01-01,2019,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,96644318709,usd
+2019-01-01,2019,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,30256261477,usd
+2019-01-01,2019,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,20864765917,usd
+2019-01-01,2019,total_exports,total_exports,Total export,Export total,Teljes export,107555009914,usd
+2019-01-01,2019,total_imports,total_imports,Total import,Import total,Teljes import,117509084626,usd
+2019-01-01,2019,net_exports,net_exports,Net export,Export net,Nettó export,-9954074712,usd
+2020-01-01,2020,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,71046398784,usd
+2020-01-01,2020,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,92056306062,usd
+2020-01-01,2020,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,27123045683,usd
+2020-01-01,2020,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,16575207275,usd
+2020-01-01,2020,total_exports,total_exports,Total export,Export total,Teljes export,98169444467,usd
+2020-01-01,2020,total_imports,total_imports,Total import,Import total,Teljes import,108631513337,usd
+2020-01-01,2020,net_exports,net_exports,Net export,Export net,Nettó export,-10462068870,usd
+2021-01-01,2021,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,88389728971,usd
+2021-01-01,2021,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,116401944588,usd
+2021-01-01,2021,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,32987455164,usd
+2021-01-01,2021,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,21832203382,usd
+2021-01-01,2021,total_exports,total_exports,Total export,Export total,Teljes export,121377184135,usd
+2021-01-01,2021,total_imports,total_imports,Total import,Import total,Teljes import,138234147971,usd
+2021-01-01,2021,net_exports,net_exports,Net export,Export net,Nettó export,-16856963836,usd
+2022-01-01,2022,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,96829601670,usd
+2022-01-01,2022,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,132699562702,usd
+2022-01-01,2022,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,38074237165,usd
+2022-01-01,2022,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,24766335003,usd
+2022-01-01,2022,total_exports,total_exports,Total export,Export total,Teljes export,134903838836,usd
+2022-01-01,2022,total_imports,total_imports,Total import,Import total,Teljes import,157465897704,usd
+2022-01-01,2022,net_exports,net_exports,Net export,Export net,Nettó export,-22562058868,usd
+2023-01-01,2023,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,100642462676,usd
+2023-01-01,2023,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,131962913075,usd
+2023-01-01,2023,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,42919876880,usd
+2023-01-01,2023,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,28534030305,usd
+2023-01-01,2023,total_exports,total_exports,Total export,Export total,Teljes export,143562339557,usd
+2023-01-01,2023,total_imports,total_imports,Total import,Import total,Teljes import,160496943381,usd
+2023-01-01,2023,net_exports,net_exports,Net export,Export net,Nettó export,-16934603824,usd
+2024-01-01,2024,goods_exports,goods_exports,Export of goods,Exportul de bunuri,Áruexport,100370881686,usd
+2024-01-01,2024,goods_imports,goods_imports,Import of goods,Importul de bunuri,Áruimport,136519363524,usd
+2024-01-01,2024,services_exports,services_exports,Export of services,Exportul de servicii,Szolgáltatásexport,42953511238,usd
+2024-01-01,2024,services_imports,services_imports,Import of services,Importul de servicii,Szolgáltatásimport,30666652870,usd
+2024-01-01,2024,total_exports,total_exports,Total export,Export total,Teljes export,143324392924,usd
+2024-01-01,2024,total_imports,total_imports,Total import,Import total,Teljes import,167186016395,usd
+2024-01-01,2024,net_exports,net_exports,Net export,Export net,Nettó export,-23861623471,usd

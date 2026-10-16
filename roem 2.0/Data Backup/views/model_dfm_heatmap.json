@@ -1,0 +1,2341 @@
+[
+  {
+    "indicator": "date",
+    "value": "Previous period AVG",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "DFM estimate",
+    "value": 3.1,
+    "color": "#539dc8",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "value": 3,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "value": 3.1,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "value": 5.1,
+    "color": "#4e9ac7",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "value": 1.1,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "value": 7.1,
+    "color": "#78b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "value": -0.9,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "% of information",
+    "value": 94.6,
+    "color": "#539dc8",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "Market consensus",
+    "value": 3,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "GDP",
+    "value": 3.1,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 232,
+    "value": "2024-04",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 233,
+    "value": "2024-05",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 234,
+    "value": "2024-06",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 235,
+    "value": "2024-07",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 236,
+    "value": "2024-08",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 237,
+    "value": "2024-09",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 238,
+    "value": "2024-10",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 239,
+    "value": "2024-11",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 240,
+    "value": "2024-12",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 241,
+    "value": "2025-01",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 242,
+    "value": "2025-02",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 243,
+    "value": "2025-03",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 244,
+    "value": "2025-04",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 245,
+    "value": "2025-05",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 246,
+    "value": "2025-06",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 247,
+    "value": "2025-07",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 248,
+    "value": "2025-08",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 249,
+    "value": "2025-09",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 250,
+    "value": "2025-10",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 251,
+    "value": "2025-11",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 252,
+    "value": "2025-12",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 253,
+    "value": "2026-01",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 254,
+    "value": "2026-02",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": "",
+    "index": 255,
+    "value": "2026-03",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 232,
+    "value": 3.3,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 233,
+    "value": 3,
+    "color": "#589fca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 234,
+    "value": 2.9,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 235,
+    "value": 2.5,
+    "color": "#70add2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 236,
+    "value": 2.6,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 237,
+    "value": 2.5,
+    "color": "#70add2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 238,
+    "value": 2.6,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 239,
+    "value": 2.8,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 240,
+    "value": 2.5,
+    "color": "#70add2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 241,
+    "value": 2.3,
+    "color": "#7ab3d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 242,
+    "value": 1.9,
+    "color": "#8ebedb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 243,
+    "value": 1.8,
+    "color": "#93c1dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 244,
+    "value": 1.5,
+    "color": "#a2cae1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 245,
+    "value": 1.5,
+    "color": "#a2cae1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 246,
+    "value": 1.2,
+    "color": "#b0d2e6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 247,
+    "value": 1.1,
+    "color": "#b5d5e7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 248,
+    "value": 0.5,
+    "color": "#d3e6f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 249,
+    "value": 0.3,
+    "color": "#ddebf4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 250,
+    "value": -0.1,
+    "color": "#f0f7fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 251,
+    "value": -0.3,
+    "color": "#fafcfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 252,
+    "value": -0.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 253,
+    "value": -0.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 254,
+    "value": -0.3,
+    "color": "#fafcfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "DFM estimate",
+    "order": "",
+    "index": 255,
+    "value": -0.2,
+    "color": "#f5f9fc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 234,
+    "value": 2.8,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 237,
+    "value": 1.9,
+    "color": "#9cc7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 240,
+    "value": 1.5,
+    "color": "#bbd8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 243,
+    "value": 1.2,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 246,
+    "value": 0.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 249,
+    "value": 1,
+    "color": "#e1eef5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus - quarterly",
+    "order": "",
+    "index": 252,
+    "value": 0.8,
+    "color": "#f0f6fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 234,
+    "value": 0.9,
+    "color": "#d3e6f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 237,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 240,
+    "value": 0.5,
+    "color": "#ecf4f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 243,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 246,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 249,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP - quarterly",
+    "order": "",
+    "index": 252,
+    "value": 0.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 232,
+    "value": 5.2,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 233,
+    "value": 4.9,
+    "color": "#589fca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 234,
+    "value": 4.8,
+    "color": "#5da2cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 235,
+    "value": 4.3,
+    "color": "#75b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 236,
+    "value": 4.5,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 237,
+    "value": 4.4,
+    "color": "#70add2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 238,
+    "value": 4.5,
+    "color": "#6babd0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 239,
+    "value": 4.7,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 240,
+    "value": 4.4,
+    "color": "#70add2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 241,
+    "value": 4.2,
+    "color": "#7ab3d5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 242,
+    "value": 3.8,
+    "color": "#8ebedb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 243,
+    "value": 3.7,
+    "color": "#93c1dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 244,
+    "value": 3.4,
+    "color": "#a2cae1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 245,
+    "value": 3.3,
+    "color": "#a6cce3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 246,
+    "value": 3,
+    "color": "#b5d5e7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 247,
+    "value": 2.9,
+    "color": "#bad8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 248,
+    "value": 2.4,
+    "color": "#d3e6f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 249,
+    "value": 2.2,
+    "color": "#ddebf4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 250,
+    "value": 1.7,
+    "color": "#f5f9fc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 251,
+    "value": 1.6,
+    "color": "#fafcfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 252,
+    "value": 1.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 253,
+    "value": 3.4,
+    "color": "#a2cae1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 254,
+    "value": 3.6,
+    "color": "#98c4de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - high bound",
+    "order": "",
+    "index": 255,
+    "value": 4.1,
+    "color": "#7fb6d6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 232,
+    "value": 1.4,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 233,
+    "value": 1.1,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 234,
+    "value": 1,
+    "color": "#559ec9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 235,
+    "value": 0.6,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 236,
+    "value": 0.7,
+    "color": "#5fa3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 237,
+    "value": 0.6,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 238,
+    "value": 0.7,
+    "color": "#5fa3cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 239,
+    "value": 0.9,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 240,
+    "value": 0.6,
+    "color": "#62a5cd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 241,
+    "value": 0.4,
+    "color": "#68a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 242,
+    "value": 0,
+    "color": "#74b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 243,
+    "value": 0,
+    "color": "#74b0d3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 244,
+    "value": -0.4,
+    "color": "#81b7d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 245,
+    "value": -0.4,
+    "color": "#81b7d7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 246,
+    "value": -0.7,
+    "color": "#8abcda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 247,
+    "value": -0.8,
+    "color": "#8dbedb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 248,
+    "value": -1.4,
+    "color": "#9fc8e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 249,
+    "value": -1.6,
+    "color": "#a6cce2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 250,
+    "value": -2,
+    "color": "#b2d3e6",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 251,
+    "value": -2.2,
+    "color": "#b8d6e8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 252,
+    "value": -2.3,
+    "color": "#bbd8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 253,
+    "value": -4.1,
+    "color": "#f3f8fb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 254,
+    "value": -4.1,
+    "color": "#f3f8fb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "68% interval - low bound",
+    "order": "",
+    "index": 255,
+    "value": -4.5,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 232,
+    "value": 7.1,
+    "color": "#78b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 233,
+    "value": 6.7,
+    "color": "#87bad9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 234,
+    "value": 6.7,
+    "color": "#87bad9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 235,
+    "value": 6.2,
+    "color": "#99c5df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 236,
+    "value": 6.4,
+    "color": "#92c1dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 237,
+    "value": 6.2,
+    "color": "#99c5df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 238,
+    "value": 6.4,
+    "color": "#92c1dc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 239,
+    "value": 6.6,
+    "color": "#8bbcda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 240,
+    "value": 6.3,
+    "color": "#95c3dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 241,
+    "value": 6,
+    "color": "#a0c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 242,
+    "value": 5.7,
+    "color": "#abcfe4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 243,
+    "value": 5.6,
+    "color": "#afd1e5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 244,
+    "value": 5.3,
+    "color": "#bad7e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 245,
+    "value": 5.2,
+    "color": "#bddaea",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 246,
+    "value": 4.9,
+    "color": "#c8e0ee",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 247,
+    "value": 4.8,
+    "color": "#cce2ef",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 248,
+    "value": 4.3,
+    "color": "#deecf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 249,
+    "value": 4.1,
+    "color": "#e6f0f7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 250,
+    "value": 3.6,
+    "color": "#f8fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 251,
+    "value": 3.5,
+    "color": "#fbfdfe",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 252,
+    "value": 3.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 253,
+    "value": 7.1,
+    "color": "#78b2d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 254,
+    "value": 7.5,
+    "color": "#6aaacf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - high bound",
+    "order": "",
+    "index": 255,
+    "value": 8.4,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 232,
+    "value": -0.5,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 233,
+    "value": -0.8,
+    "color": "#509bc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 234,
+    "value": -0.9,
+    "color": "#529cc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 235,
+    "value": -1.3,
+    "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 236,
+    "value": -1.1,
+    "color": "#569fc9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 237,
+    "value": -1.3,
+    "color": "#5ba1cb",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 238,
+    "value": -1.2,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 239,
+    "value": -1,
+    "color": "#549dc8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 240,
+    "value": -1.2,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 241,
+    "value": -1.5,
+    "color": "#5fa4cc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 242,
+    "value": -1.9,
+    "color": "#68a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 243,
+    "value": -1.9,
+    "color": "#68a9cf",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 244,
+    "value": -2.2,
+    "color": "#6eacd1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 245,
+    "value": -2.3,
+    "color": "#70aed2",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 246,
+    "value": -2.6,
+    "color": "#77b1d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 247,
+    "value": -2.7,
+    "color": "#79b3d4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 248,
+    "value": -3.3,
+    "color": "#86bad9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 249,
+    "value": -3.5,
+    "color": "#8bbdda",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 250,
+    "value": -3.9,
+    "color": "#94c2dd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 251,
+    "value": -4.1,
+    "color": "#98c4de",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 252,
+    "value": -4.2,
+    "color": "#9ac5df",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 253,
+    "value": -7.8,
+    "color": "#e9f2f8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 254,
+    "value": -8,
+    "color": "#edf5f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "95% interval - low bound",
+    "order": "",
+    "index": 255,
+    "value": -8.8,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 232,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 233,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 234,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 235,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 236,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 237,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 238,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 239,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 240,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 241,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 242,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 243,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 244,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 245,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 246,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 247,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 248,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 249,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 250,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 251,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 252,
+    "value": 100,
+    "color": "#4997c5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 253,
+    "value": 23.5,
+    "color": "#d4e7f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 254,
+    "value": 17.6,
+    "color": "#dfedf5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "% of information",
+    "order": "",
+    "index": 255,
+    "value": 0,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 232,
+    "value": 2.8,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 233,
+    "value": 2.8,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 234,
+    "value": 2.8,
+    "color": "#58a0ca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 235,
+    "value": 1.9,
+    "color": "#9cc7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 236,
+    "value": 1.9,
+    "color": "#9cc7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 237,
+    "value": 1.9,
+    "color": "#9cc7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 238,
+    "value": 1.5,
+    "color": "#bbd8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 239,
+    "value": 1.5,
+    "color": "#bbd8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 240,
+    "value": 1.5,
+    "color": "#bbd8e9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 241,
+    "value": 1.2,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 242,
+    "value": 1.2,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 243,
+    "value": 1.2,
+    "color": "#d2e5f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 244,
+    "value": 0.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 245,
+    "value": 0.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 246,
+    "value": 0.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 247,
+    "value": 1,
+    "color": "#e1eef5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 248,
+    "value": 1,
+    "color": "#e1eef5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 249,
+    "value": 1,
+    "color": "#e1eef5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 250,
+    "value": 0.8,
+    "color": "#f0f6fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 251,
+    "value": 0.8,
+    "color": "#f0f6fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market consensus",
+    "order": "",
+    "index": 252,
+    "value": 0.8,
+    "color": "#f0f6fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 232,
+    "value": 0.9,
+    "color": "#d3e6f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 233,
+    "value": 0.9,
+    "color": "#d3e6f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 234,
+    "value": 0.9,
+    "color": "#d3e6f1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 235,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 236,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 237,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 238,
+    "value": 0.5,
+    "color": "#ecf4f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 239,
+    "value": 0.5,
+    "color": "#ecf4f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 240,
+    "value": 0.5,
+    "color": "#ecf4f9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 241,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 242,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 243,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 244,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 245,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 246,
+    "value": 0.3,
+    "color": "#f9fbfd",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 247,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 248,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 249,
+    "value": 1.7,
+    "color": "#a1c9e1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 250,
+    "value": 0.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 251,
+    "value": 0.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "GDP",
+    "order": "",
+    "index": 252,
+    "value": 0.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  }
+]

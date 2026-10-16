@@ -1,0 +1,157 @@
+period,period_label,series,activity,activity_label_en,activity_label_ro,activity_label_hu,value,unit
+2013-01-01,2013,industry,industry,Industry,Industrie,Ipar,29010,eur_mn
+2013-01-01,2013,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,3548,eur_mn
+2013-01-01,2013,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,18581,eur_mn
+2013-01-01,2013,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6881,eur_mn
+2013-01-01,2013,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",2999,eur_mn
+2013-01-01,2013,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",1335,eur_mn
+2013-01-01,2013,trade,trade,Trade,Comerț,Kereskedelem,6405,eur_mn
+2013-01-01,2013,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,6270,eur_mn
+2013-01-01,2013,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,385,eur_mn
+2013-01-01,2013,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,8564,eur_mn
+2013-01-01,2013,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,4390,eur_mn
+2013-01-01,2013,transport,transport,Transportation,Transporturi,Szállítás,971,eur_mn
+2013-01-01,2013,other,other,Other activities,Alte activități,Egyéb tevékenységek,310,eur_mn
+2014-01-01,2014,industry,industry,Industry,Industrie,Ipar,30013,eur_mn
+2014-01-01,2014,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,3387,eur_mn
+2014-01-01,2014,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,19431,eur_mn
+2014-01-01,2014,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",7195,eur_mn
+2014-01-01,2014,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",3180,eur_mn
+2014-01-01,2014,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",1623,eur_mn
+2014-01-01,2014,trade,trade,Trade,Comerț,Kereskedelem,6685,eur_mn
+2014-01-01,2014,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,6542,eur_mn
+2014-01-01,2014,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,618,eur_mn
+2014-01-01,2014,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,8822,eur_mn
+2014-01-01,2014,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,4019,eur_mn
+2014-01-01,2014,transport,transport,Transportation,Transporturi,Szállítás,1080,eur_mn
+2014-01-01,2014,other,other,Other activities,Alte activități,Egyéb tevékenységek,418,eur_mn
+2015-01-01,2015,industry,industry,Industry,Industrie,Ipar,28521,eur_mn
+2015-01-01,2015,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,1985,eur_mn
+2015-01-01,2015,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,19975,eur_mn
+2015-01-01,2015,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6561,eur_mn
+2015-01-01,2015,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",4133,eur_mn
+2015-01-01,2015,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",1709,eur_mn
+2015-01-01,2015,trade,trade,Trade,Comerț,Kereskedelem,7441,eur_mn
+2015-01-01,2015,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,8372,eur_mn
+2015-01-01,2015,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,534,eur_mn
+2015-01-01,2015,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,9308,eur_mn
+2015-01-01,2015,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,4134,eur_mn
+2015-01-01,2015,transport,transport,Transportation,Transporturi,Szállítás,1124,eur_mn
+2015-01-01,2015,other,other,Other activities,Alte activități,Egyéb tevékenységek,444,eur_mn
+2016-01-01,2016,industry,industry,Industry,Industrie,Ipar,31124,eur_mn
+2016-01-01,2016,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,1842,eur_mn
+2016-01-01,2016,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,22494,eur_mn
+2016-01-01,2016,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6788,eur_mn
+2016-01-01,2016,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",3984,eur_mn
+2016-01-01,2016,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",1864,eur_mn
+2016-01-01,2016,trade,trade,Trade,Comerț,Kereskedelem,8992,eur_mn
+2016-01-01,2016,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,10060,eur_mn
+2016-01-01,2016,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,418,eur_mn
+2016-01-01,2016,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,9398,eur_mn
+2016-01-01,2016,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,3704,eur_mn
+2016-01-01,2016,transport,transport,Transportation,Transporturi,Szállítás,1247,eur_mn
+2016-01-01,2016,other,other,Other activities,Alte activități,Egyéb tevékenységek,516,eur_mn
+2017-01-01,2017,industry,industry,Industry,Industrie,Ipar,32666,eur_mn
+2017-01-01,2017,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,1965,eur_mn
+2017-01-01,2017,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,24250,eur_mn
+2017-01-01,2017,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6451,eur_mn
+2017-01-01,2017,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",4088,eur_mn
+2017-01-01,2017,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2272,eur_mn
+2017-01-01,2017,trade,trade,Trade,Comerț,Kereskedelem,10446,eur_mn
+2017-01-01,2017,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,11611,eur_mn
+2017-01-01,2017,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,449,eur_mn
+2017-01-01,2017,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,10152,eur_mn
+2017-01-01,2017,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,3321,eur_mn
+2017-01-01,2017,transport,transport,Transportation,Transporturi,Szállítás,1281,eur_mn
+2017-01-01,2017,other,other,Other activities,Alte activități,Egyéb tevékenységek,462,eur_mn
+2018-01-01,2018,industry,industry,Industry,Industrie,Ipar,33311,eur_mn
+2018-01-01,2018,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,2273,eur_mn
+2018-01-01,2018,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,25032,eur_mn
+2018-01-01,2018,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6006,eur_mn
+2018-01-01,2018,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",3991,eur_mn
+2018-01-01,2018,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2406,eur_mn
+2018-01-01,2018,trade,trade,Trade,Comerț,Kereskedelem,12865,eur_mn
+2018-01-01,2018,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,13651,eur_mn
+2018-01-01,2018,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,528,eur_mn
+2018-01-01,2018,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,10746,eur_mn
+2018-01-01,2018,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,3441,eur_mn
+2018-01-01,2018,transport,transport,Transportation,Transporturi,Szállítás,1274,eur_mn
+2018-01-01,2018,other,other,Other activities,Alte activități,Egyéb tevékenységek,552,eur_mn
+2019-01-01,2019,industry,industry,Industry,Industrie,Ipar,35648,eur_mn
+2019-01-01,2019,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,3921,eur_mn
+2019-01-01,2019,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,25596,eur_mn
+2019-01-01,2019,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6131,eur_mn
+2019-01-01,2019,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",4386,eur_mn
+2019-01-01,2019,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2637,eur_mn
+2019-01-01,2019,trade,trade,Trade,Comerț,Kereskedelem,14681,eur_mn
+2019-01-01,2019,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,14928,eur_mn
+2019-01-01,2019,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,605,eur_mn
+2019-01-01,2019,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,10582,eur_mn
+2019-01-01,2019,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,3481,eur_mn
+2019-01-01,2019,transport,transport,Transportation,Transporturi,Szállítás,1484,eur_mn
+2019-01-01,2019,other,other,Other activities,Alte activități,Egyéb tevékenységek,448,eur_mn
+2020-01-01,2020,industry,industry,Industry,Industrie,Ipar,35693,eur_mn
+2020-01-01,2020,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,3373,eur_mn
+2020-01-01,2020,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,26475,eur_mn
+2020-01-01,2020,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",5845,eur_mn
+2020-01-01,2020,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",4183,eur_mn
+2020-01-01,2020,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2621,eur_mn
+2020-01-01,2020,trade,trade,Trade,Comerț,Kereskedelem,15658,eur_mn
+2020-01-01,2020,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,15361,eur_mn
+2020-01-01,2020,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,651,eur_mn
+2020-01-01,2020,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,10746,eur_mn
+2020-01-01,2020,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,3419,eur_mn
+2020-01-01,2020,transport,transport,Transportation,Transporturi,Szállítás,1426,eur_mn
+2020-01-01,2020,other,other,Other activities,Alte activități,Egyéb tevékenységek,438,eur_mn
+2021-01-01,2021,industry,industry,Industry,Industrie,Ipar,38986,eur_mn
+2021-01-01,2021,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,4018,eur_mn
+2021-01-01,2021,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,30040,eur_mn
+2021-01-01,2021,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",4928,eur_mn
+2021-01-01,2021,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",4040,eur_mn
+2021-01-01,2021,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2215,eur_mn
+2021-01-01,2021,trade,trade,Trade,Comerț,Kereskedelem,17243,eur_mn
+2021-01-01,2021,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,17443,eur_mn
+2021-01-01,2021,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,703,eur_mn
+2021-01-01,2021,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,13580,eur_mn
+2021-01-01,2021,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,4161,eur_mn
+2021-01-01,2021,transport,transport,Transportation,Transporturi,Szállítás,1453,eur_mn
+2021-01-01,2021,other,other,Other activities,Alte activități,Egyéb tevékenységek,793,eur_mn
+2022-01-01,2022,industry,industry,Industry,Industrie,Ipar,42148,eur_mn
+2022-01-01,2022,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,3920,eur_mn
+2022-01-01,2022,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,32577,eur_mn
+2022-01-01,2022,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",5651,eur_mn
+2022-01-01,2022,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",4322,eur_mn
+2022-01-01,2022,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",1986,eur_mn
+2022-01-01,2022,trade,trade,Trade,Comerț,Kereskedelem,19139,eur_mn
+2022-01-01,2022,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,18588,eur_mn
+2022-01-01,2022,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,844,eur_mn
+2022-01-01,2022,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,14352,eur_mn
+2022-01-01,2022,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,4356,eur_mn
+2022-01-01,2022,transport,transport,Transportation,Transporturi,Szállítás,1484,eur_mn
+2022-01-01,2022,other,other,Other activities,Alte activități,Egyéb tevékenységek,883,eur_mn
+2023-01-01,2023,industry,industry,Industry,Industrie,Ipar,45663,eur_mn
+2023-01-01,2023,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,4699,eur_mn
+2023-01-01,2023,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,34675,eur_mn
+2023-01-01,2023,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",6289,eur_mn
+2023-01-01,2023,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",5131,eur_mn
+2023-01-01,2023,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2227,eur_mn
+2023-01-01,2023,trade,trade,Trade,Comerț,Kereskedelem,20224,eur_mn
+2023-01-01,2023,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,20718,eur_mn
+2023-01-01,2023,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,898,eur_mn
+2023-01-01,2023,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,15421,eur_mn
+2023-01-01,2023,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,4940,eur_mn
+2023-01-01,2023,transport,transport,Transportation,Transporturi,Szállítás,1766,eur_mn
+2023-01-01,2023,other,other,Other activities,Alte activități,Egyéb tevékenységek,766,eur_mn
+2024-01-01,2024,industry,industry,Industry,Industrie,Ipar,46329,eur_mn
+2024-01-01,2024,extractive,extractive,Extractive industry,Industria extractivă,Kitermelőipar,6108,eur_mn
+2024-01-01,2024,manufacturing,manufacturing,Manufacturing industry,Industria prelucrătoare,Feldolgozóipar,35250,eur_mn
+2024-01-01,2024,utilities,utilities,"Electricity, gas, and water","Energie electrică, gaze și apă","Villamos energia, gáz és víz",4970,eur_mn
+2024-01-01,2024,professional_admin,professional_admin,"Professional, scientific, technical, and administrative activities and support services","Activități profesionale, științifice, tehnice și administrative și servicii suport","Szakmai, tudományos, műszaki és adminisztratív tevékenységek és támogató szolgáltatások",7315,eur_mn
+2024-01-01,2024,agriculture,agriculture,"Agriculture, forestry, and fishing","Agricultură, silvicultură și pescuit","Mezőgazdaság, erdészet és halászat",2043,eur_mn
+2024-01-01,2024,trade,trade,Trade,Comerț,Kereskedelem,21499,eur_mn
+2024-01-01,2024,construction_real_estate,construction_real_estate,Construction and real estate transactions,Construcții și tranzacții imobiliare,Építőipar és ingatlanügyletek,21626,eur_mn
+2024-01-01,2024,hotels_restaurants,hotels_restaurants,Hotels and restaurants,Hoteluri și restaurante,Szállodák és éttermek,1085,eur_mn
+2024-01-01,2024,finance_insurance,finance_insurance,Financial intermediation and insurance,Intermedieri financiare și asigurări,Pénzügyi közvetítés és biztosítás,17457,eur_mn
+2024-01-01,2024,ict,ict,Information technology and communications,Tehnologia informației și comunicații,Információs és kommunikációs technológia,5083,eur_mn
+2024-01-01,2024,transport,transport,Transportation,Transporturi,Szállítás,1958,eur_mn
+2024-01-01,2024,other,other,Other activities,Alte activități,Egyéb tevékenységek,640,eur_mn

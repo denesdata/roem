@@ -1,0 +1,121 @@
+period,period_label,series,activity,activity_label_en,activity_label_ro,activity_label_hu,value,unit
+2013-01-01,2013,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2402,eur_mn
+2013-01-01,2013,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1658,eur_mn
+2013-01-01,2013,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1154,eur_mn
+2013-01-01,2013,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",1270,eur_mn
+2013-01-01,2013,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1369,eur_mn
+2013-01-01,2013,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,2435,eur_mn
+2013-01-01,2013,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,3322,eur_mn
+2013-01-01,2013,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",3687,eur_mn
+2013-01-01,2013,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",793,eur_mn
+2013-01-01,2013,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,491,eur_mn
+2014-01-01,2014,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2562,eur_mn
+2014-01-01,2014,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1628,eur_mn
+2014-01-01,2014,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1550,eur_mn
+2014-01-01,2014,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",1481,eur_mn
+2014-01-01,2014,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1526,eur_mn
+2014-01-01,2014,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,2823,eur_mn
+2014-01-01,2014,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,2708,eur_mn
+2014-01-01,2014,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",3679,eur_mn
+2014-01-01,2014,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",919,eur_mn
+2014-01-01,2014,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,555,eur_mn
+2015-01-01,2015,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2170,eur_mn
+2015-01-01,2015,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1461,eur_mn
+2015-01-01,2015,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1704,eur_mn
+2015-01-01,2015,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",1493,eur_mn
+2015-01-01,2015,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1703,eur_mn
+2015-01-01,2015,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,2672,eur_mn
+2015-01-01,2015,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,3309,eur_mn
+2015-01-01,2015,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",3882,eur_mn
+2015-01-01,2015,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",999,eur_mn
+2015-01-01,2015,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,582,eur_mn
+2016-01-01,2016,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2398,eur_mn
+2016-01-01,2016,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1433,eur_mn
+2016-01-01,2016,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1436,eur_mn
+2016-01-01,2016,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",1724,eur_mn
+2016-01-01,2016,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1597,eur_mn
+2016-01-01,2016,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,2898,eur_mn
+2016-01-01,2016,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,4684,eur_mn
+2016-01-01,2016,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",4530,eur_mn
+2016-01-01,2016,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",1037,eur_mn
+2016-01-01,2016,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,757,eur_mn
+2017-01-01,2017,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2517,eur_mn
+2017-01-01,2017,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1419,eur_mn
+2017-01-01,2017,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1340,eur_mn
+2017-01-01,2017,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",1857,eur_mn
+2017-01-01,2017,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1715,eur_mn
+2017-01-01,2017,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3153,eur_mn
+2017-01-01,2017,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,5626,eur_mn
+2017-01-01,2017,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",4884,eur_mn
+2017-01-01,2017,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",1068,eur_mn
+2017-01-01,2017,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,671,eur_mn
+2018-01-01,2018,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2678,eur_mn
+2018-01-01,2018,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1497,eur_mn
+2018-01-01,2018,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1398,eur_mn
+2018-01-01,2018,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",1942,eur_mn
+2018-01-01,2018,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1834,eur_mn
+2018-01-01,2018,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3163,eur_mn
+2018-01-01,2018,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,5441,eur_mn
+2018-01-01,2018,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",5175,eur_mn
+2018-01-01,2018,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",1018,eur_mn
+2018-01-01,2018,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,886,eur_mn
+2019-01-01,2019,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2651,eur_mn
+2019-01-01,2019,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1512,eur_mn
+2019-01-01,2019,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1453,eur_mn
+2019-01-01,2019,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",2023,eur_mn
+2019-01-01,2019,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1925,eur_mn
+2019-01-01,2019,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3167,eur_mn
+2019-01-01,2019,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,5732,eur_mn
+2019-01-01,2019,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",5217,eur_mn
+2019-01-01,2019,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",1016,eur_mn
+2019-01-01,2019,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,900,eur_mn
+2020-01-01,2020,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",2877,eur_mn
+2020-01-01,2020,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1454,eur_mn
+2020-01-01,2020,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1513,eur_mn
+2020-01-01,2020,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",2321,eur_mn
+2020-01-01,2020,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",1920,eur_mn
+2020-01-01,2020,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3191,eur_mn
+2020-01-01,2020,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,6088,eur_mn
+2020-01-01,2020,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",5136,eur_mn
+2020-01-01,2020,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",989,eur_mn
+2020-01-01,2020,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,987,eur_mn
+2021-01-01,2021,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",3227,eur_mn
+2021-01-01,2021,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1500,eur_mn
+2021-01-01,2021,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1523,eur_mn
+2021-01-01,2021,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",2490,eur_mn
+2021-01-01,2021,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",2288,eur_mn
+2021-01-01,2021,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3244,eur_mn
+2021-01-01,2021,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,6736,eur_mn
+2021-01-01,2021,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",6993,eur_mn
+2021-01-01,2021,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",978,eur_mn
+2021-01-01,2021,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,1064,eur_mn
+2022-01-01,2022,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",3982,eur_mn
+2022-01-01,2022,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1706,eur_mn
+2022-01-01,2022,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1664,eur_mn
+2022-01-01,2022,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",3108,eur_mn
+2022-01-01,2022,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",2487,eur_mn
+2022-01-01,2022,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3380,eur_mn
+2022-01-01,2022,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,7213,eur_mn
+2022-01-01,2022,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",6867,eur_mn
+2022-01-01,2022,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",971,eur_mn
+2022-01-01,2022,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,1199,eur_mn
+2023-01-01,2023,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",4465,eur_mn
+2023-01-01,2023,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",1918,eur_mn
+2023-01-01,2023,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1548,eur_mn
+2023-01-01,2023,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",3358,eur_mn
+2023-01-01,2023,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",2457,eur_mn
+2023-01-01,2023,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3490,eur_mn
+2023-01-01,2023,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,7820,eur_mn
+2023-01-01,2023,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",7311,eur_mn
+2023-01-01,2023,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",1018,eur_mn
+2023-01-01,2023,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,1288,eur_mn
+2024-01-01,2024,food_beverages_tobacco,food_beverages_tobacco,"Food, beverages, and tobacco","Alimente, băuturi și tutun","Élelmiszerek, italok és dohány",4475,eur_mn
+2024-01-01,2024,cement_glass_ceramics,cement_glass_ceramics,"Cement, glass, ceramics","Ciment, sticlă, ceramică","Cement, üveg, kerámia",2105,eur_mn
+2024-01-01,2024,wood_furniture,wood_furniture,"Manufacture of wood products, including furniture","Fabricare produse din lemn, inclusiv mobilă","Faáruk gyártása, beleértve a bútorokat",1508,eur_mn
+2024-01-01,2024,computers_electronics_electrical,computers_electronics_electrical,"Manufacture of computers, other electronic, optical, and electrical products","Fabricarea calculatoarelor, altor produse electronice, optice și electrice","Számítógépek, egyéb elektronikus, optikai és elektromos termékek gyártása",3390,eur_mn
+2024-01-01,2024,machinery_equipment,machinery_equipment,Machinery and equipment manufacturing,"Mașini, utilaje și echipamente","Gépek, berendezések és felszerelések gyártása",2398,eur_mn
+2024-01-01,2024,metallurgy,metallurgy,Metallurgy,Metalurgie,Kohászat,3685,eur_mn
+2024-01-01,2024,transport_equipment,transport_equipment,Means of transport,Mijloace de transport,Közlekedési eszközök,7772,eur_mn
+2024-01-01,2024,petroleum_chemicals_rubber_plastics,petroleum_chemicals_rubber_plastics,"Petroleum refining, chemical products, rubber, and plastics","Prelucrare țiței, produse chimice, cauciuc și mase plastice","Kőolaj-feldolgozás, vegyi termékek, gumi és műanyag gyártása",7377,eur_mn
+2024-01-01,2024,textiles_apparel_leather,textiles_apparel_leather,"Textiles, apparel, and leather goods","Textile, confecții și pielărie","Textíliák, ruházat és bőráruk",1032,eur_mn
+2024-01-01,2024,other,other,Other branches of manufacturing,Alte ramuri ale industriei prelucrătoare,Feldolgozóipar egyéb ágai,1508,eur_mn

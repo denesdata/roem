@@ -1,0 +1,152 @@
+period,period_label,series,country,country_label_en,country_label_ro,country_label_hu,value,unit
+2019-01-01,2019,DE,DE,Germany,Germania,Németország,13194,eur_mn
+2019-01-01,2019,AT,AT,Austria,Austria,Ausztria,10039,eur_mn
+2019-01-01,2019,FR,FR,France,Franța,Franciaország,8275,eur_mn
+2019-01-01,2019,US,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,5872,eur_mn
+2019-01-01,2019,IT,IT,Italy,Italia,Olaszország,7469,eur_mn
+2019-01-01,2019,NL,NL,Netherlands,Țările de Jos,Hollandia,5506,eur_mn
+2019-01-01,2019,RO,RO,Romania,România,Románia,2936,eur_mn
+2019-01-01,2019,CH,CH,Switzerland,Elveția,Svájc,2820,eur_mn
+2019-01-01,2019,CZ,CZ,Czechia,Cehia,Csehország,1197,eur_mn
+2019-01-01,2019,GR,GR,Greece,Grecia,Görögország,1603,eur_mn
+2019-01-01,2019,GB,GB,United Kingdom,Regatul Unit,Egyesült Királyság,3899,eur_mn
+2019-01-01,2019,BE,BE,Belgium,Belgia,Belgium,2383,eur_mn
+2019-01-01,2019,HU,HU,Hungary,Ungaria,Magyarország,1292,eur_mn
+2019-01-01,2019,TR,TR,Turkey,Turcia,Törökország,1262,eur_mn
+2019-01-01,2019,IL,IL,Israel,Israel,Izrael,587,eur_mn
+2019-01-01,2019,CY,CY,Cyprus,Cipru,Ciprus,2153,eur_mn
+2019-01-01,2019,ES,ES,Spain,Spania,Spanyolország,902,eur_mn
+2019-01-01,2019,CN,CN,China,China,Kína,885,eur_mn
+2019-01-01,2019,JP,JP,Japan,Japonia,Japán,1115,eur_mn
+2019-01-01,2019,LU,LU,Luxembourg,Luxemburg,Luxemburg,1222,eur_mn
+2019-01-01,2019,MT,MT,Malta,Malta,Málta,270,eur_mn
+2019-01-01,2019,AE,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,196,eur_mn
+2019-01-01,2019,PL,PL,Poland,Polonia,Lengyelország,661,eur_mn
+2019-01-01,2019,RU,RU,Russia,Rusia,Oroszország,1142,eur_mn
+2019-01-01,2019,_O,_O,Other countries,Alte țări,Egyéb országok,12568,eur_mn
+2020-01-01,2020,DE,DE,Germany,Germania,Németország,13792,eur_mn
+2020-01-01,2020,AT,AT,Austria,Austria,Ausztria,10153,eur_mn
+2020-01-01,2020,FR,FR,France,Franța,Franciaország,8733,eur_mn
+2020-01-01,2020,US,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,6167,eur_mn
+2020-01-01,2020,IT,IT,Italy,Italia,Olaszország,7556,eur_mn
+2020-01-01,2020,NL,NL,Netherlands,Țările de Jos,Hollandia,4321,eur_mn
+2020-01-01,2020,RO,RO,Romania,România,Románia,2705,eur_mn
+2020-01-01,2020,CH,CH,Switzerland,Elveția,Svájc,3061,eur_mn
+2020-01-01,2020,CZ,CZ,Czechia,Cehia,Csehország,1574,eur_mn
+2020-01-01,2020,GR,GR,Greece,Grecia,Görögország,1536,eur_mn
+2020-01-01,2020,GB,GB,United Kingdom,Regatul Unit,Egyesült Királyság,3706,eur_mn
+2020-01-01,2020,BE,BE,Belgium,Belgia,Belgium,2113,eur_mn
+2020-01-01,2020,HU,HU,Hungary,Ungaria,Magyarország,1884,eur_mn
+2020-01-01,2020,TR,TR,Turkey,Turcia,Törökország,1889,eur_mn
+2020-01-01,2020,IL,IL,Israel,Israel,Izrael,1025,eur_mn
+2020-01-01,2020,CY,CY,Cyprus,Cipru,Ciprus,2418,eur_mn
+2020-01-01,2020,ES,ES,Spain,Spania,Spanyolország,1529,eur_mn
+2020-01-01,2020,CN,CN,China,China,Kína,1110,eur_mn
+2020-01-01,2020,JP,JP,Japan,Japonia,Japán,1547,eur_mn
+2020-01-01,2020,LU,LU,Luxembourg,Luxemburg,Luxemburg,1401,eur_mn
+2020-01-01,2020,MT,MT,Malta,Malta,Málta,331,eur_mn
+2020-01-01,2020,AE,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,157,eur_mn
+2020-01-01,2020,PL,PL,Poland,Polonia,Lengyelország,576,eur_mn
+2020-01-01,2020,RU,RU,Russia,Rusia,Oroszország,1166,eur_mn
+2020-01-01,2020,_O,_O,Other countries,Alte țări,Egyéb országok,11489,eur_mn
+2021-01-01,2021,DE,DE,Germany,Germania,Németország,14911,eur_mn
+2021-01-01,2021,AT,AT,Austria,Austria,Ausztria,10724,eur_mn
+2021-01-01,2021,FR,FR,France,Franța,Franciaország,9709,eur_mn
+2021-01-01,2021,US,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,7854,eur_mn
+2021-01-01,2021,IT,IT,Italy,Italia,Olaszország,7901,eur_mn
+2021-01-01,2021,NL,NL,Netherlands,Țările de Jos,Hollandia,3854,eur_mn
+2021-01-01,2021,RO,RO,Romania,România,Románia,3309,eur_mn
+2021-01-01,2021,CH,CH,Switzerland,Elveția,Svájc,3615,eur_mn
+2021-01-01,2021,CZ,CZ,Czechia,Cehia,Csehország,3173,eur_mn
+2021-01-01,2021,GR,GR,Greece,Grecia,Görögország,1242,eur_mn
+2021-01-01,2021,GB,GB,United Kingdom,Regatul Unit,Egyesült Királyság,3508,eur_mn
+2021-01-01,2021,BE,BE,Belgium,Belgia,Belgium,2210,eur_mn
+2021-01-01,2021,HU,HU,Hungary,Ungaria,Magyarország,1948,eur_mn
+2021-01-01,2021,TR,TR,Turkey,Turcia,Törökország,1767,eur_mn
+2021-01-01,2021,IL,IL,Israel,Israel,Izrael,1492,eur_mn
+2021-01-01,2021,CY,CY,Cyprus,Cipru,Ciprus,2237,eur_mn
+2021-01-01,2021,ES,ES,Spain,Spania,Spanyolország,1722,eur_mn
+2021-01-01,2021,CN,CN,China,China,Kína,1421,eur_mn
+2021-01-01,2021,JP,JP,Japan,Japonia,Japán,1711,eur_mn
+2021-01-01,2021,LU,LU,Luxembourg,Luxemburg,Luxemburg,2327,eur_mn
+2021-01-01,2021,MT,MT,Malta,Malta,Málta,259,eur_mn
+2021-01-01,2021,AE,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,301,eur_mn
+2021-01-01,2021,PL,PL,Poland,Polonia,Lengyelország,944,eur_mn
+2021-01-01,2021,RU,RU,Russia,Rusia,Oroszország,1158,eur_mn
+2021-01-01,2021,_O,_O,Other countries,Alte țări,Egyéb országok,12129,eur_mn
+2022-01-01,2022,DE,DE,Germany,Germania,Németország,16120,eur_mn
+2022-01-01,2022,AT,AT,Austria,Austria,Ausztria,11542,eur_mn
+2022-01-01,2022,FR,FR,France,Franța,Franciaország,10515,eur_mn
+2022-01-01,2022,US,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,7284,eur_mn
+2022-01-01,2022,IT,IT,Italy,Italia,Olaszország,8390,eur_mn
+2022-01-01,2022,NL,NL,Netherlands,Țările de Jos,Hollandia,5744,eur_mn
+2022-01-01,2022,RO,RO,Romania,România,Románia,4045,eur_mn
+2022-01-01,2022,CH,CH,Switzerland,Elveția,Svájc,4025,eur_mn
+2022-01-01,2022,CZ,CZ,Czechia,Cehia,Csehország,3375,eur_mn
+2022-01-01,2022,GR,GR,Greece,Grecia,Görögország,1332,eur_mn
+2022-01-01,2022,GB,GB,United Kingdom,Regatul Unit,Egyesült Királyság,3288,eur_mn
+2022-01-01,2022,BE,BE,Belgium,Belgia,Belgium,2653,eur_mn
+2022-01-01,2022,HU,HU,Hungary,Ungaria,Magyarország,2241,eur_mn
+2022-01-01,2022,TR,TR,Turkey,Turcia,Törökország,1633,eur_mn
+2022-01-01,2022,IL,IL,Israel,Israel,Izrael,1482,eur_mn
+2022-01-01,2022,CY,CY,Cyprus,Cipru,Ciprus,1896,eur_mn
+2022-01-01,2022,ES,ES,Spain,Spania,Spanyolország,1893,eur_mn
+2022-01-01,2022,CN,CN,China,China,Kína,2036,eur_mn
+2022-01-01,2022,JP,JP,Japan,Japonia,Japán,1813,eur_mn
+2022-01-01,2022,LU,LU,Luxembourg,Luxemburg,Luxemburg,1548,eur_mn
+2022-01-01,2022,MT,MT,Malta,Malta,Málta,1195,eur_mn
+2022-01-01,2022,AE,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,443,eur_mn
+2022-01-01,2022,PL,PL,Poland,Polonia,Lengyelország,1040,eur_mn
+2022-01-01,2022,RU,RU,Russia,Rusia,Oroszország,1111,eur_mn
+2022-01-01,2022,_O,_O,Other countries,Alte țări,Egyéb országok,12412,eur_mn
+2023-01-01,2023,DE,DE,Germany,Germania,Németország,17100,eur_mn
+2023-01-01,2023,AT,AT,Austria,Austria,Ausztria,13871,eur_mn
+2023-01-01,2023,FR,FR,France,Franța,Franciaország,12917,eur_mn
+2023-01-01,2023,US,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,8232,eur_mn
+2023-01-01,2023,IT,IT,Italy,Italia,Olaszország,6426,eur_mn
+2023-01-01,2023,NL,NL,Netherlands,Țările de Jos,Hollandia,6885,eur_mn
+2023-01-01,2023,RO,RO,Romania,România,Románia,3920,eur_mn
+2023-01-01,2023,CH,CH,Switzerland,Elveția,Svájc,3541,eur_mn
+2023-01-01,2023,CZ,CZ,Czechia,Cehia,Csehország,2750,eur_mn
+2023-01-01,2023,GR,GR,Greece,Grecia,Görögország,4207,eur_mn
+2023-01-01,2023,GB,GB,United Kingdom,Regatul Unit,Egyesült Királyság,3205,eur_mn
+2023-01-01,2023,BE,BE,Belgium,Belgia,Belgium,2795,eur_mn
+2023-01-01,2023,HU,HU,Hungary,Ungaria,Magyarország,2623,eur_mn
+2023-01-01,2023,TR,TR,Turkey,Turcia,Törökország,1876,eur_mn
+2023-01-01,2023,IL,IL,Israel,Israel,Izrael,1784,eur_mn
+2023-01-01,2023,CY,CY,Cyprus,Cipru,Ciprus,2448,eur_mn
+2023-01-01,2023,ES,ES,Spain,Spania,Spanyolország,1945,eur_mn
+2023-01-01,2023,CN,CN,China,China,Kína,1954,eur_mn
+2023-01-01,2023,JP,JP,Japan,Japonia,Japán,2066,eur_mn
+2023-01-01,2023,LU,LU,Luxembourg,Luxemburg,Luxemburg,1639,eur_mn
+2023-01-01,2023,MT,MT,Malta,Malta,Málta,1332,eur_mn
+2023-01-01,2023,AE,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,920,eur_mn
+2023-01-01,2023,PL,PL,Poland,Polonia,Lengyelország,1052,eur_mn
+2023-01-01,2023,RU,RU,Russia,Rusia,Oroszország,1062,eur_mn
+2023-01-01,2023,_O,_O,Other countries,Alte țări,Egyéb országok,12741,eur_mn
+2024-01-01,2024,DE,DE,Germany,Germania,Németország,18662,eur_mn
+2024-01-01,2024,AT,AT,Austria,Austria,Ausztria,14077,eur_mn
+2024-01-01,2024,FR,FR,France,Franța,Franciaország,12851,eur_mn
+2024-01-01,2024,US,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,8338,eur_mn
+2024-01-01,2024,IT,IT,Italy,Italia,Olaszország,7244,eur_mn
+2024-01-01,2024,NL,NL,Netherlands,Țările de Jos,Hollandia,6576,eur_mn
+2024-01-01,2024,RO,RO,Romania,România,Románia,4935,eur_mn
+2024-01-01,2024,CH,CH,Switzerland,Elveția,Svájc,4203,eur_mn
+2024-01-01,2024,CZ,CZ,Czechia,Cehia,Csehország,3926,eur_mn
+2024-01-01,2024,GR,GR,Greece,Grecia,Görögország,3783,eur_mn
+2024-01-01,2024,GB,GB,United Kingdom,Regatul Unit,Egyesült Királyság,3485,eur_mn
+2024-01-01,2024,BE,BE,Belgium,Belgia,Belgium,3316,eur_mn
+2024-01-01,2024,HU,HU,Hungary,Ungaria,Magyarország,2529,eur_mn
+2024-01-01,2024,TR,TR,Turkey,Turcia,Törökország,2521,eur_mn
+2024-01-01,2024,IL,IL,Israel,Israel,Izrael,2296,eur_mn
+2024-01-01,2024,CY,CY,Cyprus,Cipru,Ciprus,2036,eur_mn
+2024-01-01,2024,ES,ES,Spain,Spania,Spanyolország,1977,eur_mn
+2024-01-01,2024,CN,CN,China,China,Kína,1954,eur_mn
+2024-01-01,2024,JP,JP,Japan,Japonia,Japán,1910,eur_mn
+2024-01-01,2024,LU,LU,Luxembourg,Luxemburg,Luxemburg,1476,eur_mn
+2024-01-01,2024,MT,MT,Malta,Malta,Málta,1253,eur_mn
+2024-01-01,2024,AE,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,1225,eur_mn
+2024-01-01,2024,PL,PL,Poland,Polonia,Lengyelország,1173,eur_mn
+2024-01-01,2024,KZ,KZ,Kazakhstan,Kazahstan,Kazahsztán,1092,eur_mn
+2024-01-01,2024,RU,RU,Russia,Rusia,Oroszország,1040,eur_mn
+2024-01-01,2024,_O,_O,Other countries,Alte țări,Egyéb országok,11159,eur_mn

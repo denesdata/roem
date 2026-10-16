@@ -1,0 +1,1902 @@
+period,period_label,series,flow,flow_label_en,flow_label_ro,flow_label_hu,country,country_label_en,country_label_ro,country_label_hu,value,unit
+2020-01-01,2020,exp.DZ,exp,Export,Export,Export,DZ,Algeria,Algeria,Algéria,90569485,usd
+2020-01-01,2020,exp.EG,exp,Export,Export,Export,EG,Egypt,Egipt,Egyiptom,438000000,usd
+2020-01-01,2020,exp.LY,exp,Export,Export,Export,LY,Libya,Libia,Líbia,99885209,usd
+2020-01-01,2020,exp.MA,exp,Export,Export,Export,MA,Morocco,Maroc,Marokkó,628000000,usd
+2020-01-01,2020,exp.SD,exp,Export,Export,Export,SD,Sudan,Sudan,Szudán,77598603,usd
+2020-01-01,2020,exp.TN,exp,Export,Export,Export,TN,Tunisia,Tunisia,Tunézia,162000000,usd
+2020-01-01,2020,exp.BI,exp,Export,Export,Export,BI,Burundi,Burundi,Burundi,535797,usd
+2020-01-01,2020,exp.KM,exp,Export,Export,Export,KM,Comoros,Comore,Comore-szigetek,252003,usd
+2020-01-01,2020,exp.DJ,exp,Export,Export,Export,DJ,Djibouti,Djibouti,Dzsibuti,9031827,usd
+2020-01-01,2020,exp.ET,exp,Export,Export,Export,ET,Ethiopia,Etiopia,Etiópia,15751431,usd
+2020-01-01,2020,exp.KE,exp,Export,Export,Export,KE,Kenya,Kenya,Kenya,12207413,usd
+2020-01-01,2020,exp.MG,exp,Export,Export,Export,MG,Madagascar,Madagascar,Madagaszkár,1293320,usd
+2020-01-01,2020,exp.MZ,exp,Export,Export,Export,MZ,Mozambique,Mozambic,Mozambik,2394115,usd
+2020-01-01,2020,exp.MU,exp,Export,Export,Export,MU,Mauritius,Mauritius,Mauritius,2560886,usd
+2020-01-01,2020,exp.MW,exp,Export,Export,Export,MW,Malawi,Malawi,Malawi,211112,usd
+2020-01-01,2020,exp.RW,exp,Export,Export,Export,RW,Rwanda,Rwanda,Ruanda,123527,usd
+2020-01-01,2020,exp.SO,exp,Export,Export,Export,SO,Somalia,Somalia,Szomália,177815,usd
+2020-01-01,2020,exp.SS,exp,Export,Export,Export,SS,South Sudan,Sudanul de Sud,Dél-Szudán,80241,usd
+2020-01-01,2020,exp.SC,exp,Export,Export,Export,SC,Seychelles,Seychelles,Seychelle-szigetek,36739,usd
+2020-01-01,2020,exp.TZ,exp,Export,Export,Export,TZ,Tanzania,Tanzania,Tanzánia,5008589,usd
+2020-01-01,2020,exp.UG,exp,Export,Export,Export,UG,Uganda,Uganda,Uganda,1101149,usd
+2020-01-01,2020,exp.AO,exp,Export,Export,Export,AO,Angola,Angola,Angola,3491019,usd
+2020-01-01,2020,exp.CF,exp,Export,Export,Export,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,138050,usd
+2020-01-01,2020,exp.CM,exp,Export,Export,Export,CM,Cameroon,Camerun,Kamerun,6964044,usd
+2020-01-01,2020,exp.CD,exp,Export,Export,Export,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,36909,usd
+2020-01-01,2020,exp.CG,exp,Export,Export,Export,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,7352687,usd
+2020-01-01,2020,exp.GA,exp,Export,Export,Export,GA,Gabon,Gabon,Gabon,6873533,usd
+2020-01-01,2020,exp.GQ,exp,Export,Export,Export,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,76690,usd
+2020-01-01,2020,exp.TD,exp,Export,Export,Export,TD,Chad,Ciad,Csád,286351,usd
+2020-01-01,2020,exp.LS,exp,Export,Export,Export,LS,Lesotho,Lesotho,Lesotho,1042,usd
+2020-01-01,2020,exp.NA,exp,Export,Export,Export,NA,Namibia,Namibia,Namíbia,12736858,usd
+2020-01-01,2020,exp.SZ,exp,Export,Export,Export,SZ,Eswatini,Eswatini,Eswatini,379867,usd
+2020-01-01,2020,exp.ZA,exp,Export,Export,Export,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,245000000,usd
+2020-01-01,2020,exp.ZM,exp,Export,Export,Export,ZM,Zambia,Zambia,Zambia,384467,usd
+2020-01-01,2020,exp.ZW,exp,Export,Export,Export,ZW,Zimbabwe,Zimbabwe,Zimbabwe,10157,usd
+2020-01-01,2020,exp.BJ,exp,Export,Export,Export,BJ,Benin,Benin,Benin,586496,usd
+2020-01-01,2020,exp.BF,exp,Export,Export,Export,BF,Burkina Faso,Burkina Faso,Burkina Faso,2911601,usd
+2020-01-01,2020,exp.CI,exp,Export,Export,Export,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,9416584,usd
+2020-01-01,2020,exp.CV,exp,Export,Export,Export,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,1551535,usd
+2020-01-01,2020,exp.GH,exp,Export,Export,Export,GH,Ghana,Ghana,Ghána,3608467,usd
+2020-01-01,2020,exp.GN,exp,Export,Export,Export,GN,Guinea,Guineea,Guinea,892331,usd
+2020-01-01,2020,exp.GM,exp,Export,Export,Export,GM,Gambia,Gambia,Gambia,378814,usd
+2020-01-01,2020,exp.GW,exp,Export,Export,Export,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,4363,usd
+2020-01-01,2020,exp.LR,exp,Export,Export,Export,LR,Liberia,Liberia,Libéria,45464895,usd
+2020-01-01,2020,exp.ML,exp,Export,Export,Export,ML,Mali,Mali,Mali,587169,usd
+2020-01-01,2020,exp.MR,exp,Export,Export,Export,MR,Mauritania,Mauritania,Mauritánia,522279,usd
+2020-01-01,2020,exp.NE,exp,Export,Export,Export,NE,Niger,Niger,Niger,457903,usd
+2020-01-01,2020,exp.NG,exp,Export,Export,Export,NG,Nigeria,Nigeria,Nigéria,40977341,usd
+2020-01-01,2020,exp.SN,exp,Export,Export,Export,SN,Senegal,Senegal,Szenegál,7838931,usd
+2020-01-01,2020,exp.SL,exp,Export,Export,Export,SL,Sierra Leone,Sierra Leone,Sierra Leone,614789,usd
+2020-01-01,2020,exp.TG,exp,Export,Export,Export,TG,Togo,Togo,Togo,4935229,usd
+2020-01-01,2020,exp.KZ,exp,Export,Export,Export,KZ,Kazakhstan,Kazahstan,Kazahsztán,78521727,usd
+2020-01-01,2020,exp.KG,exp,Export,Export,Export,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,2908172,usd
+2020-01-01,2020,exp.TJ,exp,Export,Export,Export,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,566563,usd
+2020-01-01,2020,exp.TM,exp,Export,Export,Export,TM,Turkmenistan,Turkmenistan,Türkmenisztán,4935165,usd
+2020-01-01,2020,exp.UZ,exp,Export,Export,Export,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,18747369,usd
+2020-01-01,2020,exp.CN,exp,Export,Export,Export,CN,China,China,Kína,1640000000,usd
+2020-01-01,2020,exp.HK,exp,Export,Export,Export,HK,Hong Kong,Hong Kong,Hongkong,87007771,usd
+2020-01-01,2020,exp.JP,exp,Export,Export,Export,JP,Japan,Japonia,Japán,892000000,usd
+2020-01-01,2020,exp.KR,exp,Export,Export,Export,KR,South Korea,Coreea de Sud,Dél-Korea,502000000,usd
+2020-01-01,2020,exp.MO,exp,Export,Export,Export,MO,Macau,Macao,Makaó,3273330,usd
+2020-01-01,2020,exp.MN,exp,Export,Export,Export,MN,Mongolia,Mongolia,Mongólia,6229888,usd
+2020-01-01,2020,exp.TW,exp,Export,Export,Export,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,109000000,usd
+2020-01-01,2020,exp.BN,exp,Export,Export,Export,BN,Brunei,Brunei,Brunei,2993695,usd
+2020-01-01,2020,exp.ID,exp,Export,Export,Export,ID,Indonesia,Indonezia,Indonézia,47811125,usd
+2020-01-01,2020,exp.KH,exp,Export,Export,Export,KH,Cambodia,Cambodgia,Kambodzsa,2316885,usd
+2020-01-01,2020,exp.LA,exp,Export,Export,Export,LA,Laos,Laos,Laosz,1737666,usd
+2020-01-01,2020,exp.MM,exp,Export,Export,Export,MM,Myanmar,Myanmar,Mianmar,10557660,usd
+2020-01-01,2020,exp.MY,exp,Export,Export,Export,MY,Malaysia,Malaezia,Malajzia,47476952,usd
+2020-01-01,2020,exp.PH,exp,Export,Export,Export,PH,Philippines,Filipine,Fülöp-szigetek,119000000,usd
+2020-01-01,2020,exp.SG,exp,Export,Export,Export,SG,Singapore,Singapore,Szingapúr,119000000,usd
+2020-01-01,2020,exp.TH,exp,Export,Export,Export,TH,Thailand,Thailanda,Thaiföld,125000000,usd
+2020-01-01,2020,exp.VN,exp,Export,Export,Export,VN,Vietnam,Vietnam,Vietnám,70523388,usd
+2020-01-01,2020,exp.AF,exp,Export,Export,Export,AF,Afghanistan,Afganistan,Afganisztán,177328,usd
+2020-01-01,2020,exp.BD,exp,Export,Export,Export,BD,Bangladesh,Bangladesh,Banglades,20444258,usd
+2020-01-01,2020,exp.IN,exp,Export,Export,Export,IN,India,India,India,212000000,usd
+2020-01-01,2020,exp.IR,exp,Export,Export,Export,IR,Iran,Iran,Irán,64259401,usd
+2020-01-01,2020,exp.LK,exp,Export,Export,Export,LK,Sri Lanka,Sri Lanka,Srí Lanka,3813981,usd
+2020-01-01,2020,exp.MV,exp,Export,Export,Export,MV,Maldives,Maldive,Maldív-szigetek,146475,usd
+2020-01-01,2020,exp.NP,exp,Export,Export,Export,NP,Nepal,Nepal,Nepál,3668788,usd
+2020-01-01,2020,exp.PK,exp,Export,Export,Export,PK,Pakistan,Pakistan,Pakisztán,73776053,usd
+2020-01-01,2020,exp.AE,exp,Export,Export,Export,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,393000000,usd
+2020-01-01,2020,exp.AM,exp,Export,Export,Export,AM,Armenia,Armenia,Örményország,13768105,usd
+2020-01-01,2020,exp.AZ,exp,Export,Export,Export,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,70752385,usd
+2020-01-01,2020,exp.BH,exp,Export,Export,Export,BH,Bahrain,Bahrain,Bahrein,26391189,usd
+2020-01-01,2020,exp.GE,exp,Export,Export,Export,GE,Georgia,Georgia,Grúzia,123000000,usd
+2020-01-01,2020,exp.IQ,exp,Export,Export,Export,IQ,Iraq,Irak,Irak,58509885,usd
+2020-01-01,2020,exp.IL,exp,Export,Export,Export,IL,Israel,Israel,Izrael,409000000,usd
+2020-01-01,2020,exp.JO,exp,Export,Export,Export,JO,Jordan,Iordania,Jordánia,504000000,usd
+2020-01-01,2020,exp.KW,exp,Export,Export,Export,KW,Kuwait,Kuweit,Kuvait,78101844,usd
+2020-01-01,2020,exp.LB,exp,Export,Export,Export,LB,Lebanon,Liban,Libanon,231000000,usd
+2020-01-01,2020,exp.OM,exp,Export,Export,Export,OM,Oman,Oman,Omán,21647265,usd
+2020-01-01,2020,exp.PS,exp,Export,Export,Export,PS,Palestine,Palestina,Palesztina,2238492,usd
+2020-01-01,2020,exp.QA,exp,Export,Export,Export,QA,Qatar,Qatar,Katar,83375427,usd
+2020-01-01,2020,exp.SA,exp,Export,Export,Export,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,448000000,usd
+2020-01-01,2020,exp.SY,exp,Export,Export,Export,SY,Syria,Siria,Szíria,27784368,usd
+2020-01-01,2020,exp.TR,exp,Export,Export,Export,TR,Turkey,Turcia,Törökország,2730000000,usd
+2020-01-01,2020,exp.YE,exp,Export,Export,Export,YE,Yemen,Yemen,Jemen,10008562,usd
+2020-01-01,2020,exp.CY,exp,Export,Export,Export,CY,Cyprus,Cipru,Ciprus,103000000,usd
+2020-01-01,2020,exp.BG,exp,Export,Export,Export,BG,Bulgaria,Bulgaria,Bulgária,2500000000,usd
+2020-01-01,2020,exp.BY,exp,Export,Export,Export,BY,Belarus,Belarus,Fehéroroszország,51367308,usd
+2020-01-01,2020,exp.CZ,exp,Export,Export,Export,CZ,Czechia,Cehia,Csehország,2320000000,usd
+2020-01-01,2020,exp.HU,exp,Export,Export,Export,HU,Hungary,Ungaria,Magyarország,2970000000,usd
+2020-01-01,2020,exp.MD,exp,Export,Export,Export,MD,Moldova,Moldova,Moldova,807000000,usd
+2020-01-01,2020,exp.PL,exp,Export,Export,Export,PL,Poland,Polonia,Lengyelország,2660000000,usd
+2020-01-01,2020,exp.RU,exp,Export,Export,Export,RU,Russia,Rusia,Oroszország,1200000000,usd
+2020-01-01,2020,exp.SK,exp,Export,Export,Export,SK,Slovakia,Slovacia,Szlovákia,1540000000,usd
+2020-01-01,2020,exp.UA,exp,Export,Export,Export,UA,Ukraine,Ucraina,Ukrajna,748000000,usd
+2020-01-01,2020,exp.DK,exp,Export,Export,Export,DK,Denmark,Danemarca,Dánia,322000000,usd
+2020-01-01,2020,exp.EE,exp,Export,Export,Export,EE,Estonia,Estonia,Észtország,64013643,usd
+2020-01-01,2020,exp.FI,exp,Export,Export,Export,FI,Finland,Finlanda,Finnország,301000000,usd
+2020-01-01,2020,exp.GB,exp,Export,Export,Export,GB,United Kingdom,Regatul Unit,Egyesült Királyság,2180000000,usd
+2020-01-01,2020,exp.IE,exp,Export,Export,Export,IE,Ireland,Irlanda,Írország,146000000,usd
+2020-01-01,2020,exp.IS,exp,Export,Export,Export,IS,Iceland,Islanda,Izland,10348086,usd
+2020-01-01,2020,exp.LT,exp,Export,Export,Export,LT,Lithuania,Lituania,Litvánia,128000000,usd
+2020-01-01,2020,exp.LV,exp,Export,Export,Export,LV,Latvia,Letonia,Lettország,63196111,usd
+2020-01-01,2020,exp.NO,exp,Export,Export,Export,NO,Norway,Norvegia,Norvégia,637000000,usd
+2020-01-01,2020,exp.SE,exp,Export,Export,Export,SE,Sweden,Suedia,Svédország,552000000,usd
+2020-01-01,2020,exp.AL,exp,Export,Export,Export,AL,Albania,Albania,Albánia,61844888,usd
+2020-01-01,2020,exp.AD,exp,Export,Export,Export,AD,Andorra,Andorra,Andorra,1965779,usd
+2020-01-01,2020,exp.BA,exp,Export,Export,Export,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,108000000,usd
+2020-01-01,2020,exp.ES,exp,Export,Export,Export,ES,Spain,Spania,Spanyolország,2090000000,usd
+2020-01-01,2020,exp.GI,exp,Export,Export,Export,GI,Gibraltar,Gibraltar,Gibraltár,169000000,usd
+2020-01-01,2020,exp.GR,exp,Export,Export,Export,GR,Greece,Grecia,Görögország,767000000,usd
+2020-01-01,2020,exp.HR,exp,Export,Export,Export,HR,Croatia,Croația,Horvátország,302000000,usd
+2020-01-01,2020,exp.IT,exp,Export,Export,Export,IT,Italy,Italia,Olaszország,7040000000,usd
+2020-01-01,2020,exp.MK,exp,Export,Export,Export,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,229000000,usd
+2020-01-01,2020,exp.MT,exp,Export,Export,Export,MT,Malta,Malta,Málta,14225475,usd
+2020-01-01,2020,exp.ME,exp,Export,Export,Export,ME,Montenegro,Muntenegru,Montenegró,26184627,usd
+2020-01-01,2020,exp.PT,exp,Export,Export,Export,PT,Portugal,Portugalia,Portugália,305000000,usd
+2020-01-01,2020,exp.SM,exp,Export,Export,Export,SM,San Marino,San Marino,San Marino,16079295,usd
+2020-01-01,2020,exp.RS,exp,Export,Export,Export,RS,Serbia,Serbia,Szerbia,746000000,usd
+2020-01-01,2020,exp.SI,exp,Export,Export,Export,SI,Slovenia,Slovenia,Szlovénia,531000000,usd
+2020-01-01,2020,exp.AT,exp,Export,Export,Export,AT,Austria,Austria,Ausztria,1900000000,usd
+2020-01-01,2020,exp.BE,exp,Export,Export,Export,BE,Belgium,Belgia,Belgium,1350000000,usd
+2020-01-01,2020,exp.CH,exp,Export,Export,Export,CH,Switzerland,Elveția,Svájc,903000000,usd
+2020-01-01,2020,exp.DE,exp,Export,Export,Export,DE,Germany,Germania,Németország,15700000000,usd
+2020-01-01,2020,exp.FR,exp,Export,Export,Export,FR,France,Franța,Franciaország,4160000000,usd
+2020-01-01,2020,exp.LU,exp,Export,Export,Export,LU,Luxembourg,Luxemburg,Luxemburg,38275369,usd
+2020-01-01,2020,exp.NL,exp,Export,Export,Export,NL,Netherlands,Țările de Jos,Hollandia,2380000000,usd
+2020-01-01,2020,exp.AW,exp,Export,Export,Export,AW,Aruba,Aruba,Aruba,545,usd
+2020-01-01,2020,exp.AG,exp,Export,Export,Export,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,4330,usd
+2020-01-01,2020,exp.BS,exp,Export,Export,Export,BS,Bahamas,Bahamas,Bahama-szigetek,65491,usd
+2020-01-01,2020,exp.BL,exp,Export,Export,Export,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,191,usd
+2020-01-01,2020,exp.BB,exp,Export,Export,Export,BB,Barbados,Barbados,Barbados,1151,usd
+2020-01-01,2020,exp.CU,exp,Export,Export,Export,CU,Cuba,Cuba,Kuba,834186,usd
+2020-01-01,2020,exp.CW,exp,Export,Export,Export,CW,Curaçao,Curaçao,Curaçao,74986,usd
+2020-01-01,2020,exp.KY,exp,Export,Export,Export,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,758,usd
+2020-01-01,2020,exp.DO,exp,Export,Export,Export,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,4850418,usd
+2020-01-01,2020,exp.HT,exp,Export,Export,Export,HT,Haiti,Haiti,Haiti,126007,usd
+2020-01-01,2020,exp.JM,exp,Export,Export,Export,JM,Jamaica,Jamaica,Jamaica,401435,usd
+2020-01-01,2020,exp.LC,exp,Export,Export,Export,LC,Saint Lucia,Saint Lucia,Saint Lucia,8771,usd
+2020-01-01,2020,exp.MF,exp,Export,Export,Export,MF,Saint Martin,Saint Martin,Saint Martin,8784,usd
+2020-01-01,2020,exp.MS,exp,Export,Export,Export,MS,Montserrat,Montserrat,Montserrat,107039,usd
+2020-01-01,2020,exp.TT,exp,Export,Export,Export,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,3632696,usd
+2020-01-01,2020,exp.VG,exp,Export,Export,Export,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,27171,usd
+2020-01-01,2020,exp.BZ,exp,Export,Export,Export,BZ,Belize,Belize,Belize,105395,usd
+2020-01-01,2020,exp.CR,exp,Export,Export,Export,CR,Costa Rica,Costa Rica,Costa Rica,3696702,usd
+2020-01-01,2020,exp.GT,exp,Export,Export,Export,GT,Guatemala,Guatemala,Guatemala,1558185,usd
+2020-01-01,2020,exp.HN,exp,Export,Export,Export,HN,Honduras,Honduras,Honduras,1544360,usd
+2020-01-01,2020,exp.MX,exp,Export,Export,Export,MX,Mexico,Mexic,Mexikó,208000000,usd
+2020-01-01,2020,exp.NI,exp,Export,Export,Export,NI,Nicaragua,Nicaragua,Nicaragua,503084,usd
+2020-01-01,2020,exp.PA,exp,Export,Export,Export,PA,Panama,Panama,Panama,4216768,usd
+2020-01-01,2020,exp.SV,exp,Export,Export,Export,SV,El Salvador,El Salvador,Salvador,1265249,usd
+2020-01-01,2020,exp.BM,exp,Export,Export,Export,BM,Bermuda,Bermuda,Bermuda,36868,usd
+2020-01-01,2020,exp.CA,exp,Export,Export,Export,CA,Canada,Canada,Kanada,316000000,usd
+2020-01-01,2020,exp.GL,exp,Export,Export,Export,GL,Greenland,Groenlanda,Grönland,740,usd
+2020-01-01,2020,exp.US,exp,Export,Export,Export,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,2140000000,usd
+2020-01-01,2020,exp.AU,exp,Export,Export,Export,AU,Australia,Australia,Ausztrália,170000000,usd
+2020-01-01,2020,exp.NZ,exp,Export,Export,Export,NZ,New Zealand,Noua Zeelandă,Új-Zéland,69746214,usd
+2020-01-01,2020,exp.FJ,exp,Export,Export,Export,FJ,Fiji,Fiji,Fidzsi,3883,usd
+2020-01-01,2020,exp.NC,exp,Export,Export,Export,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,8022720,usd
+2020-01-01,2020,exp.PG,exp,Export,Export,Export,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,583820,usd
+2020-01-01,2020,exp.GU,exp,Export,Export,Export,GU,Guam,Guam,Guam,9132,usd
+2020-01-01,2020,exp.MH,exp,Export,Export,Export,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,3145,usd
+2020-01-01,2020,exp.MP,exp,Export,Export,Export,MP,Northern Mariana Islands,Insulele Mariane de Nord,Északi-Mariana-szigetek,1684,usd
+2020-01-01,2020,exp.PF,exp,Export,Export,Export,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,4793598,usd
+2020-01-01,2020,exp.AR,exp,Export,Export,Export,AR,Argentina,Argentina,Argentína,54164060,usd
+2020-01-01,2020,exp.BO,exp,Export,Export,Export,BO,Bolivia,Bolivia,Bolívia,2229505,usd
+2020-01-01,2020,exp.BR,exp,Export,Export,Export,BR,Brazil,Brazilia,Brazília,252000000,usd
+2020-01-01,2020,exp.CL,exp,Export,Export,Export,CL,Chile,Chile,Chile,46287068,usd
+2020-01-01,2020,exp.CO,exp,Export,Export,Export,CO,Colombia,Columbia,Kolumbia,107000000,usd
+2020-01-01,2020,exp.EC,exp,Export,Export,Export,EC,Ecuador,Ecuador,Ecuador,10295089,usd
+2020-01-01,2020,exp.GY,exp,Export,Export,Export,GY,Guyana,Guyana,Guyana,146343,usd
+2020-01-01,2020,exp.PE,exp,Export,Export,Export,PE,Peru,Peru,Peru,20031408,usd
+2020-01-01,2020,exp.PY,exp,Export,Export,Export,PY,Paraguay,Paraguay,Paraguay,2555718,usd
+2020-01-01,2020,exp.SR,exp,Export,Export,Export,SR,Suriname,Surinam,Suriname,43525,usd
+2020-01-01,2020,exp.UY,exp,Export,Export,Export,UY,Uruguay,Uruguay,Uruguay,10817510,usd
+2020-01-01,2020,exp.VE,exp,Export,Export,Export,VE,Venezuela,Venezuela,Venezuela,88124,usd
+2020-01-01,2020,imp.DZ,imp,Import,Import,Import,DZ,Algeria,Algeria,Algéria,4294738,usd
+2020-01-01,2020,imp.EG,imp,Import,Import,Import,EG,Egypt,Egipt,Egyiptom,123000000,usd
+2020-01-01,2020,imp.LY,imp,Import,Import,Import,LY,Libya,Libia,Líbia,5641530,usd
+2020-01-01,2020,imp.MA,imp,Import,Import,Import,MA,Morocco,Maroc,Marokkó,249000000,usd
+2020-01-01,2020,imp.SD,imp,Import,Import,Import,SD,Sudan,Sudan,Szudán,340135,usd
+2020-01-01,2020,imp.TN,imp,Import,Import,Import,TN,Tunisia,Tunisia,Tunézia,72567991,usd
+2020-01-01,2020,imp.BI,imp,Import,Import,Import,BI,Burundi,Burundi,Burundi,247769,usd
+2020-01-01,2020,imp.DJ,imp,Import,Import,Import,DJ,Djibouti,Djibouti,Dzsibuti,3193,usd
+2020-01-01,2020,imp.ET,imp,Import,Import,Import,ET,Ethiopia,Etiopia,Etiópia,846459,usd
+2020-01-01,2020,imp.KE,imp,Import,Import,Import,KE,Kenya,Kenya,Kenya,4913193,usd
+2020-01-01,2020,imp.MG,imp,Import,Import,Import,MG,Madagascar,Madagascar,Madagaszkár,715362,usd
+2020-01-01,2020,imp.MZ,imp,Import,Import,Import,MZ,Mozambique,Mozambic,Mozambik,2542921,usd
+2020-01-01,2020,imp.MU,imp,Import,Import,Import,MU,Mauritius,Mauritius,Mauritius,3323304,usd
+2020-01-01,2020,imp.MW,imp,Import,Import,Import,MW,Malawi,Malawi,Malawi,2611891,usd
+2020-01-01,2020,imp.RW,imp,Import,Import,Import,RW,Rwanda,Rwanda,Ruanda,231465,usd
+2020-01-01,2020,imp.SC,imp,Import,Import,Import,SC,Seychelles,Seychelles,Seychelle-szigetek,177449,usd
+2020-01-01,2020,imp.TZ,imp,Import,Import,Import,TZ,Tanzania,Tanzania,Tanzánia,5919689,usd
+2020-01-01,2020,imp.UG,imp,Import,Import,Import,UG,Uganda,Uganda,Uganda,5508224,usd
+2020-01-01,2020,imp.AO,imp,Import,Import,Import,AO,Angola,Angola,Angola,81735,usd
+2020-01-01,2020,imp.CM,imp,Import,Import,Import,CM,Cameroon,Camerun,Kamerun,830890,usd
+2020-01-01,2020,imp.CD,imp,Import,Import,Import,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,1348639,usd
+2020-01-01,2020,imp.CG,imp,Import,Import,Import,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,975,usd
+2020-01-01,2020,imp.GA,imp,Import,Import,Import,GA,Gabon,Gabon,Gabon,483493,usd
+2020-01-01,2020,imp.ST,imp,Import,Import,Import,ST,Sao Tome and Principe,São Tomé și Príncipe,São Tomé és Príncipe,4268,usd
+2020-01-01,2020,imp.TD,imp,Import,Import,Import,TD,Chad,Ciad,Csád,236280,usd
+2020-01-01,2020,imp.BW,imp,Import,Import,Import,BW,Botswana,Botswana,Botswana,247,usd
+2020-01-01,2020,imp.NA,imp,Import,Import,Import,NA,Namibia,Namibia,Namíbia,37253,usd
+2020-01-01,2020,imp.SZ,imp,Import,Import,Import,SZ,Eswatini,Eswatini,Eswatini,242330,usd
+2020-01-01,2020,imp.ZA,imp,Import,Import,Import,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,58448362,usd
+2020-01-01,2020,imp.ZM,imp,Import,Import,Import,ZM,Zambia,Zambia,Zambia,217943,usd
+2020-01-01,2020,imp.ZW,imp,Import,Import,Import,ZW,Zimbabwe,Zimbabwe,Zimbabwe,5682258,usd
+2020-01-01,2020,imp.BJ,imp,Import,Import,Import,BJ,Benin,Benin,Benin,9493,usd
+2020-01-01,2020,imp.BF,imp,Import,Import,Import,BF,Burkina Faso,Burkina Faso,Burkina Faso,2015,usd
+2020-01-01,2020,imp.CI,imp,Import,Import,Import,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,13141182,usd
+2020-01-01,2020,imp.CV,imp,Import,Import,Import,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,76541,usd
+2020-01-01,2020,imp.GH,imp,Import,Import,Import,GH,Ghana,Ghana,Ghána,648277,usd
+2020-01-01,2020,imp.GN,imp,Import,Import,Import,GN,Guinea,Guineea,Guinea,672946,usd
+2020-01-01,2020,imp.LR,imp,Import,Import,Import,LR,Liberia,Liberia,Libéria,1202995,usd
+2020-01-01,2020,imp.ML,imp,Import,Import,Import,ML,Mali,Mali,Mali,10804,usd
+2020-01-01,2020,imp.MR,imp,Import,Import,Import,MR,Mauritania,Mauritania,Mauritánia,54636,usd
+2020-01-01,2020,imp.NE,imp,Import,Import,Import,NE,Niger,Niger,Niger,189906,usd
+2020-01-01,2020,imp.NG,imp,Import,Import,Import,NG,Nigeria,Nigeria,Nigéria,2736003,usd
+2020-01-01,2020,imp.SN,imp,Import,Import,Import,SN,Senegal,Senegal,Szenegál,6882,usd
+2020-01-01,2020,imp.SH,imp,Import,Import,Import,SH,Saint Helena,Sfânta Elena,Szent Ilona,22846,usd
+2020-01-01,2020,imp.SL,imp,Import,Import,Import,SL,Sierra Leone,Sierra Leone,Sierra Leone,43803419,usd
+2020-01-01,2020,imp.KZ,imp,Import,Import,Import,KZ,Kazakhstan,Kazahstan,Kazahsztán,1280000000,usd
+2020-01-01,2020,imp.KG,imp,Import,Import,Import,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,1307744,usd
+2020-01-01,2020,imp.TM,imp,Import,Import,Import,TM,Turkmenistan,Turkmenistan,Türkmenisztán,92717827,usd
+2020-01-01,2020,imp.UZ,imp,Import,Import,Import,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,2485989,usd
+2020-01-01,2020,imp.CN,imp,Import,Import,Import,CN,China,China,Kína,5800000000,usd
+2020-01-01,2020,imp.HK,imp,Import,Import,Import,HK,Hong Kong,Hong Kong,Hongkong,43157328,usd
+2020-01-01,2020,imp.JP,imp,Import,Import,Import,JP,Japan,Japonia,Japán,348000000,usd
+2020-01-01,2020,imp.KR,imp,Import,Import,Import,KR,South Korea,Coreea de Sud,Dél-Korea,577000000,usd
+2020-01-01,2020,imp.MO,imp,Import,Import,Import,MO,Macau,Macao,Makaó,558681,usd
+2020-01-01,2020,imp.MN,imp,Import,Import,Import,MN,Mongolia,Mongolia,Mongólia,27778,usd
+2020-01-01,2020,imp.TW,imp,Import,Import,Import,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,237000000,usd
+2020-01-01,2020,imp.BN,imp,Import,Import,Import,BN,Brunei,Brunei,Brunei,99,usd
+2020-01-01,2020,imp.ID,imp,Import,Import,Import,ID,Indonesia,Indonezia,Indonézia,137000000,usd
+2020-01-01,2020,imp.KH,imp,Import,Import,Import,KH,Cambodia,Cambodgia,Kambodzsa,3545584,usd
+2020-01-01,2020,imp.LA,imp,Import,Import,Import,LA,Laos,Laos,Laosz,181528,usd
+2020-01-01,2020,imp.MM,imp,Import,Import,Import,MM,Myanmar,Myanmar,Mianmar,9218095,usd
+2020-01-01,2020,imp.MY,imp,Import,Import,Import,MY,Malaysia,Malaezia,Malajzia,176000000,usd
+2020-01-01,2020,imp.PH,imp,Import,Import,Import,PH,Philippines,Filipine,Fülöp-szigetek,29699621,usd
+2020-01-01,2020,imp.SG,imp,Import,Import,Import,SG,Singapore,Singapore,Szingapúr,60838693,usd
+2020-01-01,2020,imp.TH,imp,Import,Import,Import,TH,Thailand,Thailanda,Thaiföld,209000000,usd
+2020-01-01,2020,imp.VN,imp,Import,Import,Import,VN,Vietnam,Vietnam,Vietnám,227000000,usd
+2020-01-01,2020,imp.AF,imp,Import,Import,Import,AF,Afghanistan,Afganistan,Afganisztán,453703,usd
+2020-01-01,2020,imp.BD,imp,Import,Import,Import,BD,Bangladesh,Bangladesh,Banglades,37501008,usd
+2020-01-01,2020,imp.IN,imp,Import,Import,Import,IN,India,India,India,378000000,usd
+2020-01-01,2020,imp.IR,imp,Import,Import,Import,IR,Iran,Iran,Irán,35894452,usd
+2020-01-01,2020,imp.LK,imp,Import,Import,Import,LK,Sri Lanka,Sri Lanka,Srí Lanka,13199549,usd
+2020-01-01,2020,imp.NP,imp,Import,Import,Import,NP,Nepal,Nepal,Nepál,125864,usd
+2020-01-01,2020,imp.PK,imp,Import,Import,Import,PK,Pakistan,Pakistan,Pakisztán,36797548,usd
+2020-01-01,2020,imp.AE,imp,Import,Import,Import,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,50667342,usd
+2020-01-01,2020,imp.AM,imp,Import,Import,Import,AM,Armenia,Armenia,Örményország,140685,usd
+2020-01-01,2020,imp.AZ,imp,Import,Import,Import,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,103000000,usd
+2020-01-01,2020,imp.BH,imp,Import,Import,Import,BH,Bahrain,Bahrain,Bahrein,4020596,usd
+2020-01-01,2020,imp.GE,imp,Import,Import,Import,GE,Georgia,Georgia,Grúzia,22544441,usd
+2020-01-01,2020,imp.IQ,imp,Import,Import,Import,IQ,Iraq,Irak,Irak,144000000,usd
+2020-01-01,2020,imp.IL,imp,Import,Import,Import,IL,Israel,Israel,Izrael,167000000,usd
+2020-01-01,2020,imp.JO,imp,Import,Import,Import,JO,Jordan,Iordania,Jordánia,15476404,usd
+2020-01-01,2020,imp.KW,imp,Import,Import,Import,KW,Kuwait,Kuweit,Kuvait,308042,usd
+2020-01-01,2020,imp.LB,imp,Import,Import,Import,LB,Lebanon,Liban,Libanon,2533759,usd
+2020-01-01,2020,imp.OM,imp,Import,Import,Import,OM,Oman,Oman,Omán,4618462,usd
+2020-01-01,2020,imp.PS,imp,Import,Import,Import,PS,Palestine,Palestina,Palesztina,22063,usd
+2020-01-01,2020,imp.QA,imp,Import,Import,Import,QA,Qatar,Qatar,Katar,4163822,usd
+2020-01-01,2020,imp.SA,imp,Import,Import,Import,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,13040278,usd
+2020-01-01,2020,imp.SY,imp,Import,Import,Import,SY,Syria,Siria,Szíria,2874720,usd
+2020-01-01,2020,imp.TR,imp,Import,Import,Import,TR,Turkey,Turcia,Törökország,4060000000,usd
+2020-01-01,2020,imp.CY,imp,Import,Import,Import,CY,Cyprus,Cipru,Ciprus,42761131,usd
+2020-01-01,2020,imp.BG,imp,Import,Import,Import,BG,Bulgaria,Bulgaria,Bulgária,2920000000,usd
+2020-01-01,2020,imp.BY,imp,Import,Import,Import,BY,Belarus,Belarus,Fehéroroszország,111000000,usd
+2020-01-01,2020,imp.CZ,imp,Import,Import,Import,CZ,Czechia,Cehia,Csehország,2990000000,usd
+2020-01-01,2020,imp.HU,imp,Import,Import,Import,HU,Hungary,Ungaria,Magyarország,6710000000,usd
+2020-01-01,2020,imp.MD,imp,Import,Import,Import,MD,Moldova,Moldova,Moldova,803000000,usd
+2020-01-01,2020,imp.PL,imp,Import,Import,Import,PL,Poland,Polonia,Lengyelország,5770000000,usd
+2020-01-01,2020,imp.RU,imp,Import,Import,Import,RU,Russia,Rusia,Oroszország,2190000000,usd
+2020-01-01,2020,imp.SK,imp,Import,Import,Import,SK,Slovakia,Slovacia,Szlovákia,2190000000,usd
+2020-01-01,2020,imp.UA,imp,Import,Import,Import,UA,Ukraine,Ucraina,Ukrajna,1080000000,usd
+2020-01-01,2020,imp.DK,imp,Import,Import,Import,DK,Denmark,Danemarca,Dánia,472000000,usd
+2020-01-01,2020,imp.EE,imp,Import,Import,Import,EE,Estonia,Estonia,Észtország,60517386,usd
+2020-01-01,2020,imp.FI,imp,Import,Import,Import,FI,Finland,Finlanda,Finnország,177000000,usd
+2020-01-01,2020,imp.GB,imp,Import,Import,Import,GB,United Kingdom,Regatul Unit,Egyesült Királyság,1580000000,usd
+2020-01-01,2020,imp.IE,imp,Import,Import,Import,IE,Ireland,Irlanda,Írország,531000000,usd
+2020-01-01,2020,imp.IS,imp,Import,Import,Import,IS,Iceland,Islanda,Izland,1351784,usd
+2020-01-01,2020,imp.LT,imp,Import,Import,Import,LT,Lithuania,Lituania,Litvánia,141000000,usd
+2020-01-01,2020,imp.LV,imp,Import,Import,Import,LV,Latvia,Letonia,Lettország,48567486,usd
+2020-01-01,2020,imp.NO,imp,Import,Import,Import,NO,Norway,Norvegia,Norvégia,96033149,usd
+2020-01-01,2020,imp.SE,imp,Import,Import,Import,SE,Sweden,Suedia,Svédország,494000000,usd
+2020-01-01,2020,imp.AL,imp,Import,Import,Import,AL,Albania,Albania,Albánia,33802463,usd
+2020-01-01,2020,imp.AD,imp,Import,Import,Import,AD,Andorra,Andorra,Andorra,158493,usd
+2020-01-01,2020,imp.BA,imp,Import,Import,Import,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,101000000,usd
+2020-01-01,2020,imp.ES,imp,Import,Import,Import,ES,Spain,Spania,Spanyolország,2290000000,usd
+2020-01-01,2020,imp.GI,imp,Import,Import,Import,GI,Gibraltar,Gibraltar,Gibraltár,3144,usd
+2020-01-01,2020,imp.GR,imp,Import,Import,Import,GR,Greece,Grecia,Görögország,1280000000,usd
+2020-01-01,2020,imp.HR,imp,Import,Import,Import,HR,Croatia,Croația,Horvátország,311000000,usd
+2020-01-01,2020,imp.IT,imp,Import,Import,Import,IT,Italy,Italia,Olaszország,8210000000,usd
+2020-01-01,2020,imp.MK,imp,Import,Import,Import,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,124000000,usd
+2020-01-01,2020,imp.MT,imp,Import,Import,Import,MT,Malta,Malta,Málta,29774298,usd
+2020-01-01,2020,imp.ME,imp,Import,Import,Import,ME,Montenegro,Muntenegru,Montenegró,1439366,usd
+2020-01-01,2020,imp.PT,imp,Import,Import,Import,PT,Portugal,Portugalia,Portugália,547000000,usd
+2020-01-01,2020,imp.SM,imp,Import,Import,Import,SM,San Marino,San Marino,San Marino,14799773,usd
+2020-01-01,2020,imp.RS,imp,Import,Import,Import,RS,Serbia,Serbia,Szerbia,1320000000,usd
+2020-01-01,2020,imp.SI,imp,Import,Import,Import,SI,Slovenia,Slovenia,Szlovénia,689000000,usd
+2020-01-01,2020,imp.AT,imp,Import,Import,Import,AT,Austria,Austria,Ausztria,2930000000,usd
+2020-01-01,2020,imp.BE,imp,Import,Import,Import,BE,Belgium,Belgia,Belgium,2290000000,usd
+2020-01-01,2020,imp.CH,imp,Import,Import,Import,CH,Switzerland,Elveția,Svájc,1190000000,usd
+2020-01-01,2020,imp.DE,imp,Import,Import,Import,DE,Germany,Germania,Németország,18800000000,usd
+2020-01-01,2020,imp.FR,imp,Import,Import,Import,FR,France,Franța,Franciaország,4320000000,usd
+2020-01-01,2020,imp.LU,imp,Import,Import,Import,LU,Luxembourg,Luxemburg,Luxemburg,114000000,usd
+2020-01-01,2020,imp.NL,imp,Import,Import,Import,NL,Netherlands,Țările de Jos,Hollandia,3560000000,usd
+2020-01-01,2020,imp.AG,imp,Import,Import,Import,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,280,usd
+2020-01-01,2020,imp.BB,imp,Import,Import,Import,BB,Barbados,Barbados,Barbados,110271,usd
+2020-01-01,2020,imp.CU,imp,Import,Import,Import,CU,Cuba,Cuba,Kuba,7048924,usd
+2020-01-01,2020,imp.CW,imp,Import,Import,Import,CW,Curaçao,Curaçao,Curaçao,784,usd
+2020-01-01,2020,imp.DM,imp,Import,Import,Import,DM,Dominica,Dominica,Dominika,142,usd
+2020-01-01,2020,imp.DO,imp,Import,Import,Import,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,1006272,usd
+2020-01-01,2020,imp.HT,imp,Import,Import,Import,HT,Haiti,Haiti,Haiti,23396,usd
+2020-01-01,2020,imp.LC,imp,Import,Import,Import,LC,Saint Lucia,Saint Lucia,Saint Lucia,4311,usd
+2020-01-01,2020,imp.MS,imp,Import,Import,Import,MS,Montserrat,Montserrat,Montserrat,892,usd
+2020-01-01,2020,imp.TT,imp,Import,Import,Import,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,58440,usd
+2020-01-01,2020,imp.BZ,imp,Import,Import,Import,BZ,Belize,Belize,Belize,798,usd
+2020-01-01,2020,imp.CR,imp,Import,Import,Import,CR,Costa Rica,Costa Rica,Costa Rica,9205539,usd
+2020-01-01,2020,imp.GT,imp,Import,Import,Import,GT,Guatemala,Guatemala,Guatemala,5680969,usd
+2020-01-01,2020,imp.HN,imp,Import,Import,Import,HN,Honduras,Honduras,Honduras,1041242,usd
+2020-01-01,2020,imp.MX,imp,Import,Import,Import,MX,Mexico,Mexic,Mexikó,85428664,usd
+2020-01-01,2020,imp.NI,imp,Import,Import,Import,NI,Nicaragua,Nicaragua,Nicaragua,436619,usd
+2020-01-01,2020,imp.PA,imp,Import,Import,Import,PA,Panama,Panama,Panama,3599730,usd
+2020-01-01,2020,imp.SV,imp,Import,Import,Import,SV,El Salvador,El Salvador,Salvador,83249,usd
+2020-01-01,2020,imp.CA,imp,Import,Import,Import,CA,Canada,Canada,Kanada,105000000,usd
+2020-01-01,2020,imp.US,imp,Import,Import,Import,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,1040000000,usd
+2020-01-01,2020,imp.AU,imp,Import,Import,Import,AU,Australia,Australia,Ausztrália,23569128,usd
+2020-01-01,2020,imp.NZ,imp,Import,Import,Import,NZ,New Zealand,Noua Zeelandă,Új-Zéland,4885100,usd
+2020-01-01,2020,imp.FJ,imp,Import,Import,Import,FJ,Fiji,Fiji,Fidzsi,93,usd
+2020-01-01,2020,imp.PG,imp,Import,Import,Import,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,901299,usd
+2020-01-01,2020,imp.PF,imp,Import,Import,Import,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,516,usd
+2020-01-01,2020,imp.AR,imp,Import,Import,Import,AR,Argentina,Argentina,Argentína,73318732,usd
+2020-01-01,2020,imp.BO,imp,Import,Import,Import,BO,Bolivia,Bolivia,Bolívia,131712,usd
+2020-01-01,2020,imp.BR,imp,Import,Import,Import,BR,Brazil,Brazilia,Brazília,302000000,usd
+2020-01-01,2020,imp.CL,imp,Import,Import,Import,CL,Chile,Chile,Chile,11307645,usd
+2020-01-01,2020,imp.CO,imp,Import,Import,Import,CO,Colombia,Columbia,Kolumbia,11618948,usd
+2020-01-01,2020,imp.EC,imp,Import,Import,Import,EC,Ecuador,Ecuador,Ecuador,8284451,usd
+2020-01-01,2020,imp.GY,imp,Import,Import,Import,GY,Guyana,Guyana,Guyana,395495,usd
+2020-01-01,2020,imp.PE,imp,Import,Import,Import,PE,Peru,Peru,Peru,15836501,usd
+2020-01-01,2020,imp.PY,imp,Import,Import,Import,PY,Paraguay,Paraguay,Paraguay,311742,usd
+2020-01-01,2020,imp.SR,imp,Import,Import,Import,SR,Suriname,Surinam,Suriname,1814,usd
+2020-01-01,2020,imp.UY,imp,Import,Import,Import,UY,Uruguay,Uruguay,Uruguay,4416744,usd
+2020-01-01,2020,imp.VE,imp,Import,Import,Import,VE,Venezuela,Venezuela,Venezuela,4970774,usd
+2020-01-01,2020,exp.BW,exp,Export,Export,Export,BW,Botswana,Botswana,Botswana,2251650,usd
+2020-01-01,2020,exp.DM,exp,Export,Export,Export,DM,Dominica,Dominica,Dominika,16146,usd
+2020-01-01,2020,exp.VC,exp,Export,Export,Export,VC,Saint Vincent and the Grenadines,Saint Vincent și Grenadine,Saint Vincent és a Grenadine-szigetek,52798,usd
+2020-01-01,2020,exp.PM,exp,Export,Export,Export,PM,Saint Pierre and Miquelon,Saint-Pierre și Miquelon,Saint-Pierre és Miquelon,107245,usd
+2020-01-01,2020,exp.TL,exp,Export,Export,Export,TL,Timor-Leste,Timorul de Est,Kelet-Timor,5972,usd
+2020-01-01,2020,exp.BQ,exp,Export,Export,Export,BQ,Bonaire,Bonaire,Bonaire,820,usd
+2020-01-01,2020,exp.TO,exp,Export,Export,Export,TO,Tonga,Tonga,Tonga,13246,usd
+2020-01-01,2020,imp.LS,imp,Import,Import,Import,LS,Lesotho,Lesotho,Lesotho,304,usd
+2020-01-01,2020,exp.BT,exp,Export,Export,Export,BT,Bhutan,Bhutan,Bhután,734,usd
+2021-01-01,2021,exp.DZ,exp,Export,Export,Export,DZ,Algeria,Algeria,Algéria,56658627,usd
+2021-01-01,2021,exp.EG,exp,Export,Export,Export,EG,Egypt,Egipt,Egyiptom,914000000,usd
+2021-01-01,2021,exp.LY,exp,Export,Export,Export,LY,Libya,Libia,Líbia,100000000,usd
+2021-01-01,2021,exp.MA,exp,Export,Export,Export,MA,Morocco,Maroc,Marokkó,810000000,usd
+2021-01-01,2021,exp.SD,exp,Export,Export,Export,SD,Sudan,Sudan,Szudán,118000000,usd
+2021-01-01,2021,exp.TN,exp,Export,Export,Export,TN,Tunisia,Tunisia,Tunézia,319000000,usd
+2021-01-01,2021,exp.BI,exp,Export,Export,Export,BI,Burundi,Burundi,Burundi,83523,usd
+2021-01-01,2021,exp.KM,exp,Export,Export,Export,KM,Comoros,Comore,Comore-szigetek,163873,usd
+2021-01-01,2021,exp.DJ,exp,Export,Export,Export,DJ,Djibouti,Djibouti,Dzsibuti,1197001,usd
+2021-01-01,2021,exp.ET,exp,Export,Export,Export,ET,Ethiopia,Etiopia,Etiópia,81954130,usd
+2021-01-01,2021,exp.KE,exp,Export,Export,Export,KE,Kenya,Kenya,Kenya,26975073,usd
+2021-01-01,2021,exp.MG,exp,Export,Export,Export,MG,Madagascar,Madagascar,Madagaszkár,1804449,usd
+2021-01-01,2021,exp.MZ,exp,Export,Export,Export,MZ,Mozambique,Mozambic,Mozambik,3185419,usd
+2021-01-01,2021,exp.MU,exp,Export,Export,Export,MU,Mauritius,Mauritius,Mauritius,2554618,usd
+2021-01-01,2021,exp.MW,exp,Export,Export,Export,MW,Malawi,Malawi,Malawi,1467462,usd
+2021-01-01,2021,exp.RW,exp,Export,Export,Export,RW,Rwanda,Rwanda,Ruanda,49154,usd
+2021-01-01,2021,exp.SO,exp,Export,Export,Export,SO,Somalia,Somalia,Szomália,391234,usd
+2021-01-01,2021,exp.SS,exp,Export,Export,Export,SS,South Sudan,Sudanul de Sud,Dél-Szudán,26135,usd
+2021-01-01,2021,exp.SC,exp,Export,Export,Export,SC,Seychelles,Seychelles,Seychelle-szigetek,111786,usd
+2021-01-01,2021,exp.TZ,exp,Export,Export,Export,TZ,Tanzania,Tanzania,Tanzánia,13174232,usd
+2021-01-01,2021,exp.UG,exp,Export,Export,Export,UG,Uganda,Uganda,Uganda,2434083,usd
+2021-01-01,2021,exp.AO,exp,Export,Export,Export,AO,Angola,Angola,Angola,10844798,usd
+2021-01-01,2021,exp.CF,exp,Export,Export,Export,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,95878,usd
+2021-01-01,2021,exp.CM,exp,Export,Export,Export,CM,Cameroon,Camerun,Kamerun,6857756,usd
+2021-01-01,2021,exp.CD,exp,Export,Export,Export,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,224303,usd
+2021-01-01,2021,exp.CG,exp,Export,Export,Export,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,2971255,usd
+2021-01-01,2021,exp.GA,exp,Export,Export,Export,GA,Gabon,Gabon,Gabon,6844139,usd
+2021-01-01,2021,exp.GQ,exp,Export,Export,Export,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,92777,usd
+2021-01-01,2021,exp.TD,exp,Export,Export,Export,TD,Chad,Ciad,Csád,91697,usd
+2021-01-01,2021,exp.LS,exp,Export,Export,Export,LS,Lesotho,Lesotho,Lesotho,920,usd
+2021-01-01,2021,exp.NA,exp,Export,Export,Export,NA,Namibia,Namibia,Namíbia,159000000,usd
+2021-01-01,2021,exp.SZ,exp,Export,Export,Export,SZ,Eswatini,Eswatini,Eswatini,72860,usd
+2021-01-01,2021,exp.ZA,exp,Export,Export,Export,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,265000000,usd
+2021-01-01,2021,exp.ZM,exp,Export,Export,Export,ZM,Zambia,Zambia,Zambia,605205,usd
+2021-01-01,2021,exp.ZW,exp,Export,Export,Export,ZW,Zimbabwe,Zimbabwe,Zimbabwe,20455,usd
+2021-01-01,2021,exp.BJ,exp,Export,Export,Export,BJ,Benin,Benin,Benin,520745,usd
+2021-01-01,2021,exp.BF,exp,Export,Export,Export,BF,Burkina Faso,Burkina Faso,Burkina Faso,3158371,usd
+2021-01-01,2021,exp.CI,exp,Export,Export,Export,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,18528738,usd
+2021-01-01,2021,exp.CV,exp,Export,Export,Export,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,1278182,usd
+2021-01-01,2021,exp.GH,exp,Export,Export,Export,GH,Ghana,Ghana,Ghána,7434980,usd
+2021-01-01,2021,exp.GN,exp,Export,Export,Export,GN,Guinea,Guineea,Guinea,321938,usd
+2021-01-01,2021,exp.GM,exp,Export,Export,Export,GM,Gambia,Gambia,Gambia,285500,usd
+2021-01-01,2021,exp.GW,exp,Export,Export,Export,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,95606,usd
+2021-01-01,2021,exp.LR,exp,Export,Export,Export,LR,Liberia,Liberia,Libéria,1041300,usd
+2021-01-01,2021,exp.ML,exp,Export,Export,Export,ML,Mali,Mali,Mali,355846,usd
+2021-01-01,2021,exp.MR,exp,Export,Export,Export,MR,Mauritania,Mauritania,Mauritánia,6495705,usd
+2021-01-01,2021,exp.NE,exp,Export,Export,Export,NE,Niger,Niger,Niger,2223588,usd
+2021-01-01,2021,exp.NG,exp,Export,Export,Export,NG,Nigeria,Nigeria,Nigéria,37395524,usd
+2021-01-01,2021,exp.SN,exp,Export,Export,Export,SN,Senegal,Senegal,Szenegál,9662874,usd
+2021-01-01,2021,exp.SL,exp,Export,Export,Export,SL,Sierra Leone,Sierra Leone,Sierra Leone,768125,usd
+2021-01-01,2021,exp.TG,exp,Export,Export,Export,TG,Togo,Togo,Togo,1381589,usd
+2021-01-01,2021,exp.KZ,exp,Export,Export,Export,KZ,Kazakhstan,Kazahstan,Kazahsztán,40413511,usd
+2021-01-01,2021,exp.KG,exp,Export,Export,Export,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,3288129,usd
+2021-01-01,2021,exp.TJ,exp,Export,Export,Export,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,409645,usd
+2021-01-01,2021,exp.TM,exp,Export,Export,Export,TM,Turkmenistan,Turkmenistan,Türkmenisztán,1562220,usd
+2021-01-01,2021,exp.UZ,exp,Export,Export,Export,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,20789453,usd
+2021-01-01,2021,exp.CN,exp,Export,Export,Export,CN,China,China,Kína,2340000000,usd
+2021-01-01,2021,exp.HK,exp,Export,Export,Export,HK,Hong Kong,Hong Kong,Hongkong,80632060,usd
+2021-01-01,2021,exp.JP,exp,Export,Export,Export,JP,Japan,Japonia,Japán,816000000,usd
+2021-01-01,2021,exp.KR,exp,Export,Export,Export,KR,South Korea,Coreea de Sud,Dél-Korea,614000000,usd
+2021-01-01,2021,exp.MO,exp,Export,Export,Export,MO,Macau,Macao,Makaó,11623092,usd
+2021-01-01,2021,exp.MN,exp,Export,Export,Export,MN,Mongolia,Mongolia,Mongólia,7932113,usd
+2021-01-01,2021,exp.TW,exp,Export,Export,Export,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,128000000,usd
+2021-01-01,2021,exp.BN,exp,Export,Export,Export,BN,Brunei,Brunei,Brunei,734094,usd
+2021-01-01,2021,exp.ID,exp,Export,Export,Export,ID,Indonesia,Indonezia,Indonézia,41366288,usd
+2021-01-01,2021,exp.KH,exp,Export,Export,Export,KH,Cambodia,Cambodgia,Kambodzsa,5306322,usd
+2021-01-01,2021,exp.LA,exp,Export,Export,Export,LA,Laos,Laos,Laosz,425878,usd
+2021-01-01,2021,exp.MM,exp,Export,Export,Export,MM,Myanmar,Myanmar,Mianmar,2016056,usd
+2021-01-01,2021,exp.MY,exp,Export,Export,Export,MY,Malaysia,Malaezia,Malajzia,63656300,usd
+2021-01-01,2021,exp.PH,exp,Export,Export,Export,PH,Philippines,Filipine,Fülöp-szigetek,27429173,usd
+2021-01-01,2021,exp.SG,exp,Export,Export,Export,SG,Singapore,Singapore,Szingapúr,162000000,usd
+2021-01-01,2021,exp.TH,exp,Export,Export,Export,TH,Thailand,Thailanda,Thaiföld,135000000,usd
+2021-01-01,2021,exp.VN,exp,Export,Export,Export,VN,Vietnam,Vietnam,Vietnám,145000000,usd
+2021-01-01,2021,exp.AF,exp,Export,Export,Export,AF,Afghanistan,Afganistan,Afganisztán,917787,usd
+2021-01-01,2021,exp.BD,exp,Export,Export,Export,BD,Bangladesh,Bangladesh,Banglades,3551607,usd
+2021-01-01,2021,exp.IN,exp,Export,Export,Export,IN,India,India,India,303000000,usd
+2021-01-01,2021,exp.IR,exp,Export,Export,Export,IR,Iran,Iran,Irán,415000000,usd
+2021-01-01,2021,exp.LK,exp,Export,Export,Export,LK,Sri Lanka,Sri Lanka,Srí Lanka,49862455,usd
+2021-01-01,2021,exp.MV,exp,Export,Export,Export,MV,Maldives,Maldive,Maldív-szigetek,284756,usd
+2021-01-01,2021,exp.NP,exp,Export,Export,Export,NP,Nepal,Nepal,Nepál,681711,usd
+2021-01-01,2021,exp.PK,exp,Export,Export,Export,PK,Pakistan,Pakistan,Pakisztán,83014813,usd
+2021-01-01,2021,exp.AE,exp,Export,Export,Export,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,476000000,usd
+2021-01-01,2021,exp.AM,exp,Export,Export,Export,AM,Armenia,Armenia,Örményország,20086592,usd
+2021-01-01,2021,exp.AZ,exp,Export,Export,Export,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,101000000,usd
+2021-01-01,2021,exp.BH,exp,Export,Export,Export,BH,Bahrain,Bahrain,Bahrein,16671072,usd
+2021-01-01,2021,exp.GE,exp,Export,Export,Export,GE,Georgia,Georgia,Grúzia,187000000,usd
+2021-01-01,2021,exp.IQ,exp,Export,Export,Export,IQ,Iraq,Irak,Irak,147000000,usd
+2021-01-01,2021,exp.IL,exp,Export,Export,Export,IL,Israel,Israel,Izrael,570000000,usd
+2021-01-01,2021,exp.JO,exp,Export,Export,Export,JO,Jordan,Iordania,Jordánia,749000000,usd
+2021-01-01,2021,exp.KW,exp,Export,Export,Export,KW,Kuwait,Kuweit,Kuvait,93131347,usd
+2021-01-01,2021,exp.LB,exp,Export,Export,Export,LB,Lebanon,Liban,Libanon,168000000,usd
+2021-01-01,2021,exp.OM,exp,Export,Export,Export,OM,Oman,Oman,Omán,46391130,usd
+2021-01-01,2021,exp.PS,exp,Export,Export,Export,PS,Palestine,Palestina,Palesztina,12579851,usd
+2021-01-01,2021,exp.QA,exp,Export,Export,Export,QA,Qatar,Qatar,Katar,82919194,usd
+2021-01-01,2021,exp.SA,exp,Export,Export,Export,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,523000000,usd
+2021-01-01,2021,exp.SY,exp,Export,Export,Export,SY,Syria,Siria,Szíria,18636557,usd
+2021-01-01,2021,exp.TR,exp,Export,Export,Export,TR,Turkey,Turcia,Törökország,3420000000,usd
+2021-01-01,2021,exp.YE,exp,Export,Export,Export,YE,Yemen,Yemen,Jemen,16549731,usd
+2021-01-01,2021,exp.CY,exp,Export,Export,Export,CY,Cyprus,Cipru,Ciprus,172000000,usd
+2021-01-01,2021,exp.BG,exp,Export,Export,Export,BG,Bulgaria,Bulgaria,Bulgária,3370000000,usd
+2021-01-01,2021,exp.BY,exp,Export,Export,Export,BY,Belarus,Belarus,Fehéroroszország,56820430,usd
+2021-01-01,2021,exp.CZ,exp,Export,Export,Export,CZ,Czechia,Cehia,Csehország,2880000000,usd
+2021-01-01,2021,exp.HU,exp,Export,Export,Export,HU,Hungary,Ungaria,Magyarország,4120000000,usd
+2021-01-01,2021,exp.MD,exp,Export,Export,Export,MD,Moldova,Moldova,Moldova,1100000000,usd
+2021-01-01,2021,exp.PL,exp,Export,Export,Export,PL,Poland,Polonia,Lengyelország,3520000000,usd
+2021-01-01,2021,exp.RU,exp,Export,Export,Export,RU,Russia,Rusia,Oroszország,1550000000,usd
+2021-01-01,2021,exp.SK,exp,Export,Export,Export,SK,Slovakia,Slovacia,Szlovákia,1900000000,usd
+2021-01-01,2021,exp.UA,exp,Export,Export,Export,UA,Ukraine,Ucraina,Ukrajna,854000000,usd
+2021-01-01,2021,exp.DK,exp,Export,Export,Export,DK,Denmark,Danemarca,Dánia,408000000,usd
+2021-01-01,2021,exp.EE,exp,Export,Export,Export,EE,Estonia,Estonia,Észtország,94804740,usd
+2021-01-01,2021,exp.FI,exp,Export,Export,Export,FI,Finland,Finlanda,Finnország,355000000,usd
+2021-01-01,2021,exp.GB,exp,Export,Export,Export,GB,United Kingdom,Regatul Unit,Egyesült Királyság,2720000000,usd
+2021-01-01,2021,exp.IE,exp,Export,Export,Export,IE,Ireland,Irlanda,Írország,185000000,usd
+2021-01-01,2021,exp.IS,exp,Export,Export,Export,IS,Iceland,Islanda,Izland,16094939,usd
+2021-01-01,2021,exp.LT,exp,Export,Export,Export,LT,Lithuania,Lituania,Litvánia,175000000,usd
+2021-01-01,2021,exp.LV,exp,Export,Export,Export,LV,Latvia,Letonia,Lettország,69197330,usd
+2021-01-01,2021,exp.NO,exp,Export,Export,Export,NO,Norway,Norvegia,Norvégia,902000000,usd
+2021-01-01,2021,exp.SE,exp,Export,Export,Export,SE,Sweden,Suedia,Svédország,674000000,usd
+2021-01-01,2021,exp.AL,exp,Export,Export,Export,AL,Albania,Albania,Albánia,72951955,usd
+2021-01-01,2021,exp.AD,exp,Export,Export,Export,AD,Andorra,Andorra,Andorra,1758380,usd
+2021-01-01,2021,exp.BA,exp,Export,Export,Export,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,137000000,usd
+2021-01-01,2021,exp.ES,exp,Export,Export,Export,ES,Spain,Spania,Spanyolország,2570000000,usd
+2021-01-01,2021,exp.GI,exp,Export,Export,Export,GI,Gibraltar,Gibraltar,Gibraltár,180000000,usd
+2021-01-01,2021,exp.GR,exp,Export,Export,Export,GR,Greece,Grecia,Görögország,1010000000,usd
+2021-01-01,2021,exp.HR,exp,Export,Export,Export,HR,Croatia,Croația,Horvátország,372000000,usd
+2021-01-01,2021,exp.IT,exp,Export,Export,Export,IT,Italy,Italia,Olaszország,8070000000,usd
+2021-01-01,2021,exp.MK,exp,Export,Export,Export,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,304000000,usd
+2021-01-01,2021,exp.MT,exp,Export,Export,Export,MT,Malta,Malta,Málta,12378535,usd
+2021-01-01,2021,exp.ME,exp,Export,Export,Export,ME,Montenegro,Muntenegru,Montenegró,43419029,usd
+2021-01-01,2021,exp.PT,exp,Export,Export,Export,PT,Portugal,Portugalia,Portugália,408000000,usd
+2021-01-01,2021,exp.SM,exp,Export,Export,Export,SM,San Marino,San Marino,San Marino,18372158,usd
+2021-01-01,2021,exp.RS,exp,Export,Export,Export,RS,Serbia,Serbia,Szerbia,988000000,usd
+2021-01-01,2021,exp.SI,exp,Export,Export,Export,SI,Slovenia,Slovenia,Szlovénia,613000000,usd
+2021-01-01,2021,exp.AT,exp,Export,Export,Export,AT,Austria,Austria,Ausztria,2530000000,usd
+2021-01-01,2021,exp.BE,exp,Export,Export,Export,BE,Belgium,Belgia,Belgium,1700000000,usd
+2021-01-01,2021,exp.CH,exp,Export,Export,Export,CH,Switzerland,Elveția,Svájc,963000000,usd
+2021-01-01,2021,exp.DE,exp,Export,Export,Export,DE,Germany,Germania,Németország,17300000000,usd
+2021-01-01,2021,exp.FR,exp,Export,Export,Export,FR,France,Franța,Franciaország,5120000000,usd
+2021-01-01,2021,exp.LU,exp,Export,Export,Export,LU,Luxembourg,Luxemburg,Luxemburg,51029540,usd
+2021-01-01,2021,exp.NL,exp,Export,Export,Export,NL,Netherlands,Țările de Jos,Hollandia,2640000000,usd
+2021-01-01,2021,exp.AW,exp,Export,Export,Export,AW,Aruba,Aruba,Aruba,84612,usd
+2021-01-01,2021,exp.AG,exp,Export,Export,Export,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,32972,usd
+2021-01-01,2021,exp.BS,exp,Export,Export,Export,BS,Bahamas,Bahamas,Bahama-szigetek,96188,usd
+2021-01-01,2021,exp.BL,exp,Export,Export,Export,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,26028,usd
+2021-01-01,2021,exp.BB,exp,Export,Export,Export,BB,Barbados,Barbados,Barbados,49544,usd
+2021-01-01,2021,exp.CU,exp,Export,Export,Export,CU,Cuba,Cuba,Kuba,672321,usd
+2021-01-01,2021,exp.CW,exp,Export,Export,Export,CW,Curaçao,Curaçao,Curaçao,125457,usd
+2021-01-01,2021,exp.KY,exp,Export,Export,Export,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,3254,usd
+2021-01-01,2021,exp.DO,exp,Export,Export,Export,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,8652168,usd
+2021-01-01,2021,exp.HT,exp,Export,Export,Export,HT,Haiti,Haiti,Haiti,47043,usd
+2021-01-01,2021,exp.JM,exp,Export,Export,Export,JM,Jamaica,Jamaica,Jamaica,97362,usd
+2021-01-01,2021,exp.LC,exp,Export,Export,Export,LC,Saint Lucia,Saint Lucia,Saint Lucia,32718,usd
+2021-01-01,2021,exp.MS,exp,Export,Export,Export,MS,Montserrat,Montserrat,Montserrat,29210,usd
+2021-01-01,2021,exp.TC,exp,Export,Export,Export,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,145055,usd
+2021-01-01,2021,exp.TT,exp,Export,Export,Export,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,405352,usd
+2021-01-01,2021,exp.VG,exp,Export,Export,Export,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,21865,usd
+2021-01-01,2021,exp.BZ,exp,Export,Export,Export,BZ,Belize,Belize,Belize,157857,usd
+2021-01-01,2021,exp.CR,exp,Export,Export,Export,CR,Costa Rica,Costa Rica,Costa Rica,4623687,usd
+2021-01-01,2021,exp.GT,exp,Export,Export,Export,GT,Guatemala,Guatemala,Guatemala,14843553,usd
+2021-01-01,2021,exp.HN,exp,Export,Export,Export,HN,Honduras,Honduras,Honduras,4399947,usd
+2021-01-01,2021,exp.MX,exp,Export,Export,Export,MX,Mexico,Mexic,Mexikó,312000000,usd
+2021-01-01,2021,exp.NI,exp,Export,Export,Export,NI,Nicaragua,Nicaragua,Nicaragua,967886,usd
+2021-01-01,2021,exp.PA,exp,Export,Export,Export,PA,Panama,Panama,Panama,1737599,usd
+2021-01-01,2021,exp.SV,exp,Export,Export,Export,SV,El Salvador,El Salvador,Salvador,1237893,usd
+2021-01-01,2021,exp.BM,exp,Export,Export,Export,BM,Bermuda,Bermuda,Bermuda,81737,usd
+2021-01-01,2021,exp.CA,exp,Export,Export,Export,CA,Canada,Canada,Kanada,580000000,usd
+2021-01-01,2021,exp.US,exp,Export,Export,Export,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,3010000000,usd
+2021-01-01,2021,exp.AU,exp,Export,Export,Export,AU,Australia,Australia,Ausztrália,210000000,usd
+2021-01-01,2021,exp.NZ,exp,Export,Export,Export,NZ,New Zealand,Noua Zeelandă,Új-Zéland,82331165,usd
+2021-01-01,2021,exp.FJ,exp,Export,Export,Export,FJ,Fiji,Fiji,Fidzsi,25546,usd
+2021-01-01,2021,exp.NC,exp,Export,Export,Export,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,4303290,usd
+2021-01-01,2021,exp.PG,exp,Export,Export,Export,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,378926,usd
+2021-01-01,2021,exp.GU,exp,Export,Export,Export,GU,Guam,Guam,Guam,121376,usd
+2021-01-01,2021,exp.MH,exp,Export,Export,Export,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,891986,usd
+2021-01-01,2021,exp.PF,exp,Export,Export,Export,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,5458825,usd
+2021-01-01,2021,exp.AR,exp,Export,Export,Export,AR,Argentina,Argentina,Argentína,89394675,usd
+2021-01-01,2021,exp.BO,exp,Export,Export,Export,BO,Bolivia,Bolivia,Bolívia,4059806,usd
+2021-01-01,2021,exp.BR,exp,Export,Export,Export,BR,Brazil,Brazilia,Brazília,310000000,usd
+2021-01-01,2021,exp.CL,exp,Export,Export,Export,CL,Chile,Chile,Chile,54300654,usd
+2021-01-01,2021,exp.CO,exp,Export,Export,Export,CO,Colombia,Columbia,Kolumbia,99769784,usd
+2021-01-01,2021,exp.EC,exp,Export,Export,Export,EC,Ecuador,Ecuador,Ecuador,20417395,usd
+2021-01-01,2021,exp.GY,exp,Export,Export,Export,GY,Guyana,Guyana,Guyana,343932,usd
+2021-01-01,2021,exp.PE,exp,Export,Export,Export,PE,Peru,Peru,Peru,24067014,usd
+2021-01-01,2021,exp.PY,exp,Export,Export,Export,PY,Paraguay,Paraguay,Paraguay,4232340,usd
+2021-01-01,2021,exp.SR,exp,Export,Export,Export,SR,Suriname,Surinam,Suriname,105819,usd
+2021-01-01,2021,exp.UY,exp,Export,Export,Export,UY,Uruguay,Uruguay,Uruguay,16216542,usd
+2021-01-01,2021,exp.VE,exp,Export,Export,Export,VE,Venezuela,Venezuela,Venezuela,113674,usd
+2021-01-01,2021,imp.DZ,imp,Import,Import,Import,DZ,Algeria,Algeria,Algéria,43342919,usd
+2021-01-01,2021,imp.EG,imp,Import,Import,Import,EG,Egypt,Egipt,Egyiptom,290000000,usd
+2021-01-01,2021,imp.LY,imp,Import,Import,Import,LY,Libya,Libia,Líbia,13997775,usd
+2021-01-01,2021,imp.MA,imp,Import,Import,Import,MA,Morocco,Maroc,Marokkó,347000000,usd
+2021-01-01,2021,imp.SD,imp,Import,Import,Import,SD,Sudan,Sudan,Szudán,7986,usd
+2021-01-01,2021,imp.TN,imp,Import,Import,Import,TN,Tunisia,Tunisia,Tunézia,219000000,usd
+2021-01-01,2021,imp.BI,imp,Import,Import,Import,BI,Burundi,Burundi,Burundi,759,usd
+2021-01-01,2021,imp.DJ,imp,Import,Import,Import,DJ,Djibouti,Djibouti,Dzsibuti,933591,usd
+2021-01-01,2021,imp.ET,imp,Import,Import,Import,ET,Ethiopia,Etiopia,Etiópia,308179,usd
+2021-01-01,2021,imp.KE,imp,Import,Import,Import,KE,Kenya,Kenya,Kenya,6582203,usd
+2021-01-01,2021,imp.MG,imp,Import,Import,Import,MG,Madagascar,Madagascar,Madagaszkár,1754619,usd
+2021-01-01,2021,imp.MZ,imp,Import,Import,Import,MZ,Mozambique,Mozambic,Mozambik,3809396,usd
+2021-01-01,2021,imp.MU,imp,Import,Import,Import,MU,Mauritius,Mauritius,Mauritius,839720,usd
+2021-01-01,2021,imp.MW,imp,Import,Import,Import,MW,Malawi,Malawi,Malawi,57097,usd
+2021-01-01,2021,imp.RW,imp,Import,Import,Import,RW,Rwanda,Rwanda,Ruanda,158,usd
+2021-01-01,2021,imp.SC,imp,Import,Import,Import,SC,Seychelles,Seychelles,Seychelle-szigetek,104286,usd
+2021-01-01,2021,imp.TZ,imp,Import,Import,Import,TZ,Tanzania,Tanzania,Tanzánia,5726198,usd
+2021-01-01,2021,imp.UG,imp,Import,Import,Import,UG,Uganda,Uganda,Uganda,5054999,usd
+2021-01-01,2021,imp.AO,imp,Import,Import,Import,AO,Angola,Angola,Angola,213298,usd
+2021-01-01,2021,imp.CM,imp,Import,Import,Import,CM,Cameroon,Camerun,Kamerun,1867176,usd
+2021-01-01,2021,imp.CD,imp,Import,Import,Import,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,375759,usd
+2021-01-01,2021,imp.CG,imp,Import,Import,Import,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,57718,usd
+2021-01-01,2021,imp.GA,imp,Import,Import,Import,GA,Gabon,Gabon,Gabon,41434,usd
+2021-01-01,2021,imp.TD,imp,Import,Import,Import,TD,Chad,Ciad,Csád,1675,usd
+2021-01-01,2021,imp.BW,imp,Import,Import,Import,BW,Botswana,Botswana,Botswana,727,usd
+2021-01-01,2021,imp.NA,imp,Import,Import,Import,NA,Namibia,Namibia,Namíbia,136188,usd
+2021-01-01,2021,imp.SZ,imp,Import,Import,Import,SZ,Eswatini,Eswatini,Eswatini,831563,usd
+2021-01-01,2021,imp.ZA,imp,Import,Import,Import,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,94609289,usd
+2021-01-01,2021,imp.ZM,imp,Import,Import,Import,ZM,Zambia,Zambia,Zambia,34355,usd
+2021-01-01,2021,imp.ZW,imp,Import,Import,Import,ZW,Zimbabwe,Zimbabwe,Zimbabwe,6603873,usd
+2021-01-01,2021,imp.BJ,imp,Import,Import,Import,BJ,Benin,Benin,Benin,84794,usd
+2021-01-01,2021,imp.BF,imp,Import,Import,Import,BF,Burkina Faso,Burkina Faso,Burkina Faso,8363,usd
+2021-01-01,2021,imp.CI,imp,Import,Import,Import,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,24533619,usd
+2021-01-01,2021,imp.CV,imp,Import,Import,Import,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,217793,usd
+2021-01-01,2021,imp.GH,imp,Import,Import,Import,GH,Ghana,Ghana,Ghána,2616317,usd
+2021-01-01,2021,imp.GN,imp,Import,Import,Import,GN,Guinea,Guineea,Guinea,172011,usd
+2021-01-01,2021,imp.LR,imp,Import,Import,Import,LR,Liberia,Liberia,Libéria,2373909,usd
+2021-01-01,2021,imp.ML,imp,Import,Import,Import,ML,Mali,Mali,Mali,339,usd
+2021-01-01,2021,imp.MR,imp,Import,Import,Import,MR,Mauritania,Mauritania,Mauritánia,852,usd
+2021-01-01,2021,imp.NE,imp,Import,Import,Import,NE,Niger,Niger,Niger,6638,usd
+2021-01-01,2021,imp.NG,imp,Import,Import,Import,NG,Nigeria,Nigeria,Nigéria,4991912,usd
+2021-01-01,2021,imp.SN,imp,Import,Import,Import,SN,Senegal,Senegal,Szenegál,80814,usd
+2021-01-01,2021,imp.SL,imp,Import,Import,Import,SL,Sierra Leone,Sierra Leone,Sierra Leone,67009811,usd
+2021-01-01,2021,imp.TG,imp,Import,Import,Import,TG,Togo,Togo,Togo,1772,usd
+2021-01-01,2021,imp.KZ,imp,Import,Import,Import,KZ,Kazakhstan,Kazahstan,Kazahsztán,1490000000,usd
+2021-01-01,2021,imp.KG,imp,Import,Import,Import,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,492322,usd
+2021-01-01,2021,imp.TJ,imp,Import,Import,Import,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,54,usd
+2021-01-01,2021,imp.TM,imp,Import,Import,Import,TM,Turkmenistan,Turkmenistan,Türkmenisztán,17122679,usd
+2021-01-01,2021,imp.UZ,imp,Import,Import,Import,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,7472408,usd
+2021-01-01,2021,imp.CN,imp,Import,Import,Import,CN,China,China,Kína,6530000000,usd
+2021-01-01,2021,imp.HK,imp,Import,Import,Import,HK,Hong Kong,Hong Kong,Hongkong,675000000,usd
+2021-01-01,2021,imp.JP,imp,Import,Import,Import,JP,Japan,Japonia,Japán,455000000,usd
+2021-01-01,2021,imp.KR,imp,Import,Import,Import,KR,South Korea,Coreea de Sud,Dél-Korea,553000000,usd
+2021-01-01,2021,imp.MO,imp,Import,Import,Import,MO,Macau,Macao,Makaó,13229448,usd
+2021-01-01,2021,imp.MN,imp,Import,Import,Import,MN,Mongolia,Mongolia,Mongólia,16050,usd
+2021-01-01,2021,imp.TW,imp,Import,Import,Import,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,311000000,usd
+2021-01-01,2021,imp.BN,imp,Import,Import,Import,BN,Brunei,Brunei,Brunei,2531,usd
+2021-01-01,2021,imp.ID,imp,Import,Import,Import,ID,Indonesia,Indonezia,Indonézia,137000000,usd
+2021-01-01,2021,imp.KH,imp,Import,Import,Import,KH,Cambodia,Cambodgia,Kambodzsa,3835047,usd
+2021-01-01,2021,imp.MM,imp,Import,Import,Import,MM,Myanmar,Myanmar,Mianmar,3886154,usd
+2021-01-01,2021,imp.MY,imp,Import,Import,Import,MY,Malaysia,Malaezia,Malajzia,164000000,usd
+2021-01-01,2021,imp.PH,imp,Import,Import,Import,PH,Philippines,Filipine,Fülöp-szigetek,58010223,usd
+2021-01-01,2021,imp.SG,imp,Import,Import,Import,SG,Singapore,Singapore,Szingapúr,105000000,usd
+2021-01-01,2021,imp.TH,imp,Import,Import,Import,TH,Thailand,Thailanda,Thaiföld,258000000,usd
+2021-01-01,2021,imp.VN,imp,Import,Import,Import,VN,Vietnam,Vietnam,Vietnám,236000000,usd
+2021-01-01,2021,imp.AF,imp,Import,Import,Import,AF,Afghanistan,Afganistan,Afganisztán,556800,usd
+2021-01-01,2021,imp.BD,imp,Import,Import,Import,BD,Bangladesh,Bangladesh,Banglades,32752278,usd
+2021-01-01,2021,imp.IN,imp,Import,Import,Import,IN,India,India,India,609000000,usd
+2021-01-01,2021,imp.IR,imp,Import,Import,Import,IR,Iran,Iran,Irán,76197627,usd
+2021-01-01,2021,imp.LK,imp,Import,Import,Import,LK,Sri Lanka,Sri Lanka,Srí Lanka,13645207,usd
+2021-01-01,2021,imp.NP,imp,Import,Import,Import,NP,Nepal,Nepal,Nepál,304113,usd
+2021-01-01,2021,imp.PK,imp,Import,Import,Import,PK,Pakistan,Pakistan,Pakisztán,53703206,usd
+2021-01-01,2021,imp.AE,imp,Import,Import,Import,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,93905468,usd
+2021-01-01,2021,imp.AM,imp,Import,Import,Import,AM,Armenia,Armenia,Örményország,161879,usd
+2021-01-01,2021,imp.AZ,imp,Import,Import,Import,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,121000000,usd
+2021-01-01,2021,imp.BH,imp,Import,Import,Import,BH,Bahrain,Bahrain,Bahrein,1402235,usd
+2021-01-01,2021,imp.GE,imp,Import,Import,Import,GE,Georgia,Georgia,Grúzia,151000000,usd
+2021-01-01,2021,imp.IQ,imp,Import,Import,Import,IQ,Iraq,Irak,Irak,83484,usd
+2021-01-01,2021,imp.IL,imp,Import,Import,Import,IL,Israel,Israel,Izrael,179000000,usd
+2021-01-01,2021,imp.JO,imp,Import,Import,Import,JO,Jordan,Iordania,Jordánia,11544514,usd
+2021-01-01,2021,imp.KW,imp,Import,Import,Import,KW,Kuwait,Kuweit,Kuvait,762311,usd
+2021-01-01,2021,imp.LB,imp,Import,Import,Import,LB,Lebanon,Liban,Libanon,4769336,usd
+2021-01-01,2021,imp.OM,imp,Import,Import,Import,OM,Oman,Oman,Omán,9522938,usd
+2021-01-01,2021,imp.PS,imp,Import,Import,Import,PS,Palestine,Palestina,Palesztina,3141,usd
+2021-01-01,2021,imp.QA,imp,Import,Import,Import,QA,Qatar,Qatar,Katar,10385196,usd
+2021-01-01,2021,imp.SA,imp,Import,Import,Import,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,14710811,usd
+2021-01-01,2021,imp.SY,imp,Import,Import,Import,SY,Syria,Siria,Szíria,1021933,usd
+2021-01-01,2021,imp.TR,imp,Import,Import,Import,TR,Turkey,Turcia,Törökország,5760000000,usd
+2021-01-01,2021,imp.CY,imp,Import,Import,Import,CY,Cyprus,Cipru,Ciprus,51822847,usd
+2021-01-01,2021,imp.BG,imp,Import,Import,Import,BG,Bulgaria,Bulgaria,Bulgária,4920000000,usd
+2021-01-01,2021,imp.BY,imp,Import,Import,Import,BY,Belarus,Belarus,Fehéroroszország,126000000,usd
+2021-01-01,2021,imp.CZ,imp,Import,Import,Import,CZ,Czechia,Cehia,Csehország,3280000000,usd
+2021-01-01,2021,imp.HU,imp,Import,Import,Import,HU,Hungary,Ungaria,Magyarország,7890000000,usd
+2021-01-01,2021,imp.MD,imp,Import,Import,Import,MD,Moldova,Moldova,Moldova,934000000,usd
+2021-01-01,2021,imp.PL,imp,Import,Import,Import,PL,Poland,Polonia,Lengyelország,7310000000,usd
+2021-01-01,2021,imp.RU,imp,Import,Import,Import,RU,Russia,Rusia,Oroszország,3770000000,usd
+2021-01-01,2021,imp.SK,imp,Import,Import,Import,SK,Slovakia,Slovacia,Szlovákia,2410000000,usd
+2021-01-01,2021,imp.UA,imp,Import,Import,Import,UA,Ukraine,Ucraina,Ukrajna,1540000000,usd
+2021-01-01,2021,imp.DK,imp,Import,Import,Import,DK,Denmark,Danemarca,Dánia,513000000,usd
+2021-01-01,2021,imp.EE,imp,Import,Import,Import,EE,Estonia,Estonia,Észtország,71007611,usd
+2021-01-01,2021,imp.FI,imp,Import,Import,Import,FI,Finland,Finlanda,Finnország,200000000,usd
+2021-01-01,2021,imp.GB,imp,Import,Import,Import,GB,United Kingdom,Regatul Unit,Egyesült Királyság,1250000000,usd
+2021-01-01,2021,imp.IE,imp,Import,Import,Import,IE,Ireland,Irlanda,Írország,577000000,usd
+2021-01-01,2021,imp.IS,imp,Import,Import,Import,IS,Iceland,Islanda,Izland,976560,usd
+2021-01-01,2021,imp.LT,imp,Import,Import,Import,LT,Lithuania,Lituania,Litvánia,211000000,usd
+2021-01-01,2021,imp.LV,imp,Import,Import,Import,LV,Latvia,Letonia,Lettország,56836976,usd
+2021-01-01,2021,imp.NO,imp,Import,Import,Import,NO,Norway,Norvegia,Norvégia,123000000,usd
+2021-01-01,2021,imp.SE,imp,Import,Import,Import,SE,Sweden,Suedia,Svédország,601000000,usd
+2021-01-01,2021,imp.AL,imp,Import,Import,Import,AL,Albania,Albania,Albánia,37398251,usd
+2021-01-01,2021,imp.AD,imp,Import,Import,Import,AD,Andorra,Andorra,Andorra,194198,usd
+2021-01-01,2021,imp.BA,imp,Import,Import,Import,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,133000000,usd
+2021-01-01,2021,imp.ES,imp,Import,Import,Import,ES,Spain,Spania,Spanyolország,2910000000,usd
+2021-01-01,2021,imp.GI,imp,Import,Import,Import,GI,Gibraltar,Gibraltar,Gibraltár,10371,usd
+2021-01-01,2021,imp.GR,imp,Import,Import,Import,GR,Greece,Grecia,Görögország,1650000000,usd
+2021-01-01,2021,imp.HR,imp,Import,Import,Import,HR,Croatia,Croația,Horvátország,366000000,usd
+2021-01-01,2021,imp.IT,imp,Import,Import,Import,IT,Italy,Italia,Olaszország,10200000000,usd
+2021-01-01,2021,imp.MK,imp,Import,Import,Import,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,119000000,usd
+2021-01-01,2021,imp.MT,imp,Import,Import,Import,MT,Malta,Malta,Málta,84791646,usd
+2021-01-01,2021,imp.ME,imp,Import,Import,Import,ME,Montenegro,Muntenegru,Montenegró,5229053,usd
+2021-01-01,2021,imp.PT,imp,Import,Import,Import,PT,Portugal,Portugalia,Portugália,527000000,usd
+2021-01-01,2021,imp.SM,imp,Import,Import,Import,SM,San Marino,San Marino,San Marino,16777165,usd
+2021-01-01,2021,imp.RS,imp,Import,Import,Import,RS,Serbia,Serbia,Szerbia,1320000000,usd
+2021-01-01,2021,imp.SI,imp,Import,Import,Import,SI,Slovenia,Slovenia,Szlovénia,937000000,usd
+2021-01-01,2021,imp.AT,imp,Import,Import,Import,AT,Austria,Austria,Ausztria,3710000000,usd
+2021-01-01,2021,imp.BE,imp,Import,Import,Import,BE,Belgium,Belgia,Belgium,2840000000,usd
+2021-01-01,2021,imp.CH,imp,Import,Import,Import,CH,Switzerland,Elveția,Svájc,1670000000,usd
+2021-01-01,2021,imp.DE,imp,Import,Import,Import,DE,Germany,Germania,Németország,22600000000,usd
+2021-01-01,2021,imp.FR,imp,Import,Import,Import,FR,France,Franța,Franciaország,5060000000,usd
+2021-01-01,2021,imp.LU,imp,Import,Import,Import,LU,Luxembourg,Luxemburg,Luxemburg,148000000,usd
+2021-01-01,2021,imp.NL,imp,Import,Import,Import,NL,Netherlands,Țările de Jos,Hollandia,4590000000,usd
+2021-01-01,2021,imp.AG,imp,Import,Import,Import,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,26410,usd
+2021-01-01,2021,imp.BL,imp,Import,Import,Import,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,949,usd
+2021-01-01,2021,imp.BB,imp,Import,Import,Import,BB,Barbados,Barbados,Barbados,3628,usd
+2021-01-01,2021,imp.CU,imp,Import,Import,Import,CU,Cuba,Cuba,Kuba,10321718,usd
+2021-01-01,2021,imp.KY,imp,Import,Import,Import,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,353,usd
+2021-01-01,2021,imp.DO,imp,Import,Import,Import,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,951369,usd
+2021-01-01,2021,imp.HT,imp,Import,Import,Import,HT,Haiti,Haiti,Haiti,1056,usd
+2021-01-01,2021,imp.JM,imp,Import,Import,Import,JM,Jamaica,Jamaica,Jamaica,22927,usd
+2021-01-01,2021,imp.TC,imp,Import,Import,Import,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,611,usd
+2021-01-01,2021,imp.TT,imp,Import,Import,Import,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,19769,usd
+2021-01-01,2021,imp.VG,imp,Import,Import,Import,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,260,usd
+2021-01-01,2021,imp.BZ,imp,Import,Import,Import,BZ,Belize,Belize,Belize,6841088,usd
+2021-01-01,2021,imp.CR,imp,Import,Import,Import,CR,Costa Rica,Costa Rica,Costa Rica,12840088,usd
+2021-01-01,2021,imp.GT,imp,Import,Import,Import,GT,Guatemala,Guatemala,Guatemala,5234907,usd
+2021-01-01,2021,imp.HN,imp,Import,Import,Import,HN,Honduras,Honduras,Honduras,456309,usd
+2021-01-01,2021,imp.MX,imp,Import,Import,Import,MX,Mexico,Mexic,Mexikó,73555457,usd
+2021-01-01,2021,imp.NI,imp,Import,Import,Import,NI,Nicaragua,Nicaragua,Nicaragua,1073557,usd
+2021-01-01,2021,imp.PA,imp,Import,Import,Import,PA,Panama,Panama,Panama,729784,usd
+2021-01-01,2021,imp.SV,imp,Import,Import,Import,SV,El Salvador,El Salvador,Salvador,6630,usd
+2021-01-01,2021,imp.BM,imp,Import,Import,Import,BM,Bermuda,Bermuda,Bermuda,256,usd
+2021-01-01,2021,imp.CA,imp,Import,Import,Import,CA,Canada,Canada,Kanada,138000000,usd
+2021-01-01,2021,imp.US,imp,Import,Import,Import,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,876000000,usd
+2021-01-01,2021,imp.AU,imp,Import,Import,Import,AU,Australia,Australia,Ausztrália,52832831,usd
+2021-01-01,2021,imp.NZ,imp,Import,Import,Import,NZ,New Zealand,Noua Zeelandă,Új-Zéland,7733274,usd
+2021-01-01,2021,imp.FJ,imp,Import,Import,Import,FJ,Fiji,Fiji,Fidzsi,134182,usd
+2021-01-01,2021,imp.NC,imp,Import,Import,Import,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,111,usd
+2021-01-01,2021,imp.PG,imp,Import,Import,Import,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,110978,usd
+2021-01-01,2021,imp.MH,imp,Import,Import,Import,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,3765,usd
+2021-01-01,2021,imp.PF,imp,Import,Import,Import,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,80066,usd
+2021-01-01,2021,imp.AR,imp,Import,Import,Import,AR,Argentina,Argentina,Argentína,113000000,usd
+2021-01-01,2021,imp.BO,imp,Import,Import,Import,BO,Bolivia,Bolivia,Bolívia,20002,usd
+2021-01-01,2021,imp.BR,imp,Import,Import,Import,BR,Brazil,Brazilia,Brazília,342000000,usd
+2021-01-01,2021,imp.CL,imp,Import,Import,Import,CL,Chile,Chile,Chile,6515165,usd
+2021-01-01,2021,imp.CO,imp,Import,Import,Import,CO,Colombia,Columbia,Kolumbia,13496068,usd
+2021-01-01,2021,imp.EC,imp,Import,Import,Import,EC,Ecuador,Ecuador,Ecuador,8390033,usd
+2021-01-01,2021,imp.GY,imp,Import,Import,Import,GY,Guyana,Guyana,Guyana,972878,usd
+2021-01-01,2021,imp.PE,imp,Import,Import,Import,PE,Peru,Peru,Peru,14831889,usd
+2021-01-01,2021,imp.PY,imp,Import,Import,Import,PY,Paraguay,Paraguay,Paraguay,196816,usd
+2021-01-01,2021,imp.SR,imp,Import,Import,Import,SR,Suriname,Surinam,Suriname,58336,usd
+2021-01-01,2021,imp.UY,imp,Import,Import,Import,UY,Uruguay,Uruguay,Uruguay,6192123,usd
+2021-01-01,2021,imp.VE,imp,Import,Import,Import,VE,Venezuela,Venezuela,Venezuela,1843810,usd
+2021-01-01,2021,exp.BW,exp,Export,Export,Export,BW,Botswana,Botswana,Botswana,2862843,usd
+2021-01-01,2021,exp.CC,exp,Export,Export,Export,CC,Cocos (Keeling) Islands,Insulele Cocos (Keeling),Kókusz (Keeling)-szigetek,1825,usd
+2021-01-01,2021,exp.IO,exp,Export,Export,Export,IO,British Indian Ocean Territory,Teritoriul Britanic din Oceanul Indian,Brit Indiai-óceáni Terület,121498,usd
+2021-01-01,2021,exp.DM,exp,Export,Export,Export,DM,Dominica,Dominica,Dominika,18167,usd
+2021-01-01,2021,exp.VC,exp,Export,Export,Export,VC,Saint Vincent and the Grenadines,Saint Vincent și Grenadine,Saint Vincent és a Grenadine-szigetek,12037,usd
+2021-01-01,2021,exp.PM,exp,Export,Export,Export,PM,Saint Pierre and Miquelon,Saint-Pierre și Miquelon,Saint-Pierre és Miquelon,102966,usd
+2021-01-01,2021,imp.GQ,imp,Import,Import,Import,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,33709,usd
+2021-01-01,2021,exp.TL,exp,Export,Export,Export,TL,Timor-Leste,Timorul de Est,Kelet-Timor,563,usd
+2021-01-01,2021,exp.PW,exp,Export,Export,Export,PW,Palau,Palau,Palau,120100,usd
+2021-01-01,2021,exp.ER,exp,Export,Export,Export,ER,Eritrea,Eritreea,Eritrea,10169,usd
+2021-01-01,2021,exp.AI,exp,Export,Export,Export,AI,Anguilla,Anguilla,Anguilla,194,usd
+2021-01-01,2021,exp.NR,exp,Export,Export,Export,NR,Nauru,Nauru,Nauru,16523,usd
+2021-01-01,2021,imp.LS,imp,Import,Import,Import,LS,Lesotho,Lesotho,Lesotho,39299,usd
+2021-01-01,2021,imp.BQ,imp,Import,Import,Import,BQ,Bonaire,Bonaire,Bonaire,14795,usd
+2021-01-01,2021,imp.MP,imp,Import,Import,Import,MP,Northern Mariana Islands,Insulele Mariane de Nord,Északi-Mariana-szigetek,57,usd
+2022-01-01,2022,exp.DZ,exp,Export,Export,Export,DZ,Algeria,Algeria,Algéria,425000000,usd
+2022-01-01,2022,exp.EG,exp,Export,Export,Export,EG,Egypt,Egipt,Egyiptom,1360000000,usd
+2022-01-01,2022,exp.LY,exp,Export,Export,Export,LY,Libya,Libia,Líbia,156000000,usd
+2022-01-01,2022,exp.MA,exp,Export,Export,Export,MA,Morocco,Maroc,Marokkó,1020000000,usd
+2022-01-01,2022,exp.SD,exp,Export,Export,Export,SD,Sudan,Sudan,Szudán,119000000,usd
+2022-01-01,2022,exp.TN,exp,Export,Export,Export,TN,Tunisia,Tunisia,Tunézia,355000000,usd
+2022-01-01,2022,exp.BI,exp,Export,Export,Export,BI,Burundi,Burundi,Burundi,85648,usd
+2022-01-01,2022,exp.DJ,exp,Export,Export,Export,DJ,Djibouti,Djibouti,Dzsibuti,1161341,usd
+2022-01-01,2022,exp.ET,exp,Export,Export,Export,ET,Ethiopia,Etiopia,Etiópia,51689563,usd
+2022-01-01,2022,exp.KE,exp,Export,Export,Export,KE,Kenya,Kenya,Kenya,16723190,usd
+2022-01-01,2022,exp.MG,exp,Export,Export,Export,MG,Madagascar,Madagascar,Madagaszkár,5984138,usd
+2022-01-01,2022,exp.MZ,exp,Export,Export,Export,MZ,Mozambique,Mozambic,Mozambik,5838171,usd
+2022-01-01,2022,exp.MU,exp,Export,Export,Export,MU,Mauritius,Mauritius,Mauritius,3640873,usd
+2022-01-01,2022,exp.MW,exp,Export,Export,Export,MW,Malawi,Malawi,Malawi,623464,usd
+2022-01-01,2022,exp.RW,exp,Export,Export,Export,RW,Rwanda,Rwanda,Ruanda,126307,usd
+2022-01-01,2022,exp.SO,exp,Export,Export,Export,SO,Somalia,Somalia,Szomália,122898,usd
+2022-01-01,2022,exp.SS,exp,Export,Export,Export,SS,South Sudan,Sudanul de Sud,Dél-Szudán,581698,usd
+2022-01-01,2022,exp.SC,exp,Export,Export,Export,SC,Seychelles,Seychelles,Seychelle-szigetek,186429,usd
+2022-01-01,2022,exp.TZ,exp,Export,Export,Export,TZ,Tanzania,Tanzania,Tanzánia,2818214,usd
+2022-01-01,2022,exp.UG,exp,Export,Export,Export,UG,Uganda,Uganda,Uganda,9211641,usd
+2022-01-01,2022,exp.AO,exp,Export,Export,Export,AO,Angola,Angola,Angola,15742427,usd
+2022-01-01,2022,exp.CF,exp,Export,Export,Export,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,368654,usd
+2022-01-01,2022,exp.CM,exp,Export,Export,Export,CM,Cameroon,Camerun,Kamerun,2845320,usd
+2022-01-01,2022,exp.CD,exp,Export,Export,Export,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,173753,usd
+2022-01-01,2022,exp.CG,exp,Export,Export,Export,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,5598991,usd
+2022-01-01,2022,exp.GA,exp,Export,Export,Export,GA,Gabon,Gabon,Gabon,7084757,usd
+2022-01-01,2022,exp.GQ,exp,Export,Export,Export,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,858485,usd
+2022-01-01,2022,exp.TD,exp,Export,Export,Export,TD,Chad,Ciad,Csád,590457,usd
+2022-01-01,2022,exp.LS,exp,Export,Export,Export,LS,Lesotho,Lesotho,Lesotho,10011,usd
+2022-01-01,2022,exp.NA,exp,Export,Export,Export,NA,Namibia,Namibia,Namíbia,1414237,usd
+2022-01-01,2022,exp.SZ,exp,Export,Export,Export,SZ,Eswatini,Eswatini,Eswatini,97100,usd
+2022-01-01,2022,exp.ZA,exp,Export,Export,Export,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,269000000,usd
+2022-01-01,2022,exp.ZM,exp,Export,Export,Export,ZM,Zambia,Zambia,Zambia,735697,usd
+2022-01-01,2022,exp.ZW,exp,Export,Export,Export,ZW,Zimbabwe,Zimbabwe,Zimbabwe,14115,usd
+2022-01-01,2022,exp.BJ,exp,Export,Export,Export,BJ,Benin,Benin,Benin,1241182,usd
+2022-01-01,2022,exp.BF,exp,Export,Export,Export,BF,Burkina Faso,Burkina Faso,Burkina Faso,4208644,usd
+2022-01-01,2022,exp.CI,exp,Export,Export,Export,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,20591883,usd
+2022-01-01,2022,exp.CV,exp,Export,Export,Export,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,1771293,usd
+2022-01-01,2022,exp.GH,exp,Export,Export,Export,GH,Ghana,Ghana,Ghána,6330169,usd
+2022-01-01,2022,exp.GN,exp,Export,Export,Export,GN,Guinea,Guineea,Guinea,1024906,usd
+2022-01-01,2022,exp.GM,exp,Export,Export,Export,GM,Gambia,Gambia,Gambia,61165,usd
+2022-01-01,2022,exp.GW,exp,Export,Export,Export,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,16604,usd
+2022-01-01,2022,exp.LR,exp,Export,Export,Export,LR,Liberia,Liberia,Libéria,45599941,usd
+2022-01-01,2022,exp.ML,exp,Export,Export,Export,ML,Mali,Mali,Mali,1689325,usd
+2022-01-01,2022,exp.MR,exp,Export,Export,Export,MR,Mauritania,Mauritania,Mauritánia,928370,usd
+2022-01-01,2022,exp.NE,exp,Export,Export,Export,NE,Niger,Niger,Niger,624242,usd
+2022-01-01,2022,exp.NG,exp,Export,Export,Export,NG,Nigeria,Nigeria,Nigéria,35839955,usd
+2022-01-01,2022,exp.SN,exp,Export,Export,Export,SN,Senegal,Senegal,Szenegál,10885091,usd
+2022-01-01,2022,exp.SL,exp,Export,Export,Export,SL,Sierra Leone,Sierra Leone,Sierra Leone,509863,usd
+2022-01-01,2022,exp.TG,exp,Export,Export,Export,TG,Togo,Togo,Togo,1250113,usd
+2022-01-01,2022,exp.KZ,exp,Export,Export,Export,KZ,Kazakhstan,Kazahstan,Kazahsztán,70468152,usd
+2022-01-01,2022,exp.KG,exp,Export,Export,Export,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,6395501,usd
+2022-01-01,2022,exp.TJ,exp,Export,Export,Export,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,2349976,usd
+2022-01-01,2022,exp.TM,exp,Export,Export,Export,TM,Turkmenistan,Turkmenistan,Türkmenisztán,4701326,usd
+2022-01-01,2022,exp.UZ,exp,Export,Export,Export,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,47619157,usd
+2022-01-01,2022,exp.CN,exp,Export,Export,Export,CN,China,China,Kína,2100000000,usd
+2022-01-01,2022,exp.HK,exp,Export,Export,Export,HK,Hong Kong,Hong Kong,Hongkong,69112619,usd
+2022-01-01,2022,exp.JP,exp,Export,Export,Export,JP,Japan,Japonia,Japán,1080000000,usd
+2022-01-01,2022,exp.KR,exp,Export,Export,Export,KR,South Korea,Coreea de Sud,Dél-Korea,744000000,usd
+2022-01-01,2022,exp.MO,exp,Export,Export,Export,MO,Macau,Macao,Makaó,11324116,usd
+2022-01-01,2022,exp.MN,exp,Export,Export,Export,MN,Mongolia,Mongolia,Mongólia,8764792,usd
+2022-01-01,2022,exp.TW,exp,Export,Export,Export,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,138000000,usd
+2022-01-01,2022,exp.BN,exp,Export,Export,Export,BN,Brunei,Brunei,Brunei,1084978,usd
+2022-01-01,2022,exp.ID,exp,Export,Export,Export,ID,Indonesia,Indonezia,Indonézia,39839385,usd
+2022-01-01,2022,exp.KH,exp,Export,Export,Export,KH,Cambodia,Cambodgia,Kambodzsa,6390762,usd
+2022-01-01,2022,exp.LA,exp,Export,Export,Export,LA,Laos,Laos,Laosz,994432,usd
+2022-01-01,2022,exp.MM,exp,Export,Export,Export,MM,Myanmar,Myanmar,Mianmar,2158644,usd
+2022-01-01,2022,exp.MY,exp,Export,Export,Export,MY,Malaysia,Malaezia,Malajzia,174000000,usd
+2022-01-01,2022,exp.PH,exp,Export,Export,Export,PH,Philippines,Filipine,Fülöp-szigetek,20779063,usd
+2022-01-01,2022,exp.SG,exp,Export,Export,Export,SG,Singapore,Singapore,Szingapúr,225000000,usd
+2022-01-01,2022,exp.TH,exp,Export,Export,Export,TH,Thailand,Thailanda,Thaiföld,109000000,usd
+2022-01-01,2022,exp.VN,exp,Export,Export,Export,VN,Vietnam,Vietnam,Vietnám,92944811,usd
+2022-01-01,2022,exp.AF,exp,Export,Export,Export,AF,Afghanistan,Afganistan,Afganisztán,518067,usd
+2022-01-01,2022,exp.BD,exp,Export,Export,Export,BD,Bangladesh,Bangladesh,Banglades,17955731,usd
+2022-01-01,2022,exp.IN,exp,Export,Export,Export,IN,India,India,India,415000000,usd
+2022-01-01,2022,exp.IR,exp,Export,Export,Export,IR,Iran,Iran,Irán,252000000,usd
+2022-01-01,2022,exp.LK,exp,Export,Export,Export,LK,Sri Lanka,Sri Lanka,Srí Lanka,49613530,usd
+2022-01-01,2022,exp.MV,exp,Export,Export,Export,MV,Maldives,Maldive,Maldív-szigetek,974771,usd
+2022-01-01,2022,exp.NP,exp,Export,Export,Export,NP,Nepal,Nepal,Nepál,647758,usd
+2022-01-01,2022,exp.PK,exp,Export,Export,Export,PK,Pakistan,Pakistan,Pakisztán,384000000,usd
+2022-01-01,2022,exp.AE,exp,Export,Export,Export,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,622000000,usd
+2022-01-01,2022,exp.AM,exp,Export,Export,Export,AM,Armenia,Armenia,Örményország,28668263,usd
+2022-01-01,2022,exp.AZ,exp,Export,Export,Export,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,52142048,usd
+2022-01-01,2022,exp.BH,exp,Export,Export,Export,BH,Bahrain,Bahrain,Bahrein,19959864,usd
+2022-01-01,2022,exp.GE,exp,Export,Export,Export,GE,Georgia,Georgia,Grúzia,302000000,usd
+2022-01-01,2022,exp.IQ,exp,Export,Export,Export,IQ,Iraq,Irak,Irak,52042339,usd
+2022-01-01,2022,exp.IL,exp,Export,Export,Export,IL,Israel,Israel,Izrael,562000000,usd
+2022-01-01,2022,exp.JO,exp,Export,Export,Export,JO,Jordan,Iordania,Jordánia,1150000000,usd
+2022-01-01,2022,exp.KW,exp,Export,Export,Export,KW,Kuwait,Kuweit,Kuvait,80838946,usd
+2022-01-01,2022,exp.LB,exp,Export,Export,Export,LB,Lebanon,Liban,Libanon,234000000,usd
+2022-01-01,2022,exp.OM,exp,Export,Export,Export,OM,Oman,Oman,Omán,32502215,usd
+2022-01-01,2022,exp.PS,exp,Export,Export,Export,PS,Palestine,Palestina,Palesztina,5301244,usd
+2022-01-01,2022,exp.QA,exp,Export,Export,Export,QA,Qatar,Qatar,Katar,138000000,usd
+2022-01-01,2022,exp.SA,exp,Export,Export,Export,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,441000000,usd
+2022-01-01,2022,exp.SY,exp,Export,Export,Export,SY,Syria,Siria,Szíria,9749559,usd
+2022-01-01,2022,exp.TR,exp,Export,Export,Export,TR,Turkey,Turcia,Törökország,3360000000,usd
+2022-01-01,2022,exp.YE,exp,Export,Export,Export,YE,Yemen,Yemen,Jemen,55566109,usd
+2022-01-01,2022,exp.CY,exp,Export,Export,Export,CY,Cyprus,Cipru,Ciprus,160000000,usd
+2022-01-01,2022,exp.BG,exp,Export,Export,Export,BG,Bulgaria,Bulgaria,Bulgária,3840000000,usd
+2022-01-01,2022,exp.BY,exp,Export,Export,Export,BY,Belarus,Belarus,Fehéroroszország,36132053,usd
+2022-01-01,2022,exp.CZ,exp,Export,Export,Export,CZ,Czechia,Cehia,Csehország,2860000000,usd
+2022-01-01,2022,exp.HU,exp,Export,Export,Export,HU,Hungary,Ungaria,Magyarország,6430000000,usd
+2022-01-01,2022,exp.MD,exp,Export,Export,Export,MD,Moldova,Moldova,Moldova,1830000000,usd
+2022-01-01,2022,exp.PL,exp,Export,Export,Export,PL,Poland,Polonia,Lengyelország,3580000000,usd
+2022-01-01,2022,exp.RU,exp,Export,Export,Export,RU,Russia,Rusia,Oroszország,433000000,usd
+2022-01-01,2022,exp.SK,exp,Export,Export,Export,SK,Slovakia,Slovacia,Szlovákia,1900000000,usd
+2022-01-01,2022,exp.UA,exp,Export,Export,Export,UA,Ukraine,Ucraina,Ukrajna,1550000000,usd
+2022-01-01,2022,exp.DK,exp,Export,Export,Export,DK,Denmark,Danemarca,Dánia,409000000,usd
+2022-01-01,2022,exp.EE,exp,Export,Export,Export,EE,Estonia,Estonia,Észtország,114000000,usd
+2022-01-01,2022,exp.FI,exp,Export,Export,Export,FI,Finland,Finlanda,Finnország,344000000,usd
+2022-01-01,2022,exp.GB,exp,Export,Export,Export,GB,United Kingdom,Regatul Unit,Egyesült Királyság,4340000000,usd
+2022-01-01,2022,exp.IE,exp,Export,Export,Export,IE,Ireland,Irlanda,Írország,187000000,usd
+2022-01-01,2022,exp.IS,exp,Export,Export,Export,IS,Iceland,Islanda,Izland,24947838,usd
+2022-01-01,2022,exp.LT,exp,Export,Export,Export,LT,Lithuania,Lituania,Litvánia,199000000,usd
+2022-01-01,2022,exp.LV,exp,Export,Export,Export,LV,Latvia,Letonia,Lettország,74169180,usd
+2022-01-01,2022,exp.NO,exp,Export,Export,Export,NO,Norway,Norvegia,Norvégia,791000000,usd
+2022-01-01,2022,exp.SE,exp,Export,Export,Export,SE,Sweden,Suedia,Svédország,708000000,usd
+2022-01-01,2022,exp.AL,exp,Export,Export,Export,AL,Albania,Albania,Albánia,142000000,usd
+2022-01-01,2022,exp.AD,exp,Export,Export,Export,AD,Andorra,Andorra,Andorra,3618635,usd
+2022-01-01,2022,exp.BA,exp,Export,Export,Export,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,161000000,usd
+2022-01-01,2022,exp.ES,exp,Export,Export,Export,ES,Spain,Spania,Spanyolország,2990000000,usd
+2022-01-01,2022,exp.GI,exp,Export,Export,Export,GI,Gibraltar,Gibraltar,Gibraltár,244000000,usd
+2022-01-01,2022,exp.GR,exp,Export,Export,Export,GR,Greece,Grecia,Görögország,1060000000,usd
+2022-01-01,2022,exp.HR,exp,Export,Export,Export,HR,Croatia,Croația,Horvátország,491000000,usd
+2022-01-01,2022,exp.IT,exp,Export,Export,Export,IT,Italy,Italia,Olaszország,9610000000,usd
+2022-01-01,2022,exp.MK,exp,Export,Export,Export,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,270000000,usd
+2022-01-01,2022,exp.MT,exp,Export,Export,Export,MT,Malta,Malta,Málta,19666704,usd
+2022-01-01,2022,exp.ME,exp,Export,Export,Export,ME,Montenegro,Muntenegru,Montenegró,37699174,usd
+2022-01-01,2022,exp.PT,exp,Export,Export,Export,PT,Portugal,Portugalia,Portugália,480000000,usd
+2022-01-01,2022,exp.SM,exp,Export,Export,Export,SM,San Marino,San Marino,San Marino,16424577,usd
+2022-01-01,2022,exp.RS,exp,Export,Export,Export,RS,Serbia,Serbia,Szerbia,1290000000,usd
+2022-01-01,2022,exp.SI,exp,Export,Export,Export,SI,Slovenia,Slovenia,Szlovénia,666000000,usd
+2022-01-01,2022,exp.AT,exp,Export,Export,Export,AT,Austria,Austria,Ausztria,2660000000,usd
+2022-01-01,2022,exp.BE,exp,Export,Export,Export,BE,Belgium,Belgia,Belgium,1930000000,usd
+2022-01-01,2022,exp.CH,exp,Export,Export,Export,CH,Switzerland,Elveția,Svájc,1030000000,usd
+2022-01-01,2022,exp.DE,exp,Export,Export,Export,DE,Germany,Germania,Németország,18500000000,usd
+2022-01-01,2022,exp.FR,exp,Export,Export,Export,FR,France,Franța,Franciaország,5780000000,usd
+2022-01-01,2022,exp.LU,exp,Export,Export,Export,LU,Luxembourg,Luxemburg,Luxemburg,40913641,usd
+2022-01-01,2022,exp.NL,exp,Export,Export,Export,NL,Netherlands,Țările de Jos,Hollandia,3010000000,usd
+2022-01-01,2022,exp.AW,exp,Export,Export,Export,AW,Aruba,Aruba,Aruba,8999,usd
+2022-01-01,2022,exp.AG,exp,Export,Export,Export,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,5061,usd
+2022-01-01,2022,exp.BS,exp,Export,Export,Export,BS,Bahamas,Bahamas,Bahama-szigetek,519118,usd
+2022-01-01,2022,exp.BL,exp,Export,Export,Export,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,576,usd
+2022-01-01,2022,exp.BB,exp,Export,Export,Export,BB,Barbados,Barbados,Barbados,5393,usd
+2022-01-01,2022,exp.CU,exp,Export,Export,Export,CU,Cuba,Cuba,Kuba,944016,usd
+2022-01-01,2022,exp.CW,exp,Export,Export,Export,CW,Curaçao,Curaçao,Curaçao,114683,usd
+2022-01-01,2022,exp.KY,exp,Export,Export,Export,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,210,usd
+2022-01-01,2022,exp.DO,exp,Export,Export,Export,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,10453633,usd
+2022-01-01,2022,exp.HT,exp,Export,Export,Export,HT,Haiti,Haiti,Haiti,63958,usd
+2022-01-01,2022,exp.JM,exp,Export,Export,Export,JM,Jamaica,Jamaica,Jamaica,512510,usd
+2022-01-01,2022,exp.LC,exp,Export,Export,Export,LC,Saint Lucia,Saint Lucia,Saint Lucia,64822,usd
+2022-01-01,2022,exp.MS,exp,Export,Export,Export,MS,Montserrat,Montserrat,Montserrat,544716,usd
+2022-01-01,2022,exp.TC,exp,Export,Export,Export,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,412,usd
+2022-01-01,2022,exp.TT,exp,Export,Export,Export,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,1455066,usd
+2022-01-01,2022,exp.VG,exp,Export,Export,Export,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,541749,usd
+2022-01-01,2022,exp.BZ,exp,Export,Export,Export,BZ,Belize,Belize,Belize,77005,usd
+2022-01-01,2022,exp.CR,exp,Export,Export,Export,CR,Costa Rica,Costa Rica,Costa Rica,4959822,usd
+2022-01-01,2022,exp.GT,exp,Export,Export,Export,GT,Guatemala,Guatemala,Guatemala,6543513,usd
+2022-01-01,2022,exp.HN,exp,Export,Export,Export,HN,Honduras,Honduras,Honduras,1209152,usd
+2022-01-01,2022,exp.MX,exp,Export,Export,Export,MX,Mexico,Mexic,Mexikó,369000000,usd
+2022-01-01,2022,exp.NI,exp,Export,Export,Export,NI,Nicaragua,Nicaragua,Nicaragua,1494519,usd
+2022-01-01,2022,exp.PA,exp,Export,Export,Export,PA,Panama,Panama,Panama,4135942,usd
+2022-01-01,2022,exp.SV,exp,Export,Export,Export,SV,El Salvador,El Salvador,Salvador,1767048,usd
+2022-01-01,2022,exp.BM,exp,Export,Export,Export,BM,Bermuda,Bermuda,Bermuda,70992,usd
+2022-01-01,2022,exp.CA,exp,Export,Export,Export,CA,Canada,Canada,Kanada,561000000,usd
+2022-01-01,2022,exp.GL,exp,Export,Export,Export,GL,Greenland,Groenlanda,Grönland,462,usd
+2022-01-01,2022,exp.US,exp,Export,Export,Export,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,3690000000,usd
+2022-01-01,2022,exp.AU,exp,Export,Export,Export,AU,Australia,Australia,Ausztrália,243000000,usd
+2022-01-01,2022,exp.NZ,exp,Export,Export,Export,NZ,New Zealand,Noua Zeelandă,Új-Zéland,58488495,usd
+2022-01-01,2022,exp.FJ,exp,Export,Export,Export,FJ,Fiji,Fiji,Fidzsi,8735,usd
+2022-01-01,2022,exp.NC,exp,Export,Export,Export,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,3115774,usd
+2022-01-01,2022,exp.PG,exp,Export,Export,Export,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,3638,usd
+2022-01-01,2022,exp.GU,exp,Export,Export,Export,GU,Guam,Guam,Guam,6248,usd
+2022-01-01,2022,exp.MH,exp,Export,Export,Export,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,533489,usd
+2022-01-01,2022,exp.MP,exp,Export,Export,Export,MP,Northern Mariana Islands,Insulele Mariane de Nord,Északi-Mariana-szigetek,208,usd
+2022-01-01,2022,exp.PF,exp,Export,Export,Export,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,5168867,usd
+2022-01-01,2022,exp.WS,exp,Export,Export,Export,WS,Samoa,Samoa,Szamoa,491,usd
+2022-01-01,2022,exp.AR,exp,Export,Export,Export,AR,Argentina,Argentina,Argentína,113000000,usd
+2022-01-01,2022,exp.BO,exp,Export,Export,Export,BO,Bolivia,Bolivia,Bolívia,7702336,usd
+2022-01-01,2022,exp.BR,exp,Export,Export,Export,BR,Brazil,Brazilia,Brazília,357000000,usd
+2022-01-01,2022,exp.CL,exp,Export,Export,Export,CL,Chile,Chile,Chile,52511962,usd
+2022-01-01,2022,exp.CO,exp,Export,Export,Export,CO,Colombia,Columbia,Kolumbia,115000000,usd
+2022-01-01,2022,exp.EC,exp,Export,Export,Export,EC,Ecuador,Ecuador,Ecuador,25115914,usd
+2022-01-01,2022,exp.GY,exp,Export,Export,Export,GY,Guyana,Guyana,Guyana,284533,usd
+2022-01-01,2022,exp.PE,exp,Export,Export,Export,PE,Peru,Peru,Peru,27850801,usd
+2022-01-01,2022,exp.PY,exp,Export,Export,Export,PY,Paraguay,Paraguay,Paraguay,6816468,usd
+2022-01-01,2022,exp.SR,exp,Export,Export,Export,SR,Suriname,Surinam,Suriname,164493,usd
+2022-01-01,2022,exp.UY,exp,Export,Export,Export,UY,Uruguay,Uruguay,Uruguay,17851530,usd
+2022-01-01,2022,exp.VE,exp,Export,Export,Export,VE,Venezuela,Venezuela,Venezuela,120845,usd
+2022-01-01,2022,imp.DZ,imp,Import,Import,Import,DZ,Algeria,Algeria,Algéria,46367190,usd
+2022-01-01,2022,imp.EG,imp,Import,Import,Import,EG,Egypt,Egipt,Egyiptom,702000000,usd
+2022-01-01,2022,imp.LY,imp,Import,Import,Import,LY,Libya,Libia,Líbia,423784,usd
+2022-01-01,2022,imp.MA,imp,Import,Import,Import,MA,Morocco,Maroc,Marokkó,485000000,usd
+2022-01-01,2022,imp.SD,imp,Import,Import,Import,SD,Sudan,Sudan,Szudán,1878,usd
+2022-01-01,2022,imp.TN,imp,Import,Import,Import,TN,Tunisia,Tunisia,Tunézia,223000000,usd
+2022-01-01,2022,imp.BI,imp,Import,Import,Import,BI,Burundi,Burundi,Burundi,1514,usd
+2022-01-01,2022,imp.DJ,imp,Import,Import,Import,DJ,Djibouti,Djibouti,Dzsibuti,474281,usd
+2022-01-01,2022,imp.ET,imp,Import,Import,Import,ET,Ethiopia,Etiopia,Etiópia,514032,usd
+2022-01-01,2022,imp.KE,imp,Import,Import,Import,KE,Kenya,Kenya,Kenya,9314661,usd
+2022-01-01,2022,imp.MG,imp,Import,Import,Import,MG,Madagascar,Madagascar,Madagaszkár,2281784,usd
+2022-01-01,2022,imp.MZ,imp,Import,Import,Import,MZ,Mozambique,Mozambic,Mozambik,21110933,usd
+2022-01-01,2022,imp.MU,imp,Import,Import,Import,MU,Mauritius,Mauritius,Mauritius,1750694,usd
+2022-01-01,2022,imp.MW,imp,Import,Import,Import,MW,Malawi,Malawi,Malawi,397469,usd
+2022-01-01,2022,imp.RW,imp,Import,Import,Import,RW,Rwanda,Rwanda,Ruanda,25301,usd
+2022-01-01,2022,imp.SC,imp,Import,Import,Import,SC,Seychelles,Seychelles,Seychelle-szigetek,4735194,usd
+2022-01-01,2022,imp.TZ,imp,Import,Import,Import,TZ,Tanzania,Tanzania,Tanzánia,2730467,usd
+2022-01-01,2022,imp.UG,imp,Import,Import,Import,UG,Uganda,Uganda,Uganda,6729795,usd
+2022-01-01,2022,imp.AO,imp,Import,Import,Import,AO,Angola,Angola,Angola,1182146,usd
+2022-01-01,2022,imp.CM,imp,Import,Import,Import,CM,Cameroon,Camerun,Kamerun,2512335,usd
+2022-01-01,2022,imp.CD,imp,Import,Import,Import,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,593838,usd
+2022-01-01,2022,imp.CG,imp,Import,Import,Import,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,481516,usd
+2022-01-01,2022,imp.GA,imp,Import,Import,Import,GA,Gabon,Gabon,Gabon,1392808,usd
+2022-01-01,2022,imp.BW,imp,Import,Import,Import,BW,Botswana,Botswana,Botswana,203,usd
+2022-01-01,2022,imp.NA,imp,Import,Import,Import,NA,Namibia,Namibia,Namíbia,164594,usd
+2022-01-01,2022,imp.SZ,imp,Import,Import,Import,SZ,Eswatini,Eswatini,Eswatini,11964369,usd
+2022-01-01,2022,imp.ZA,imp,Import,Import,Import,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,128000000,usd
+2022-01-01,2022,imp.ZW,imp,Import,Import,Import,ZW,Zimbabwe,Zimbabwe,Zimbabwe,5889036,usd
+2022-01-01,2022,imp.BF,imp,Import,Import,Import,BF,Burkina Faso,Burkina Faso,Burkina Faso,1424,usd
+2022-01-01,2022,imp.CI,imp,Import,Import,Import,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,23045949,usd
+2022-01-01,2022,imp.CV,imp,Import,Import,Import,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,12345,usd
+2022-01-01,2022,imp.GH,imp,Import,Import,Import,GH,Ghana,Ghana,Ghána,4342160,usd
+2022-01-01,2022,imp.GN,imp,Import,Import,Import,GN,Guinea,Guineea,Guinea,47313,usd
+2022-01-01,2022,imp.GW,imp,Import,Import,Import,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,369,usd
+2022-01-01,2022,imp.LR,imp,Import,Import,Import,LR,Liberia,Liberia,Libéria,4612985,usd
+2022-01-01,2022,imp.MR,imp,Import,Import,Import,MR,Mauritania,Mauritania,Mauritánia,7161526,usd
+2022-01-01,2022,imp.NE,imp,Import,Import,Import,NE,Niger,Niger,Niger,2818,usd
+2022-01-01,2022,imp.NG,imp,Import,Import,Import,NG,Nigeria,Nigeria,Nigéria,4420355,usd
+2022-01-01,2022,imp.SN,imp,Import,Import,Import,SN,Senegal,Senegal,Szenegál,319713,usd
+2022-01-01,2022,imp.SH,imp,Import,Import,Import,SH,Saint Helena,Sfânta Elena,Szent Ilona,10821,usd
+2022-01-01,2022,imp.SL,imp,Import,Import,Import,SL,Sierra Leone,Sierra Leone,Sierra Leone,12554220,usd
+2022-01-01,2022,imp.TG,imp,Import,Import,Import,TG,Togo,Togo,Togo,6373,usd
+2022-01-01,2022,imp.KZ,imp,Import,Import,Import,KZ,Kazakhstan,Kazahstan,Kazahsztán,2430000000,usd
+2022-01-01,2022,imp.KG,imp,Import,Import,Import,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,4522360,usd
+2022-01-01,2022,imp.TJ,imp,Import,Import,Import,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,204,usd
+2022-01-01,2022,imp.TM,imp,Import,Import,Import,TM,Turkmenistan,Turkmenistan,Türkmenisztán,7587567,usd
+2022-01-01,2022,imp.UZ,imp,Import,Import,Import,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,10018158,usd
+2022-01-01,2022,imp.CN,imp,Import,Import,Import,CN,China,China,Kína,7200000000,usd
+2022-01-01,2022,imp.HK,imp,Import,Import,Import,HK,Hong Kong,Hong Kong,Hongkong,681000000,usd
+2022-01-01,2022,imp.JP,imp,Import,Import,Import,JP,Japan,Japonia,Japán,445000000,usd
+2022-01-01,2022,imp.KR,imp,Import,Import,Import,KR,South Korea,Coreea de Sud,Dél-Korea,573000000,usd
+2022-01-01,2022,imp.MO,imp,Import,Import,Import,MO,Macau,Macao,Makaó,24104993,usd
+2022-01-01,2022,imp.MN,imp,Import,Import,Import,MN,Mongolia,Mongolia,Mongólia,18452,usd
+2022-01-01,2022,imp.TW,imp,Import,Import,Import,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,392000000,usd
+2022-01-01,2022,imp.BN,imp,Import,Import,Import,BN,Brunei,Brunei,Brunei,13376,usd
+2022-01-01,2022,imp.ID,imp,Import,Import,Import,ID,Indonesia,Indonezia,Indonézia,160000000,usd
+2022-01-01,2022,imp.KH,imp,Import,Import,Import,KH,Cambodia,Cambodgia,Kambodzsa,6567806,usd
+2022-01-01,2022,imp.LA,imp,Import,Import,Import,LA,Laos,Laos,Laosz,1553,usd
+2022-01-01,2022,imp.MM,imp,Import,Import,Import,MM,Myanmar,Myanmar,Mianmar,21842147,usd
+2022-01-01,2022,imp.MY,imp,Import,Import,Import,MY,Malaysia,Malaezia,Malajzia,190000000,usd
+2022-01-01,2022,imp.PH,imp,Import,Import,Import,PH,Philippines,Filipine,Fülöp-szigetek,68664343,usd
+2022-01-01,2022,imp.SG,imp,Import,Import,Import,SG,Singapore,Singapore,Szingapúr,153000000,usd
+2022-01-01,2022,imp.TH,imp,Import,Import,Import,TH,Thailand,Thailanda,Thaiföld,305000000,usd
+2022-01-01,2022,imp.VN,imp,Import,Import,Import,VN,Vietnam,Vietnam,Vietnám,375000000,usd
+2022-01-01,2022,imp.BD,imp,Import,Import,Import,BD,Bangladesh,Bangladesh,Banglades,35837858,usd
+2022-01-01,2022,imp.BT,imp,Import,Import,Import,BT,Bhutan,Bhutan,Bhután,190,usd
+2022-01-01,2022,imp.IN,imp,Import,Import,Import,IN,India,India,India,739000000,usd
+2022-01-01,2022,imp.IR,imp,Import,Import,Import,IR,Iran,Iran,Irán,77938481,usd
+2022-01-01,2022,imp.LK,imp,Import,Import,Import,LK,Sri Lanka,Sri Lanka,Srí Lanka,14407650,usd
+2022-01-01,2022,imp.MV,imp,Import,Import,Import,MV,Maldives,Maldive,Maldív-szigetek,582,usd
+2022-01-01,2022,imp.NP,imp,Import,Import,Import,NP,Nepal,Nepal,Nepál,883481,usd
+2022-01-01,2022,imp.PK,imp,Import,Import,Import,PK,Pakistan,Pakistan,Pakisztán,70176472,usd
+2022-01-01,2022,imp.AE,imp,Import,Import,Import,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,219000000,usd
+2022-01-01,2022,imp.AM,imp,Import,Import,Import,AM,Armenia,Armenia,Örményország,234267,usd
+2022-01-01,2022,imp.AZ,imp,Import,Import,Import,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,449000000,usd
+2022-01-01,2022,imp.BH,imp,Import,Import,Import,BH,Bahrain,Bahrain,Bahrein,2311956,usd
+2022-01-01,2022,imp.GE,imp,Import,Import,Import,GE,Georgia,Georgia,Grúzia,312000000,usd
+2022-01-01,2022,imp.IQ,imp,Import,Import,Import,IQ,Iraq,Irak,Irak,368588,usd
+2022-01-01,2022,imp.IL,imp,Import,Import,Import,IL,Israel,Israel,Izrael,200000000,usd
+2022-01-01,2022,imp.JO,imp,Import,Import,Import,JO,Jordan,Iordania,Jordánia,105000000,usd
+2022-01-01,2022,imp.KW,imp,Import,Import,Import,KW,Kuwait,Kuweit,Kuvait,580110,usd
+2022-01-01,2022,imp.LB,imp,Import,Import,Import,LB,Lebanon,Liban,Libanon,8013558,usd
+2022-01-01,2022,imp.OM,imp,Import,Import,Import,OM,Oman,Oman,Omán,27232953,usd
+2022-01-01,2022,imp.PS,imp,Import,Import,Import,PS,Palestine,Palestina,Palesztina,133141,usd
+2022-01-01,2022,imp.QA,imp,Import,Import,Import,QA,Qatar,Qatar,Katar,12450934,usd
+2022-01-01,2022,imp.SA,imp,Import,Import,Import,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,50653940,usd
+2022-01-01,2022,imp.SY,imp,Import,Import,Import,SY,Syria,Siria,Szíria,1585749,usd
+2022-01-01,2022,imp.TR,imp,Import,Import,Import,TR,Turkey,Turcia,Törökország,7670000000,usd
+2022-01-01,2022,imp.CY,imp,Import,Import,Import,CY,Cyprus,Cipru,Ciprus,65944398,usd
+2022-01-01,2022,imp.BG,imp,Import,Import,Import,BG,Bulgaria,Bulgaria,Bulgária,6520000000,usd
+2022-01-01,2022,imp.BY,imp,Import,Import,Import,BY,Belarus,Belarus,Fehéroroszország,56303635,usd
+2022-01-01,2022,imp.CZ,imp,Import,Import,Import,CZ,Czechia,Cehia,Csehország,3640000000,usd
+2022-01-01,2022,imp.HU,imp,Import,Import,Import,HU,Hungary,Ungaria,Magyarország,8540000000,usd
+2022-01-01,2022,imp.MD,imp,Import,Import,Import,MD,Moldova,Moldova,Moldova,1370000000,usd
+2022-01-01,2022,imp.PL,imp,Import,Import,Import,PL,Poland,Polonia,Lengyelország,7900000000,usd
+2022-01-01,2022,imp.RU,imp,Import,Import,Import,RU,Russia,Rusia,Oroszország,5760000000,usd
+2022-01-01,2022,imp.SK,imp,Import,Import,Import,SK,Slovakia,Slovacia,Szlovákia,2550000000,usd
+2022-01-01,2022,imp.UA,imp,Import,Import,Import,UA,Ukraine,Ucraina,Ukrajna,3950000000,usd
+2022-01-01,2022,imp.DK,imp,Import,Import,Import,DK,Denmark,Danemarca,Dánia,588000000,usd
+2022-01-01,2022,imp.EE,imp,Import,Import,Import,EE,Estonia,Estonia,Észtország,103000000,usd
+2022-01-01,2022,imp.FI,imp,Import,Import,Import,FI,Finland,Finlanda,Finnország,278000000,usd
+2022-01-01,2022,imp.GB,imp,Import,Import,Import,GB,United Kingdom,Regatul Unit,Egyesült Királyság,1230000000,usd
+2022-01-01,2022,imp.IE,imp,Import,Import,Import,IE,Ireland,Irlanda,Írország,583000000,usd
+2022-01-01,2022,imp.IS,imp,Import,Import,Import,IS,Iceland,Islanda,Izland,727349,usd
+2022-01-01,2022,imp.LT,imp,Import,Import,Import,LT,Lithuania,Lituania,Litvánia,291000000,usd
+2022-01-01,2022,imp.LV,imp,Import,Import,Import,LV,Latvia,Letonia,Lettország,66928486,usd
+2022-01-01,2022,imp.NO,imp,Import,Import,Import,NO,Norway,Norvegia,Norvégia,210000000,usd
+2022-01-01,2022,imp.SE,imp,Import,Import,Import,SE,Sweden,Suedia,Svédország,733000000,usd
+2022-01-01,2022,imp.AL,imp,Import,Import,Import,AL,Albania,Albania,Albánia,39195899,usd
+2022-01-01,2022,imp.AD,imp,Import,Import,Import,AD,Andorra,Andorra,Andorra,117676,usd
+2022-01-01,2022,imp.BA,imp,Import,Import,Import,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,103000000,usd
+2022-01-01,2022,imp.ES,imp,Import,Import,Import,ES,Spain,Spania,Spanyolország,3350000000,usd
+2022-01-01,2022,imp.GI,imp,Import,Import,Import,GI,Gibraltar,Gibraltar,Gibraltár,16793,usd
+2022-01-01,2022,imp.GR,imp,Import,Import,Import,GR,Greece,Grecia,Görögország,1730000000,usd
+2022-01-01,2022,imp.HR,imp,Import,Import,Import,HR,Croatia,Croația,Horvátország,363000000,usd
+2022-01-01,2022,imp.IT,imp,Import,Import,Import,IT,Italy,Italia,Olaszország,10700000000,usd
+2022-01-01,2022,imp.MK,imp,Import,Import,Import,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,129000000,usd
+2022-01-01,2022,imp.MT,imp,Import,Import,Import,MT,Malta,Malta,Málta,69217372,usd
+2022-01-01,2022,imp.ME,imp,Import,Import,Import,ME,Montenegro,Muntenegru,Montenegró,712287,usd
+2022-01-01,2022,imp.PT,imp,Import,Import,Import,PT,Portugal,Portugalia,Portugália,586000000,usd
+2022-01-01,2022,imp.SM,imp,Import,Import,Import,SM,San Marino,San Marino,San Marino,14956899,usd
+2022-01-01,2022,imp.RS,imp,Import,Import,Import,RS,Serbia,Serbia,Szerbia,1320000000,usd
+2022-01-01,2022,imp.SI,imp,Import,Import,Import,SI,Slovenia,Slovenia,Szlovénia,1100000000,usd
+2022-01-01,2022,imp.AT,imp,Import,Import,Import,AT,Austria,Austria,Ausztria,4240000000,usd
+2022-01-01,2022,imp.BE,imp,Import,Import,Import,BE,Belgium,Belgia,Belgium,3110000000,usd
+2022-01-01,2022,imp.CH,imp,Import,Import,Import,CH,Switzerland,Elveția,Svájc,1660000000,usd
+2022-01-01,2022,imp.DE,imp,Import,Import,Import,DE,Germany,Germania,Németország,22700000000,usd
+2022-01-01,2022,imp.FR,imp,Import,Import,Import,FR,France,Franța,Franciaország,5170000000,usd
+2022-01-01,2022,imp.LU,imp,Import,Import,Import,LU,Luxembourg,Luxemburg,Luxemburg,169000000,usd
+2022-01-01,2022,imp.NL,imp,Import,Import,Import,NL,Netherlands,Țările de Jos,Hollandia,5110000000,usd
+2022-01-01,2022,imp.AG,imp,Import,Import,Import,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,1733,usd
+2022-01-01,2022,imp.BS,imp,Import,Import,Import,BS,Bahamas,Bahamas,Bahama-szigetek,10102,usd
+2022-01-01,2022,imp.BB,imp,Import,Import,Import,BB,Barbados,Barbados,Barbados,4609,usd
+2022-01-01,2022,imp.CU,imp,Import,Import,Import,CU,Cuba,Cuba,Kuba,19964,usd
+2022-01-01,2022,imp.CW,imp,Import,Import,Import,CW,Curaçao,Curaçao,Curaçao,580,usd
+2022-01-01,2022,imp.KY,imp,Import,Import,Import,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,578,usd
+2022-01-01,2022,imp.DO,imp,Import,Import,Import,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,1143760,usd
+2022-01-01,2022,imp.JM,imp,Import,Import,Import,JM,Jamaica,Jamaica,Jamaica,434,usd
+2022-01-01,2022,imp.KN,imp,Import,Import,Import,KN,Saint Kitts and Nevis,Saint Kitts și Nevis,Saint Kitts és Nevis,299,usd
+2022-01-01,2022,imp.MF,imp,Import,Import,Import,MF,Saint Martin,Saint Martin,Saint Martin,8825,usd
+2022-01-01,2022,imp.MS,imp,Import,Import,Import,MS,Montserrat,Montserrat,Montserrat,30032,usd
+2022-01-01,2022,imp.TT,imp,Import,Import,Import,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,2069528,usd
+2022-01-01,2022,imp.VG,imp,Import,Import,Import,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,40690,usd
+2022-01-01,2022,imp.BZ,imp,Import,Import,Import,BZ,Belize,Belize,Belize,4917969,usd
+2022-01-01,2022,imp.CR,imp,Import,Import,Import,CR,Costa Rica,Costa Rica,Costa Rica,17334095,usd
+2022-01-01,2022,imp.GT,imp,Import,Import,Import,GT,Guatemala,Guatemala,Guatemala,4545083,usd
+2022-01-01,2022,imp.HN,imp,Import,Import,Import,HN,Honduras,Honduras,Honduras,573355,usd
+2022-01-01,2022,imp.MX,imp,Import,Import,Import,MX,Mexico,Mexic,Mexikó,85752230,usd
+2022-01-01,2022,imp.NI,imp,Import,Import,Import,NI,Nicaragua,Nicaragua,Nicaragua,615471,usd
+2022-01-01,2022,imp.PA,imp,Import,Import,Import,PA,Panama,Panama,Panama,1063494,usd
+2022-01-01,2022,imp.SV,imp,Import,Import,Import,SV,El Salvador,El Salvador,Salvador,220855,usd
+2022-01-01,2022,imp.BM,imp,Import,Import,Import,BM,Bermuda,Bermuda,Bermuda,1193,usd
+2022-01-01,2022,imp.CA,imp,Import,Import,Import,CA,Canada,Canada,Kanada,70918635,usd
+2022-01-01,2022,imp.US,imp,Import,Import,Import,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,1250000000,usd
+2022-01-01,2022,imp.AU,imp,Import,Import,Import,AU,Australia,Australia,Ausztrália,22174266,usd
+2022-01-01,2022,imp.NZ,imp,Import,Import,Import,NZ,New Zealand,Noua Zeelandă,Új-Zéland,11562854,usd
+2022-01-01,2022,imp.NC,imp,Import,Import,Import,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,493,usd
+2022-01-01,2022,imp.PG,imp,Import,Import,Import,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,252,usd
+2022-01-01,2022,imp.MH,imp,Import,Import,Import,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,235927,usd
+2022-01-01,2022,imp.AS,imp,Import,Import,Import,AS,American Samoa,Samoa Americană,Amerikai Szamoa,1286,usd
+2022-01-01,2022,imp.PF,imp,Import,Import,Import,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,1228,usd
+2022-01-01,2022,imp.AR,imp,Import,Import,Import,AR,Argentina,Argentina,Argentína,66126402,usd
+2022-01-01,2022,imp.BO,imp,Import,Import,Import,BO,Bolivia,Bolivia,Bolívia,11496147,usd
+2022-01-01,2022,imp.BR,imp,Import,Import,Import,BR,Brazil,Brazilia,Brazília,419000000,usd
+2022-01-01,2022,imp.CL,imp,Import,Import,Import,CL,Chile,Chile,Chile,6255416,usd
+2022-01-01,2022,imp.CO,imp,Import,Import,Import,CO,Colombia,Columbia,Kolumbia,39504886,usd
+2022-01-01,2022,imp.EC,imp,Import,Import,Import,EC,Ecuador,Ecuador,Ecuador,18357565,usd
+2022-01-01,2022,imp.GY,imp,Import,Import,Import,GY,Guyana,Guyana,Guyana,418970,usd
+2022-01-01,2022,imp.PE,imp,Import,Import,Import,PE,Peru,Peru,Peru,13799618,usd
+2022-01-01,2022,imp.PY,imp,Import,Import,Import,PY,Paraguay,Paraguay,Paraguay,72906,usd
+2022-01-01,2022,imp.SR,imp,Import,Import,Import,SR,Suriname,Surinam,Suriname,18115,usd
+2022-01-01,2022,imp.UY,imp,Import,Import,Import,UY,Uruguay,Uruguay,Uruguay,5701308,usd
+2022-01-01,2022,imp.VE,imp,Import,Import,Import,VE,Venezuela,Venezuela,Venezuela,12314615,usd
+2022-01-01,2022,exp.BW,exp,Export,Export,Export,BW,Botswana,Botswana,Botswana,4349355,usd
+2022-01-01,2022,exp.CC,exp,Export,Export,Export,CC,Cocos (Keeling) Islands,Insulele Cocos (Keeling),Kókusz (Keeling)-szigetek,5491,usd
+2022-01-01,2022,exp.IO,exp,Export,Export,Export,IO,British Indian Ocean Territory,Teritoriul Britanic din Oceanul Indian,Brit Indiai-óceáni Terület,34502,usd
+2022-01-01,2022,exp.DM,exp,Export,Export,Export,DM,Dominica,Dominica,Dominika,5555,usd
+2022-01-01,2022,exp.PM,exp,Export,Export,Export,PM,Saint Pierre and Miquelon,Saint-Pierre și Miquelon,Saint-Pierre és Miquelon,150490,usd
+2022-01-01,2022,exp.TL,exp,Export,Export,Export,TL,Timor-Leste,Timorul de Est,Kelet-Timor,21216,usd
+2022-01-01,2022,exp.BQ,exp,Export,Export,Export,BQ,Bonaire,Bonaire,Bonaire,16698,usd
+2022-01-01,2022,exp.PW,exp,Export,Export,Export,PW,Palau,Palau,Palau,290,usd
+2022-01-01,2022,exp.TO,exp,Export,Export,Export,TO,Tonga,Tonga,Tonga,8899,usd
+2023-01-01,2023,exp.DZ,exp,Export,Export,Export,DZ,Algeria,Algeria,Algéria,420512834,usd
+2023-01-01,2023,exp.EG,exp,Export,Export,Export,EG,Egypt,Egipt,Egyiptom,927866692,usd
+2023-01-01,2023,exp.LY,exp,Export,Export,Export,LY,Libya,Libia,Líbia,218209113,usd
+2023-01-01,2023,exp.MA,exp,Export,Export,Export,MA,Morocco,Maroc,Marokkó,1228006944,usd
+2023-01-01,2023,exp.SD,exp,Export,Export,Export,SD,Sudan,Sudan,Szudán,44240107,usd
+2023-01-01,2023,exp.TN,exp,Export,Export,Export,TN,Tunisia,Tunisia,Tunézia,227583374,usd
+2023-01-01,2023,exp.BI,exp,Export,Export,Export,BI,Burundi,Burundi,Burundi,134385,usd
+2023-01-01,2023,exp.KM,exp,Export,Export,Export,KM,Comoros,Comore,Comore-szigetek,72830,usd
+2023-01-01,2023,exp.DJ,exp,Export,Export,Export,DJ,Djibouti,Djibouti,Dzsibuti,84572415,usd
+2023-01-01,2023,exp.ET,exp,Export,Export,Export,ET,Ethiopia,Etiopia,Etiópia,23432885,usd
+2023-01-01,2023,exp.KE,exp,Export,Export,Export,KE,Kenya,Kenya,Kenya,5561683,usd
+2023-01-01,2023,exp.MG,exp,Export,Export,Export,MG,Madagascar,Madagascar,Madagaszkár,5399159,usd
+2023-01-01,2023,exp.MZ,exp,Export,Export,Export,MZ,Mozambique,Mozambic,Mozambik,1372447,usd
+2023-01-01,2023,exp.MU,exp,Export,Export,Export,MU,Mauritius,Mauritius,Mauritius,4447335,usd
+2023-01-01,2023,exp.MW,exp,Export,Export,Export,MW,Malawi,Malawi,Malawi,183110,usd
+2023-01-01,2023,exp.RW,exp,Export,Export,Export,RW,Rwanda,Rwanda,Ruanda,118850,usd
+2023-01-01,2023,exp.SO,exp,Export,Export,Export,SO,Somalia,Somalia,Szomália,694507,usd
+2023-01-01,2023,exp.SS,exp,Export,Export,Export,SS,South Sudan,Sudanul de Sud,Dél-Szudán,72154,usd
+2023-01-01,2023,exp.SC,exp,Export,Export,Export,SC,Seychelles,Seychelles,Seychelle-szigetek,5810,usd
+2023-01-01,2023,exp.TZ,exp,Export,Export,Export,TZ,Tanzania,Tanzania,Tanzánia,6219404,usd
+2023-01-01,2023,exp.UG,exp,Export,Export,Export,UG,Uganda,Uganda,Uganda,2697894,usd
+2023-01-01,2023,exp.AO,exp,Export,Export,Export,AO,Angola,Angola,Angola,19137736,usd
+2023-01-01,2023,exp.CF,exp,Export,Export,Export,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,376941,usd
+2023-01-01,2023,exp.CM,exp,Export,Export,Export,CM,Cameroon,Camerun,Kamerun,1792812,usd
+2023-01-01,2023,exp.CD,exp,Export,Export,Export,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,999684,usd
+2023-01-01,2023,exp.CG,exp,Export,Export,Export,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,9218949,usd
+2023-01-01,2023,exp.GA,exp,Export,Export,Export,GA,Gabon,Gabon,Gabon,21556369,usd
+2023-01-01,2023,exp.GQ,exp,Export,Export,Export,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,728892,usd
+2023-01-01,2023,exp.TD,exp,Export,Export,Export,TD,Chad,Ciad,Csád,855514,usd
+2023-01-01,2023,exp.LS,exp,Export,Export,Export,LS,Lesotho,Lesotho,Lesotho,154,usd
+2023-01-01,2023,exp.NA,exp,Export,Export,Export,NA,Namibia,Namibia,Namíbia,1664472,usd
+2023-01-01,2023,exp.SZ,exp,Export,Export,Export,SZ,Eswatini,Eswatini,Eswatini,100140,usd
+2023-01-01,2023,exp.ZA,exp,Export,Export,Export,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,207447265,usd
+2023-01-01,2023,exp.ZM,exp,Export,Export,Export,ZM,Zambia,Zambia,Zambia,611968,usd
+2023-01-01,2023,exp.ZW,exp,Export,Export,Export,ZW,Zimbabwe,Zimbabwe,Zimbabwe,1222349,usd
+2023-01-01,2023,exp.BJ,exp,Export,Export,Export,BJ,Benin,Benin,Benin,1466444,usd
+2023-01-01,2023,exp.BF,exp,Export,Export,Export,BF,Burkina Faso,Burkina Faso,Burkina Faso,2262362,usd
+2023-01-01,2023,exp.CI,exp,Export,Export,Export,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,19255572,usd
+2023-01-01,2023,exp.CV,exp,Export,Export,Export,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,1840841,usd
+2023-01-01,2023,exp.GH,exp,Export,Export,Export,GH,Ghana,Ghana,Ghána,19126367,usd
+2023-01-01,2023,exp.GN,exp,Export,Export,Export,GN,Guinea,Guineea,Guinea,3219337,usd
+2023-01-01,2023,exp.GM,exp,Export,Export,Export,GM,Gambia,Gambia,Gambia,340022,usd
+2023-01-01,2023,exp.GW,exp,Export,Export,Export,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,23666,usd
+2023-01-01,2023,exp.LR,exp,Export,Export,Export,LR,Liberia,Liberia,Libéria,1039158,usd
+2023-01-01,2023,exp.ML,exp,Export,Export,Export,ML,Mali,Mali,Mali,472762,usd
+2023-01-01,2023,exp.MR,exp,Export,Export,Export,MR,Mauritania,Mauritania,Mauritánia,52936143,usd
+2023-01-01,2023,exp.NE,exp,Export,Export,Export,NE,Niger,Niger,Niger,633149,usd
+2023-01-01,2023,exp.NG,exp,Export,Export,Export,NG,Nigeria,Nigeria,Nigéria,34428918,usd
+2023-01-01,2023,exp.SN,exp,Export,Export,Export,SN,Senegal,Senegal,Szenegál,12929805,usd
+2023-01-01,2023,exp.SL,exp,Export,Export,Export,SL,Sierra Leone,Sierra Leone,Sierra Leone,1221497,usd
+2023-01-01,2023,exp.TG,exp,Export,Export,Export,TG,Togo,Togo,Togo,1951100,usd
+2023-01-01,2023,exp.KZ,exp,Export,Export,Export,KZ,Kazakhstan,Kazahstan,Kazahsztán,154647704,usd
+2023-01-01,2023,exp.KG,exp,Export,Export,Export,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,12002872,usd
+2023-01-01,2023,exp.TJ,exp,Export,Export,Export,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,2840665,usd
+2023-01-01,2023,exp.TM,exp,Export,Export,Export,TM,Turkmenistan,Turkmenistan,Türkmenisztán,2818402,usd
+2023-01-01,2023,exp.UZ,exp,Export,Export,Export,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,32114933,usd
+2023-01-01,2023,exp.CN,exp,Export,Export,Export,CN,China,China,Kína,1844307380,usd
+2023-01-01,2023,exp.HK,exp,Export,Export,Export,HK,Hong Kong,Hong Kong,Hongkong,52168655,usd
+2023-01-01,2023,exp.JP,exp,Export,Export,Export,JP,Japan,Japonia,Japán,1228607121,usd
+2023-01-01,2023,exp.KR,exp,Export,Export,Export,KR,South Korea,Coreea de Sud,Dél-Korea,580172957,usd
+2023-01-01,2023,exp.MO,exp,Export,Export,Export,MO,Macau,Macao,Makaó,16057171,usd
+2023-01-01,2023,exp.MN,exp,Export,Export,Export,MN,Mongolia,Mongolia,Mongólia,2354265,usd
+2023-01-01,2023,exp.TW,exp,Export,Export,Export,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,141897901,usd
+2023-01-01,2023,exp.BN,exp,Export,Export,Export,BN,Brunei,Brunei,Brunei,1715438,usd
+2023-01-01,2023,exp.ID,exp,Export,Export,Export,ID,Indonesia,Indonezia,Indonézia,61365413,usd
+2023-01-01,2023,exp.KH,exp,Export,Export,Export,KH,Cambodia,Cambodgia,Kambodzsa,3018083,usd
+2023-01-01,2023,exp.LA,exp,Export,Export,Export,LA,Laos,Laos,Laosz,21441,usd
+2023-01-01,2023,exp.MM,exp,Export,Export,Export,MM,Myanmar,Myanmar,Mianmar,6370439,usd
+2023-01-01,2023,exp.MY,exp,Export,Export,Export,MY,Malaysia,Malaezia,Malajzia,135329445,usd
+2023-01-01,2023,exp.PH,exp,Export,Export,Export,PH,Philippines,Filipine,Fülöp-szigetek,40742087,usd
+2023-01-01,2023,exp.SG,exp,Export,Export,Export,SG,Singapore,Singapore,Szingapúr,233566107,usd
+2023-01-01,2023,exp.TH,exp,Export,Export,Export,TH,Thailand,Thailanda,Thaiföld,178623141,usd
+2023-01-01,2023,exp.VN,exp,Export,Export,Export,VN,Vietnam,Vietnam,Vietnám,111080940,usd
+2023-01-01,2023,exp.AF,exp,Export,Export,Export,AF,Afghanistan,Afganistan,Afganisztán,571212,usd
+2023-01-01,2023,exp.BD,exp,Export,Export,Export,BD,Bangladesh,Bangladesh,Banglades,109304030,usd
+2023-01-01,2023,exp.IN,exp,Export,Export,Export,IN,India,India,India,554714931,usd
+2023-01-01,2023,exp.IR,exp,Export,Export,Export,IR,Iran,Iran,Irán,197903119,usd
+2023-01-01,2023,exp.LK,exp,Export,Export,Export,LK,Sri Lanka,Sri Lanka,Srí Lanka,154486865,usd
+2023-01-01,2023,exp.MV,exp,Export,Export,Export,MV,Maldives,Maldive,Maldív-szigetek,891487,usd
+2023-01-01,2023,exp.NP,exp,Export,Export,Export,NP,Nepal,Nepal,Nepál,10713185,usd
+2023-01-01,2023,exp.PK,exp,Export,Export,Export,PK,Pakistan,Pakistan,Pakisztán,244903353,usd
+2023-01-01,2023,exp.AE,exp,Export,Export,Export,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,641295795,usd
+2023-01-01,2023,exp.AM,exp,Export,Export,Export,AM,Armenia,Armenia,Örményország,29981406,usd
+2023-01-01,2023,exp.AZ,exp,Export,Export,Export,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,42592641,usd
+2023-01-01,2023,exp.BH,exp,Export,Export,Export,BH,Bahrain,Bahrain,Bahrein,17688061,usd
+2023-01-01,2023,exp.GE,exp,Export,Export,Export,GE,Georgia,Georgia,Grúzia,222656272,usd
+2023-01-01,2023,exp.IQ,exp,Export,Export,Export,IQ,Iraq,Irak,Irak,87371370,usd
+2023-01-01,2023,exp.IL,exp,Export,Export,Export,IL,Israel,Israel,Izrael,512738637,usd
+2023-01-01,2023,exp.JO,exp,Export,Export,Export,JO,Jordan,Iordania,Jordánia,490202313,usd
+2023-01-01,2023,exp.KW,exp,Export,Export,Export,KW,Kuwait,Kuweit,Kuvait,93321838,usd
+2023-01-01,2023,exp.LB,exp,Export,Export,Export,LB,Lebanon,Liban,Libanon,133685650,usd
+2023-01-01,2023,exp.OM,exp,Export,Export,Export,OM,Oman,Oman,Omán,29874813,usd
+2023-01-01,2023,exp.PS,exp,Export,Export,Export,PS,Palestine,Palestina,Palesztina,3907923,usd
+2023-01-01,2023,exp.QA,exp,Export,Export,Export,QA,Qatar,Qatar,Katar,133497589,usd
+2023-01-01,2023,exp.SA,exp,Export,Export,Export,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,1052719784,usd
+2023-01-01,2023,exp.SY,exp,Export,Export,Export,SY,Syria,Siria,Szíria,4316195,usd
+2023-01-01,2023,exp.TR,exp,Export,Export,Export,TR,Turkey,Turcia,Törökország,3730724039,usd
+2023-01-01,2023,exp.YE,exp,Export,Export,Export,YE,Yemen,Yemen,Jemen,32946064,usd
+2023-01-01,2023,exp.CY,exp,Export,Export,Export,CY,Cyprus,Cipru,Ciprus,193828982,usd
+2023-01-01,2023,exp.BG,exp,Export,Export,Export,BG,Bulgaria,Bulgaria,Bulgária,4079316775,usd
+2023-01-01,2023,exp.BY,exp,Export,Export,Export,BY,Belarus,Belarus,Fehéroroszország,24288496,usd
+2023-01-01,2023,exp.CZ,exp,Export,Export,Export,CZ,Czechia,Cehia,Csehország,3290179456,usd
+2023-01-01,2023,exp.HU,exp,Export,Export,Export,HU,Hungary,Ungaria,Magyarország,4418561399,usd
+2023-01-01,2023,exp.MD,exp,Export,Export,Export,MD,Moldova,Moldova,Moldova,1519453718,usd
+2023-01-01,2023,exp.PL,exp,Export,Export,Export,PL,Poland,Polonia,Lengyelország,3548090988,usd
+2023-01-01,2023,exp.RU,exp,Export,Export,Export,RU,Russia,Rusia,Oroszország,255464120,usd
+2023-01-01,2023,exp.SK,exp,Export,Export,Export,SK,Slovakia,Slovacia,Szlovákia,2204301570,usd
+2023-01-01,2023,exp.UA,exp,Export,Export,Export,UA,Ukraine,Ucraina,Ukrajna,1535893248,usd
+2023-01-01,2023,exp.DK,exp,Export,Export,Export,DK,Denmark,Danemarca,Dánia,405441687,usd
+2023-01-01,2023,exp.EE,exp,Export,Export,Export,EE,Estonia,Estonia,Észtország,79916170,usd
+2023-01-01,2023,exp.FI,exp,Export,Export,Export,FI,Finland,Finlanda,Finnország,289175234,usd
+2023-01-01,2023,exp.GB,exp,Export,Export,Export,GB,United Kingdom,Regatul Unit,Egyesült Királyság,4929101755,usd
+2023-01-01,2023,exp.IE,exp,Export,Export,Export,IE,Ireland,Irlanda,Írország,230987527,usd
+2023-01-01,2023,exp.IS,exp,Export,Export,Export,IS,Iceland,Islanda,Izland,37428412,usd
+2023-01-01,2023,exp.LT,exp,Export,Export,Export,LT,Lithuania,Lituania,Litvánia,188634961,usd
+2023-01-01,2023,exp.LV,exp,Export,Export,Export,LV,Latvia,Letonia,Lettország,84008687,usd
+2023-01-01,2023,exp.NO,exp,Export,Export,Export,NO,Norway,Norvegia,Norvégia,591937451,usd
+2023-01-01,2023,exp.SE,exp,Export,Export,Export,SE,Sweden,Suedia,Svédország,713312782,usd
+2023-01-01,2023,exp.AL,exp,Export,Export,Export,AL,Albania,Albania,Albánia,103067255,usd
+2023-01-01,2023,exp.AD,exp,Export,Export,Export,AD,Andorra,Andorra,Andorra,6269659,usd
+2023-01-01,2023,exp.BA,exp,Export,Export,Export,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,153803921,usd
+2023-01-01,2023,exp.ES,exp,Export,Export,Export,ES,Spain,Spania,Spanyolország,3254643606,usd
+2023-01-01,2023,exp.GI,exp,Export,Export,Export,GI,Gibraltar,Gibraltar,Gibraltár,140123624,usd
+2023-01-01,2023,exp.GR,exp,Export,Export,Export,GR,Greece,Grecia,Görögország,1094511666,usd
+2023-01-01,2023,exp.HR,exp,Export,Export,Export,HR,Croatia,Croația,Horvátország,563908089,usd
+2023-01-01,2023,exp.IT,exp,Export,Export,Export,IT,Italy,Italia,Olaszország,10261301538,usd
+2023-01-01,2023,exp.MK,exp,Export,Export,Export,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,222872392,usd
+2023-01-01,2023,exp.MT,exp,Export,Export,Export,MT,Malta,Malta,Málta,36809359,usd
+2023-01-01,2023,exp.ME,exp,Export,Export,Export,ME,Montenegro,Muntenegru,Montenegró,45870389,usd
+2023-01-01,2023,exp.PT,exp,Export,Export,Export,PT,Portugal,Portugalia,Portugália,571712685,usd
+2023-01-01,2023,exp.SM,exp,Export,Export,Export,SM,San Marino,San Marino,San Marino,17853564,usd
+2023-01-01,2023,exp.RS,exp,Export,Export,Export,RS,Serbia,Serbia,Szerbia,1289624094,usd
+2023-01-01,2023,exp.SI,exp,Export,Export,Export,SI,Slovenia,Slovenia,Szlovénia,491126100,usd
+2023-01-01,2023,exp.AT,exp,Export,Export,Export,AT,Austria,Austria,Ausztria,2451641500,usd
+2023-01-01,2023,exp.BE,exp,Export,Export,Export,BE,Belgium,Belgia,Belgium,2249767724,usd
+2023-01-01,2023,exp.CH,exp,Export,Export,Export,CH,Switzerland,Elveția,Svájc,1217664723,usd
+2023-01-01,2023,exp.DE,exp,Export,Export,Export,DE,Germany,Germania,Németország,20384180694,usd
+2023-01-01,2023,exp.FR,exp,Export,Export,Export,FR,France,Franța,Franciaország,6362297598,usd
+2023-01-01,2023,exp.LU,exp,Export,Export,Export,LU,Luxembourg,Luxemburg,Luxemburg,48618637,usd
+2023-01-01,2023,exp.NL,exp,Export,Export,Export,NL,Netherlands,Țările de Jos,Hollandia,3058795567,usd
+2023-01-01,2023,exp.AW,exp,Export,Export,Export,AW,Aruba,Aruba,Aruba,32642,usd
+2023-01-01,2023,exp.AG,exp,Export,Export,Export,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,463231,usd
+2023-01-01,2023,exp.BS,exp,Export,Export,Export,BS,Bahamas,Bahamas,Bahama-szigetek,425337,usd
+2023-01-01,2023,exp.BL,exp,Export,Export,Export,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,2239,usd
+2023-01-01,2023,exp.BB,exp,Export,Export,Export,BB,Barbados,Barbados,Barbados,202039,usd
+2023-01-01,2023,exp.CU,exp,Export,Export,Export,CU,Cuba,Cuba,Kuba,117642,usd
+2023-01-01,2023,exp.CW,exp,Export,Export,Export,CW,Curaçao,Curaçao,Curaçao,339519,usd
+2023-01-01,2023,exp.KY,exp,Export,Export,Export,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,1613,usd
+2023-01-01,2023,exp.DO,exp,Export,Export,Export,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,9796481,usd
+2023-01-01,2023,exp.HT,exp,Export,Export,Export,HT,Haiti,Haiti,Haiti,32449,usd
+2023-01-01,2023,exp.JM,exp,Export,Export,Export,JM,Jamaica,Jamaica,Jamaica,1444929,usd
+2023-01-01,2023,exp.KN,exp,Export,Export,Export,KN,Saint Kitts and Nevis,Saint Kitts și Nevis,Saint Kitts és Nevis,11434,usd
+2023-01-01,2023,exp.LC,exp,Export,Export,Export,LC,Saint Lucia,Saint Lucia,Saint Lucia,377415,usd
+2023-01-01,2023,exp.MF,exp,Export,Export,Export,MF,Saint Martin,Saint Martin,Saint Martin,59407,usd
+2023-01-01,2023,exp.MS,exp,Export,Export,Export,MS,Montserrat,Montserrat,Montserrat,247502,usd
+2023-01-01,2023,exp.TC,exp,Export,Export,Export,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,3222,usd
+2023-01-01,2023,exp.TT,exp,Export,Export,Export,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,321965,usd
+2023-01-01,2023,exp.VG,exp,Export,Export,Export,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,183895,usd
+2023-01-01,2023,exp.BZ,exp,Export,Export,Export,BZ,Belize,Belize,Belize,130166,usd
+2023-01-01,2023,exp.CR,exp,Export,Export,Export,CR,Costa Rica,Costa Rica,Costa Rica,5825633,usd
+2023-01-01,2023,exp.GT,exp,Export,Export,Export,GT,Guatemala,Guatemala,Guatemala,6665230,usd
+2023-01-01,2023,exp.HN,exp,Export,Export,Export,HN,Honduras,Honduras,Honduras,3276962,usd
+2023-01-01,2023,exp.MX,exp,Export,Export,Export,MX,Mexico,Mexic,Mexikó,428869231,usd
+2023-01-01,2023,exp.NI,exp,Export,Export,Export,NI,Nicaragua,Nicaragua,Nicaragua,1006199,usd
+2023-01-01,2023,exp.PA,exp,Export,Export,Export,PA,Panama,Panama,Panama,1636216,usd
+2023-01-01,2023,exp.SV,exp,Export,Export,Export,SV,El Salvador,El Salvador,Salvador,1783472,usd
+2023-01-01,2023,exp.BM,exp,Export,Export,Export,BM,Bermuda,Bermuda,Bermuda,8870,usd
+2023-01-01,2023,exp.CA,exp,Export,Export,Export,CA,Canada,Canada,Kanada,574501788,usd
+2023-01-01,2023,exp.GL,exp,Export,Export,Export,GL,Greenland,Groenlanda,Grönland,15541,usd
+2023-01-01,2023,exp.US,exp,Export,Export,Export,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,3795987429,usd
+2023-01-01,2023,exp.AU,exp,Export,Export,Export,AU,Australia,Australia,Ausztrália,228379847,usd
+2023-01-01,2023,exp.NZ,exp,Export,Export,Export,NZ,New Zealand,Noua Zeelandă,Új-Zéland,77798552,usd
+2023-01-01,2023,exp.FJ,exp,Export,Export,Export,FJ,Fiji,Fiji,Fidzsi,12197,usd
+2023-01-01,2023,exp.NC,exp,Export,Export,Export,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,7149985,usd
+2023-01-01,2023,exp.PG,exp,Export,Export,Export,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,179132,usd
+2023-01-01,2023,exp.GU,exp,Export,Export,Export,GU,Guam,Guam,Guam,9666,usd
+2023-01-01,2023,exp.MH,exp,Export,Export,Export,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,6422,usd
+2023-01-01,2023,exp.MP,exp,Export,Export,Export,MP,Northern Mariana Islands,Insulele Mariane de Nord,Északi-Mariana-szigetek,3219,usd
+2023-01-01,2023,exp.PF,exp,Export,Export,Export,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,3799614,usd
+2023-01-01,2023,exp.AR,exp,Export,Export,Export,AR,Argentina,Argentina,Argentína,113924286,usd
+2023-01-01,2023,exp.BO,exp,Export,Export,Export,BO,Bolivia,Bolivia,Bolívia,3652831,usd
+2023-01-01,2023,exp.BR,exp,Export,Export,Export,BR,Brazil,Brazilia,Brazília,353440035,usd
+2023-01-01,2023,exp.CL,exp,Export,Export,Export,CL,Chile,Chile,Chile,28777691,usd
+2023-01-01,2023,exp.CO,exp,Export,Export,Export,CO,Colombia,Columbia,Kolumbia,97543133,usd
+2023-01-01,2023,exp.EC,exp,Export,Export,Export,EC,Ecuador,Ecuador,Ecuador,10354669,usd
+2023-01-01,2023,exp.GY,exp,Export,Export,Export,GY,Guyana,Guyana,Guyana,283770,usd
+2023-01-01,2023,exp.PE,exp,Export,Export,Export,PE,Peru,Peru,Peru,22915414,usd
+2023-01-01,2023,exp.PY,exp,Export,Export,Export,PY,Paraguay,Paraguay,Paraguay,6065109,usd
+2023-01-01,2023,exp.SR,exp,Export,Export,Export,SR,Suriname,Surinam,Suriname,49472,usd
+2023-01-01,2023,exp.UY,exp,Export,Export,Export,UY,Uruguay,Uruguay,Uruguay,28938761,usd
+2023-01-01,2023,exp.VE,exp,Export,Export,Export,VE,Venezuela,Venezuela,Venezuela,686248,usd
+2023-01-01,2023,imp.DZ,imp,Import,Import,Import,DZ,Algeria,Algeria,Algéria,109445392,usd
+2023-01-01,2023,imp.EG,imp,Import,Import,Import,EG,Egypt,Egipt,Egyiptom,632157302,usd
+2023-01-01,2023,imp.LY,imp,Import,Import,Import,LY,Libya,Libia,Líbia,657425214,usd
+2023-01-01,2023,imp.MA,imp,Import,Import,Import,MA,Morocco,Maroc,Marokkó,591805852,usd
+2023-01-01,2023,imp.SD,imp,Import,Import,Import,SD,Sudan,Sudan,Szudán,1260,usd
+2023-01-01,2023,imp.TN,imp,Import,Import,Import,TN,Tunisia,Tunisia,Tunézia,114386085,usd
+2023-01-01,2023,imp.BI,imp,Import,Import,Import,BI,Burundi,Burundi,Burundi,45,usd
+2023-01-01,2023,imp.DJ,imp,Import,Import,Import,DJ,Djibouti,Djibouti,Dzsibuti,19,usd
+2023-01-01,2023,imp.ET,imp,Import,Import,Import,ET,Ethiopia,Etiopia,Etiópia,1909864,usd
+2023-01-01,2023,imp.KE,imp,Import,Import,Import,KE,Kenya,Kenya,Kenya,5833761,usd
+2023-01-01,2023,imp.MG,imp,Import,Import,Import,MG,Madagascar,Madagascar,Madagaszkár,1611463,usd
+2023-01-01,2023,imp.MZ,imp,Import,Import,Import,MZ,Mozambique,Mozambic,Mozambik,4685421,usd
+2023-01-01,2023,imp.MU,imp,Import,Import,Import,MU,Mauritius,Mauritius,Mauritius,2452034,usd
+2023-01-01,2023,imp.MW,imp,Import,Import,Import,MW,Malawi,Malawi,Malawi,2892244,usd
+2023-01-01,2023,imp.RW,imp,Import,Import,Import,RW,Rwanda,Rwanda,Ruanda,159959,usd
+2023-01-01,2023,imp.SO,imp,Import,Import,Import,SO,Somalia,Somalia,Szomália,3726,usd
+2023-01-01,2023,imp.SC,imp,Import,Import,Import,SC,Seychelles,Seychelles,Seychelle-szigetek,814498,usd
+2023-01-01,2023,imp.TZ,imp,Import,Import,Import,TZ,Tanzania,Tanzania,Tanzánia,5653710,usd
+2023-01-01,2023,imp.UG,imp,Import,Import,Import,UG,Uganda,Uganda,Uganda,9012556,usd
+2023-01-01,2023,imp.AO,imp,Import,Import,Import,AO,Angola,Angola,Angola,679943,usd
+2023-01-01,2023,imp.CF,imp,Import,Import,Import,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,164,usd
+2023-01-01,2023,imp.CM,imp,Import,Import,Import,CM,Cameroon,Camerun,Kamerun,1297547,usd
+2023-01-01,2023,imp.CD,imp,Import,Import,Import,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,244630,usd
+2023-01-01,2023,imp.CG,imp,Import,Import,Import,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,79181958,usd
+2023-01-01,2023,imp.GA,imp,Import,Import,Import,GA,Gabon,Gabon,Gabon,3761369,usd
+2023-01-01,2023,imp.ST,imp,Import,Import,Import,ST,Sao Tome and Principe,São Tomé și Príncipe,São Tomé és Príncipe,5436,usd
+2023-01-01,2023,imp.BW,imp,Import,Import,Import,BW,Botswana,Botswana,Botswana,1562,usd
+2023-01-01,2023,imp.NA,imp,Import,Import,Import,NA,Namibia,Namibia,Namíbia,1455102,usd
+2023-01-01,2023,imp.SZ,imp,Import,Import,Import,SZ,Eswatini,Eswatini,Eswatini,2154021,usd
+2023-01-01,2023,imp.ZA,imp,Import,Import,Import,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,155860800,usd
+2023-01-01,2023,imp.ZM,imp,Import,Import,Import,ZM,Zambia,Zambia,Zambia,1381274,usd
+2023-01-01,2023,imp.ZW,imp,Import,Import,Import,ZW,Zimbabwe,Zimbabwe,Zimbabwe,10456823,usd
+2023-01-01,2023,imp.BJ,imp,Import,Import,Import,BJ,Benin,Benin,Benin,342665,usd
+2023-01-01,2023,imp.BF,imp,Import,Import,Import,BF,Burkina Faso,Burkina Faso,Burkina Faso,13836,usd
+2023-01-01,2023,imp.CI,imp,Import,Import,Import,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,13287006,usd
+2023-01-01,2023,imp.CV,imp,Import,Import,Import,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,211,usd
+2023-01-01,2023,imp.GH,imp,Import,Import,Import,GH,Ghana,Ghana,Ghána,2147722,usd
+2023-01-01,2023,imp.GN,imp,Import,Import,Import,GN,Guinea,Guineea,Guinea,1336084,usd
+2023-01-01,2023,imp.GM,imp,Import,Import,Import,GM,Gambia,Gambia,Gambia,204,usd
+2023-01-01,2023,imp.GW,imp,Import,Import,Import,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,397,usd
+2023-01-01,2023,imp.LR,imp,Import,Import,Import,LR,Liberia,Liberia,Libéria,1316251,usd
+2023-01-01,2023,imp.ML,imp,Import,Import,Import,ML,Mali,Mali,Mali,2966,usd
+2023-01-01,2023,imp.MR,imp,Import,Import,Import,MR,Mauritania,Mauritania,Mauritánia,10218701,usd
+2023-01-01,2023,imp.NE,imp,Import,Import,Import,NE,Niger,Niger,Niger,81229,usd
+2023-01-01,2023,imp.NG,imp,Import,Import,Import,NG,Nigeria,Nigeria,Nigéria,10712465,usd
+2023-01-01,2023,imp.SN,imp,Import,Import,Import,SN,Senegal,Senegal,Szenegál,241034,usd
+2023-01-01,2023,imp.SH,imp,Import,Import,Import,SH,Saint Helena,Sfânta Elena,Szent Ilona,69294,usd
+2023-01-01,2023,imp.SL,imp,Import,Import,Import,SL,Sierra Leone,Sierra Leone,Sierra Leone,89745,usd
+2023-01-01,2023,imp.TG,imp,Import,Import,Import,TG,Togo,Togo,Togo,1378,usd
+2023-01-01,2023,imp.KZ,imp,Import,Import,Import,KZ,Kazakhstan,Kazahstan,Kazahsztán,2786588988,usd
+2023-01-01,2023,imp.KG,imp,Import,Import,Import,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,14857806,usd
+2023-01-01,2023,imp.TJ,imp,Import,Import,Import,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,243845,usd
+2023-01-01,2023,imp.TM,imp,Import,Import,Import,TM,Turkmenistan,Turkmenistan,Türkmenisztán,72609896,usd
+2023-01-01,2023,imp.UZ,imp,Import,Import,Import,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,37439330,usd
+2023-01-01,2023,imp.CN,imp,Import,Import,Import,CN,China,China,Kína,7540656939,usd
+2023-01-01,2023,imp.HK,imp,Import,Import,Import,HK,Hong Kong,Hong Kong,Hongkong,34462310,usd
+2023-01-01,2023,imp.JP,imp,Import,Import,Import,JP,Japan,Japonia,Japán,439262049,usd
+2023-01-01,2023,imp.KR,imp,Import,Import,Import,KR,South Korea,Coreea de Sud,Dél-Korea,621136421,usd
+2023-01-01,2023,imp.MO,imp,Import,Import,Import,MO,Macau,Macao,Makaó,55018,usd
+2023-01-01,2023,imp.MN,imp,Import,Import,Import,MN,Mongolia,Mongolia,Mongólia,19902,usd
+2023-01-01,2023,imp.KP,imp,Import,Import,Import,KP,North Korea,Coreea de Nord,Észak-Korea,2862,usd
+2023-01-01,2023,imp.TW,imp,Import,Import,Import,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,445876458,usd
+2023-01-01,2023,imp.BN,imp,Import,Import,Import,BN,Brunei,Brunei,Brunei,29005,usd
+2023-01-01,2023,imp.CC,imp,Import,Import,Import,CC,Cocos (Keeling) Islands,Insulele Cocos (Keeling),Kókusz (Keeling)-szigetek,8172,usd
+2023-01-01,2023,imp.ID,imp,Import,Import,Import,ID,Indonesia,Indonezia,Indonézia,179152990,usd
+2023-01-01,2023,imp.KH,imp,Import,Import,Import,KH,Cambodia,Cambodgia,Kambodzsa,7843623,usd
+2023-01-01,2023,imp.LA,imp,Import,Import,Import,LA,Laos,Laos,Laosz,22960724,usd
+2023-01-01,2023,imp.MM,imp,Import,Import,Import,MM,Myanmar,Myanmar,Mianmar,22928746,usd
+2023-01-01,2023,imp.MY,imp,Import,Import,Import,MY,Malaysia,Malaezia,Malajzia,208117482,usd
+2023-01-01,2023,imp.PH,imp,Import,Import,Import,PH,Philippines,Filipine,Fülöp-szigetek,46916272,usd
+2023-01-01,2023,imp.SG,imp,Import,Import,Import,SG,Singapore,Singapore,Szingapúr,63595069,usd
+2023-01-01,2023,imp.TH,imp,Import,Import,Import,TH,Thailand,Thailanda,Thaiföld,323978334,usd
+2023-01-01,2023,imp.VN,imp,Import,Import,Import,VN,Vietnam,Vietnam,Vietnám,277257462,usd
+2023-01-01,2023,imp.AF,imp,Import,Import,Import,AF,Afghanistan,Afganistan,Afganisztán,105633,usd
+2023-01-01,2023,imp.BD,imp,Import,Import,Import,BD,Bangladesh,Bangladesh,Banglades,104042497,usd
+2023-01-01,2023,imp.IN,imp,Import,Import,Import,IN,India,India,India,1473546026,usd
+2023-01-01,2023,imp.IR,imp,Import,Import,Import,IR,Iran,Iran,Irán,64444879,usd
+2023-01-01,2023,imp.LK,imp,Import,Import,Import,LK,Sri Lanka,Sri Lanka,Srí Lanka,16160401,usd
+2023-01-01,2023,imp.MV,imp,Import,Import,Import,MV,Maldives,Maldive,Maldív-szigetek,415,usd
+2023-01-01,2023,imp.NP,imp,Import,Import,Import,NP,Nepal,Nepal,Nepál,785308,usd
+2023-01-01,2023,imp.PK,imp,Import,Import,Import,PK,Pakistan,Pakistan,Pakisztán,52735242,usd
+2023-01-01,2023,imp.AE,imp,Import,Import,Import,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,128547772,usd
+2023-01-01,2023,imp.AM,imp,Import,Import,Import,AM,Armenia,Armenia,Örményország,6678812,usd
+2023-01-01,2023,imp.AZ,imp,Import,Import,Import,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,603603117,usd
+2023-01-01,2023,imp.BH,imp,Import,Import,Import,BH,Bahrain,Bahrain,Bahrein,10094209,usd
+2023-01-01,2023,imp.GE,imp,Import,Import,Import,GE,Georgia,Georgia,Grúzia,22855717,usd
+2023-01-01,2023,imp.IQ,imp,Import,Import,Import,IQ,Iraq,Irak,Irak,185137344,usd
+2023-01-01,2023,imp.IL,imp,Import,Import,Import,IL,Israel,Israel,Izrael,403332706,usd
+2023-01-01,2023,imp.JO,imp,Import,Import,Import,JO,Jordan,Iordania,Jordánia,24010813,usd
+2023-01-01,2023,imp.KW,imp,Import,Import,Import,KW,Kuwait,Kuweit,Kuvait,60005283,usd
+2023-01-01,2023,imp.LB,imp,Import,Import,Import,LB,Lebanon,Liban,Libanon,12769580,usd
+2023-01-01,2023,imp.OM,imp,Import,Import,Import,OM,Oman,Oman,Omán,90702071,usd
+2023-01-01,2023,imp.PS,imp,Import,Import,Import,PS,Palestine,Palestina,Palesztina,56506,usd
+2023-01-01,2023,imp.QA,imp,Import,Import,Import,QA,Qatar,Qatar,Katar,9966894,usd
+2023-01-01,2023,imp.SA,imp,Import,Import,Import,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,241294114,usd
+2023-01-01,2023,imp.SY,imp,Import,Import,Import,SY,Syria,Siria,Szíria,3860990,usd
+2023-01-01,2023,imp.TR,imp,Import,Import,Import,TR,Turkey,Turcia,Törökország,6598423110,usd
+2023-01-01,2023,imp.CY,imp,Import,Import,Import,CY,Cyprus,Cipru,Ciprus,110632730,usd
+2023-01-01,2023,imp.BG,imp,Import,Import,Import,BG,Bulgaria,Bulgaria,Bulgária,5607686266,usd
+2023-01-01,2023,imp.BY,imp,Import,Import,Import,BY,Belarus,Belarus,Fehéroroszország,22040779,usd
+2023-01-01,2023,imp.CZ,imp,Import,Import,Import,CZ,Czechia,Cehia,Csehország,3948665711,usd
+2023-01-01,2023,imp.HU,imp,Import,Import,Import,HU,Hungary,Ungaria,Magyarország,8486575388,usd
+2023-01-01,2023,imp.MD,imp,Import,Import,Import,MD,Moldova,Moldova,Moldova,1509496493,usd
+2023-01-01,2023,imp.PL,imp,Import,Import,Import,PL,Poland,Polonia,Lengyelország,8297085556,usd
+2023-01-01,2023,imp.RU,imp,Import,Import,Import,RU,Russia,Rusia,Oroszország,349097993,usd
+2023-01-01,2023,imp.SK,imp,Import,Import,Import,SK,Slovakia,Slovacia,Szlovákia,2646225627,usd
+2023-01-01,2023,imp.UA,imp,Import,Import,Import,UA,Ukraine,Ucraina,Ukrajna,3694296339,usd
+2023-01-01,2023,imp.DK,imp,Import,Import,Import,DK,Denmark,Danemarca,Dánia,723134680,usd
+2023-01-01,2023,imp.EE,imp,Import,Import,Import,EE,Estonia,Estonia,Észtország,100898037,usd
+2023-01-01,2023,imp.FI,imp,Import,Import,Import,FI,Finland,Finlanda,Finnország,309548383,usd
+2023-01-01,2023,imp.GB,imp,Import,Import,Import,GB,United Kingdom,Regatul Unit,Egyesült Királyság,1254282580,usd
+2023-01-01,2023,imp.IE,imp,Import,Import,Import,IE,Ireland,Irlanda,Írország,694641500,usd
+2023-01-01,2023,imp.IS,imp,Import,Import,Import,IS,Iceland,Islanda,Izland,1686850,usd
+2023-01-01,2023,imp.LT,imp,Import,Import,Import,LT,Lithuania,Lituania,Litvánia,301116964,usd
+2023-01-01,2023,imp.LV,imp,Import,Import,Import,LV,Latvia,Letonia,Lettország,69789165,usd
+2023-01-01,2023,imp.NO,imp,Import,Import,Import,NO,Norway,Norvegia,Norvégia,390386989,usd
+2023-01-01,2023,imp.SE,imp,Import,Import,Import,SE,Sweden,Suedia,Svédország,786842740,usd
+2023-01-01,2023,imp.AL,imp,Import,Import,Import,AL,Albania,Albania,Albánia,37737279,usd
+2023-01-01,2023,imp.AD,imp,Import,Import,Import,AD,Andorra,Andorra,Andorra,134120,usd
+2023-01-01,2023,imp.BA,imp,Import,Import,Import,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,103776163,usd
+2023-01-01,2023,imp.ES,imp,Import,Import,Import,ES,Spain,Spania,Spanyolország,3649841572,usd
+2023-01-01,2023,imp.GI,imp,Import,Import,Import,GI,Gibraltar,Gibraltar,Gibraltár,1992691,usd
+2023-01-01,2023,imp.GR,imp,Import,Import,Import,GR,Greece,Grecia,Görögország,2105364540,usd
+2023-01-01,2023,imp.HR,imp,Import,Import,Import,HR,Croatia,Croația,Horvátország,378204097,usd
+2023-01-01,2023,imp.IT,imp,Import,Import,Import,IT,Italy,Italia,Olaszország,11336853816,usd
+2023-01-01,2023,imp.MK,imp,Import,Import,Import,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,151056638,usd
+2023-01-01,2023,imp.MT,imp,Import,Import,Import,MT,Malta,Malta,Málta,58520064,usd
+2023-01-01,2023,imp.ME,imp,Import,Import,Import,ME,Montenegro,Muntenegru,Montenegró,999422,usd
+2023-01-01,2023,imp.PT,imp,Import,Import,Import,PT,Portugal,Portugalia,Portugália,664509908,usd
+2023-01-01,2023,imp.SM,imp,Import,Import,Import,SM,San Marino,San Marino,San Marino,18414745,usd
+2023-01-01,2023,imp.RS,imp,Import,Import,Import,RS,Serbia,Serbia,Szerbia,1575965906,usd
+2023-01-01,2023,imp.SI,imp,Import,Import,Import,SI,Slovenia,Slovenia,Szlovénia,1189338962,usd
+2023-01-01,2023,imp.AT,imp,Import,Import,Import,AT,Austria,Austria,Ausztria,4618846555,usd
+2023-01-01,2023,imp.BE,imp,Import,Import,Import,BE,Belgium,Belgia,Belgium,3277642943,usd
+2023-01-01,2023,imp.CH,imp,Import,Import,Import,CH,Switzerland,Elveția,Svájc,1390384180,usd
+2023-01-01,2023,imp.DE,imp,Import,Import,Import,DE,Germany,Germania,Németország,24724135770,usd
+2023-01-01,2023,imp.FR,imp,Import,Import,Import,FR,France,Franța,Franciaország,5646832849,usd
+2023-01-01,2023,imp.LU,imp,Import,Import,Import,LU,Luxembourg,Luxemburg,Luxemburg,141938439,usd
+2023-01-01,2023,imp.NL,imp,Import,Import,Import,NL,Netherlands,Țările de Jos,Hollandia,5592260377,usd
+2023-01-01,2023,imp.AW,imp,Import,Import,Import,AW,Aruba,Aruba,Aruba,221,usd
+2023-01-01,2023,imp.AI,imp,Import,Import,Import,AI,Anguilla,Anguilla,Anguilla,3056,usd
+2023-01-01,2023,imp.AG,imp,Import,Import,Import,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,56831,usd
+2023-01-01,2023,imp.BS,imp,Import,Import,Import,BS,Bahamas,Bahamas,Bahama-szigetek,127989,usd
+2023-01-01,2023,imp.BL,imp,Import,Import,Import,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,1094,usd
+2023-01-01,2023,imp.BB,imp,Import,Import,Import,BB,Barbados,Barbados,Barbados,8264,usd
+2023-01-01,2023,imp.CU,imp,Import,Import,Import,CU,Cuba,Cuba,Kuba,394614,usd
+2023-01-01,2023,imp.CW,imp,Import,Import,Import,CW,Curaçao,Curaçao,Curaçao,7457,usd
+2023-01-01,2023,imp.DM,imp,Import,Import,Import,DM,Dominica,Dominica,Dominika,225,usd
+2023-01-01,2023,imp.DO,imp,Import,Import,Import,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,989127,usd
+2023-01-01,2023,imp.HT,imp,Import,Import,Import,HT,Haiti,Haiti,Haiti,12586,usd
+2023-01-01,2023,imp.JM,imp,Import,Import,Import,JM,Jamaica,Jamaica,Jamaica,3515,usd
+2023-01-01,2023,imp.KN,imp,Import,Import,Import,KN,Saint Kitts and Nevis,Saint Kitts și Nevis,Saint Kitts és Nevis,4076,usd
+2023-01-01,2023,imp.MF,imp,Import,Import,Import,MF,Saint Martin,Saint Martin,Saint Martin,35667,usd
+2023-01-01,2023,imp.MS,imp,Import,Import,Import,MS,Montserrat,Montserrat,Montserrat,28616,usd
+2023-01-01,2023,imp.TC,imp,Import,Import,Import,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,1801,usd
+2023-01-01,2023,imp.TT,imp,Import,Import,Import,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,14319587,usd
+2023-01-01,2023,imp.VG,imp,Import,Import,Import,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,5,usd
+2023-01-01,2023,imp.BZ,imp,Import,Import,Import,BZ,Belize,Belize,Belize,42418,usd
+2023-01-01,2023,imp.CR,imp,Import,Import,Import,CR,Costa Rica,Costa Rica,Costa Rica,3862359,usd
+2023-01-01,2023,imp.GT,imp,Import,Import,Import,GT,Guatemala,Guatemala,Guatemala,5903464,usd
+2023-01-01,2023,imp.HN,imp,Import,Import,Import,HN,Honduras,Honduras,Honduras,20429617,usd
+2023-01-01,2023,imp.MX,imp,Import,Import,Import,MX,Mexico,Mexic,Mexikó,164335064,usd
+2023-01-01,2023,imp.NI,imp,Import,Import,Import,NI,Nicaragua,Nicaragua,Nicaragua,7553243,usd
+2023-01-01,2023,imp.PA,imp,Import,Import,Import,PA,Panama,Panama,Panama,83901,usd
+2023-01-01,2023,imp.SV,imp,Import,Import,Import,SV,El Salvador,El Salvador,Salvador,614890,usd
+2023-01-01,2023,imp.BM,imp,Import,Import,Import,BM,Bermuda,Bermuda,Bermuda,771,usd
+2023-01-01,2023,imp.CA,imp,Import,Import,Import,CA,Canada,Canada,Kanada,111721819,usd
+2023-01-01,2023,imp.US,imp,Import,Import,Import,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,1374564129,usd
+2023-01-01,2023,imp.AU,imp,Import,Import,Import,AU,Australia,Australia,Ausztrália,20397066,usd
+2023-01-01,2023,imp.NZ,imp,Import,Import,Import,NZ,New Zealand,Noua Zeelandă,Új-Zéland,14730904,usd
+2023-01-01,2023,imp.FJ,imp,Import,Import,Import,FJ,Fiji,Fiji,Fidzsi,877,usd
+2023-01-01,2023,imp.NC,imp,Import,Import,Import,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,2022,usd
+2023-01-01,2023,imp.PG,imp,Import,Import,Import,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,42917,usd
+2023-01-01,2023,imp.GU,imp,Import,Import,Import,GU,Guam,Guam,Guam,1517,usd
+2023-01-01,2023,imp.MH,imp,Import,Import,Import,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,14,usd
+2023-01-01,2023,imp.NR,imp,Import,Import,Import,NR,Nauru,Nauru,Nauru,6052,usd
+2023-01-01,2023,imp.PF,imp,Import,Import,Import,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,3846,usd
+2023-01-01,2023,imp.TK,imp,Import,Import,Import,TK,Tokelau,Tokelau,Tokelau,12679,usd
+2023-01-01,2023,imp.WS,imp,Import,Import,Import,WS,Samoa,Samoa,Szamoa,69258,usd
+2023-01-01,2023,imp.AR,imp,Import,Import,Import,AR,Argentina,Argentina,Argentína,58308642,usd
+2023-01-01,2023,imp.BO,imp,Import,Import,Import,BO,Bolivia,Bolivia,Bolívia,302027,usd
+2023-01-01,2023,imp.BR,imp,Import,Import,Import,BR,Brazil,Brazilia,Brazília,418762669,usd
+2023-01-01,2023,imp.CL,imp,Import,Import,Import,CL,Chile,Chile,Chile,13325901,usd
+2023-01-01,2023,imp.CO,imp,Import,Import,Import,CO,Colombia,Columbia,Kolumbia,15829317,usd
+2023-01-01,2023,imp.EC,imp,Import,Import,Import,EC,Ecuador,Ecuador,Ecuador,18068956,usd
+2023-01-01,2023,imp.GY,imp,Import,Import,Import,GY,Guyana,Guyana,Guyana,172791253,usd
+2023-01-01,2023,imp.PE,imp,Import,Import,Import,PE,Peru,Peru,Peru,4403974,usd
+2023-01-01,2023,imp.PY,imp,Import,Import,Import,PY,Paraguay,Paraguay,Paraguay,509606,usd
+2023-01-01,2023,imp.SR,imp,Import,Import,Import,SR,Suriname,Surinam,Suriname,6374,usd
+2023-01-01,2023,imp.UY,imp,Import,Import,Import,UY,Uruguay,Uruguay,Uruguay,10863469,usd
+2023-01-01,2023,imp.VE,imp,Import,Import,Import,VE,Venezuela,Venezuela,Venezuela,12842468,usd
+2023-01-01,2023,exp.ST,exp,Export,Export,Export,ST,Sao Tome and Principe,São Tomé și Príncipe,São Tomé és Príncipe,3219,usd
+2023-01-01,2023,exp.BW,exp,Export,Export,Export,BW,Botswana,Botswana,Botswana,3041944,usd
+2023-01-01,2023,exp.CC,exp,Export,Export,Export,CC,Cocos (Keeling) Islands,Insulele Cocos (Keeling),Kókusz (Keeling)-szigetek,18004,usd
+2023-01-01,2023,exp.IO,exp,Export,Export,Export,IO,British Indian Ocean Territory,Teritoriul Britanic din Oceanul Indian,Brit Indiai-óceáni Terület,1321,usd
+2023-01-01,2023,exp.DM,exp,Export,Export,Export,DM,Dominica,Dominica,Dominika,28708,usd
+2023-01-01,2023,exp.VC,exp,Export,Export,Export,VC,Saint Vincent and the Grenadines,Saint Vincent și Grenadine,Saint Vincent és a Grenadine-szigetek,19114,usd
+2023-01-01,2023,exp.PM,exp,Export,Export,Export,PM,Saint Pierre and Miquelon,Saint-Pierre și Miquelon,Saint-Pierre és Miquelon,87336,usd
+2023-01-01,2023,exp.KI,exp,Export,Export,Export,KI,Kiribati,Kiribati,Kiribati,45,usd
+2023-01-01,2023,imp.KM,imp,Import,Import,Import,KM,Comoros,Comore,Comore-szigetek,265,usd
+2023-01-01,2023,imp.GQ,imp,Import,Import,Import,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,1948874,usd
+2023-01-01,2023,imp.GL,imp,Import,Import,Import,GL,Greenland,Groenlanda,Grönland,1466,usd
+2023-01-01,2023,imp.VU,imp,Import,Import,Import,VU,Vanuatu,Vanuatu,Vanuatu,121,usd
+2023-01-01,2023,imp.FM,imp,Import,Import,Import,FM,Micronesia,Micronezia,Mikronézia,13228,usd
+2023-01-01,2023,imp.WF,imp,Import,Import,Import,WF,Wallis and Futuna,Wallis și Futuna,Wallis és Futuna,86,usd
+2023-01-01,2023,imp.FK,imp,Import,Import,Import,FK,Falkland Islands,Insulele Falkland,Falkland-szigetek,3,usd
+2024-01-01,2024,exp.DZ,exp,Export,Export,Export,DZ,Algeria,Algeria,Algéria,270000000,usd
+2024-01-01,2024,exp.EG,exp,Export,Export,Export,EG,Egypt,Egipt,Egyiptom,740000000,usd
+2024-01-01,2024,exp.LY,exp,Export,Export,Export,LY,Libya,Libia,Líbia,100000000,usd
+2024-01-01,2024,exp.MA,exp,Export,Export,Export,MA,Morocco,Maroc,Marokkó,1800000000,usd
+2024-01-01,2024,exp.SD,exp,Export,Export,Export,SD,Sudan,Sudan,Szudán,20000000,usd
+2024-01-01,2024,exp.TN,exp,Export,Export,Export,TN,Tunisia,Tunisia,Tunézia,210000000,usd
+2024-01-01,2024,exp.BI,exp,Export,Export,Export,BI,Burundi,Burundi,Burundi,5798,usd
+2024-01-01,2024,exp.KM,exp,Export,Export,Export,KM,Comoros,Comore,Comore-szigetek,25282,usd
+2024-01-01,2024,exp.DJ,exp,Export,Export,Export,DJ,Djibouti,Djibouti,Dzsibuti,21000000,usd
+2024-01-01,2024,exp.ET,exp,Export,Export,Export,ET,Ethiopia,Etiopia,Etiópia,2465394,usd
+2024-01-01,2024,exp.KE,exp,Export,Export,Export,KE,Kenya,Kenya,Kenya,7093792,usd
+2024-01-01,2024,exp.MG,exp,Export,Export,Export,MG,Madagascar,Madagascar,Madagaszkár,6972432,usd
+2024-01-01,2024,exp.MZ,exp,Export,Export,Export,MZ,Mozambique,Mozambic,Mozambik,1456453,usd
+2024-01-01,2024,exp.MU,exp,Export,Export,Export,MU,Mauritius,Mauritius,Mauritius,4011434,usd
+2024-01-01,2024,exp.MW,exp,Export,Export,Export,MW,Malawi,Malawi,Malawi,243460,usd
+2024-01-01,2024,exp.RW,exp,Export,Export,Export,RW,Rwanda,Rwanda,Ruanda,128,usd
+2024-01-01,2024,exp.SO,exp,Export,Export,Export,SO,Somalia,Somalia,Szomália,2173775,usd
+2024-01-01,2024,exp.SS,exp,Export,Export,Export,SS,South Sudan,Sudanul de Sud,Dél-Szudán,5561,usd
+2024-01-01,2024,exp.SC,exp,Export,Export,Export,SC,Seychelles,Seychelles,Seychelle-szigetek,124491,usd
+2024-01-01,2024,exp.TZ,exp,Export,Export,Export,TZ,Tanzania,Tanzania,Tanzánia,2316522,usd
+2024-01-01,2024,exp.UG,exp,Export,Export,Export,UG,Uganda,Uganda,Uganda,2866556,usd
+2024-01-01,2024,exp.AO,exp,Export,Export,Export,AO,Angola,Angola,Angola,73000000,usd
+2024-01-01,2024,exp.CF,exp,Export,Export,Export,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,209615,usd
+2024-01-01,2024,exp.CM,exp,Export,Export,Export,CM,Cameroon,Camerun,Kamerun,52000000,usd
+2024-01-01,2024,exp.CD,exp,Export,Export,Export,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,11000000,usd
+2024-01-01,2024,exp.CG,exp,Export,Export,Export,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,12000000,usd
+2024-01-01,2024,exp.GA,exp,Export,Export,Export,GA,Gabon,Gabon,Gabon,5559235,usd
+2024-01-01,2024,exp.GQ,exp,Export,Export,Export,GQ,Equatorial Guinea,Guineea Ecuatorială,Egyenlítői-Guinea,800046,usd
+2024-01-01,2024,exp.TD,exp,Export,Export,Export,TD,Chad,Ciad,Csád,259694,usd
+2024-01-01,2024,exp.LS,exp,Export,Export,Export,LS,Lesotho,Lesotho,Lesotho,483,usd
+2024-01-01,2024,exp.NA,exp,Export,Export,Export,NA,Namibia,Namibia,Namíbia,2026189,usd
+2024-01-01,2024,exp.SZ,exp,Export,Export,Export,SZ,Eswatini,Eswatini,Eswatini,109,usd
+2024-01-01,2024,exp.ZA,exp,Export,Export,Export,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,200000000,usd
+2024-01-01,2024,exp.ZM,exp,Export,Export,Export,ZM,Zambia,Zambia,Zambia,1072523,usd
+2024-01-01,2024,exp.ZW,exp,Export,Export,Export,ZW,Zimbabwe,Zimbabwe,Zimbabwe,85765,usd
+2024-01-01,2024,exp.BJ,exp,Export,Export,Export,BJ,Benin,Benin,Benin,2248035,usd
+2024-01-01,2024,exp.BF,exp,Export,Export,Export,BF,Burkina Faso,Burkina Faso,Burkina Faso,5529004,usd
+2024-01-01,2024,exp.CI,exp,Export,Export,Export,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,19000000,usd
+2024-01-01,2024,exp.CV,exp,Export,Export,Export,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,1203958,usd
+2024-01-01,2024,exp.GH,exp,Export,Export,Export,GH,Ghana,Ghana,Ghána,6213354,usd
+2024-01-01,2024,exp.GN,exp,Export,Export,Export,GN,Guinea,Guineea,Guinea,1596489,usd
+2024-01-01,2024,exp.GM,exp,Export,Export,Export,GM,Gambia,Gambia,Gambia,2916900,usd
+2024-01-01,2024,exp.GW,exp,Export,Export,Export,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,122858,usd
+2024-01-01,2024,exp.LR,exp,Export,Export,Export,LR,Liberia,Liberia,Libéria,441921,usd
+2024-01-01,2024,exp.ML,exp,Export,Export,Export,ML,Mali,Mali,Mali,3421786,usd
+2024-01-01,2024,exp.MR,exp,Export,Export,Export,MR,Mauritania,Mauritania,Mauritánia,59000000,usd
+2024-01-01,2024,exp.NE,exp,Export,Export,Export,NE,Niger,Niger,Niger,223323,usd
+2024-01-01,2024,exp.NG,exp,Export,Export,Export,NG,Nigeria,Nigeria,Nigéria,120000000,usd
+2024-01-01,2024,exp.SN,exp,Export,Export,Export,SN,Senegal,Senegal,Szenegál,9546431,usd
+2024-01-01,2024,exp.SL,exp,Export,Export,Export,SL,Sierra Leone,Sierra Leone,Sierra Leone,864964,usd
+2024-01-01,2024,exp.TG,exp,Export,Export,Export,TG,Togo,Togo,Togo,2445970,usd
+2024-01-01,2024,exp.KZ,exp,Export,Export,Export,KZ,Kazakhstan,Kazahstan,Kazahsztán,150000000,usd
+2024-01-01,2024,exp.KG,exp,Export,Export,Export,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,46000000,usd
+2024-01-01,2024,exp.TJ,exp,Export,Export,Export,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,704052,usd
+2024-01-01,2024,exp.TM,exp,Export,Export,Export,TM,Turkmenistan,Turkmenistan,Türkmenisztán,2122114,usd
+2024-01-01,2024,exp.UZ,exp,Export,Export,Export,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,43000000,usd
+2024-01-01,2024,exp.CN,exp,Export,Export,Export,CN,China,China,Kína,2200000000,usd
+2024-01-01,2024,exp.HK,exp,Export,Export,Export,HK,Hong Kong,Hong Kong,Hongkong,81000000,usd
+2024-01-01,2024,exp.JP,exp,Export,Export,Export,JP,Japan,Japonia,Japán,1100000000,usd
+2024-01-01,2024,exp.KR,exp,Export,Export,Export,KR,South Korea,Coreea de Sud,Dél-Korea,670000000,usd
+2024-01-01,2024,exp.MO,exp,Export,Export,Export,MO,Macau,Macao,Makaó,26000000,usd
+2024-01-01,2024,exp.MN,exp,Export,Export,Export,MN,Mongolia,Mongolia,Mongólia,2124176,usd
+2024-01-01,2024,exp.TW,exp,Export,Export,Export,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,150000000,usd
+2024-01-01,2024,exp.BN,exp,Export,Export,Export,BN,Brunei,Brunei,Brunei,1372967,usd
+2024-01-01,2024,exp.ID,exp,Export,Export,Export,ID,Indonesia,Indonezia,Indonézia,72000000,usd
+2024-01-01,2024,exp.KH,exp,Export,Export,Export,KH,Cambodia,Cambodgia,Kambodzsa,6125098,usd
+2024-01-01,2024,exp.LA,exp,Export,Export,Export,LA,Laos,Laos,Laosz,958668,usd
+2024-01-01,2024,exp.MM,exp,Export,Export,Export,MM,Myanmar,Myanmar,Mianmar,3150626,usd
+2024-01-01,2024,exp.MY,exp,Export,Export,Export,MY,Malaysia,Malaezia,Malajzia,120000000,usd
+2024-01-01,2024,exp.PH,exp,Export,Export,Export,PH,Philippines,Filipine,Fülöp-szigetek,67000000,usd
+2024-01-01,2024,exp.SG,exp,Export,Export,Export,SG,Singapore,Singapore,Szingapúr,230000000,usd
+2024-01-01,2024,exp.TH,exp,Export,Export,Export,TH,Thailand,Thailanda,Thaiföld,180000000,usd
+2024-01-01,2024,exp.VN,exp,Export,Export,Export,VN,Vietnam,Vietnam,Vietnám,99000000,usd
+2024-01-01,2024,exp.AF,exp,Export,Export,Export,AF,Afghanistan,Afganistan,Afganisztán,2789869,usd
+2024-01-01,2024,exp.BD,exp,Export,Export,Export,BD,Bangladesh,Bangladesh,Banglades,76000000,usd
+2024-01-01,2024,exp.IN,exp,Export,Export,Export,IN,India,India,India,350000000,usd
+2024-01-01,2024,exp.IR,exp,Export,Export,Export,IR,Iran,Iran,Irán,130000000,usd
+2024-01-01,2024,exp.LK,exp,Export,Export,Export,LK,Sri Lanka,Sri Lanka,Srí Lanka,56000000,usd
+2024-01-01,2024,exp.MV,exp,Export,Export,Export,MV,Maldives,Maldive,Maldív-szigetek,1335326,usd
+2024-01-01,2024,exp.NP,exp,Export,Export,Export,NP,Nepal,Nepal,Nepál,12101,usd
+2024-01-01,2024,exp.PK,exp,Export,Export,Export,PK,Pakistan,Pakistan,Pakisztán,260000000,usd
+2024-01-01,2024,exp.AE,exp,Export,Export,Export,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,370000000,usd
+2024-01-01,2024,exp.AM,exp,Export,Export,Export,AM,Armenia,Armenia,Örményország,41000000,usd
+2024-01-01,2024,exp.AZ,exp,Export,Export,Export,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,82000000,usd
+2024-01-01,2024,exp.BH,exp,Export,Export,Export,BH,Bahrain,Bahrain,Bahrein,18000000,usd
+2024-01-01,2024,exp.GE,exp,Export,Export,Export,GE,Georgia,Georgia,Grúzia,230000000,usd
+2024-01-01,2024,exp.IQ,exp,Export,Export,Export,IQ,Iraq,Irak,Irak,120000000,usd
+2024-01-01,2024,exp.IL,exp,Export,Export,Export,IL,Israel,Israel,Izrael,560000000,usd
+2024-01-01,2024,exp.JO,exp,Export,Export,Export,JO,Jordan,Iordania,Jordánia,330000000,usd
+2024-01-01,2024,exp.KW,exp,Export,Export,Export,KW,Kuwait,Kuweit,Kuvait,120000000,usd
+2024-01-01,2024,exp.LB,exp,Export,Export,Export,LB,Lebanon,Liban,Libanon,210000000,usd
+2024-01-01,2024,exp.OM,exp,Export,Export,Export,OM,Oman,Oman,Omán,30000000,usd
+2024-01-01,2024,exp.PS,exp,Export,Export,Export,PS,Palestine,Palestina,Palesztina,3673568,usd
+2024-01-01,2024,exp.QA,exp,Export,Export,Export,QA,Qatar,Qatar,Katar,85000000,usd
+2024-01-01,2024,exp.SA,exp,Export,Export,Export,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,1300000000,usd
+2024-01-01,2024,exp.SY,exp,Export,Export,Export,SY,Syria,Siria,Szíria,3066218,usd
+2024-01-01,2024,exp.TR,exp,Export,Export,Export,TR,Turkey,Turcia,Törökország,4000000000,usd
+2024-01-01,2024,exp.YE,exp,Export,Export,Export,YE,Yemen,Yemen,Jemen,6631102,usd
+2024-01-01,2024,exp.CY,exp,Export,Export,Export,CY,Cyprus,Cipru,Ciprus,100000000,usd
+2024-01-01,2024,exp.BG,exp,Export,Export,Export,BG,Bulgaria,Bulgaria,Bulgária,2500000000,usd
+2024-01-01,2024,exp.BY,exp,Export,Export,Export,BY,Belarus,Belarus,Fehéroroszország,22000000,usd
+2024-01-01,2024,exp.CZ,exp,Export,Export,Export,CZ,Czechia,Cehia,Csehország,3500000000,usd
+2024-01-01,2024,exp.HU,exp,Export,Export,Export,HU,Hungary,Ungaria,Magyarország,4100000000,usd
+2024-01-01,2024,exp.MD,exp,Export,Export,Export,MD,Moldova,Moldova,Moldova,1700000000,usd
+2024-01-01,2024,exp.PL,exp,Export,Export,Export,PL,Poland,Polonia,Lengyelország,3800000000,usd
+2024-01-01,2024,exp.RU,exp,Export,Export,Export,RU,Russia,Rusia,Oroszország,200000000,usd
+2024-01-01,2024,exp.SK,exp,Export,Export,Export,SK,Slovakia,Slovacia,Szlovákia,2200000000,usd
+2024-01-01,2024,exp.UA,exp,Export,Export,Export,UA,Ukraine,Ucraina,Ukrajna,2100000000,usd
+2024-01-01,2024,exp.DK,exp,Export,Export,Export,DK,Denmark,Danemarca,Dánia,350000000,usd
+2024-01-01,2024,exp.EE,exp,Export,Export,Export,EE,Estonia,Estonia,Észtország,87000000,usd
+2024-01-01,2024,exp.FI,exp,Export,Export,Export,FI,Finland,Finlanda,Finnország,300000000,usd
+2024-01-01,2024,exp.GB,exp,Export,Export,Export,GB,United Kingdom,Regatul Unit,Egyesült Királyság,5000000000,usd
+2024-01-01,2024,exp.IE,exp,Export,Export,Export,IE,Ireland,Irlanda,Írország,280000000,usd
+2024-01-01,2024,exp.IS,exp,Export,Export,Export,IS,Iceland,Islanda,Izland,33000000,usd
+2024-01-01,2024,exp.LT,exp,Export,Export,Export,LT,Lithuania,Lituania,Litvánia,180000000,usd
+2024-01-01,2024,exp.LV,exp,Export,Export,Export,LV,Latvia,Letonia,Lettország,82000000,usd
+2024-01-01,2024,exp.NO,exp,Export,Export,Export,NO,Norway,Norvegia,Norvégia,1000000000,usd
+2024-01-01,2024,exp.SE,exp,Export,Export,Export,SE,Sweden,Suedia,Svédország,740000000,usd
+2024-01-01,2024,exp.AL,exp,Export,Export,Export,AL,Albania,Albania,Albánia,110000000,usd
+2024-01-01,2024,exp.AD,exp,Export,Export,Export,AD,Andorra,Andorra,Andorra,1069906,usd
+2024-01-01,2024,exp.BA,exp,Export,Export,Export,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,160000000,usd
+2024-01-01,2024,exp.ES,exp,Export,Export,Export,ES,Spain,Spania,Spanyolország,2800000000,usd
+2024-01-01,2024,exp.GI,exp,Export,Export,Export,GI,Gibraltar,Gibraltar,Gibraltár,240000000,usd
+2024-01-01,2024,exp.GR,exp,Export,Export,Export,GR,Greece,Grecia,Görögország,1200000000,usd
+2024-01-01,2024,exp.HR,exp,Export,Export,Export,HR,Croatia,Croația,Horvátország,620000000,usd
+2024-01-01,2024,exp.IT,exp,Export,Export,Export,IT,Italy,Italia,Olaszország,8900000000,usd
+2024-01-01,2024,exp.MK,exp,Export,Export,Export,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,210000000,usd
+2024-01-01,2024,exp.MT,exp,Export,Export,Export,MT,Malta,Malta,Málta,48000000,usd
+2024-01-01,2024,exp.ME,exp,Export,Export,Export,ME,Montenegro,Muntenegru,Montenegró,44000000,usd
+2024-01-01,2024,exp.PT,exp,Export,Export,Export,PT,Portugal,Portugalia,Portugália,600000000,usd
+2024-01-01,2024,exp.SM,exp,Export,Export,Export,SM,San Marino,San Marino,San Marino,29000000,usd
+2024-01-01,2024,exp.RS,exp,Export,Export,Export,RS,Serbia,Serbia,Szerbia,1100000000,usd
+2024-01-01,2024,exp.SI,exp,Export,Export,Export,SI,Slovenia,Slovenia,Szlovénia,520000000,usd
+2024-01-01,2024,exp.AT,exp,Export,Export,Export,AT,Austria,Austria,Ausztria,2500000000,usd
+2024-01-01,2024,exp.BE,exp,Export,Export,Export,BE,Belgium,Belgia,Belgium,1800000000,usd
+2024-01-01,2024,exp.CH,exp,Export,Export,Export,CH,Switzerland,Elveția,Svájc,1900000000,usd
+2024-01-01,2024,exp.DE,exp,Export,Export,Export,DE,Germany,Germania,Németország,19000000000,usd
+2024-01-01,2024,exp.FR,exp,Export,Export,Export,FR,France,Franța,Franciaország,7300000000,usd
+2024-01-01,2024,exp.LU,exp,Export,Export,Export,LU,Luxembourg,Luxemburg,Luxemburg,40000000,usd
+2024-01-01,2024,exp.NL,exp,Export,Export,Export,NL,Netherlands,Țările de Jos,Hollandia,2900000000,usd
+2024-01-01,2024,exp.AW,exp,Export,Export,Export,AW,Aruba,Aruba,Aruba,4907,usd
+2024-01-01,2024,exp.AG,exp,Export,Export,Export,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,424798,usd
+2024-01-01,2024,exp.BS,exp,Export,Export,Export,BS,Bahamas,Bahamas,Bahama-szigetek,225555,usd
+2024-01-01,2024,exp.BL,exp,Export,Export,Export,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,490,usd
+2024-01-01,2024,exp.BB,exp,Export,Export,Export,BB,Barbados,Barbados,Barbados,10631,usd
+2024-01-01,2024,exp.CU,exp,Export,Export,Export,CU,Cuba,Cuba,Kuba,148905,usd
+2024-01-01,2024,exp.CW,exp,Export,Export,Export,CW,Curaçao,Curaçao,Curaçao,182051,usd
+2024-01-01,2024,exp.KY,exp,Export,Export,Export,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,411805,usd
+2024-01-01,2024,exp.DO,exp,Export,Export,Export,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,11000000,usd
+2024-01-01,2024,exp.GD,exp,Export,Export,Export,GD,Grenada,Grenada,Grenada,184702,usd
+2024-01-01,2024,exp.HT,exp,Export,Export,Export,HT,Haiti,Haiti,Haiti,213656,usd
+2024-01-01,2024,exp.JM,exp,Export,Export,Export,JM,Jamaica,Jamaica,Jamaica,33608,usd
+2024-01-01,2024,exp.KN,exp,Export,Export,Export,KN,Saint Kitts and Nevis,Saint Kitts și Nevis,Saint Kitts és Nevis,139,usd
+2024-01-01,2024,exp.LC,exp,Export,Export,Export,LC,Saint Lucia,Saint Lucia,Saint Lucia,164556,usd
+2024-01-01,2024,exp.MF,exp,Export,Export,Export,MF,Saint Martin,Saint Martin,Saint Martin,21312,usd
+2024-01-01,2024,exp.MS,exp,Export,Export,Export,MS,Montserrat,Montserrat,Montserrat,112298,usd
+2024-01-01,2024,exp.TC,exp,Export,Export,Export,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,76103,usd
+2024-01-01,2024,exp.TT,exp,Export,Export,Export,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,460328,usd
+2024-01-01,2024,exp.VG,exp,Export,Export,Export,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,1393,usd
+2024-01-01,2024,exp.BZ,exp,Export,Export,Export,BZ,Belize,Belize,Belize,334029,usd
+2024-01-01,2024,exp.CR,exp,Export,Export,Export,CR,Costa Rica,Costa Rica,Costa Rica,6047926,usd
+2024-01-01,2024,exp.GT,exp,Export,Export,Export,GT,Guatemala,Guatemala,Guatemala,8097421,usd
+2024-01-01,2024,exp.HN,exp,Export,Export,Export,HN,Honduras,Honduras,Honduras,4657831,usd
+2024-01-01,2024,exp.MX,exp,Export,Export,Export,MX,Mexico,Mexic,Mexikó,480000000,usd
+2024-01-01,2024,exp.NI,exp,Export,Export,Export,NI,Nicaragua,Nicaragua,Nicaragua,1998387,usd
+2024-01-01,2024,exp.PA,exp,Export,Export,Export,PA,Panama,Panama,Panama,3560078,usd
+2024-01-01,2024,exp.SV,exp,Export,Export,Export,SV,El Salvador,El Salvador,Salvador,2127279,usd
+2024-01-01,2024,exp.BM,exp,Export,Export,Export,BM,Bermuda,Bermuda,Bermuda,28779,usd
+2024-01-01,2024,exp.CA,exp,Export,Export,Export,CA,Canada,Canada,Kanada,420000000,usd
+2024-01-01,2024,exp.GL,exp,Export,Export,Export,GL,Greenland,Groenlanda,Grönland,12028,usd
+2024-01-01,2024,exp.US,exp,Export,Export,Export,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,3800000000,usd
+2024-01-01,2024,exp.AU,exp,Export,Export,Export,AU,Australia,Australia,Ausztrália,200000000,usd
+2024-01-01,2024,exp.NZ,exp,Export,Export,Export,NZ,New Zealand,Noua Zeelandă,Új-Zéland,65000000,usd
+2024-01-01,2024,exp.FJ,exp,Export,Export,Export,FJ,Fiji,Fiji,Fidzsi,16595,usd
+2024-01-01,2024,exp.NC,exp,Export,Export,Export,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,1247269,usd
+2024-01-01,2024,exp.PG,exp,Export,Export,Export,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,114555,usd
+2024-01-01,2024,exp.GU,exp,Export,Export,Export,GU,Guam,Guam,Guam,9580,usd
+2024-01-01,2024,exp.MH,exp,Export,Export,Export,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,1254,usd
+2024-01-01,2024,exp.MP,exp,Export,Export,Export,MP,Northern Mariana Islands,Insulele Mariane de Nord,Északi-Mariana-szigetek,214,usd
+2024-01-01,2024,exp.PF,exp,Export,Export,Export,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,2779543,usd
+2024-01-01,2024,exp.WS,exp,Export,Export,Export,WS,Samoa,Samoa,Szamoa,94,usd
+2024-01-01,2024,exp.AR,exp,Export,Export,Export,AR,Argentina,Argentina,Argentína,97000000,usd
+2024-01-01,2024,exp.BO,exp,Export,Export,Export,BO,Bolivia,Bolivia,Bolívia,2995993,usd
+2024-01-01,2024,exp.BR,exp,Export,Export,Export,BR,Brazil,Brazilia,Brazília,410000000,usd
+2024-01-01,2024,exp.CL,exp,Export,Export,Export,CL,Chile,Chile,Chile,29000000,usd
+2024-01-01,2024,exp.CO,exp,Export,Export,Export,CO,Colombia,Columbia,Kolumbia,81000000,usd
+2024-01-01,2024,exp.EC,exp,Export,Export,Export,EC,Ecuador,Ecuador,Ecuador,13000000,usd
+2024-01-01,2024,exp.GY,exp,Export,Export,Export,GY,Guyana,Guyana,Guyana,1127219,usd
+2024-01-01,2024,exp.PE,exp,Export,Export,Export,PE,Peru,Peru,Peru,24000000,usd
+2024-01-01,2024,exp.PY,exp,Export,Export,Export,PY,Paraguay,Paraguay,Paraguay,5557749,usd
+2024-01-01,2024,exp.SR,exp,Export,Export,Export,SR,Suriname,Surinam,Suriname,148605,usd
+2024-01-01,2024,exp.UY,exp,Export,Export,Export,UY,Uruguay,Uruguay,Uruguay,15000000,usd
+2024-01-01,2024,exp.VE,exp,Export,Export,Export,VE,Venezuela,Venezuela,Venezuela,712332,usd
+2024-01-01,2024,imp.DZ,imp,Import,Import,Import,DZ,Algeria,Algeria,Algéria,79000000,usd
+2024-01-01,2024,imp.EG,imp,Import,Import,Import,EG,Egypt,Egipt,Egyiptom,680000000,usd
+2024-01-01,2024,imp.LY,imp,Import,Import,Import,LY,Libya,Libia,Líbia,330000000,usd
+2024-01-01,2024,imp.MA,imp,Import,Import,Import,MA,Morocco,Maroc,Marokkó,810000000,usd
+2024-01-01,2024,imp.SD,imp,Import,Import,Import,SD,Sudan,Sudan,Szudán,7057,usd
+2024-01-01,2024,imp.TN,imp,Import,Import,Import,TN,Tunisia,Tunisia,Tunézia,100000000,usd
+2024-01-01,2024,imp.BI,imp,Import,Import,Import,BI,Burundi,Burundi,Burundi,471348,usd
+2024-01-01,2024,imp.DJ,imp,Import,Import,Import,DJ,Djibouti,Djibouti,Dzsibuti,20,usd
+2024-01-01,2024,imp.ET,imp,Import,Import,Import,ET,Ethiopia,Etiopia,Etiópia,1755745,usd
+2024-01-01,2024,imp.KE,imp,Import,Import,Import,KE,Kenya,Kenya,Kenya,6898976,usd
+2024-01-01,2024,imp.MG,imp,Import,Import,Import,MG,Madagascar,Madagascar,Madagaszkár,1178603,usd
+2024-01-01,2024,imp.MZ,imp,Import,Import,Import,MZ,Mozambique,Mozambic,Mozambik,10000000,usd
+2024-01-01,2024,imp.MU,imp,Import,Import,Import,MU,Mauritius,Mauritius,Mauritius,1503329,usd
+2024-01-01,2024,imp.MW,imp,Import,Import,Import,MW,Malawi,Malawi,Malawi,3038841,usd
+2024-01-01,2024,imp.RW,imp,Import,Import,Import,RW,Rwanda,Rwanda,Ruanda,419914,usd
+2024-01-01,2024,imp.SO,imp,Import,Import,Import,SO,Somalia,Somalia,Szomália,2724,usd
+2024-01-01,2024,imp.SC,imp,Import,Import,Import,SC,Seychelles,Seychelles,Seychelle-szigetek,2346308,usd
+2024-01-01,2024,imp.TZ,imp,Import,Import,Import,TZ,Tanzania,Tanzania,Tanzánia,11000000,usd
+2024-01-01,2024,imp.UG,imp,Import,Import,Import,UG,Uganda,Uganda,Uganda,8539671,usd
+2024-01-01,2024,imp.AO,imp,Import,Import,Import,AO,Angola,Angola,Angola,495834,usd
+2024-01-01,2024,imp.CF,imp,Import,Import,Import,CF,Central African Republic,Republica Centrafricană,Közép-afrikai Köztársaság,1601,usd
+2024-01-01,2024,imp.CM,imp,Import,Import,Import,CM,Cameroon,Camerun,Kamerun,1157442,usd
+2024-01-01,2024,imp.CD,imp,Import,Import,Import,CD,Democratic Republic of the Congo,Republica Democrată Congo,Kongói Demokratikus Köztársaság,537243,usd
+2024-01-01,2024,imp.CG,imp,Import,Import,Import,CG,Republic of the Congo,Republica Congo,Kongói Köztársaság,150000000,usd
+2024-01-01,2024,imp.GA,imp,Import,Import,Import,GA,Gabon,Gabon,Gabon,37000000,usd
+2024-01-01,2024,imp.ST,imp,Import,Import,Import,ST,Sao Tome and Principe,São Tomé și Príncipe,São Tomé és Príncipe,1187,usd
+2024-01-01,2024,imp.TD,imp,Import,Import,Import,TD,Chad,Ciad,Csád,164340,usd
+2024-01-01,2024,imp.BW,imp,Import,Import,Import,BW,Botswana,Botswana,Botswana,434,usd
+2024-01-01,2024,imp.NA,imp,Import,Import,Import,NA,Namibia,Namibia,Namíbia,1198541,usd
+2024-01-01,2024,imp.SZ,imp,Import,Import,Import,SZ,Eswatini,Eswatini,Eswatini,2174456,usd
+2024-01-01,2024,imp.ZA,imp,Import,Import,Import,ZA,South Africa,Africa de Sud,Dél-afrikai Köztársaság,130000000,usd
+2024-01-01,2024,imp.ZM,imp,Import,Import,Import,ZM,Zambia,Zambia,Zambia,936670,usd
+2024-01-01,2024,imp.ZW,imp,Import,Import,Import,ZW,Zimbabwe,Zimbabwe,Zimbabwe,11000000,usd
+2024-01-01,2024,imp.BJ,imp,Import,Import,Import,BJ,Benin,Benin,Benin,83261,usd
+2024-01-01,2024,imp.BF,imp,Import,Import,Import,BF,Burkina Faso,Burkina Faso,Burkina Faso,330,usd
+2024-01-01,2024,imp.CI,imp,Import,Import,Import,CI,Cote d'Ivoire,Coasta de Fildeș,Elefántcsontpart,63000000,usd
+2024-01-01,2024,imp.CV,imp,Import,Import,Import,CV,Cape Verde,Capul Verde,Zöld-foki Köztársaság,2021,usd
+2024-01-01,2024,imp.GH,imp,Import,Import,Import,GH,Ghana,Ghana,Ghána,3901452,usd
+2024-01-01,2024,imp.GN,imp,Import,Import,Import,GN,Guinea,Guineea,Guinea,1539426,usd
+2024-01-01,2024,imp.GM,imp,Import,Import,Import,GM,Gambia,Gambia,Gambia,73,usd
+2024-01-01,2024,imp.GW,imp,Import,Import,Import,GW,Guinea-Bissau,Guineea-Bissau,Bissau-Guinea,1558,usd
+2024-01-01,2024,imp.LR,imp,Import,Import,Import,LR,Liberia,Liberia,Libéria,388937,usd
+2024-01-01,2024,imp.ML,imp,Import,Import,Import,ML,Mali,Mali,Mali,43482,usd
+2024-01-01,2024,imp.MR,imp,Import,Import,Import,MR,Mauritania,Mauritania,Mauritánia,3167,usd
+2024-01-01,2024,imp.NE,imp,Import,Import,Import,NE,Niger,Niger,Niger,5548,usd
+2024-01-01,2024,imp.NG,imp,Import,Import,Import,NG,Nigeria,Nigeria,Nigéria,5676359,usd
+2024-01-01,2024,imp.SN,imp,Import,Import,Import,SN,Senegal,Senegal,Szenegál,1015368,usd
+2024-01-01,2024,imp.SH,imp,Import,Import,Import,SH,Saint Helena,Sfânta Elena,Szent Ilona,36374,usd
+2024-01-01,2024,imp.SL,imp,Import,Import,Import,SL,Sierra Leone,Sierra Leone,Sierra Leone,97933,usd
+2024-01-01,2024,imp.TG,imp,Import,Import,Import,TG,Togo,Togo,Togo,630,usd
+2024-01-01,2024,imp.KZ,imp,Import,Import,Import,KZ,Kazakhstan,Kazahstan,Kazahsztán,2800000000,usd
+2024-01-01,2024,imp.KG,imp,Import,Import,Import,KG,Kyrgyzstan,Kârgâzstan,Kirgizisztán,15000000,usd
+2024-01-01,2024,imp.TJ,imp,Import,Import,Import,TJ,Tajikistan,Tadjikistan,Tádzsikisztán,7436,usd
+2024-01-01,2024,imp.TM,imp,Import,Import,Import,TM,Turkmenistan,Turkmenistan,Türkmenisztán,25000000,usd
+2024-01-01,2024,imp.UZ,imp,Import,Import,Import,UZ,Uzbekistan,Uzbekistan,Üzbegisztán,42000000,usd
+2024-01-01,2024,imp.CN,imp,Import,Import,Import,CN,China,China,Kína,8800000000,usd
+2024-01-01,2024,imp.HK,imp,Import,Import,Import,HK,Hong Kong,Hong Kong,Hongkong,30000000,usd
+2024-01-01,2024,imp.JP,imp,Import,Import,Import,JP,Japan,Japonia,Japán,490000000,usd
+2024-01-01,2024,imp.KR,imp,Import,Import,Import,KR,South Korea,Coreea de Sud,Dél-Korea,910000000,usd
+2024-01-01,2024,imp.MO,imp,Import,Import,Import,MO,Macau,Macao,Makaó,42487,usd
+2024-01-01,2024,imp.MN,imp,Import,Import,Import,MN,Mongolia,Mongolia,Mongólia,27413,usd
+2024-01-01,2024,imp.KP,imp,Import,Import,Import,KP,North Korea,Coreea de Nord,Észak-Korea,550,usd
+2024-01-01,2024,imp.TW,imp,Import,Import,Import,TW,Chinese Taipei,Taipeiul Chinez,Kínai Taipei,400000000,usd
+2024-01-01,2024,imp.BN,imp,Import,Import,Import,BN,Brunei,Brunei,Brunei,23809,usd
+2024-01-01,2024,imp.CC,imp,Import,Import,Import,CC,Cocos (Keeling) Islands,Insulele Cocos (Keeling),Kókusz (Keeling)-szigetek,109,usd
+2024-01-01,2024,imp.CX,imp,Import,Import,Import,CX,Christmas Island,Insula Crăciunului,Karácsony-sziget,437,usd
+2024-01-01,2024,imp.ID,imp,Import,Import,Import,ID,Indonesia,Indonezia,Indonézia,200000000,usd
+2024-01-01,2024,imp.KH,imp,Import,Import,Import,KH,Cambodia,Cambodgia,Kambodzsa,20000000,usd
+2024-01-01,2024,imp.LA,imp,Import,Import,Import,LA,Laos,Laos,Laosz,3313409,usd
+2024-01-01,2024,imp.MM,imp,Import,Import,Import,MM,Myanmar,Myanmar,Mianmar,63000000,usd
+2024-01-01,2024,imp.MY,imp,Import,Import,Import,MY,Malaysia,Malaezia,Malajzia,170000000,usd
+2024-01-01,2024,imp.PH,imp,Import,Import,Import,PH,Philippines,Filipine,Fülöp-szigetek,45000000,usd
+2024-01-01,2024,imp.SG,imp,Import,Import,Import,SG,Singapore,Singapore,Szingapúr,89000000,usd
+2024-01-01,2024,imp.TH,imp,Import,Import,Import,TH,Thailand,Thailanda,Thaiföld,320000000,usd
+2024-01-01,2024,imp.TL,imp,Import,Import,Import,TL,Timor-Leste,Timorul de Est,Kelet-Timor,1164,usd
+2024-01-01,2024,imp.VN,imp,Import,Import,Import,VN,Vietnam,Vietnam,Vietnám,340000000,usd
+2024-01-01,2024,imp.AF,imp,Import,Import,Import,AF,Afghanistan,Afganistan,Afganisztán,871815,usd
+2024-01-01,2024,imp.BD,imp,Import,Import,Import,BD,Bangladesh,Bangladesh,Banglades,200000000,usd
+2024-01-01,2024,imp.BT,imp,Import,Import,Import,BT,Bhutan,Bhutan,Bhután,3213,usd
+2024-01-01,2024,imp.IN,imp,Import,Import,Import,IN,India,India,India,980000000,usd
+2024-01-01,2024,imp.IR,imp,Import,Import,Import,IR,Iran,Iran,Irán,55000000,usd
+2024-01-01,2024,imp.LK,imp,Import,Import,Import,LK,Sri Lanka,Sri Lanka,Srí Lanka,17000000,usd
+2024-01-01,2024,imp.MV,imp,Import,Import,Import,MV,Maldives,Maldive,Maldív-szigetek,783,usd
+2024-01-01,2024,imp.NP,imp,Import,Import,Import,NP,Nepal,Nepal,Nepál,111237,usd
+2024-01-01,2024,imp.PK,imp,Import,Import,Import,PK,Pakistan,Pakistan,Pakisztán,72000000,usd
+2024-01-01,2024,imp.AE,imp,Import,Import,Import,AE,United Arab Emirates,Emiratele Arabe Unite,Egyesült Arab Emírségek,82000000,usd
+2024-01-01,2024,imp.AM,imp,Import,Import,Import,AM,Armenia,Armenia,Örményország,9905941,usd
+2024-01-01,2024,imp.AZ,imp,Import,Import,Import,AZ,Azerbaijan,Azerbaidjan,Azerbajdzsán,500000000,usd
+2024-01-01,2024,imp.BH,imp,Import,Import,Import,BH,Bahrain,Bahrain,Bahrein,2340909,usd
+2024-01-01,2024,imp.GE,imp,Import,Import,Import,GE,Georgia,Georgia,Grúzia,31000000,usd
+2024-01-01,2024,imp.IQ,imp,Import,Import,Import,IQ,Iraq,Irak,Irak,27000000,usd
+2024-01-01,2024,imp.IL,imp,Import,Import,Import,IL,Israel,Israel,Izrael,330000000,usd
+2024-01-01,2024,imp.JO,imp,Import,Import,Import,JO,Jordan,Iordania,Jordánia,3509161,usd
+2024-01-01,2024,imp.KW,imp,Import,Import,Import,KW,Kuwait,Kuweit,Kuvait,53000000,usd
+2024-01-01,2024,imp.LB,imp,Import,Import,Import,LB,Lebanon,Liban,Libanon,10000000,usd
+2024-01-01,2024,imp.OM,imp,Import,Import,Import,OM,Oman,Oman,Omán,30000000,usd
+2024-01-01,2024,imp.PS,imp,Import,Import,Import,PS,Palestine,Palestina,Palesztina,63839,usd
+2024-01-01,2024,imp.QA,imp,Import,Import,Import,QA,Qatar,Qatar,Katar,9871256,usd
+2024-01-01,2024,imp.SA,imp,Import,Import,Import,SA,Saudi Arabia,Arabia Saudită,Szaúd-Arábia,590000000,usd
+2024-01-01,2024,imp.SY,imp,Import,Import,Import,SY,Syria,Siria,Szíria,2016235,usd
+2024-01-01,2024,imp.TR,imp,Import,Import,Import,TR,Turkey,Turcia,Törökország,7900000000,usd
+2024-01-01,2024,imp.YE,imp,Import,Import,Import,YE,Yemen,Yemen,Jemen,13263,usd
+2024-01-01,2024,imp.IO,imp,Import,Import,Import,IO,British Indian Ocean Territory,Teritoriul Britanic din Oceanul Indian,Brit Indiai-óceáni Terület,297,usd
+2024-01-01,2024,imp.CY,imp,Import,Import,Import,CY,Cyprus,Cipru,Ciprus,100000000,usd
+2024-01-01,2024,imp.BG,imp,Import,Import,Import,BG,Bulgaria,Bulgaria,Bulgária,6100000000,usd
+2024-01-01,2024,imp.BY,imp,Import,Import,Import,BY,Belarus,Belarus,Fehéroroszország,25000000,usd
+2024-01-01,2024,imp.CZ,imp,Import,Import,Import,CZ,Czechia,Cehia,Csehország,4000000000,usd
+2024-01-01,2024,imp.HU,imp,Import,Import,Import,HU,Hungary,Ungaria,Magyarország,9100000000,usd
+2024-01-01,2024,imp.MD,imp,Import,Import,Import,MD,Moldova,Moldova,Moldova,1300000000,usd
+2024-01-01,2024,imp.PL,imp,Import,Import,Import,PL,Poland,Polonia,Lengyelország,8700000000,usd
+2024-01-01,2024,imp.RU,imp,Import,Import,Import,RU,Russia,Rusia,Oroszország,160000000,usd
+2024-01-01,2024,imp.SK,imp,Import,Import,Import,SK,Slovakia,Slovacia,Szlovákia,2900000000,usd
+2024-01-01,2024,imp.UA,imp,Import,Import,Import,UA,Ukraine,Ucraina,Ukrajna,1800000000,usd
+2024-01-01,2024,imp.DK,imp,Import,Import,Import,DK,Denmark,Danemarca,Dánia,860000000,usd
+2024-01-01,2024,imp.EE,imp,Import,Import,Import,EE,Estonia,Estonia,Észtország,110000000,usd
+2024-01-01,2024,imp.FI,imp,Import,Import,Import,FI,Finland,Finlanda,Finnország,350000000,usd
+2024-01-01,2024,imp.GB,imp,Import,Import,Import,GB,United Kingdom,Regatul Unit,Egyesült Királyság,1400000000,usd
+2024-01-01,2024,imp.IE,imp,Import,Import,Import,IE,Ireland,Irlanda,Írország,670000000,usd
+2024-01-01,2024,imp.IS,imp,Import,Import,Import,IS,Iceland,Islanda,Izland,2767553,usd
+2024-01-01,2024,imp.LT,imp,Import,Import,Import,LT,Lithuania,Lituania,Litvánia,310000000,usd
+2024-01-01,2024,imp.LV,imp,Import,Import,Import,LV,Latvia,Letonia,Lettország,97000000,usd
+2024-01-01,2024,imp.NO,imp,Import,Import,Import,NO,Norway,Norvegia,Norvégia,690000000,usd
+2024-01-01,2024,imp.SE,imp,Import,Import,Import,SE,Sweden,Suedia,Svédország,750000000,usd
+2024-01-01,2024,imp.AL,imp,Import,Import,Import,AL,Albania,Albania,Albánia,37000000,usd
+2024-01-01,2024,imp.AD,imp,Import,Import,Import,AD,Andorra,Andorra,Andorra,102196,usd
+2024-01-01,2024,imp.BA,imp,Import,Import,Import,BA,Bosnia and Herzegovina,Bosnia și Herțegovina,Bosznia-Hercegovina,110000000,usd
+2024-01-01,2024,imp.ES,imp,Import,Import,Import,ES,Spain,Spania,Spanyolország,4100000000,usd
+2024-01-01,2024,imp.GI,imp,Import,Import,Import,GI,Gibraltar,Gibraltar,Gibraltár,6613,usd
+2024-01-01,2024,imp.GR,imp,Import,Import,Import,GR,Greece,Grecia,Görögország,2200000000,usd
+2024-01-01,2024,imp.HR,imp,Import,Import,Import,HR,Croatia,Croația,Horvátország,370000000,usd
+2024-01-01,2024,imp.IT,imp,Import,Import,Import,IT,Italy,Italia,Olaszország,11000000000,usd
+2024-01-01,2024,imp.MK,imp,Import,Import,Import,MK,North Macedonia,Macedonia de Nord,Észak-Macedónia,180000000,usd
+2024-01-01,2024,imp.MT,imp,Import,Import,Import,MT,Malta,Malta,Málta,31000000,usd
+2024-01-01,2024,imp.ME,imp,Import,Import,Import,ME,Montenegro,Muntenegru,Montenegró,1310363,usd
+2024-01-01,2024,imp.PT,imp,Import,Import,Import,PT,Portugal,Portugalia,Portugália,680000000,usd
+2024-01-01,2024,imp.SM,imp,Import,Import,Import,SM,San Marino,San Marino,San Marino,26000000,usd
+2024-01-01,2024,imp.RS,imp,Import,Import,Import,RS,Serbia,Serbia,Szerbia,1500000000,usd
+2024-01-01,2024,imp.SI,imp,Import,Import,Import,SI,Slovenia,Slovenia,Szlovénia,1200000000,usd
+2024-01-01,2024,imp.AT,imp,Import,Import,Import,AT,Austria,Austria,Ausztria,4200000000,usd
+2024-01-01,2024,imp.BE,imp,Import,Import,Import,BE,Belgium,Belgia,Belgium,3300000000,usd
+2024-01-01,2024,imp.CH,imp,Import,Import,Import,CH,Switzerland,Elveția,Svájc,2000000000,usd
+2024-01-01,2024,imp.DE,imp,Import,Import,Import,DE,Germany,Germania,Németország,25000000000,usd
+2024-01-01,2024,imp.FR,imp,Import,Import,Import,FR,France,Franța,Franciaország,5700000000,usd
+2024-01-01,2024,imp.LU,imp,Import,Import,Import,LU,Luxembourg,Luxemburg,Luxemburg,160000000,usd
+2024-01-01,2024,imp.NL,imp,Import,Import,Import,NL,Netherlands,Țările de Jos,Hollandia,5800000000,usd
+2024-01-01,2024,imp.AW,imp,Import,Import,Import,AW,Aruba,Aruba,Aruba,189,usd
+2024-01-01,2024,imp.AI,imp,Import,Import,Import,AI,Anguilla,Anguilla,Anguilla,213,usd
+2024-01-01,2024,imp.AG,imp,Import,Import,Import,AG,Antigua and Barbuda,Antigua și Barbuda,Antigua és Barbuda,108719,usd
+2024-01-01,2024,imp.BS,imp,Import,Import,Import,BS,Bahamas,Bahamas,Bahama-szigetek,66934,usd
+2024-01-01,2024,imp.BL,imp,Import,Import,Import,BL,Saint Barthélemy,Saint Barthélemy,Saint Barthélemy,521,usd
+2024-01-01,2024,imp.BB,imp,Import,Import,Import,BB,Barbados,Barbados,Barbados,13442,usd
+2024-01-01,2024,imp.CU,imp,Import,Import,Import,CU,Cuba,Cuba,Kuba,496121,usd
+2024-01-01,2024,imp.CW,imp,Import,Import,Import,CW,Curaçao,Curaçao,Curaçao,98850,usd
+2024-01-01,2024,imp.KY,imp,Import,Import,Import,KY,Cayman Islands,Insulele Cayman,Kajmán-szigetek,34002,usd
+2024-01-01,2024,imp.DM,imp,Import,Import,Import,DM,Dominica,Dominica,Dominika,1407,usd
+2024-01-01,2024,imp.DO,imp,Import,Import,Import,DO,Dominican Republic,Republica Dominicană,Dominikai Köztársaság,901164,usd
+2024-01-01,2024,imp.HT,imp,Import,Import,Import,HT,Haiti,Haiti,Haiti,21511,usd
+2024-01-01,2024,imp.JM,imp,Import,Import,Import,JM,Jamaica,Jamaica,Jamaica,1056,usd
+2024-01-01,2024,imp.KN,imp,Import,Import,Import,KN,Saint Kitts and Nevis,Saint Kitts și Nevis,Saint Kitts és Nevis,66329,usd
+2024-01-01,2024,imp.LC,imp,Import,Import,Import,LC,Saint Lucia,Saint Lucia,Saint Lucia,349,usd
+2024-01-01,2024,imp.MF,imp,Import,Import,Import,MF,Saint Martin,Saint Martin,Saint Martin,1581,usd
+2024-01-01,2024,imp.MS,imp,Import,Import,Import,MS,Montserrat,Montserrat,Montserrat,6175,usd
+2024-01-01,2024,imp.TC,imp,Import,Import,Import,TC,Turks and Caicos Islands,Insulele Turks și Caicos,Turks- és Caicos-szigetek,55,usd
+2024-01-01,2024,imp.TT,imp,Import,Import,Import,TT,Trinidad and Tobago,Trinidad și Tobago,Trinidad és Tobago,2586518,usd
+2024-01-01,2024,imp.VG,imp,Import,Import,Import,VG,British Virgin Islands,Insulele Virgine Britanice,Brit Virgin-szigetek,1566,usd
+2024-01-01,2024,imp.BZ,imp,Import,Import,Import,BZ,Belize,Belize,Belize,546,usd
+2024-01-01,2024,imp.CR,imp,Import,Import,Import,CR,Costa Rica,Costa Rica,Costa Rica,6602974,usd
+2024-01-01,2024,imp.GT,imp,Import,Import,Import,GT,Guatemala,Guatemala,Guatemala,9026095,usd
+2024-01-01,2024,imp.HN,imp,Import,Import,Import,HN,Honduras,Honduras,Honduras,1152638,usd
+2024-01-01,2024,imp.MX,imp,Import,Import,Import,MX,Mexico,Mexic,Mexikó,120000000,usd
+2024-01-01,2024,imp.NI,imp,Import,Import,Import,NI,Nicaragua,Nicaragua,Nicaragua,934852,usd
+2024-01-01,2024,imp.PA,imp,Import,Import,Import,PA,Panama,Panama,Panama,57284,usd
+2024-01-01,2024,imp.SV,imp,Import,Import,Import,SV,El Salvador,El Salvador,Salvador,542602,usd
+2024-01-01,2024,imp.BM,imp,Import,Import,Import,BM,Bermuda,Bermuda,Bermuda,3313,usd
+2024-01-01,2024,imp.CA,imp,Import,Import,Import,CA,Canada,Canada,Kanada,270000000,usd
+2024-01-01,2024,imp.US,imp,Import,Import,Import,US,United States,Statele Unite ale Americii,Amerikai Egyesült Államok,1500000000,usd
+2024-01-01,2024,imp.AU,imp,Import,Import,Import,AU,Australia,Australia,Ausztrália,11000000,usd
+2024-01-01,2024,imp.NZ,imp,Import,Import,Import,NZ,New Zealand,Noua Zeelandă,Új-Zéland,10000000,usd
+2024-01-01,2024,imp.FJ,imp,Import,Import,Import,FJ,Fiji,Fiji,Fidzsi,737,usd
+2024-01-01,2024,imp.NC,imp,Import,Import,Import,NC,New Caledonia,Noua Caledonie,Új-Kaledónia,13906,usd
+2024-01-01,2024,imp.PG,imp,Import,Import,Import,PG,Papua New Guinea,Papua Noua Guinee,Pápua Új-Guinea,105883,usd
+2024-01-01,2024,imp.GU,imp,Import,Import,Import,GU,Guam,Guam,Guam,1455,usd
+2024-01-01,2024,imp.MH,imp,Import,Import,Import,MH,Marshall Islands,Insulele Marshall,Marshall-szigetek,4162,usd
+2024-01-01,2024,imp.NR,imp,Import,Import,Import,NR,Nauru,Nauru,Nauru,14,usd
+2024-01-01,2024,imp.AS,imp,Import,Import,Import,AS,American Samoa,Samoa Americană,Amerikai Szamoa,5915,usd
+2024-01-01,2024,imp.PF,imp,Import,Import,Import,PF,French Polynesia,Polinezia Franceză,Francia Polinézia,644,usd
+2024-01-01,2024,imp.TK,imp,Import,Import,Import,TK,Tokelau,Tokelau,Tokelau,15979,usd
+2024-01-01,2024,imp.TO,imp,Import,Import,Import,TO,Tonga,Tonga,Tonga,6,usd
+2024-01-01,2024,imp.WS,imp,Import,Import,Import,WS,Samoa,Samoa,Szamoa,41954,usd
+2024-01-01,2024,imp.AR,imp,Import,Import,Import,AR,Argentina,Argentina,Argentína,170000000,usd
+2024-01-01,2024,imp.BO,imp,Import,Import,Import,BO,Bolivia,Bolivia,Bolívia,175977,usd
+2024-01-01,2024,imp.BR,imp,Import,Import,Import,BR,Brazil,Brazilia,Brazília,250000000,usd
+2024-01-01,2024,imp.CL,imp,Import,Import,Import,CL,Chile,Chile,Chile,14000000,usd
+2024-01-01,2024,imp.CO,imp,Import,Import,Import,CO,Colombia,Columbia,Kolumbia,19000000,usd
+2024-01-01,2024,imp.EC,imp,Import,Import,Import,EC,Ecuador,Ecuador,Ecuador,28000000,usd
+2024-01-01,2024,imp.GY,imp,Import,Import,Import,GY,Guyana,Guyana,Guyana,630000000,usd
+2024-01-01,2024,imp.PE,imp,Import,Import,Import,PE,Peru,Peru,Peru,2842437,usd
+2024-01-01,2024,imp.PY,imp,Import,Import,Import,PY,Paraguay,Paraguay,Paraguay,599079,usd
+2024-01-01,2024,imp.SR,imp,Import,Import,Import,SR,Suriname,Surinam,Suriname,685,usd
+2024-01-01,2024,imp.UY,imp,Import,Import,Import,UY,Uruguay,Uruguay,Uruguay,12000000,usd
+2024-01-01,2024,imp.VE,imp,Import,Import,Import,VE,Venezuela,Venezuela,Venezuela,863318,usd

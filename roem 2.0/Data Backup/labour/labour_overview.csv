@@ -1,0 +1,49 @@
+period,period_label,series,indicator,indicator_label_en,indicator_label_ro,indicator_label_hu,value,unit
+2008-01-01,2008,employees,employees,Employees,Salariați,Alkalmazottak,5046317,persons
+2008-01-01,2008,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2008-01-01,2008,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42.6,pct
+2009-01-01,2009,employees,employees,Employees,Salariați,Alkalmazottak,4774263,persons
+2009-01-01,2009,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.8,pct
+2009-01-01,2009,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42.5,pct
+2010-01-01,2010,employees,employees,Employees,Salariați,Alkalmazottak,4376044,persons
+2010-01-01,2010,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
+2010-01-01,2010,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42,pct
+2011-01-01,2011,employees,employees,Employees,Salariați,Alkalmazottak,4348739,persons
+2011-01-01,2011,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.2,pct
+2011-01-01,2011,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,41.3,pct
+2012-01-01,2012,employees,employees,Employees,Salariați,Alkalmazottak,4442865,persons
+2012-01-01,2012,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
+2012-01-01,2012,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42.5,pct
+2013-01-01,2013,employees,employees,Employees,Salariați,Alkalmazottak,4443554,persons
+2013-01-01,2013,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.7,pct
+2013-01-01,2013,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42.5,pct
+2014-01-01,2014,employees,employees,Employees,Salariați,Alkalmazottak,4507729,persons
+2014-01-01,2014,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
+2014-01-01,2014,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,44.9,pct
+2015-01-01,2015,employees,employees,Employees,Salariați,Alkalmazottak,4611395,persons
+2015-01-01,2015,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
+2015-01-01,2015,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,44.4,pct
+2016-01-01,2016,employees,employees,Employees,Salariați,Alkalmazottak,4759419,persons
+2016-01-01,2016,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
+2016-01-01,2016,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,44.5,pct
+2017-01-01,2017,employees,employees,Employees,Salariați,Alkalmazottak,4945868,persons
+2017-01-01,2017,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4,pct
+2017-01-01,2017,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,44.7,pct
+2018-01-01,2018,employees,employees,Employees,Salariați,Alkalmazottak,5068063,persons
+2018-01-01,2018,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
+2018-01-01,2018,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,44.8,pct
+2019-01-01,2019,employees,employees,Employees,Salariați,Alkalmazottak,5164471,persons
+2019-01-01,2019,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
+2019-01-01,2019,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,45.3,pct
+2020-01-01,2020,employees,employees,Employees,Salariați,Alkalmazottak,5031767,persons
+2020-01-01,2020,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.4,pct
+2020-01-01,2020,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,45.5,pct
+2021-01-01,2021,employees,employees,Employees,Salariați,Alkalmazottak,5094288,persons
+2021-01-01,2021,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3,pct
+2021-01-01,2021,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,41.2,pct
+2022-01-01,2022,employees,employees,Employees,Salariați,Alkalmazottak,5209493,persons
+2022-01-01,2022,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3,pct
+2022-01-01,2022,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42.3,pct
+2023-01-01,2023,employees,employees,Employees,Salariați,Alkalmazottak,5364938,persons
+2023-01-01,2023,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,41.8,pct
+2024-01-01,2024,employees,employees,Employees,Salariați,Alkalmazottak,5453155,persons

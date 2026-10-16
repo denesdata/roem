@@ -1,0 +1,123 @@
+period,period_label,series,indicator,indicator_label_en,indicator_label_ro,indicator_label_hu,value,unit
+1995-01-01,1995,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),100,index_1995_100
+1995-01-01,1995,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),100,index_1995_100
+1996-01-01,1996,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,3.9,pct
+1996-01-01,1996,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),103.90770328169216,index_1995_100
+1996-01-01,1996,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,4.2,pct
+1996-01-01,1996,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),104.23280423280423,index_1995_100
+1997-01-01,1997,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,-4.8,pct
+1997-01-01,1997,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),98.8691938664665,index_1995_100
+1997-01-01,1997,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,-4.6,pct
+1997-01-01,1997,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),99.47089947089947,index_1995_100
+1998-01-01,1998,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,-2,pct
+1998-01-01,1998,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),96.86236846890108,index_1995_100
+1998-01-01,1998,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,-1.8,pct
+1998-01-01,1998,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),97.61904761904762,index_1995_100
+1999-01-01,1999,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,-0.4,pct
+1999-01-01,1999,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),96.49743814483458,index_1995_100
+1999-01-01,1999,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,-0.2,pct
+1999-01-01,1999,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),97.61904761904762,index_1995_100
+2000-01-01,2000,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,2.5,pct
+2000-01-01,2000,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),98.87257393015156,index_1995_100
+2000-01-01,2000,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,2.6,pct
+2000-01-01,2000,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),100,index_1995_100
+2001-01-01,2001,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,5.2,pct
+2001-01-01,2001,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),104.03183320667806,index_1995_100
+2001-01-01,2001,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,5.3,pct
+2001-01-01,2001,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),105.2910052910053,index_1995_100
+2002-01-01,2002,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,5.7,pct
+2002-01-01,2002,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),109.96477740532325,index_1995_100
+2002-01-01,2002,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,9.3,pct
+2002-01-01,2002,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),115.07936507936508,index_1995_100
+2003-01-01,2003,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,2.3,pct
+2003-01-01,2003,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),112.53922039413875,index_1995_100
+2003-01-01,2003,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,2.8,pct
+2003-01-01,2003,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),118.5185185185185,index_1995_100
+2004-01-01,2004,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,10.4,pct
+2004-01-01,2004,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),124.27491806259412,index_1995_100
+2004-01-01,2004,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,11.1,pct
+2004-01-01,2004,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),131.4814814814815,index_1995_100
+2005-01-01,2005,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,4.7,pct
+2005-01-01,2005,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),130.07627288536224,index_1995_100
+2005-01-01,2005,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,5.3,pct
+2005-01-01,2005,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),138.35978835978835,index_1995_100
+2006-01-01,2006,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,8,pct
+2006-01-01,2006,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),140.51985379476255,index_1995_100
+2006-01-01,2006,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,8.7,pct
+2006-01-01,2006,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),150.52910052910053,index_1995_100
+2007-01-01,2007,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,7.2,pct
+2007-01-01,2007,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),150.6847542810255,index_1995_100
+2007-01-01,2007,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,8.8,pct
+2007-01-01,2007,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),163.75661375661377,index_1995_100
+2008-01-01,2008,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,9.3,pct
+2008-01-01,2008,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),164.70968749562923,index_1995_100
+2008-01-01,2008,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,11.1,pct
+2008-01-01,2008,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),182.010582010582,index_1995_100
+2009-01-01,2009,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,-5.5,pct
+2009-01-01,2009,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),155.62314387882122,index_1995_100
+2009-01-01,2009,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,-4.7,pct
+2009-01-01,2009,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),173.54497354497354,index_1995_100
+2010-01-01,2010,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,-3.9,pct
+2010-01-01,2010,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),149.5448569417184,index_1995_100
+2010-01-01,2010,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,-3.3,pct
+2010-01-01,2010,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),167.72486772486772,index_1995_100
+2011-01-01,2011,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,4.5,pct
+2011-01-01,2011,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),156.26780361130665,index_1995_100
+2011-01-01,2011,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,5,pct
+2011-01-01,2011,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),175.92592592592592,index_1995_100
+2012-01-01,2012,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,1.9,pct
+2012-01-01,2012,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),159.24249276200158,index_1995_100
+2012-01-01,2012,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,2.3,pct
+2012-01-01,2012,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),180.15873015873015,index_1995_100
+2013-01-01,2013,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,0.3,pct
+2013-01-01,2013,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),159.68644664394643,index_1995_100
+2013-01-01,2013,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,0.6,pct
+2013-01-01,2013,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),181.21693121693121,index_1995_100
+2014-01-01,2014,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,4.1,pct
+2014-01-01,2014,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),166.25903875650957,index_1995_100
+2014-01-01,2014,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,4.5,pct
+2014-01-01,2014,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),189.41798941798942,index_1995_100
+2015-01-01,2015,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,3.2,pct
+2015-01-01,2015,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),171.50792799765028,index_1995_100
+2015-01-01,2015,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,3.6,pct
+2015-01-01,2015,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),196.2962962962963,index_1995_100
+2016-01-01,2016,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,2.9,pct
+2016-01-01,2016,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),176.41298317427606,index_1995_100
+2016-01-01,2016,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,3.5,pct
+2016-01-01,2016,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),203.17460317460316,index_1995_100
+2017-01-01,2017,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,8.2,pct
+2017-01-01,2017,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),190.87079764840811,index_1995_100
+2017-01-01,2017,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,8.8,pct
+2017-01-01,2017,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),221.16402116402116,index_1995_100
+2018-01-01,2018,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,5.3,pct
+2018-01-01,2018,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),200.98441440979425,index_1995_100
+2018-01-01,2018,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,5.9,pct
+2018-01-01,2018,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),234.12698412698413,index_1995_100
+2019-01-01,2019,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,4.4,pct
+2019-01-01,2019,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),209.85766435268283,index_1995_100
+2019-01-01,2019,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,4.9,pct
+2019-01-01,2019,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),245.5026455026455,index_1995_100
+2020-01-01,2020,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,-3.4,pct
+2020-01-01,2020,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),202.63656622826852,index_1995_100
+2020-01-01,2020,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,-2.9,pct
+2020-01-01,2020,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),238.35978835978838,index_1995_100
+2021-01-01,2021,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,5.9,pct
+2021-01-01,2021,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),214.6733226725348,index_1995_100
+2021-01-01,2021,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,6.8,pct
+2021-01-01,2021,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),254.4973544973545,index_1995_100
+2022-01-01,2022,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,4.9,pct
+2022-01-01,2022,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),225.25280545285858,index_1995_100
+2022-01-01,2022,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,5.4,pct
+2022-01-01,2022,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),268.25396825396825,index_1995_100
+2023-01-01,2023,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,2.5,pct
+2023-01-01,2023,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),230.84203214090903,index_1995_100
+2023-01-01,2023,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,2.4,pct
+2023-01-01,2023,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),274.86772486772486,index_1995_100
+2024-01-01,2024,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,1.1,pct
+2024-01-01,2024,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),233.3908332672861,index_1995_100
+2024-01-01,2024,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,1.1,pct
+2024-01-01,2024,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),278.04232804232805,index_1995_100
+2025-01-01,2025,gdp_growth,gdp_growth,Real GDP yearly growth rate,Rata anuală de creștere a PIB real,A reál GDP éves növekedési üteme,0.8,pct
+2025-01-01,2025,gdp_index,gdp_index,Real GDP level (1995=100),Nivelul PIB real (1995=100),A reál GDP szintje (1995=100),235.1568582657709,index_1995_100
+2025-01-01,2025,gdp_per_capita_growth,gdp_per_capita_growth,Real GDP per capita yearly growth rate,Rata anuală de creștere a PIB real pe locuitor,Az egy főre jutó reál GDP éves növekedési üteme,0.8,pct
+2025-01-01,2025,gdp_per_capita_index,gdp_per_capita_index,Real GDP per capita level (1995=100),Nivelul PIB real pe locuitor (1995=100),Az egy főre jutó reál GDP szintje (1995=100),280.1587301587301,index_1995_100

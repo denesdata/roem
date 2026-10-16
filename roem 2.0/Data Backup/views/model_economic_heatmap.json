@@ -1,0 +1,2178 @@
+[
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 0,
+    "value": "Previous 5 years AVG",
+    "color": "#243b55",
+    "HU": "Előző 5 év átlaga",
+    "RO": "Media ultimilor 5 ani",
+    "EN": "Previous 5 years AVG"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "value": 108,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Market services to the population",
+    "value": 94.8,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Retail trade",
+    "value": 100.7,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Wholesale trade",
+    "value": 98.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "value": 104.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Industrial production",
+    "value": 89.8,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Construction works",
+    "value": 127.9,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "value": 98.3,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Employment expectations",
+    "value": 104.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Consumer confidence",
+    "value": -19.4,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Unemployment",
+    "value": 5.7,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Net wages",
+    "value": 11,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "No. of employees",
+    "value": 0.7,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Consumer price index",
+    "value": 7.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "value": 11.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Non-government loans",
+    "value": 9.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "Non-government deposits",
+    "value": 11.6,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": "",
+    "index": 0,
+    "order": 1000
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 405,
+    "value": "2025-03",
+    "color": "#243b55",
+    "HU": "2025-03",
+    "RO": "2025-03",
+    "EN": "2025-03"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 405,
+    "value": "134,5",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 405,
+    "value": "123,3",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 405,
+    "value": "113,8",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 405,
+    "value": "99,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 405,
+    "value": "128,4",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 405,
+    "value": "100,7",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 405,
+    "value": "111,5",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 405,
+    "value": 102.4,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 405,
+    "value": 104.6,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 405,
+    "value": -17.2,
+    "color": "#768da8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 405,
+    "value": 6.2,
+    "color": "#2f527b",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 405,
+    "value": 9.8,
+    "color": "#e5d3d8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 405,
+    "value": 0.7,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 405,
+    "value": 4.9,
+    "color": "#6c0927",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 405,
+    "value": 11,
+    "color": "#f8f3f4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 405,
+    "value": 9.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 405,
+    "value": 7.9,
+    "color": "#a16275",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 406,
+    "value": "2025-04",
+    "color": "#243b55",
+    "HU": "2025-04",
+    "RO": "2025-04",
+    "EN": "2025-04"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 406,
+    "value": "127,8",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 406,
+    "value": "124,5",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 406,
+    "value": "115,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 406,
+    "value": "93,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 406,
+    "value": "121,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 406,
+    "value": "92,5",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 406,
+    "value": "115,4",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 406,
+    "value": 100.5,
+    "color": "#7990aa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 406,
+    "value": 102.2,
+    "color": "#c299a5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 406,
+    "value": -18.1,
+    "color": "#aebccc",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 406,
+    "value": 6.1,
+    "color": "#587596",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 406,
+    "value": 8.2,
+    "color": "#c198a4",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 406,
+    "value": 0.4,
+    "color": "#d9bfc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 406,
+    "value": 4.8,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 406,
+    "value": 10.1,
+    "color": "#d6bbc3",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 406,
+    "value": 8.7,
+    "color": "#e6d4da",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 406,
+    "value": 6.8,
+    "color": "#85334c",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 407,
+    "value": "2025-05",
+    "color": "#243b55",
+    "HU": "2025-05",
+    "RO": "2025-05",
+    "EN": "2025-05"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 407,
+    "value": "129,2",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 407,
+    "value": "136,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 407,
+    "value": "115,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 407,
+    "value": "95,4",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 407,
+    "value": "126,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 407,
+    "value": 100,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 407,
+    "value": "119,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 407,
+    "value": 99.1,
+    "color": "#ced7e0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 407,
+    "value": 104.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 407,
+    "value": -15.4,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 407,
+    "value": 6.2,
+    "color": "#2f527b",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 407,
+    "value": 7.6,
+    "color": "#b48191",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 407,
+    "value": 0.5,
+    "color": "#e6d5da",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 407,
+    "value": 5.5,
+    "color": "#8d4057",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 407,
+    "value": 11.1,
+    "color": "#fbf9fa",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 407,
+    "value": 9.7,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 407,
+    "value": 7.1,
+    "color": "#8d4057",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 408,
+    "value": "2025-06",
+    "color": "#243b55",
+    "HU": "2025-06",
+    "RO": "2025-06",
+    "EN": "2025-06"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 408,
+    "value": "134,9",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 408,
+    "value": "146,5",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 408,
+    "value": "117,5",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 408,
+    "value": "97,8",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 408,
+    "value": "141,7",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 408,
+    "value": "97,2",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 408,
+    "value": "138,4",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 408,
+    "value": 96.7,
+    "color": "#d8bdc5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 408,
+    "value": 102.8,
+    "color": "#d4b8c0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 408,
+    "value": -25.2,
+    "color": "#c59da9",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 408,
+    "value": 6.2,
+    "color": "#2f527b",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 408,
+    "value": 7,
+    "color": "#a76b7d",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 408,
+    "value": 0.4,
+    "color": "#d9bfc7",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 408,
+    "value": 5.7,
+    "color": "#985267",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 408,
+    "value": 12,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 408,
+    "value": 9.1,
+    "color": "#faf7f8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 408,
+    "value": 7.5,
+    "color": "#975166",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 409,
+    "value": "2025-07",
+    "color": "#243b55",
+    "HU": "2025-07",
+    "RO": "2025-07",
+    "EN": "2025-07"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 409,
+    "value": "140,6",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 409,
+    "value": "160,3",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 409,
+    "value": "125,9",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 409,
+    "value": "114,8",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 409,
+    "value": "150,4",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 409,
+    "value": "100,9",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 409,
+    "value": "174,2",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 409,
+    "value": 94.5,
+    "color": "#a26376",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 409,
+    "value": 99.8,
+    "color": "#791f3a",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 409,
+    "value": -31.9,
+    "color": "#812c46",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 409,
+    "value": 5.9,
+    "color": "#acbaca",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 409,
+    "value": 5.2,
+    "color": "#7f2943",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 409,
+    "value": 0.1,
+    "color": "#b3808f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 409,
+    "value": 7.8,
+    "color": "#e9edf1",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 409,
+    "value": 11.6,
+    "color": "#8298b0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 409,
+    "value": 8.7,
+    "color": "#e6d4da",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 409,
+    "value": 8.1,
+    "color": "#a66a7c",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 410,
+    "value": "2025-08",
+    "color": "#243b55",
+    "HU": "2025-08",
+    "RO": "2025-08",
+    "EN": "2025-08"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 410,
+    "value": "122,3",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 410,
+    "value": "156,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 410,
+    "value": "116,8",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 410,
+    "value": "98,4",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 410,
+    "value": "110,5",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 410,
+    "value": "83,1",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 410,
+    "value": "129,2",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 410,
+    "value": 94.3,
+    "color": "#9d5a6e",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 410,
+    "value": 99.7,
+    "color": "#761a35",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 410,
+    "value": -31.7,
+    "color": "#832f49",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 410,
+    "value": 6.1,
+    "color": "#587596",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 410,
+    "value": 4.4,
+    "color": "#6e0b29",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 410,
+    "value": 0,
+    "color": "#a66a7c",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 410,
+    "value": 9.8,
+    "color": "#103968",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 410,
+    "value": 11.2,
+    "color": "#ffffff",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 410,
+    "value": 8,
+    "color": "#c299a5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 410,
+    "value": 7,
+    "color": "#8a3c53",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 411,
+    "value": "2025-09",
+    "color": "#243b55",
+    "HU": "2025-09",
+    "RO": "2025-09",
+    "EN": "2025-09"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 411,
+    "value": "135,9",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 411,
+    "value": "145,4",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 411,
+    "value": "116,4",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 411,
+    "value": 108,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 411,
+    "value": 126,
+    "color": "#597696",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 411,
+    "value": "100,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 411,
+    "value": "153,4",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 411,
+    "value": 94.3,
+    "color": "#9d5a6e",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 411,
+    "value": 101.8,
+    "color": "#b68593",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 411,
+    "value": -31.5,
+    "color": "#85334c",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 411,
+    "value": 6,
+    "color": "#8298b0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 411,
+    "value": 4.1,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 411,
+    "value": -0.3,
+    "color": "#802b44",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 411,
+    "value": 9.9,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 411,
+    "value": 9.6,
+    "color": "#c49ba8",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 411,
+    "value": 7.5,
+    "color": "#a96f80",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 411,
+    "value": 6.7,
+    "color": "#832f48",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 412,
+    "value": "2025-10",
+    "color": "#243b55",
+    "HU": "2025-10",
+    "RO": "2025-10",
+    "EN": "2025-10"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 412,
+    "value": "135,6",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 412,
+    "value": "133,1",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 412,
+    "value": "115,6",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 412,
+    "value": "104,1",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 412,
+    "value": 137,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 412,
+    "value": "104,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 412,
+    "value": "153,6",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 412,
+    "value": 92.1,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 412,
+    "value": 102.2,
+    "color": "#c299a5",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 412,
+    "value": -30.6,
+    "color": "#8e4259",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 412,
+    "value": 6.1,
+    "color": "#587596",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 412,
+    "value": 4.3,
+    "color": "#6b0725",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 412,
+    "value": -0.4,
+    "color": "#741532",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 412,
+    "value": 9.8,
+    "color": "#103968",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 412,
+    "value": 8.9,
+    "color": "#aa7081",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 412,
+    "value": 7.1,
+    "color": "#954c62",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 412,
+    "value": 6.3,
+    "color": "#791e39",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 413,
+    "value": "2025-11",
+    "color": "#243b55",
+    "HU": "2025-11",
+    "RO": "2025-11",
+    "EN": "2025-11"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 413,
+    "value": "133,3",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 413,
+    "value": "122,2",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 413,
+    "value": "118,6",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 413,
+    "value": "100,8",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 413,
+    "value": "137,8",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 413,
+    "value": 98,
+    "color": "#365980",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 413,
+    "value": "147,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 413,
+    "value": 94.4,
+    "color": "#9f5f72",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 413,
+    "value": 100.9,
+    "color": "#9b576b",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 413,
+    "value": -29.8,
+    "color": "#964f65",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 413,
+    "value": 6.3,
+    "color": "#053061",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 413,
+    "value": 4.2,
+    "color": "#690422",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 413,
+    "value": -0.5,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 413,
+    "value": 9.8,
+    "color": "#103968",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 413,
+    "value": 7.1,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 413,
+    "value": 6.8,
+    "color": "#85334c",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 413,
+    "value": 5.6,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 414,
+    "value": "2025-12",
+    "color": "#243b55",
+    "HU": "2025-12",
+    "RO": "2025-12",
+    "EN": "2025-12"
+  },
+  {
+    "indicator": "Market services to enterprises",
+    "order": 300,
+    "index": 414,
+    "value": "151,7",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Market services to the population",
+    "order": 400,
+    "index": 414,
+    "value": "131,9",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Retail trade",
+    "order": 500,
+    "index": 414,
+    "value": "125,5",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Wholesale trade",
+    "order": 600,
+    "index": 414,
+    "value": "100,6",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Trade and repair of motor vehicles",
+    "order": 700,
+    "index": 414,
+    "value": "125,3",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 414,
+    "value": "88,1",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 414,
+    "value": "202,6",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 414,
+    "value": 93.3,
+    "color": "#84314a",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 414,
+    "value": 101.9,
+    "color": "#b98a98",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 414,
+    "value": -30.8,
+    "color": "#8c3e56",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 414,
+    "value": 6.1,
+    "color": "#587596",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Net wages",
+    "order": 1600,
+    "index": 414,
+    "value": 4.8,
+    "color": "#761a36",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "No. of employees",
+    "order": 1700,
+    "index": 414,
+    "value": -0.5,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 414,
+    "value": 9.7,
+    "color": "#1b426f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 414,
+    "value": 7.4,
+    "color": "#72132f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 414,
+    "value": 6.2,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 414,
+    "value": 6.9,
+    "color": "#883750",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 415,
+    "value": "2026-01",
+    "color": "#243b55",
+    "HU": "2026-01",
+    "RO": "2026-01",
+    "EN": "2026-01"
+  },
+  {
+    "indicator": "Industrial production",
+    "order": 800,
+    "index": 415,
+    "value": "81,6",
+    "color": "transparent",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Construction works",
+    "order": 900,
+    "index": 415,
+    "value": "62,9",
+    "color": "#243b55",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 415,
+    "value": 92.5,
+    "color": "#71102d",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 415,
+    "value": 99.2,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 415,
+    "value": -34.5,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Unemployment",
+    "order": 1500,
+    "index": 415,
+    "value": 6,
+    "color": "#8298b0",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 415,
+    "value": 9.6,
+    "color": "#264b76",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "M1 monetary aggregate",
+    "order": 2000,
+    "index": 415,
+    "value": 7.6,
+    "color": "#7a1f3a",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government loans",
+    "order": 2100,
+    "index": 415,
+    "value": 6.6,
+    "color": "#7b223d",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Non-government deposits",
+    "order": 2200,
+    "index": 415,
+    "value": 6.3,
+    "color": "#791e39",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "date",
+    "order": 0,
+    "index": 416,
+    "value": "2026-02",
+    "color": "#243b55",
+    "HU": "2026-02",
+    "RO": "2026-02",
+    "EN": "2026-02"
+  },
+  {
+    "indicator": "Economic sentiment indicator",
+    "order": 1100,
+    "index": 416,
+    "value": 94.1,
+    "color": "#985267",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Employment expectations",
+    "order": 1200,
+    "index": 416,
+    "value": 99.2,
+    "color": "#67001f",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer confidence",
+    "order": 1300,
+    "index": 416,
+    "value": -31.5,
+    "color": "#85334c",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Consumer price index",
+    "order": 1900,
+    "index": 416,
+    "value": 9.3,
+    "color": "#46668a",
+    "HU": "",
+    "RO": "",
+    "EN": ""
+  },
+  {
+    "indicator": "Economic activity indicators",
+    "index": 0,
+    "value": "row",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row",
+    "order": 200
+  },
+  {
+    "indicator": "Sentiment indicators",
+    "index": 0,
+    "value": "row",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row",
+    "order": 1000
+  },
+  {
+    "indicator": "Labour market indicators",
+    "index": 0,
+    "value": "row",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row",
+    "order": 1400
+  },
+  {
+    "indicator": "Prices, money and credit",
+    "index": 0,
+    "value": "row",
+    "HU": "row",
+    "RO": "row",
+    "EN": "row",
+    "order": 1800
+  }
+]
