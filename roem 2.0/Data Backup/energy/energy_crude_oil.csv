@@ -395,3 +395,5 @@ period,period_label,series,benchmark,benchmark_label_en,benchmark_label_ro,bench
 2026-10-14,2026-10-14,wti,wti,WTI,WTI,WTI,95.09,usd_per_bbl
 2026-10-15,2026-10-15,brent,brent,Brent,Brent,Brent,105.92,usd_per_bbl
 2026-10-15,2026-10-15,wti,wti,WTI,WTI,WTI,97.97,usd_per_bbl
+2026-10-16,2026-10-16,brent,brent,Brent,Brent,Brent,109.86,usd_per_bbl
+2026-10-16,2026-10-16,wti,wti,WTI,WTI,WTI,101.41,usd_per_bbl
