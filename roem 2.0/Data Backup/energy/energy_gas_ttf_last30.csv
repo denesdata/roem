@@ -1,5 +1,4 @@
 period,period_label,series,value,unit
-2026-09-10,2026-09-10,_Z,82.047,eur_per_mwh
 2026-09-11,2026-09-11,_Z,79.52,eur_per_mwh
 2026-09-14,2026-09-14,_Z,82.566,eur_per_mwh
 2026-09-15,2026-09-15,_Z,80.06,eur_per_mwh
@@ -29,3 +28,4 @@ period,period_label,series,value,unit
 2026-10-19,2026-10-19,_Z,88.04,eur_per_mwh
 2026-10-20,2026-10-20,_Z,85.062,eur_per_mwh
 2026-10-21,2026-10-21,_Z,87.426,eur_per_mwh
+2026-10-22,2026-10-22,_Z,90.043,eur_per_mwh

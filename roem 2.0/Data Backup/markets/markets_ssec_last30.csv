@@ -1,5 +1,4 @@
 period,period_label,series,value,unit
-2026-09-03,2026-09-03,_Z,3942.09,index_points
 2026-09-04,2026-09-04,_Z,3930.12,index_points
 2026-09-07,2026-09-07,_Z,3932.7,index_points
 2026-09-08,2026-09-08,_Z,3940.55,index_points
@@ -29,3 +28,4 @@ period,period_label,series,value,unit
 2026-10-20,2026-10-20,_Z,3735.37,index_points
 2026-10-21,2026-10-21,_Z,3713.03,index_points
 2026-10-22,2026-10-22,_Z,3658.03,index_points
+2026-10-23,2026-10-23,_Z,3690.48,index_points
