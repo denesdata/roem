@@ -45,5 +45,9 @@ period,period_label,series,indicator,indicator_label_en,indicator_label_ro,indic
 2022-01-01,2022,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3,pct
 2022-01-01,2022,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42.3,pct
 2023-01-01,2023,employees,employees,Employees,Salariați,Alkalmazottak,5364938,persons
+2023-01-01,2023,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
 2023-01-01,2023,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,41.8,pct
 2024-01-01,2024,employees,employees,Employees,Salariați,Alkalmazottak,5453155,persons
+2024-01-01,2024,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
+2024-01-01,2024,activity_rate,activity_rate,Gross activity rate,Rata brută de activitate,Bruttó aktivitási ráta,42,pct
+2025-01-01,2025,unemployment_rate,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct

@@ -2267,3 +2267,66 @@ period,period_label,series,activity,activity_label_en,activity_label_ro,activity
 2025-12-01,2025-12,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,149.7,index_2021_100
 2025-12-01,2025-12,I55,I55,Accommodation,Cazare,Szállás,212,index_2021_100
 2025-12-01,2025-12,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,113.5,index_2021_100
+2026-01-01,2026-01,_T,_T,Total,Total,Összesen,125.2,index_2021_100
+2026-01-01,2026-01,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",132.6,index_2021_100
+2026-01-01,2026-01,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,85.1,index_2021_100
+2026-01-01,2026-01,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,114.8,index_2021_100
+2026-01-01,2026-01,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,109.3,index_2021_100
+2026-01-01,2026-01,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,170,index_2021_100
+2026-01-01,2026-01,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,164.1,index_2021_100
+2026-01-01,2026-01,I55,I55,Accommodation,Cazare,Szállás,172.3,index_2021_100
+2026-01-01,2026-01,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,111.1,index_2021_100
+2026-02-01,2026-02,_T,_T,Total,Total,Összesen,127.3,index_2021_100
+2026-02-01,2026-02,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",133.9,index_2021_100
+2026-02-01,2026-02,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,97.5,index_2021_100
+2026-02-01,2026-02,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,118,index_2021_100
+2026-02-01,2026-02,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,105.3,index_2021_100
+2026-02-01,2026-02,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,174,index_2021_100
+2026-02-01,2026-02,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,166.7,index_2021_100
+2026-02-01,2026-02,I55,I55,Accommodation,Cazare,Szállás,176.7,index_2021_100
+2026-02-01,2026-02,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,110.1,index_2021_100
+2026-03-01,2026-03,_T,_T,Total,Total,Összesen,126.6,index_2021_100
+2026-03-01,2026-03,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",134.2,index_2021_100
+2026-03-01,2026-03,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,90.8,index_2021_100
+2026-03-01,2026-03,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,114.1,index_2021_100
+2026-03-01,2026-03,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,119.4,index_2021_100
+2026-03-01,2026-03,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,182.6,index_2021_100
+2026-03-01,2026-03,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,177.4,index_2021_100
+2026-03-01,2026-03,I55,I55,Accommodation,Cazare,Szállás,167.2,index_2021_100
+2026-03-01,2026-03,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,114.5,index_2021_100
+2026-04-01,2026-04,_T,_T,Total,Total,Összesen,126.2,index_2021_100
+2026-04-01,2026-04,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",135,index_2021_100
+2026-04-01,2026-04,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,89.9,index_2021_100
+2026-04-01,2026-04,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,123.8,index_2021_100
+2026-04-01,2026-04,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,115.2,index_2021_100
+2026-04-01,2026-04,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,192.5,index_2021_100
+2026-04-01,2026-04,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,162.3,index_2021_100
+2026-04-01,2026-04,I55,I55,Accommodation,Cazare,Szállás,163.5,index_2021_100
+2026-04-01,2026-04,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,117.4,index_2021_100
+2026-05-01,2026-05,_T,_T,Total,Total,Összesen,127.3,index_2021_100
+2026-05-01,2026-05,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",133.8,index_2021_100
+2026-05-01,2026-05,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,89.6,index_2021_100
+2026-05-01,2026-05,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,120.4,index_2021_100
+2026-05-01,2026-05,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,121,index_2021_100
+2026-05-01,2026-05,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,202.3,index_2021_100
+2026-05-01,2026-05,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,174.5,index_2021_100
+2026-05-01,2026-05,I55,I55,Accommodation,Cazare,Szállás,169.7,index_2021_100
+2026-05-01,2026-05,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,117.6,index_2021_100
+2026-06-01,2026-06,_T,_T,Total,Total,Összesen,124.2,index_2021_100
+2026-06-01,2026-06,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",132.6,index_2021_100
+2026-06-01,2026-06,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,93.7,index_2021_100
+2026-06-01,2026-06,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,107.9,index_2021_100
+2026-06-01,2026-06,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,120.2,index_2021_100
+2026-06-01,2026-06,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,197.8,index_2021_100
+2026-06-01,2026-06,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,174,index_2021_100
+2026-06-01,2026-06,I55,I55,Accommodation,Cazare,Szállás,163.4,index_2021_100
+2026-06-01,2026-06,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,113.4,index_2021_100
+2026-07-01,2026-07,_T,_T,Total,Total,Összesen,122.6,index_2021_100
+2026-07-01,2026-07,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",133.2,index_2021_100
+2026-07-01,2026-07,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,90.6,index_2021_100
+2026-07-01,2026-07,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,90.7,index_2021_100
+2026-07-01,2026-07,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,122.4,index_2021_100
+2026-07-01,2026-07,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,200.2,index_2021_100
+2026-07-01,2026-07,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,168,index_2021_100
+2026-07-01,2026-07,I55,I55,Accommodation,Cazare,Szállás,170.5,index_2021_100
+2026-07-01,2026-07,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,110,index_2021_100

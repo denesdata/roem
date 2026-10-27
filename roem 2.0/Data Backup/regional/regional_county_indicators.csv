@@ -1,391 +1,391 @@
 period,period_label,series,county,county_label_en,county_label_ro,county_label_hu,county_legacy_id,indicator,indicator_label_en,indicator_label_ro,indicator_label_hu,value,unit
 2012-01-01,2012,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,20095996,persons
 2012-01-01,2012,_T.avg_net_salary,_T,Romania,România,Románia,,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1507,ron
-2012-01-01,2012,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
+2012-01-01,2012,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
 2012-01-01,2012,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,575731,persons
 2012-01-01,2012,BH.avg_net_salary,BH,Bihor,Bihor,Bihar,5,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1123,ron
-2012-01-01,2012,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2012-01-01,2012,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
 2012-01-01,2012,BN.population,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,population,Population,Populație,Népesség,285468,persons
 2012-01-01,2012,BN.avg_net_salary,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1159,ron
-2012-01-01,2012,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2012-01-01,2012,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
 2012-01-01,2012,CJ.population,CJ,Cluj,Cluj,Kolozs,14,population,Population,Populație,Népesség,693608,persons
 2012-01-01,2012,CJ.avg_net_salary,CJ,Cluj,Cluj,Kolozs,14,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1574,ron
-2012-01-01,2012,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
+2012-01-01,2012,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
 2012-01-01,2012,MM.population,MM,Maramures,Maramureș,Máramaros,27,population,Population,Populație,Népesség,477180,persons
 2012-01-01,2012,MM.avg_net_salary,MM,Maramures,Maramureș,Máramaros,27,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1153,ron
-2012-01-01,2012,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
+2012-01-01,2012,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.1,pct
 2012-01-01,2012,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,343530,persons
 2012-01-01,2012,SM.avg_net_salary,SM,Satu Mare,Satu Mare,Szatmár,34,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1161,ron
-2012-01-01,2012,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
+2012-01-01,2012,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
 2012-01-01,2012,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,223360,persons
 2012-01-01,2012,SJ.avg_net_salary,SJ,Salaj,Sălaj,Szilágy,33,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1159,ron
-2012-01-01,2012,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
+2012-01-01,2012,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
 2012-01-01,2012,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,341479,persons
 2012-01-01,2012,AB.avg_net_salary,AB,Alba,Alba,Fehér,1,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1276,ron
-2012-01-01,2012,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
+2012-01-01,2012,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.4,pct
 2012-01-01,2012,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,549519,persons
 2012-01-01,2012,BV.avg_net_salary,BV,Brasov,Brașov,Brassó,8,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1463,ron
-2012-01-01,2012,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2012-01-01,2012,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
 2012-01-01,2012,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,209713,persons
 2012-01-01,2012,CV.avg_net_salary,CV,Covasna,Covasna,Kovászna,16,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1119,ron
-2012-01-01,2012,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2012-01-01,2012,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
 2012-01-01,2012,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,311048,persons
 2012-01-01,2012,HR.avg_net_salary,HR,Harghita,Harghita,Hargita,22,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1072,ron
-2012-01-01,2012,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
+2012-01-01,2012,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.3,pct
 2012-01-01,2012,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,550214,persons
 2012-01-01,2012,MS.avg_net_salary,MS,Mures,Mureș,Maros,29,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1315,ron
 2012-01-01,2012,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2012-01-01,2012,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,398605,persons
 2012-01-01,2012,SB.avg_net_salary,SB,Sibiu,Sibiu,Szeben,35,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1429,ron
-2012-01-01,2012,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
+2012-01-01,2012,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.5,pct
 2012-01-01,2012,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,614316,persons
 2012-01-01,2012,BC.avg_net_salary,BC,Bacau,Bacău,Bákó,4,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1288,ron
-2012-01-01,2012,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.3,pct
+2012-01-01,2012,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
 2012-01-01,2012,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,410706,persons
 2012-01-01,2012,BT.avg_net_salary,BT,Botosani,Botoșani,Botosány,7,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1126,ron
 2012-01-01,2012,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
 2012-01-01,2012,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,772979,persons
 2012-01-01,2012,IS.avg_net_salary,IS,Iasi,Iași,Jász,24,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1371,ron
-2012-01-01,2012,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.6,pct
+2012-01-01,2012,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.1,pct
 2012-01-01,2012,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,468429,persons
 2012-01-01,2012,NT.avg_net_salary,NT,Neamt,Neamț,Neámț,30,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1123,ron
-2012-01-01,2012,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2012-01-01,2012,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
 2012-01-01,2012,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,633658,persons
 2012-01-01,2012,SV.avg_net_salary,SV,Suceava,Suceava,Szucsáva,36,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1148,ron
-2012-01-01,2012,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
+2012-01-01,2012,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
 2012-01-01,2012,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,394116,persons
 2012-01-01,2012,VS.avg_net_salary,VS,Vaslui,Vaslui,Vaslui,42,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1125,ron
-2012-01-01,2012,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.3,pct
+2012-01-01,2012,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.1,pct
 2012-01-01,2012,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,319674,persons
 2012-01-01,2012,BR.avg_net_salary,BR,Braila,Brăila,Brăila,9,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1178,ron
-2012-01-01,2012,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
+2012-01-01,2012,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
 2012-01-01,2012,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,449218,persons
 2012-01-01,2012,BZ.avg_net_salary,BZ,Buzau,Buzău,Buzău,11,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1231,ron
-2012-01-01,2012,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.7,pct
+2012-01-01,2012,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.9,pct
 2012-01-01,2012,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,683866,persons
 2012-01-01,2012,CT.avg_net_salary,CT,Constanta,Constanța,Konstanca,15,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1424,ron
-2012-01-01,2012,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.1,pct
+2012-01-01,2012,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.5,pct
 2012-01-01,2012,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,534577,persons
 2012-01-01,2012,GL.avg_net_salary,GL,Galati,Galați,Galați,19,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1351,ron
-2012-01-01,2012,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.4,pct
+2012-01-01,2012,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.9,pct
 2012-01-01,2012,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,212012,persons
 2012-01-01,2012,TL.avg_net_salary,TL,Tulcea,Tulcea,Tulcsa,39,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1274,ron
-2012-01-01,2012,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
+2012-01-01,2012,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2012-01-01,2012,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,339602,persons
 2012-01-01,2012,VN.avg_net_salary,VN,Vrancea,Vrancea,Vrancea,41,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1136,ron
-2012-01-01,2012,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2012-01-01,2012,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
 2012-01-01,2012,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,611024,persons
 2012-01-01,2012,AG.avg_net_salary,AG,Arges,Argeș,Argeș,3,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1541,ron
-2012-01-01,2012,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
+2012-01-01,2012,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.1,pct
 2012-01-01,2012,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,305779,persons
 2012-01-01,2012,CL.avg_net_salary,CL,Calarasi,Călărași,Călărași,12,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1178,ron
-2012-01-01,2012,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.1,pct
+2012-01-01,2012,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.2,pct
 2012-01-01,2012,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,517657,persons
 2012-01-01,2012,DB.avg_net_salary,DB,Dambovita,Dâmbovița,Dâmbovița,17,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1323,ron
-2012-01-01,2012,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.9,pct
+2012-01-01,2012,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.5,pct
 2012-01-01,2012,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,281295,persons
 2012-01-01,2012,GR.avg_net_salary,GR,Giurgiu,Giurgiu,Giurgiu,20,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1240,ron
-2012-01-01,2012,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.1,pct
+2012-01-01,2012,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2012-01-01,2012,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,273317,persons
 2012-01-01,2012,IL.avg_net_salary,IL,Ialomita,Ialomița,Ialomița,25,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1212,ron
-2012-01-01,2012,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.8,pct
+2012-01-01,2012,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.7,pct
 2012-01-01,2012,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,761699,persons
 2012-01-01,2012,PH.avg_net_salary,PH,Prahova,Prahova,Prahova,32,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1510,ron
-2012-01-01,2012,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
+2012-01-01,2012,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.6,pct
 2012-01-01,2012,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,378028,persons
 2012-01-01,2012,TR.avg_net_salary,TR,Teleorman,Teleorman,Teleorman,37,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1168,ron
-2012-01-01,2012,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,11.3,pct
+2012-01-01,2012,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.6,pct
 2012-01-01,2012,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,392279,persons
 2012-01-01,2012,IF.avg_net_salary,IF,Ilfov,Ilfov,Ilfov,26,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1994,ron
-2012-01-01,2012,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.3,pct
+2012-01-01,2012,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.8,pct
 2012-01-01,2012,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1886866,persons
 2012-01-01,2012,B.avg_net_salary,B,Bucuresti,București,Bukarest,10,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,2213,ron
-2012-01-01,2012,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.9,pct
+2012-01-01,2012,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2012-01-01,2012,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,659016,persons
 2012-01-01,2012,DJ.avg_net_salary,DJ,Dolj,Dolj,Dolj,18,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1370,ron
-2012-01-01,2012,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.9,pct
+2012-01-01,2012,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.4,pct
 2012-01-01,2012,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,340030,persons
 2012-01-01,2012,GJ.avg_net_salary,GJ,Gorj,Gorj,Gorj,21,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1584,ron
-2012-01-01,2012,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
+2012-01-01,2012,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.7,pct
 2012-01-01,2012,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,264338,persons
 2012-01-01,2012,MH.avg_net_salary,MH,Mehedinti,Mehedinți,Mehedinți,28,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1294,ron
-2012-01-01,2012,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.6,pct
+2012-01-01,2012,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.5,pct
 2012-01-01,2012,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,433839,persons
 2012-01-01,2012,OT.avg_net_salary,OT,Olt,Olt,Olt,31,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1317,ron
-2012-01-01,2012,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
+2012-01-01,2012,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.7,pct
 2012-01-01,2012,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,370134,persons
 2012-01-01,2012,VL.avg_net_salary,VL,Valcea,Vâlcea,Vâlcea,40,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1282,ron
-2012-01-01,2012,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2012-01-01,2012,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.1,pct
 2012-01-01,2012,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,430683,persons
 2012-01-01,2012,AR.avg_net_salary,AR,Arad,Arad,Arad,2,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1338,ron
-2012-01-01,2012,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.5,pct
+2012-01-01,2012,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
 2012-01-01,2012,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,294575,persons
 2012-01-01,2012,CS.avg_net_salary,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1213,ron
-2012-01-01,2012,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2012-01-01,2012,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
 2012-01-01,2012,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,417008,persons
 2012-01-01,2012,HD.avg_net_salary,HD,Hunedoara,Hunedoara,Hunyad,23,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1289,ron
-2012-01-01,2012,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2012-01-01,2012,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
 2012-01-01,2012,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,685821,persons
 2012-01-01,2012,TM.avg_net_salary,TM,Timis,Timiș,Temes,38,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1581,ron
-2012-01-01,2012,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.4,pct
+2012-01-01,2012,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2013-01-01,2013,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,20020074,persons
 2013-01-01,2013,_T.avg_net_salary,_T,Romania,România,Románia,,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1579,ron
-2013-01-01,2013,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
+2013-01-01,2013,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.7,pct
 2013-01-01,2013,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,575270,persons
 2013-01-01,2013,BH.avg_net_salary,BH,Bihor,Bihor,Bihar,5,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1155,ron
-2013-01-01,2013,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2013-01-01,2013,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
 2013-01-01,2013,BN.population,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,population,Population,Populație,Népesség,284178,persons
 2013-01-01,2013,BN.avg_net_salary,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1198,ron
-2013-01-01,2013,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2013-01-01,2013,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
 2013-01-01,2013,CJ.population,CJ,Cluj,Cluj,Kolozs,14,population,Population,Populație,Népesség,697457,persons
 2013-01-01,2013,CJ.avg_net_salary,CJ,Cluj,Cluj,Kolozs,14,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1672,ron
-2013-01-01,2013,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
+2013-01-01,2013,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
 2013-01-01,2013,MM.population,MM,Maramures,Maramureș,Máramaros,27,population,Population,Populație,Népesség,474115,persons
 2013-01-01,2013,MM.avg_net_salary,MM,Maramures,Maramureș,Máramaros,27,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1165,ron
-2013-01-01,2013,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
+2013-01-01,2013,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
 2013-01-01,2013,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,342118,persons
 2013-01-01,2013,SM.avg_net_salary,SM,Satu Mare,Satu Mare,Szatmár,34,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1279,ron
-2013-01-01,2013,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
+2013-01-01,2013,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.6,pct
 2013-01-01,2013,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,221685,persons
 2013-01-01,2013,SJ.avg_net_salary,SJ,Salaj,Sălaj,Szilágy,33,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1219,ron
-2013-01-01,2013,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
+2013-01-01,2013,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
 2013-01-01,2013,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,339517,persons
 2013-01-01,2013,AB.avg_net_salary,AB,Alba,Alba,Fehér,1,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1323,ron
-2013-01-01,2013,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
+2013-01-01,2013,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.2,pct
 2013-01-01,2013,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,550713,persons
 2013-01-01,2013,BV.avg_net_salary,BV,Brasov,Brașov,Brassó,8,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1486,ron
-2013-01-01,2013,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2013-01-01,2013,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
 2013-01-01,2013,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,208976,persons
 2013-01-01,2013,CV.avg_net_salary,CV,Covasna,Covasna,Kovászna,16,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1179,ron
-2013-01-01,2013,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2013-01-01,2013,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.4,pct
 2013-01-01,2013,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,310842,persons
 2013-01-01,2013,HR.avg_net_salary,HR,Harghita,Harghita,Hargita,22,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1130,ron
-2013-01-01,2013,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
+2013-01-01,2013,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
 2013-01-01,2013,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,549097,persons
 2013-01-01,2013,MS.avg_net_salary,MS,Mures,Mureș,Maros,29,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1386,ron
-2013-01-01,2013,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2013-01-01,2013,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
 2013-01-01,2013,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,400260,persons
 2013-01-01,2013,SB.avg_net_salary,SB,Sibiu,Sibiu,Szeben,35,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1543,ron
-2013-01-01,2013,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
+2013-01-01,2013,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
 2013-01-01,2013,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,609948,persons
 2013-01-01,2013,BC.avg_net_salary,BC,Bacau,Bacău,Bákó,4,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1355,ron
-2013-01-01,2013,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.3,pct
+2013-01-01,2013,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.2,pct
 2013-01-01,2013,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,406330,persons
 2013-01-01,2013,BT.avg_net_salary,BT,Botosani,Botoșani,Botosány,7,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1216,ron
-2013-01-01,2013,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2013-01-01,2013,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
 2013-01-01,2013,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,775165,persons
 2013-01-01,2013,IS.avg_net_salary,IS,Iasi,Iași,Jász,24,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1499,ron
-2013-01-01,2013,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.6,pct
+2013-01-01,2013,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.2,pct
 2013-01-01,2013,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,464758,persons
 2013-01-01,2013,NT.avg_net_salary,NT,Neamt,Neamț,Neámț,30,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1198,ron
-2013-01-01,2013,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2013-01-01,2013,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
 2013-01-01,2013,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,632210,persons
 2013-01-01,2013,SV.avg_net_salary,SV,Suceava,Suceava,Szucsáva,36,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1256,ron
-2013-01-01,2013,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
+2013-01-01,2013,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
 2013-01-01,2013,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,390387,persons
 2013-01-01,2013,VS.avg_net_salary,VS,Vaslui,Vaslui,Vaslui,42,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1172,ron
-2013-01-01,2013,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.3,pct
+2013-01-01,2013,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.7,pct
 2013-01-01,2013,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,315598,persons
 2013-01-01,2013,BR.avg_net_salary,BR,Braila,Brăila,Brăila,9,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1263,ron
 2013-01-01,2013,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
 2013-01-01,2013,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,444993,persons
 2013-01-01,2013,BZ.avg_net_salary,BZ,Buzau,Buzău,Buzău,11,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1294,ron
-2013-01-01,2013,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.7,pct
+2013-01-01,2013,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.6,pct
 2013-01-01,2013,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,684458,persons
 2013-01-01,2013,CT.avg_net_salary,CT,Constanta,Constanța,Konstanca,15,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1486,ron
-2013-01-01,2013,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.1,pct
+2013-01-01,2013,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
 2013-01-01,2013,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,530914,persons
 2013-01-01,2013,GL.avg_net_salary,GL,Galati,Galați,Galați,19,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1435,ron
-2013-01-01,2013,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.4,pct
+2013-01-01,2013,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.2,pct
 2013-01-01,2013,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,210119,persons
 2013-01-01,2013,TL.avg_net_salary,TL,Tulcea,Tulcea,Tulcsa,39,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1381,ron
-2013-01-01,2013,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
+2013-01-01,2013,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2013-01-01,2013,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,337272,persons
 2013-01-01,2013,VN.avg_net_salary,VN,Vrancea,Vrancea,Vrancea,41,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1196,ron
-2013-01-01,2013,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2013-01-01,2013,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2013-01-01,2013,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,606789,persons
 2013-01-01,2013,AG.avg_net_salary,AG,Arges,Argeș,Argeș,3,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1649,ron
-2013-01-01,2013,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
+2013-01-01,2013,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
 2013-01-01,2013,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,303881,persons
 2013-01-01,2013,CL.avg_net_salary,CL,Calarasi,Călărași,Călărași,12,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1258,ron
-2013-01-01,2013,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.1,pct
+2013-01-01,2013,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.2,pct
 2013-01-01,2013,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,515623,persons
 2013-01-01,2013,DB.avg_net_salary,DB,Dambovita,Dâmbovița,Dâmbovița,17,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1412,ron
-2013-01-01,2013,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.9,pct
+2013-01-01,2013,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.1,pct
 2013-01-01,2013,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,281989,persons
 2013-01-01,2013,GR.avg_net_salary,GR,Giurgiu,Giurgiu,Giurgiu,20,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1332,ron
-2013-01-01,2013,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.1,pct
+2013-01-01,2013,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
 2013-01-01,2013,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,271030,persons
 2013-01-01,2013,IL.avg_net_salary,IL,Ialomita,Ialomița,Ialomița,25,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1239,ron
-2013-01-01,2013,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.8,pct
+2013-01-01,2013,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.5,pct
 2013-01-01,2013,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,756635,persons
 2013-01-01,2013,PH.avg_net_salary,PH,Prahova,Prahova,Prahova,32,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1542,ron
-2013-01-01,2013,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
+2013-01-01,2013,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
 2013-01-01,2013,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,372203,persons
 2013-01-01,2013,TR.avg_net_salary,TR,Teleorman,Teleorman,Teleorman,37,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1236,ron
-2013-01-01,2013,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,11.3,pct
+2013-01-01,2013,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.8,pct
 2013-01-01,2013,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,406855,persons
 2013-01-01,2013,IF.avg_net_salary,IF,Ilfov,Ilfov,Ilfov,26,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1960,ron
-2013-01-01,2013,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.3,pct
+2013-01-01,2013,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.9,pct
 2013-01-01,2013,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1875389,persons
 2013-01-01,2013,B.avg_net_salary,B,Bucuresti,București,Bukarest,10,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,2304,ron
-2013-01-01,2013,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.9,pct
+2013-01-01,2013,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2013-01-01,2013,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,654456,persons
 2013-01-01,2013,DJ.avg_net_salary,DJ,Dolj,Dolj,Dolj,18,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1465,ron
-2013-01-01,2013,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.9,pct
+2013-01-01,2013,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.7,pct
 2013-01-01,2013,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,336995,persons
 2013-01-01,2013,GJ.avg_net_salary,GJ,Gorj,Gorj,Gorj,21,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1608,ron
-2013-01-01,2013,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
+2013-01-01,2013,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.2,pct
 2013-01-01,2013,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,261670,persons
 2013-01-01,2013,MH.avg_net_salary,MH,Mehedinti,Mehedinți,Mehedinți,28,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1367,ron
-2013-01-01,2013,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.6,pct
+2013-01-01,2013,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.5,pct
 2013-01-01,2013,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,428160,persons
 2013-01-01,2013,OT.avg_net_salary,OT,Olt,Olt,Olt,31,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1379,ron
-2013-01-01,2013,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
+2013-01-01,2013,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.2,pct
 2013-01-01,2013,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,367421,persons
 2013-01-01,2013,VL.avg_net_salary,VL,Valcea,Vâlcea,Vâlcea,40,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1295,ron
-2013-01-01,2013,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2013-01-01,2013,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.8,pct
 2013-01-01,2013,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,429625,persons
 2013-01-01,2013,AR.avg_net_salary,AR,Arad,Arad,Arad,2,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1402,ron
-2013-01-01,2013,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.5,pct
+2013-01-01,2013,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
 2013-01-01,2013,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,291874,persons
 2013-01-01,2013,CS.avg_net_salary,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1227,ron
-2013-01-01,2013,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2013-01-01,2013,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.7,pct
 2013-01-01,2013,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,412336,persons
 2013-01-01,2013,HD.avg_net_salary,HD,Hunedoara,Hunedoara,Hunyad,23,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1311,ron
-2013-01-01,2013,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2013-01-01,2013,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.5,pct
 2013-01-01,2013,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,690763,persons
 2013-01-01,2013,TM.avg_net_salary,TM,Timis,Timiș,Temes,38,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1704,ron
-2013-01-01,2013,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.4,pct
+2013-01-01,2013,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.9,pct
 2014-01-01,2014,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,19953089,persons
 2014-01-01,2014,_T.avg_net_salary,_T,Romania,România,Románia,,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1697,ron
-2014-01-01,2014,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
+2014-01-01,2014,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
 2014-01-01,2014,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,573769,persons
 2014-01-01,2014,BH.avg_net_salary,BH,Bihor,Bihor,Bihar,5,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1299,ron
-2014-01-01,2014,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2014-01-01,2014,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
 2014-01-01,2014,BN.population,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,population,Population,Populație,Népesség,283910,persons
 2014-01-01,2014,BN.avg_net_salary,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1273,ron
-2014-01-01,2014,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2014-01-01,2014,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.5,pct
 2014-01-01,2014,CJ.population,CJ,Cluj,Cluj,Kolozs,14,population,Population,Populație,Népesség,699097,persons
 2014-01-01,2014,CJ.avg_net_salary,CJ,Cluj,Cluj,Kolozs,14,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1857,ron
-2014-01-01,2014,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
+2014-01-01,2014,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.8,pct
 2014-01-01,2014,MM.population,MM,Maramures,Maramureș,Máramaros,27,population,Population,Populație,Népesség,472483,persons
 2014-01-01,2014,MM.avg_net_salary,MM,Maramures,Maramureș,Máramaros,27,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1292,ron
-2014-01-01,2014,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
+2014-01-01,2014,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
 2014-01-01,2014,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,341094,persons
 2014-01-01,2014,SM.avg_net_salary,SM,Satu Mare,Satu Mare,Szatmár,34,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1344,ron
-2014-01-01,2014,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
+2014-01-01,2014,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
 2014-01-01,2014,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,220479,persons
 2014-01-01,2014,SJ.avg_net_salary,SJ,Salaj,Sălaj,Szilágy,33,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1327,ron
-2014-01-01,2014,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
+2014-01-01,2014,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2014-01-01,2014,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,337717,persons
 2014-01-01,2014,AB.avg_net_salary,AB,Alba,Alba,Fehér,1,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1433,ron
-2014-01-01,2014,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
+2014-01-01,2014,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.3,pct
 2014-01-01,2014,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,550912,persons
 2014-01-01,2014,BV.avg_net_salary,BV,Brasov,Brașov,Brassó,8,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1604,ron
-2014-01-01,2014,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2014-01-01,2014,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2014-01-01,2014,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,208628,persons
 2014-01-01,2014,CV.avg_net_salary,CV,Covasna,Covasna,Kovászna,16,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1267,ron
-2014-01-01,2014,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2014-01-01,2014,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
 2014-01-01,2014,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,310360,persons
 2014-01-01,2014,HR.avg_net_salary,HR,Harghita,Harghita,Hargita,22,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1251,ron
-2014-01-01,2014,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.7,pct
+2014-01-01,2014,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2014-01-01,2014,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,547861,persons
 2014-01-01,2014,MS.avg_net_salary,MS,Mures,Mureș,Maros,29,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1509,ron
-2014-01-01,2014,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2014-01-01,2014,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
 2014-01-01,2014,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,400268,persons
 2014-01-01,2014,SB.avg_net_salary,SB,Sibiu,Sibiu,Szeben,35,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1616,ron
-2014-01-01,2014,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
+2014-01-01,2014,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.6,pct
 2014-01-01,2014,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,606975,persons
 2014-01-01,2014,BC.avg_net_salary,BC,Bacau,Bacău,Bákó,4,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1455,ron
-2014-01-01,2014,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.3,pct
+2014-01-01,2014,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.8,pct
 2014-01-01,2014,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,403205,persons
 2014-01-01,2014,BT.avg_net_salary,BT,Botosani,Botoșani,Botosány,7,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1347,ron
-2014-01-01,2014,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2014-01-01,2014,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
 2014-01-01,2014,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,781503,persons
 2014-01-01,2014,IS.avg_net_salary,IS,Iasi,Iași,Jász,24,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1649,ron
-2014-01-01,2014,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.6,pct
+2014-01-01,2014,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
 2014-01-01,2014,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,462109,persons
 2014-01-01,2014,NT.avg_net_salary,NT,Neamt,Neamț,Neámț,30,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1274,ron
-2014-01-01,2014,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2014-01-01,2014,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.1,pct
 2014-01-01,2014,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,631760,persons
 2014-01-01,2014,SV.avg_net_salary,SV,Suceava,Suceava,Szucsáva,36,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1352,ron
-2014-01-01,2014,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
+2014-01-01,2014,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.7,pct
 2014-01-01,2014,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,389873,persons
 2014-01-01,2014,VS.avg_net_salary,VS,Vaslui,Vaslui,Vaslui,42,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1304,ron
-2014-01-01,2014,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10.3,pct
+2014-01-01,2014,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,11.4,pct
 2014-01-01,2014,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,312152,persons
 2014-01-01,2014,BR.avg_net_salary,BR,Braila,Brăila,Brăila,9,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1348,ron
-2014-01-01,2014,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
+2014-01-01,2014,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.4,pct
 2014-01-01,2014,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,441016,persons
 2014-01-01,2014,BZ.avg_net_salary,BZ,Buzau,Buzău,Buzău,11,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1326,ron
 2014-01-01,2014,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.7,pct
 2014-01-01,2014,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,684392,persons
 2014-01-01,2014,CT.avg_net_salary,CT,Constanta,Constanța,Konstanca,15,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1571,ron
-2014-01-01,2014,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.1,pct
+2014-01-01,2014,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4,pct
 2014-01-01,2014,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,528216,persons
 2014-01-01,2014,GL.avg_net_salary,GL,Galati,Galați,Galați,19,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1576,ron
-2014-01-01,2014,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.4,pct
+2014-01-01,2014,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.5,pct
 2014-01-01,2014,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,208289,persons
 2014-01-01,2014,TL.avg_net_salary,TL,Tulcea,Tulcea,Tulcsa,39,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1482,ron
-2014-01-01,2014,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
+2014-01-01,2014,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
 2014-01-01,2014,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,335738,persons
 2014-01-01,2014,VN.avg_net_salary,VN,Vrancea,Vrancea,Vrancea,41,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1300,ron
-2014-01-01,2014,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2014-01-01,2014,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2014-01-01,2014,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,604153,persons
 2014-01-01,2014,AG.avg_net_salary,AG,Arges,Argeș,Argeș,3,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1785,ron
-2014-01-01,2014,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
+2014-01-01,2014,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2014-01-01,2014,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,301326,persons
 2014-01-01,2014,CL.avg_net_salary,CL,Calarasi,Călărași,Călărași,12,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1365,ron
-2014-01-01,2014,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.1,pct
+2014-01-01,2014,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.2,pct
 2014-01-01,2014,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,512741,persons
 2014-01-01,2014,DB.avg_net_salary,DB,Dambovita,Dâmbovița,Dâmbovița,17,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1488,ron
-2014-01-01,2014,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.9,pct
+2014-01-01,2014,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.9,pct
 2014-01-01,2014,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,278473,persons
 2014-01-01,2014,GR.avg_net_salary,GR,Giurgiu,Giurgiu,Giurgiu,20,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1413,ron
-2014-01-01,2014,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.1,pct
+2014-01-01,2014,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7,pct
 2014-01-01,2014,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,269386,persons
 2014-01-01,2014,IL.avg_net_salary,IL,Ialomita,Ialomița,Ialomița,25,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1362,ron
-2014-01-01,2014,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.8,pct
+2014-01-01,2014,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.1,pct
 2014-01-01,2014,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,752405,persons
 2014-01-01,2014,PH.avg_net_salary,PH,Prahova,Prahova,Prahova,32,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1687,ron
-2014-01-01,2014,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
+2014-01-01,2014,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.2,pct
 2014-01-01,2014,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,367239,persons
 2014-01-01,2014,TR.avg_net_salary,TR,Teleorman,Teleorman,Teleorman,37,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1320,ron
-2014-01-01,2014,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,11.3,pct
+2014-01-01,2014,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,11.2,pct
 2014-01-01,2014,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,417850,persons
 2014-01-01,2014,IF.avg_net_salary,IF,Ilfov,Ilfov,Ilfov,26,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,2087,ron
-2014-01-01,2014,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.3,pct
+2014-01-01,2014,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.5,pct
 2014-01-01,2014,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1865563,persons
 2014-01-01,2014,B.avg_net_salary,B,Bucuresti,București,Bukarest,10,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,2441,ron
-2014-01-01,2014,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.9,pct
+2014-01-01,2014,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2014-01-01,2014,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,650767,persons
 2014-01-01,2014,DJ.avg_net_salary,DJ,Dolj,Dolj,Dolj,18,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1541,ron
-2014-01-01,2014,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.9,pct
+2014-01-01,2014,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.4,pct
 2014-01-01,2014,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,334849,persons
 2014-01-01,2014,GJ.avg_net_salary,GJ,Gorj,Gorj,Gorj,21,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1761,ron
-2014-01-01,2014,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
+2014-01-01,2014,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.5,pct
 2014-01-01,2014,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,259026,persons
 2014-01-01,2014,MH.avg_net_salary,MH,Mehedinti,Mehedinți,Mehedinți,28,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1475,ron
-2014-01-01,2014,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.6,pct
+2014-01-01,2014,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,10,pct
 2014-01-01,2014,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,423445,persons
 2014-01-01,2014,OT.avg_net_salary,OT,Olt,Olt,Olt,31,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1558,ron
-2014-01-01,2014,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,7.6,pct
+2014-01-01,2014,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.2,pct
 2014-01-01,2014,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,365697,persons
 2014-01-01,2014,VL.avg_net_salary,VL,Valcea,Vâlcea,Vâlcea,40,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1337,ron
-2014-01-01,2014,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2014-01-01,2014,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.6,pct
 2014-01-01,2014,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,428079,persons
 2014-01-01,2014,AR.avg_net_salary,AR,Arad,Arad,Arad,2,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1492,ron
-2014-01-01,2014,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.5,pct
+2014-01-01,2014,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.8,pct
 2014-01-01,2014,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,289011,persons
 2014-01-01,2014,CS.avg_net_salary,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1326,ron
-2014-01-01,2014,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2014-01-01,2014,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.5,pct
 2014-01-01,2014,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,408002,persons
 2014-01-01,2014,HD.avg_net_salary,HD,Hunedoara,Hunedoara,Hunyad,23,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1393,ron
-2014-01-01,2014,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
+2014-01-01,2014,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
 2014-01-01,2014,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,693271,persons
 2014-01-01,2014,TM.avg_net_salary,TM,Timis,Timiș,Temes,38,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1836,ron
-2014-01-01,2014,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.4,pct
+2014-01-01,2014,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.6,pct
 2015-01-01,2015,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,19875542,persons
 2015-01-01,2015,_T.avg_net_salary,_T,Romania,România,Románia,,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,1859,ron
 2015-01-01,2015,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
@@ -1633,175 +1633,175 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2023-01-01,2023,TM.avg_net_salary,TM,Timis,Timiș,Temes,38,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4910,ron
 2023-01-01,2023,TM.gdp_per_capita,TM,Timis,Timiș,Temes,38,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,21768,eur_per_capita
 2023-01-01,2023,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.9,pct
-2024-01-01,2024,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,19067576,persons
+2024-01-01,2024,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,19068290,persons
 2024-01-01,2024,_T.avg_net_salary,_T,Romania,România,Románia,,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4959,ron
 2024-01-01,2024,_T.gdp_per_capita,_T,Romania,România,Románia,,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,18549,eur_per_capita
 2024-01-01,2024,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
-2024-01-01,2024,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,555957,persons
+2024-01-01,2024,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,556008,persons
 2024-01-01,2024,BH.avg_net_salary,BH,Bihor,Bihor,Bihar,5,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4095,ron
 2024-01-01,2024,BH.gdp_per_capita,BH,Bihor,Bihor,Bihar,5,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14130,eur_per_capita
 2024-01-01,2024,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
-2024-01-01,2024,BN.population,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,population,Population,Populație,Népesség,297082,persons
+2024-01-01,2024,BN.population,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,population,Population,Populație,Népesség,297036,persons
 2024-01-01,2024,BN.avg_net_salary,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3942,ron
 2024-01-01,2024,BN.gdp_per_capita,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11174,eur_per_capita
 2024-01-01,2024,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
-2024-01-01,2024,CJ.population,CJ,Cluj,Cluj,Kolozs,14,population,Population,Populație,Népesség,693507,persons
+2024-01-01,2024,CJ.population,CJ,Cluj,Cluj,Kolozs,14,population,Population,Populație,Népesség,693413,persons
 2024-01-01,2024,CJ.avg_net_salary,CJ,Cluj,Cluj,Kolozs,14,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,5921,ron
 2024-01-01,2024,CJ.gdp_per_capita,CJ,Cluj,Cluj,Kolozs,14,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,27257,eur_per_capita
 2024-01-01,2024,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.4,pct
-2024-01-01,2024,MM.population,MM,Maramures,Maramureș,Máramaros,27,population,Population,Populație,Népesség,451881,persons
+2024-01-01,2024,MM.population,MM,Maramures,Maramureș,Máramaros,27,population,Population,Populație,Népesség,451993,persons
 2024-01-01,2024,MM.avg_net_salary,MM,Maramures,Maramureș,Máramaros,27,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4177,ron
 2024-01-01,2024,MM.gdp_per_capita,MM,Maramures,Maramureș,Máramaros,27,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12329,eur_per_capita
 2024-01-01,2024,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
-2024-01-01,2024,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,330701,persons
+2024-01-01,2024,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,330815,persons
 2024-01-01,2024,SM.avg_net_salary,SM,Satu Mare,Satu Mare,Szatmár,34,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4094,ron
 2024-01-01,2024,SM.gdp_per_capita,SM,Satu Mare,Satu Mare,Szatmár,34,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12370,eur_per_capita
 2024-01-01,2024,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.1,pct
-2024-01-01,2024,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,210656,persons
+2024-01-01,2024,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,210645,persons
 2024-01-01,2024,SJ.avg_net_salary,SJ,Salaj,Sălaj,Szilágy,33,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4155,ron
 2024-01-01,2024,SJ.gdp_per_capita,SJ,Salaj,Sălaj,Szilágy,33,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13773,eur_per_capita
 2024-01-01,2024,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
-2024-01-01,2024,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,325697,persons
+2024-01-01,2024,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,325757,persons
 2024-01-01,2024,AB.avg_net_salary,AB,Alba,Alba,Fehér,1,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4326,ron
 2024-01-01,2024,AB.gdp_per_capita,AB,Alba,Alba,Fehér,1,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16482,eur_per_capita
 2024-01-01,2024,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
-2024-01-01,2024,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,557129,persons
+2024-01-01,2024,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,557143,persons
 2024-01-01,2024,BV.avg_net_salary,BV,Brasov,Brașov,Brassó,8,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,5019,ron
 2024-01-01,2024,BV.gdp_per_capita,BV,Brasov,Brașov,Brassó,8,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,20586,eur_per_capita
 2024-01-01,2024,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.7,pct
-2024-01-01,2024,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,199675,persons
+2024-01-01,2024,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,199704,persons
 2024-01-01,2024,CV.avg_net_salary,CV,Covasna,Covasna,Kovászna,16,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3896,ron
 2024-01-01,2024,CV.gdp_per_capita,CV,Covasna,Covasna,Kovászna,16,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12491,eur_per_capita
 2024-01-01,2024,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.2,pct
-2024-01-01,2024,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,292148,persons
+2024-01-01,2024,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,292193,persons
 2024-01-01,2024,HR.avg_net_salary,HR,Harghita,Harghita,Hargita,22,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3955,ron
 2024-01-01,2024,HR.gdp_per_capita,HR,Harghita,Harghita,Hargita,22,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13447,eur_per_capita
 2024-01-01,2024,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
-2024-01-01,2024,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,519831,persons
+2024-01-01,2024,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,519878,persons
 2024-01-01,2024,MS.avg_net_salary,MS,Mures,Mureș,Maros,29,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4492,ron
 2024-01-01,2024,MS.gdp_per_capita,MS,Mures,Mureș,Maros,29,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14554,eur_per_capita
 2024-01-01,2024,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
-2024-01-01,2024,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,393581,persons
+2024-01-01,2024,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,393589,persons
 2024-01-01,2024,SB.avg_net_salary,SB,Sibiu,Sibiu,Szeben,35,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4942,ron
 2024-01-01,2024,SB.gdp_per_capita,SB,Sibiu,Sibiu,Szeben,35,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,18520,eur_per_capita
 2024-01-01,2024,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
-2024-01-01,2024,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,595888,persons
+2024-01-01,2024,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,595789,persons
 2024-01-01,2024,BC.avg_net_salary,BC,Bacau,Bacău,Bákó,4,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4474,ron
 2024-01-01,2024,BC.gdp_per_capita,BC,Bacau,Bacău,Bákó,4,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11627,eur_per_capita
 2024-01-01,2024,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.2,pct
-2024-01-01,2024,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,389748,persons
+2024-01-01,2024,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,390069,persons
 2024-01-01,2024,BT.avg_net_salary,BT,Botosani,Botoșani,Botosány,7,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3941,ron
 2024-01-01,2024,BT.gdp_per_capita,BT,Botosani,Botoșani,Botosány,7,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,8172,eur_per_capita
 2024-01-01,2024,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
-2024-01-01,2024,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,778689,persons
+2024-01-01,2024,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,778694,persons
 2024-01-01,2024,IS.avg_net_salary,IS,Iasi,Iași,Jász,24,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,5098,ron
 2024-01-01,2024,IS.gdp_per_capita,IS,Iasi,Iași,Jász,24,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15056,eur_per_capita
 2024-01-01,2024,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
-2024-01-01,2024,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,447776,persons
+2024-01-01,2024,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,447780,persons
 2024-01-01,2024,NT.avg_net_salary,NT,Neamt,Neamț,Neámț,30,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4013,ron
 2024-01-01,2024,NT.gdp_per_capita,NT,Neamt,Neamț,Neámț,30,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11086,eur_per_capita
 2024-01-01,2024,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
-2024-01-01,2024,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,645196,persons
+2024-01-01,2024,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,645298,persons
 2024-01-01,2024,SV.avg_net_salary,SV,Suceava,Suceava,Szucsáva,36,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4071,ron
 2024-01-01,2024,SV.gdp_per_capita,SV,Suceava,Suceava,Szucsáva,36,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,9950,eur_per_capita
 2024-01-01,2024,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
-2024-01-01,2024,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,369517,persons
+2024-01-01,2024,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,369378,persons
 2024-01-01,2024,VS.avg_net_salary,VS,Vaslui,Vaslui,Vaslui,42,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3929,ron
 2024-01-01,2024,VS.gdp_per_capita,VS,Vaslui,Vaslui,Vaslui,42,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,7787,eur_per_capita
 2024-01-01,2024,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.2,pct
-2024-01-01,2024,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,274751,persons
+2024-01-01,2024,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,274765,persons
 2024-01-01,2024,BR.avg_net_salary,BR,Braila,Brăila,Brăila,9,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3912,ron
 2024-01-01,2024,BR.gdp_per_capita,BR,Braila,Brăila,Brăila,9,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13175,eur_per_capita
 2024-01-01,2024,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
-2024-01-01,2024,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,398344,persons
+2024-01-01,2024,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,398437,persons
 2024-01-01,2024,BZ.avg_net_salary,BZ,Buzau,Buzău,Buzău,11,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4067,ron
 2024-01-01,2024,BZ.gdp_per_capita,BZ,Buzau,Buzău,Buzău,11,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11491,eur_per_capita
 2024-01-01,2024,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
-2024-01-01,2024,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,657419,persons
+2024-01-01,2024,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,657415,persons
 2024-01-01,2024,CT.avg_net_salary,CT,Constanta,Constanța,Konstanca,15,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4491,ron
 2024-01-01,2024,CT.gdp_per_capita,CT,Constanta,Constanța,Konstanca,15,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,21417,eur_per_capita
 2024-01-01,2024,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.3,pct
-2024-01-01,2024,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,493009,persons
+2024-01-01,2024,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,492978,persons
 2024-01-01,2024,GL.avg_net_salary,GL,Galati,Galați,Galați,19,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4276,ron
 2024-01-01,2024,GL.gdp_per_capita,GL,Galati,Galați,Galați,19,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,10834,eur_per_capita
 2024-01-01,2024,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.6,pct
-2024-01-01,2024,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,189336,persons
+2024-01-01,2024,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,189340,persons
 2024-01-01,2024,TL.avg_net_salary,TL,Tulcea,Tulcea,Tulcsa,39,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4003,ron
 2024-01-01,2024,TL.gdp_per_capita,TL,Tulcea,Tulcea,Tulcsa,39,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15221,eur_per_capita
 2024-01-01,2024,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
-2024-01-01,2024,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,332313,persons
+2024-01-01,2024,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,332473,persons
 2024-01-01,2024,VN.avg_net_salary,VN,Vrancea,Vrancea,Vrancea,41,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3890,ron
 2024-01-01,2024,VN.gdp_per_capita,VN,Vrancea,Vrancea,Vrancea,41,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,10280,eur_per_capita
 2024-01-01,2024,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.2,pct
-2024-01-01,2024,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,564829,persons
+2024-01-01,2024,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,564941,persons
 2024-01-01,2024,AG.avg_net_salary,AG,Arges,Argeș,Argeș,3,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4729,ron
 2024-01-01,2024,AG.gdp_per_capita,AG,Arges,Argeș,Argeș,3,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15937,eur_per_capita
 2024-01-01,2024,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
-2024-01-01,2024,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,279349,persons
+2024-01-01,2024,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,279342,persons
 2024-01-01,2024,CL.avg_net_salary,CL,Calarasi,Călărași,Călărași,12,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4057,ron
 2024-01-01,2024,CL.gdp_per_capita,CL,Calarasi,Călărași,Călărași,12,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,9391,eur_per_capita
 2024-01-01,2024,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
-2024-01-01,2024,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,476962,persons
+2024-01-01,2024,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,476942,persons
 2024-01-01,2024,DB.avg_net_salary,DB,Dambovita,Dâmbovița,Dâmbovița,17,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4181,ron
 2024-01-01,2024,DB.gdp_per_capita,DB,Dambovita,Dâmbovița,Dâmbovița,17,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12325,eur_per_capita
 2024-01-01,2024,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
-2024-01-01,2024,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,258661,persons
+2024-01-01,2024,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,258711,persons
 2024-01-01,2024,GR.avg_net_salary,GR,Giurgiu,Giurgiu,Giurgiu,20,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4317,ron
 2024-01-01,2024,GR.gdp_per_capita,GR,Giurgiu,Giurgiu,Giurgiu,20,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,8523,eur_per_capita
 2024-01-01,2024,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.7,pct
-2024-01-01,2024,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,249364,persons
+2024-01-01,2024,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,249350,persons
 2024-01-01,2024,IL.avg_net_salary,IL,Ialomita,Ialomița,Ialomița,25,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4136,ron
 2024-01-01,2024,IL.gdp_per_capita,IL,Ialomita,Ialomița,Ialomița,25,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11922,eur_per_capita
 2024-01-01,2024,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
-2024-01-01,2024,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,688976,persons
+2024-01-01,2024,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,689025,persons
 2024-01-01,2024,PH.avg_net_salary,PH,Prahova,Prahova,Prahova,32,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4747,ron
 2024-01-01,2024,PH.gdp_per_capita,PH,Prahova,Prahova,Prahova,32,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,20783,eur_per_capita
 2024-01-01,2024,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
-2024-01-01,2024,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,315482,persons
+2024-01-01,2024,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,315505,persons
 2024-01-01,2024,TR.avg_net_salary,TR,Teleorman,Teleorman,Teleorman,37,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3822,ron
 2024-01-01,2024,TR.gdp_per_capita,TR,Teleorman,Teleorman,Teleorman,37,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12120,eur_per_capita
 2024-01-01,2024,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.6,pct
-2024-01-01,2024,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,583663,persons
+2024-01-01,2024,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,583639,persons
 2024-01-01,2024,IF.avg_net_salary,IF,Ilfov,Ilfov,Ilfov,26,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,5060,ron
 2024-01-01,2024,IF.gdp_per_capita,IF,Ilfov,Ilfov,Ilfov,26,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16998,eur_per_capita
 2024-01-01,2024,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.4,pct
-2024-01-01,2024,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1721784,persons
+2024-01-01,2024,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1721475,persons
 2024-01-01,2024,B.avg_net_salary,B,Bucuresti,București,Bukarest,10,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,6730,ron
 2024-01-01,2024,B.gdp_per_capita,B,Bucuresti,București,Bukarest,10,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,54611,eur_per_capita
 2024-01-01,2024,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.7,pct
-2024-01-01,2024,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,598371,persons
+2024-01-01,2024,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,598436,persons
 2024-01-01,2024,DJ.avg_net_salary,DJ,Dolj,Dolj,Dolj,18,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4520,ron
 2024-01-01,2024,DJ.gdp_per_capita,DJ,Dolj,Dolj,Dolj,18,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14496,eur_per_capita
 2024-01-01,2024,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.8,pct
-2024-01-01,2024,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,310056,persons
+2024-01-01,2024,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,310055,persons
 2024-01-01,2024,GJ.avg_net_salary,GJ,Gorj,Gorj,Gorj,21,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4446,ron
 2024-01-01,2024,GJ.gdp_per_capita,GJ,Gorj,Gorj,Gorj,21,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,21046,eur_per_capita
 2024-01-01,2024,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
-2024-01-01,2024,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,230094,persons
+2024-01-01,2024,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,230083,persons
 2024-01-01,2024,MH.avg_net_salary,MH,Mehedinti,Mehedinți,Mehedinți,28,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3945,ron
 2024-01-01,2024,MH.gdp_per_capita,MH,Mehedinti,Mehedinți,Mehedinți,28,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12338,eur_per_capita
 2024-01-01,2024,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
-2024-01-01,2024,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,376539,persons
+2024-01-01,2024,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,376567,persons
 2024-01-01,2024,OT.avg_net_salary,OT,Olt,Olt,Olt,31,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4377,ron
 2024-01-01,2024,OT.gdp_per_capita,OT,Olt,Olt,Olt,31,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11035,eur_per_capita
 2024-01-01,2024,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
-2024-01-01,2024,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,340637,persons
+2024-01-01,2024,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,340679,persons
 2024-01-01,2024,VL.avg_net_salary,VL,Valcea,Vâlcea,Vâlcea,40,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3881,ron
 2024-01-01,2024,VL.gdp_per_capita,VL,Valcea,Vâlcea,Vâlcea,40,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14146,eur_per_capita
 2024-01-01,2024,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.5,pct
-2024-01-01,2024,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,410871,persons
+2024-01-01,2024,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,410908,persons
 2024-01-01,2024,AR.avg_net_salary,AR,Arad,Arad,Arad,2,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4258,ron
 2024-01-01,2024,AR.gdp_per_capita,AR,Arad,Arad,Arad,2,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16391,eur_per_capita
 2024-01-01,2024,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.8,pct
-2024-01-01,2024,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,243685,persons
+2024-01-01,2024,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,243706,persons
 2024-01-01,2024,CS.avg_net_salary,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,4060,ron
 2024-01-01,2024,CS.gdp_per_capita,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14821,eur_per_capita
 2024-01-01,2024,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
-2024-01-01,2024,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,354879,persons
+2024-01-01,2024,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,354884,persons
 2024-01-01,2024,HD.avg_net_salary,HD,Hunedoara,Hunedoara,Hunyad,23,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,3902,ron
 2024-01-01,2024,HD.gdp_per_capita,HD,Hunedoara,Hunedoara,Hunyad,23,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14186,eur_per_capita
 2024-01-01,2024,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.5,pct
-2024-01-01,2024,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,663543,persons
+2024-01-01,2024,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,663452,persons
 2024-01-01,2024,TM.avg_net_salary,TM,Timis,Timiș,Temes,38,avg_net_salary,Average net salary,Salariul mediu net,Nettó átlagbér,5508,ron
 2024-01-01,2024,TM.gdp_per_capita,TM,Timis,Timiș,Temes,38,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,23120,eur_per_capita
 2024-01-01,2024,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.1,pct
@@ -1924,42 +1924,42 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.1,pct
 2025-01-01,2025,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,410320,persons
 2025-01-01,2025,AR.gdp_per_capita,AR,Arad,Arad,Arad,2,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,17723,eur_per_capita
-2025-01-01,2025,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.2,pct
+2025-01-01,2025,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2025-01-01,2025,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,242232,persons
 2025-01-01,2025,CS.gdp_per_capita,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16095,eur_per_capita
-2025-01-01,2025,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2025-01-01,2025,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4,pct
 2025-01-01,2025,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,351253,persons
 2025-01-01,2025,HD.gdp_per_capita,HD,Hunedoara,Hunedoara,Hunyad,23,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15252,eur_per_capita
 2025-01-01,2025,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
 2025-01-01,2025,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,667225,persons
 2025-01-01,2025,TM.gdp_per_capita,TM,Timis,Timiș,Temes,38,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,24415,eur_per_capita
-2025-01-01,2025,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.1,pct
+2025-01-01,2025,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1,pct
 2026-01-01,2026,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,19041322,persons
 2026-01-01,2026,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
 2026-01-01,2026,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,558623,persons
-2026-01-01,2026,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.2,pct
+2026-01-01,2026,BH.unemployment_rate,BH,Bihor,Bihor,Bihar,5,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.1,pct
 2026-01-01,2026,BN.population,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,population,Population,Populație,Népesség,298129,persons
-2026-01-01,2026,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
+2026-01-01,2026,BN.unemployment_rate,BN,Bistrita-Nasaud,Bistrița-Năsăud,Beszterce-Naszód,6,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
 2026-01-01,2026,CJ.population,CJ,Cluj,Cluj,Kolozs,14,population,Population,Populație,Népesség,701564,persons
 2026-01-01,2026,CJ.unemployment_rate,CJ,Cluj,Cluj,Kolozs,14,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.5,pct
 2026-01-01,2026,MM.population,MM,Maramures,Maramureș,Máramaros,27,population,Population,Populație,Népesség,451086,persons
-2026-01-01,2026,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
+2026-01-01,2026,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
 2026-01-01,2026,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,330046,persons
-2026-01-01,2026,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
+2026-01-01,2026,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2026-01-01,2026,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,210335,persons
-2026-01-01,2026,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
+2026-01-01,2026,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.3,pct
 2026-01-01,2026,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,324901,persons
-2026-01-01,2026,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2026-01-01,2026,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
 2026-01-01,2026,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,564632,persons
 2026-01-01,2026,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
 2026-01-01,2026,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,199596,persons
-2026-01-01,2026,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.1,pct
+2026-01-01,2026,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
 2026-01-01,2026,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,292267,persons
-2026-01-01,2026,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
+2026-01-01,2026,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
 2026-01-01,2026,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,519813,persons
 2026-01-01,2026,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.8,pct
 2026-01-01,2026,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,396679,persons
-2026-01-01,2026,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2026-01-01,2026,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.1,pct
 2026-01-01,2026,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,590169,persons
 2026-01-01,2026,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.7,pct
 2026-01-01,2026,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,386529,persons
@@ -1969,54 +1969,54 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2026-01-01,2026,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,444666,persons
 2026-01-01,2026,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.7,pct
 2026-01-01,2026,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,648164,persons
-2026-01-01,2026,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.8,pct
+2026-01-01,2026,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
 2026-01-01,2026,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,363247,persons
-2026-01-01,2026,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.1,pct
+2026-01-01,2026,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9,pct
 2026-01-01,2026,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,269804,persons
-2026-01-01,2026,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
+2026-01-01,2026,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2026-01-01,2026,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,393136,persons
-2026-01-01,2026,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2026-01-01,2026,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
 2026-01-01,2026,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,656512,persons
-2026-01-01,2026,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
+2026-01-01,2026,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.1,pct
 2026-01-01,2026,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,486387,persons
-2026-01-01,2026,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
+2026-01-01,2026,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.1,pct
 2026-01-01,2026,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,186131,persons
-2026-01-01,2026,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
+2026-01-01,2026,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.1,pct
 2026-01-01,2026,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,330157,persons
-2026-01-01,2026,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.8,pct
+2026-01-01,2026,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2026-01-01,2026,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,561864,persons
 2026-01-01,2026,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2026-01-01,2026,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,277347,persons
-2026-01-01,2026,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
+2026-01-01,2026,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
 2026-01-01,2026,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,475812,persons
 2026-01-01,2026,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.1,pct
 2026-01-01,2026,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,258793,persons
 2026-01-01,2026,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
 2026-01-01,2026,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,247409,persons
-2026-01-01,2026,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
+2026-01-01,2026,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
 2026-01-01,2026,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,683460,persons
-2026-01-01,2026,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.3,pct
+2026-01-01,2026,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
 2026-01-01,2026,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,308440,persons
-2026-01-01,2026,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.9,pct
+2026-01-01,2026,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
 2026-01-01,2026,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,619461,persons
-2026-01-01,2026,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.5,pct
+2026-01-01,2026,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.6,pct
 2026-01-01,2026,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1713832,persons
-2026-01-01,2026,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.5,pct
+2026-01-01,2026,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.4,pct
 2026-01-01,2026,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,594523,persons
-2026-01-01,2026,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.8,pct
+2026-01-01,2026,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
 2026-01-01,2026,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,306938,persons
-2026-01-01,2026,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
+2026-01-01,2026,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
 2026-01-01,2026,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,226429,persons
-2026-01-01,2026,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.8,pct
+2026-01-01,2026,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.3,pct
 2026-01-01,2026,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,372181,persons
-2026-01-01,2026,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
+2026-01-01,2026,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2026-01-01,2026,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,337988,persons
-2026-01-01,2026,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2026-01-01,2026,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3,pct
 2026-01-01,2026,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,410058,persons
 2026-01-01,2026,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
 2026-01-01,2026,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,240283,persons
-2026-01-01,2026,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
+2026-01-01,2026,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
 2026-01-01,2026,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,349011,persons
-2026-01-01,2026,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.5,pct
+2026-01-01,2026,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
 2026-01-01,2026,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,672972,persons
 2026-01-01,2026,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.1,pct

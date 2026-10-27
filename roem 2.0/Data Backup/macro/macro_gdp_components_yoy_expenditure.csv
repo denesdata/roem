@@ -1319,30 +1319,30 @@ period,period_label,series,component,component_label_en,component_label_ro,compo
 2017-10-01,2017-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,111.7,index_same_period_prev_year_100
 2017-10-01,2017-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,111,index_same_period_prev_year_100
 2017-10-01,2017-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,115.5,index_same_period_prev_year_100
-2018-01-01,2018-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.9,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,109.3,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,109.3,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,110.4,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,111.1,index_same_period_prev_year_100
+2018-01-01,2018-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.7,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.7,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106.1,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.5,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,139.9,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,100.3,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,109.2,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,92.5,index_same_period_prev_year_100
-2018-01-01,2018-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,101.4,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,111.9,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,104.9,index_same_period_prev_year_100
+2018-01-01,2018-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,106.8,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,107.8,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,108.1,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,107,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,111,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,109.9,index_same_period_prev_year_100
 2018-01-01,2018-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,117.1,index_same_period_prev_year_100
-2018-04-01,2018-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,106.4,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.7,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.4,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,109.1,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,111.1,index_same_period_prev_year_100
+2018-04-01,2018-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,106.2,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.2,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.2,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.2,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,139.9,index_same_period_prev_year_100
 2018-04-01,2018-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,93.7,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,101.4,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,111,index_same_period_prev_year_100
-2018-04-01,2018-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.1,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,103.7,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,119.7,index_same_period_prev_year_100
+2018-04-01,2018-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,105.5,index_same_period_prev_year_100
 2018-04-01,2018-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,107.1,index_same_period_prev_year_100
 2018-04-01,2018-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,107.3,index_same_period_prev_year_100
 2018-04-01,2018-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,106.4,index_same_period_prev_year_100
@@ -1350,14 +1350,14 @@ period,period_label,series,component,component_label_en,component_label_ro,compo
 2018-04-01,2018-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,107.3,index_same_period_prev_year_100
 2018-04-01,2018-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,122.9,index_same_period_prev_year_100
 2018-07-01,2018-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,105.2,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.9,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106.9,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,107.5,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,111.5,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.3,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,103.8,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,103.7,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,140.3,index_same_period_prev_year_100
 2018-07-01,2018-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,101.2,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,106.7,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,106.7,index_same_period_prev_year_100
-2018-07-01,2018-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,95,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,109.1,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,113.3,index_same_period_prev_year_100
+2018-07-01,2018-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.4,index_same_period_prev_year_100
 2018-07-01,2018-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,102.5,index_same_period_prev_year_100
 2018-07-01,2018-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,102.3,index_same_period_prev_year_100
 2018-07-01,2018-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,103.1,index_same_period_prev_year_100
@@ -1365,134 +1365,134 @@ period,period_label,series,component,component_label_en,component_label_ro,compo
 2018-07-01,2018-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,105,index_same_period_prev_year_100
 2018-07-01,2018-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,115,index_same_period_prev_year_100
 2018-10-01,2018-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,105.1,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,109.9,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,109.5,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,110.6,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,109,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,101.4,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,113,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,97.4,index_same_period_prev_year_100
-2018-10-01,2018-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,98.8,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,107.7,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106.9,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.7,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,137.8,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,102.1,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,114.9,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,103.6,index_same_period_prev_year_100
+2018-10-01,2018-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,104.2,index_same_period_prev_year_100
 2018-10-01,2018-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,103.9,index_same_period_prev_year_100
 2018-10-01,2018-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100.4,index_same_period_prev_year_100
 2018-10-01,2018-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,112.8,index_same_period_prev_year_100
 2018-10-01,2018-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,108.2,index_same_period_prev_year_100
 2018-10-01,2018-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.6,index_same_period_prev_year_100
 2018-10-01,2018-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,116.1,index_same_period_prev_year_100
-2019-01-01,2019-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.6,index_same_period_prev_year_100
-2019-01-01,2019-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.1,index_same_period_prev_year_100
-2019-01-01,2019-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.6,index_same_period_prev_year_100
-2019-01-01,2019-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,104.3,index_same_period_prev_year_100
-2019-01-01,2019-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,130.1,index_same_period_prev_year_100
+2019-01-01,2019-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,105.2,index_same_period_prev_year_100
+2019-01-01,2019-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.7,index_same_period_prev_year_100
+2019-01-01,2019-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.6,index_same_period_prev_year_100
+2019-01-01,2019-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,107.7,index_same_period_prev_year_100
+2019-01-01,2019-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,125.5,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,105.1,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,100.7,index_same_period_prev_year_100
-2019-01-01,2019-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,138.2,index_same_period_prev_year_100
-2019-01-01,2019-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.8,index_same_period_prev_year_100
+2019-01-01,2019-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,123.4,index_same_period_prev_year_100
+2019-01-01,2019-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.9,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,105.2,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,101.8,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,115.1,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,112.6,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,110,index_same_period_prev_year_100
 2019-01-01,2019-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,126.9,index_same_period_prev_year_100
-2019-04-01,2019-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.9,index_same_period_prev_year_100
-2019-04-01,2019-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.2,index_same_period_prev_year_100
-2019-04-01,2019-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.7,index_same_period_prev_year_100
-2019-04-01,2019-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,102.6,index_same_period_prev_year_100
-2019-04-01,2019-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,113.2,index_same_period_prev_year_100
+2019-04-01,2019-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.6,index_same_period_prev_year_100
+2019-04-01,2019-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.8,index_same_period_prev_year_100
+2019-04-01,2019-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.8,index_same_period_prev_year_100
+2019-04-01,2019-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106,index_same_period_prev_year_100
+2019-04-01,2019-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,108.7,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,122.1,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,100.2,index_same_period_prev_year_100
-2019-04-01,2019-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,110.8,index_same_period_prev_year_100
-2019-04-01,2019-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,117.9,index_same_period_prev_year_100
+2019-04-01,2019-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,104.7,index_same_period_prev_year_100
+2019-04-01,2019-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,110.5,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,103.8,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,113.9,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,107.5,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.4,index_same_period_prev_year_100
 2019-04-01,2019-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,112.7,index_same_period_prev_year_100
-2019-07-01,2019-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.2,index_same_period_prev_year_100
-2019-07-01,2019-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.1,index_same_period_prev_year_100
-2019-07-01,2019-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,101.7,index_same_period_prev_year_100
-2019-07-01,2019-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,101.1,index_same_period_prev_year_100
-2019-07-01,2019-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,113.3,index_same_period_prev_year_100
+2019-07-01,2019-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.4,index_same_period_prev_year_100
+2019-07-01,2019-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.8,index_same_period_prev_year_100
+2019-07-01,2019-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.7,index_same_period_prev_year_100
+2019-07-01,2019-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,104.4,index_same_period_prev_year_100
+2019-07-01,2019-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,108.8,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,106.5,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,105.5,index_same_period_prev_year_100
-2019-07-01,2019-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,111.9,index_same_period_prev_year_100
-2019-07-01,2019-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,121.3,index_same_period_prev_year_100
+2019-07-01,2019-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,105.1,index_same_period_prev_year_100
+2019-07-01,2019-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,113.9,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,105.1,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,101.2,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,115.1,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,108.7,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.2,index_same_period_prev_year_100
 2019-07-01,2019-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,120.6,index_same_period_prev_year_100
-2019-10-01,2019-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.3,index_same_period_prev_year_100
-2019-10-01,2019-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.3,index_same_period_prev_year_100
-2019-10-01,2019-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.4,index_same_period_prev_year_100
-2019-10-01,2019-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,104,index_same_period_prev_year_100
-2019-10-01,2019-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,114.2,index_same_period_prev_year_100
+2019-10-01,2019-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.7,index_same_period_prev_year_100
+2019-10-01,2019-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,108,index_same_period_prev_year_100
+2019-10-01,2019-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.4,index_same_period_prev_year_100
+2019-10-01,2019-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,107.5,index_same_period_prev_year_100
+2019-10-01,2019-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,109.6,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,106.2,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,112.1,index_same_period_prev_year_100
-2019-10-01,2019-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,100.8,index_same_period_prev_year_100
-2019-10-01,2019-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,111.7,index_same_period_prev_year_100
+2019-10-01,2019-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,95,index_same_period_prev_year_100
+2019-10-01,2019-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,104.2,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,107.3,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,104,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,115.1,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,106.9,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,104.8,index_same_period_prev_year_100
 2019-10-01,2019-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,117.1,index_same_period_prev_year_100
-2020-01-01,2020-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,102.5,index_same_period_prev_year_100
-2020-01-01,2020-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105,index_same_period_prev_year_100
-2020-01-01,2020-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.8,index_same_period_prev_year_100
-2020-01-01,2020-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.3,index_same_period_prev_year_100
-2020-01-01,2020-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,107.4,index_same_period_prev_year_100
+2020-01-01,2020-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,102.6,index_same_period_prev_year_100
+2020-01-01,2020-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.5,index_same_period_prev_year_100
+2020-01-01,2020-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.3,index_same_period_prev_year_100
+2020-01-01,2020-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,104.7,index_same_period_prev_year_100
+2020-01-01,2020-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,108.4,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,100.9,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,106.2,index_same_period_prev_year_100
-2020-01-01,2020-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,109.3,index_same_period_prev_year_100
-2020-01-01,2020-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,110,index_same_period_prev_year_100
+2020-01-01,2020-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,112.2,index_same_period_prev_year_100
+2020-01-01,2020-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,112.1,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,98.3,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,97.1,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,101.4,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,104.5,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.5,index_same_period_prev_year_100
 2020-01-01,2020-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,95.3,index_same_period_prev_year_100
-2020-04-01,2020-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,90.1,index_same_period_prev_year_100
-2020-04-01,2020-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,92.2,index_same_period_prev_year_100
-2020-04-01,2020-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,89.7,index_same_period_prev_year_100
-2020-04-01,2020-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,88.8,index_same_period_prev_year_100
-2020-04-01,2020-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,99.1,index_same_period_prev_year_100
+2020-04-01,2020-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,90.4,index_same_period_prev_year_100
+2020-04-01,2020-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,91.8,index_same_period_prev_year_100
+2020-04-01,2020-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,89.2,index_same_period_prev_year_100
+2020-04-01,2020-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,88.2,index_same_period_prev_year_100
+2020-04-01,2020-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,100.1,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,94.9,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,109.8,index_same_period_prev_year_100
-2020-04-01,2020-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,93.8,index_same_period_prev_year_100
-2020-04-01,2020-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,95.6,index_same_period_prev_year_100
+2020-04-01,2020-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,96.3,index_same_period_prev_year_100
+2020-04-01,2020-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,97.7,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,71,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,68.8,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,76.2,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,77.9,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,80.6,index_same_period_prev_year_100
 2020-04-01,2020-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,66.1,index_same_period_prev_year_100
-2020-07-01,2020-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,95,index_same_period_prev_year_100
-2020-07-01,2020-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,98.5,index_same_period_prev_year_100
-2020-07-01,2020-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,97,index_same_period_prev_year_100
-2020-07-01,2020-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,97.1,index_same_period_prev_year_100
-2020-07-01,2020-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,99.3,index_same_period_prev_year_100
+2020-07-01,2020-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,95.2,index_same_period_prev_year_100
+2020-07-01,2020-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,98,index_same_period_prev_year_100
+2020-07-01,2020-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,96.5,index_same_period_prev_year_100
+2020-07-01,2020-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,96.5,index_same_period_prev_year_100
+2020-07-01,2020-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,100.3,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,95.9,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,110.3,index_same_period_prev_year_100
-2020-07-01,2020-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,89.9,index_same_period_prev_year_100
-2020-07-01,2020-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,98.7,index_same_period_prev_year_100
+2020-07-01,2020-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,91.6,index_same_period_prev_year_100
+2020-07-01,2020-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.7,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,93.7,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,98.7,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,82.5,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,96.3,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,102.9,index_same_period_prev_year_100
 2020-07-01,2020-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,69.6,index_same_period_prev_year_100
-2020-10-01,2020-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,98.7,index_same_period_prev_year_100
-2020-10-01,2020-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,96.3,index_same_period_prev_year_100
-2020-10-01,2020-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,96.3,index_same_period_prev_year_100
-2020-10-01,2020-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,95,index_same_period_prev_year_100
-2020-10-01,2020-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,99.1,index_same_period_prev_year_100
+2020-10-01,2020-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,98.8,index_same_period_prev_year_100
+2020-10-01,2020-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,95.8,index_same_period_prev_year_100
+2020-10-01,2020-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,95.7,index_same_period_prev_year_100
+2020-10-01,2020-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,94.3,index_same_period_prev_year_100
+2020-10-01,2020-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,100.1,index_same_period_prev_year_100
 2020-10-01,2020-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,106.3,index_same_period_prev_year_100
 2020-10-01,2020-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,96.8,index_same_period_prev_year_100
-2020-10-01,2020-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,107.9,index_same_period_prev_year_100
-2020-10-01,2020-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,99.1,index_same_period_prev_year_100
+2020-10-01,2020-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,109.9,index_same_period_prev_year_100
+2020-10-01,2020-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,101.3,index_same_period_prev_year_100
 2020-10-01,2020-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,99.2,index_same_period_prev_year_100
 2020-10-01,2020-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,104.9,index_same_period_prev_year_100
 2020-10-01,2020-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,87,index_same_period_prev_year_100
@@ -1500,119 +1500,119 @@ period,period_label,series,component,component_label_en,component_label_ro,compo
 2020-10-01,2020-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,105,index_same_period_prev_year_100
 2020-10-01,2020-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,79.4,index_same_period_prev_year_100
 2021-01-01,2021-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.1,index_same_period_prev_year_100
-2021-01-01,2021-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,99.4,index_same_period_prev_year_100
-2021-01-01,2021-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,99.8,index_same_period_prev_year_100
-2021-01-01,2021-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,100.2,index_same_period_prev_year_100
-2021-01-01,2021-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,81.2,index_same_period_prev_year_100
+2021-01-01,2021-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.2,index_same_period_prev_year_100
+2021-01-01,2021-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,103,index_same_period_prev_year_100
+2021-01-01,2021-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,103.5,index_same_period_prev_year_100
+2021-01-01,2021-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,122.4,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,97.8,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,97.1,index_same_period_prev_year_100
-2021-01-01,2021-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,115.5,index_same_period_prev_year_100
-2021-01-01,2021-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,112.9,index_same_period_prev_year_100
+2021-01-01,2021-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,101.2,index_same_period_prev_year_100
+2021-01-01,2021-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,114.2,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,100,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,103,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,92.4,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,103.8,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.5,index_same_period_prev_year_100
 2021-01-01,2021-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,90.5,index_same_period_prev_year_100
-2021-04-01,2021-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,114.8,index_same_period_prev_year_100
-2021-04-01,2021-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,108.7,index_same_period_prev_year_100
-2021-04-01,2021-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,110.4,index_same_period_prev_year_100
-2021-04-01,2021-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,111.1,index_same_period_prev_year_100
-2021-04-01,2021-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,84.3,index_same_period_prev_year_100
+2021-04-01,2021-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,115.2,index_same_period_prev_year_100
+2021-04-01,2021-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,111.5,index_same_period_prev_year_100
+2021-04-01,2021-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,113.7,index_same_period_prev_year_100
+2021-04-01,2021-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,114.7,index_same_period_prev_year_100
+2021-04-01,2021-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,114.1,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,107.5,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,98.9,index_same_period_prev_year_100
-2021-04-01,2021-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,143.2,index_same_period_prev_year_100
-2021-04-01,2021-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,114.7,index_same_period_prev_year_100
+2021-04-01,2021-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,133.6,index_same_period_prev_year_100
+2021-04-01,2021-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,104.9,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,141.5,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,148.2,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,127.6,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,142.4,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,140.3,index_same_period_prev_year_100
 2021-04-01,2021-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,153.2,index_same_period_prev_year_100
-2021-07-01,2021-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,106.1,index_same_period_prev_year_100
-2021-07-01,2021-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.2,index_same_period_prev_year_100
-2021-07-01,2021-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.5,index_same_period_prev_year_100
-2021-07-01,2021-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,108.4,index_same_period_prev_year_100
-2021-07-01,2021-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,82.4,index_same_period_prev_year_100
+2021-07-01,2021-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,106.4,index_same_period_prev_year_100
+2021-07-01,2021-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.1,index_same_period_prev_year_100
+2021-07-01,2021-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,108.6,index_same_period_prev_year_100
+2021-07-01,2021-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,109.9,index_same_period_prev_year_100
+2021-07-01,2021-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,81.1,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,102.9,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,89.4,index_same_period_prev_year_100
-2021-07-01,2021-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,112.6,index_same_period_prev_year_100
-2021-07-01,2021-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.3,index_same_period_prev_year_100
+2021-07-01,2021-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,110.9,index_same_period_prev_year_100
+2021-07-01,2021-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.1,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,108.6,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,103.8,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,121,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,111.3,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.2,index_same_period_prev_year_100
 2021-07-01,2021-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,140.1,index_same_period_prev_year_100
-2021-10-01,2021-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,102.4,index_same_period_prev_year_100
-2021-10-01,2021-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,107.1,index_same_period_prev_year_100
-2021-10-01,2021-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.3,index_same_period_prev_year_100
-2021-10-01,2021-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,109.3,index_same_period_prev_year_100
-2021-10-01,2021-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,81.1,index_same_period_prev_year_100
+2021-10-01,2021-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103,index_same_period_prev_year_100
+2021-10-01,2021-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.7,index_same_period_prev_year_100
+2021-10-01,2021-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106.8,index_same_period_prev_year_100
+2021-10-01,2021-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,109.6,index_same_period_prev_year_100
+2021-10-01,2021-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,64.6,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,97.6,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,106,index_same_period_prev_year_100
-2021-10-01,2021-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,89.4,index_same_period_prev_year_100
-2021-10-01,2021-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,95.7,index_same_period_prev_year_100
+2021-10-01,2021-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,92.9,index_same_period_prev_year_100
+2021-10-01,2021-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,97.5,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,108.4,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,102.9,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,122.1,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,108.2,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,104.8,index_same_period_prev_year_100
 2021-10-01,2021-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,126.3,index_same_period_prev_year_100
-2022-01-01,2022-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,105.8,index_same_period_prev_year_100
-2022-01-01,2022-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.7,index_same_period_prev_year_100
-2022-01-01,2022-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,105.7,index_same_period_prev_year_100
-2022-01-01,2022-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,107.1,index_same_period_prev_year_100
-2022-01-01,2022-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,107,index_same_period_prev_year_100
+2022-01-01,2022-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,106.6,index_same_period_prev_year_100
+2022-01-01,2022-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.2,index_same_period_prev_year_100
+2022-01-01,2022-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,102.7,index_same_period_prev_year_100
+2022-01-01,2022-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,103.7,index_same_period_prev_year_100
+2022-01-01,2022-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,108.9,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,94.4,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,98.4,index_same_period_prev_year_100
-2022-01-01,2022-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,105.4,index_same_period_prev_year_100
-2022-01-01,2022-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,99.2,index_same_period_prev_year_100
+2022-01-01,2022-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,121.2,index_same_period_prev_year_100
+2022-01-01,2022-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,99.4,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,110.6,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,105.5,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,125,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,108.2,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,102.6,index_same_period_prev_year_100
 2022-01-01,2022-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,141.2,index_same_period_prev_year_100
-2022-04-01,2022-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.5,index_same_period_prev_year_100
-2022-04-01,2022-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.5,index_same_period_prev_year_100
-2022-04-01,2022-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,107.1,index_same_period_prev_year_100
-2022-04-01,2022-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,107.8,index_same_period_prev_year_100
-2022-04-01,2022-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,98.7,index_same_period_prev_year_100
+2022-04-01,2022-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,105.3,index_same_period_prev_year_100
+2022-04-01,2022-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.1,index_same_period_prev_year_100
+2022-04-01,2022-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,103.2,index_same_period_prev_year_100
+2022-04-01,2022-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,103.2,index_same_period_prev_year_100
+2022-04-01,2022-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,100.6,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,103,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,95.3,index_same_period_prev_year_100
-2022-04-01,2022-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,98.6,index_same_period_prev_year_100
-2022-04-01,2022-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.3,index_same_period_prev_year_100
+2022-04-01,2022-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,111,index_same_period_prev_year_100
+2022-04-01,2022-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.5,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,109,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,102.3,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,126.4,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,106.5,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,104.9,index_same_period_prev_year_100
 2022-04-01,2022-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,114.2,index_same_period_prev_year_100
-2022-07-01,2022-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.2,index_same_period_prev_year_100
-2022-07-01,2022-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.5,index_same_period_prev_year_100
-2022-07-01,2022-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,102.4,index_same_period_prev_year_100
-2022-07-01,2022-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,102.8,index_same_period_prev_year_100
-2022-07-01,2022-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,99.5,index_same_period_prev_year_100
+2022-07-01,2022-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104,index_same_period_prev_year_100
+2022-07-01,2022-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.3,index_same_period_prev_year_100
+2022-07-01,2022-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.4,index_same_period_prev_year_100
+2022-07-01,2022-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.1,index_same_period_prev_year_100
+2022-07-01,2022-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,101.3,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,99.3,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,103.4,index_same_period_prev_year_100
-2022-07-01,2022-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,112.6,index_same_period_prev_year_100
-2022-07-01,2022-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,108.9,index_same_period_prev_year_100
+2022-07-01,2022-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,111,index_same_period_prev_year_100
+2022-07-01,2022-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,109.1,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,114,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,111.7,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,119.5,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,118.2,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,117.2,index_same_period_prev_year_100
 2022-07-01,2022-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,123.2,index_same_period_prev_year_100
-2022-10-01,2022-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.8,index_same_period_prev_year_100
-2022-10-01,2022-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,103.4,index_same_period_prev_year_100
-2022-10-01,2022-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106,index_same_period_prev_year_100
-2022-10-01,2022-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.1,index_same_period_prev_year_100
-2022-10-01,2022-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,97.8,index_same_period_prev_year_100
+2022-10-01,2022-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,104.4,index_same_period_prev_year_100
+2022-10-01,2022-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,112,index_same_period_prev_year_100
+2022-10-01,2022-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,116.2,index_same_period_prev_year_100
+2022-10-01,2022-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,116.8,index_same_period_prev_year_100
+2022-10-01,2022-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,98.6,index_same_period_prev_year_100
 2022-10-01,2022-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,114.2,index_same_period_prev_year_100
 2022-10-01,2022-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,85,index_same_period_prev_year_100
-2022-10-01,2022-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,105.5,index_same_period_prev_year_100
-2022-10-01,2022-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,109.1,index_same_period_prev_year_100
+2022-10-01,2022-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,83.7,index_same_period_prev_year_100
+2022-10-01,2022-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,108.9,index_same_period_prev_year_100
 2022-10-01,2022-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,104.3,index_same_period_prev_year_100
 2022-10-01,2022-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100.9,index_same_period_prev_year_100
 2022-10-01,2022-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,112.3,index_same_period_prev_year_100
@@ -1620,59 +1620,59 @@ period,period_label,series,component,component_label_en,component_label_ro,compo
 2022-10-01,2022-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,102.8,index_same_period_prev_year_100
 2022-10-01,2022-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,111.7,index_same_period_prev_year_100
 2023-01-01,2023-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,102.7,index_same_period_prev_year_100
-2023-01-01,2023-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.1,index_same_period_prev_year_100
-2023-01-01,2023-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106.3,index_same_period_prev_year_100
-2023-01-01,2023-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.1,index_same_period_prev_year_100
-2023-01-01,2023-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,120.8,index_same_period_prev_year_100
+2023-01-01,2023-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,106.2,index_same_period_prev_year_100
+2023-01-01,2023-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106.4,index_same_period_prev_year_100
+2023-01-01,2023-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.2,index_same_period_prev_year_100
+2023-01-01,2023-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,117.7,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,107.1,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,105.1,index_same_period_prev_year_100
-2023-01-01,2023-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,90.2,index_same_period_prev_year_100
-2023-01-01,2023-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,109.2,index_same_period_prev_year_100
+2023-01-01,2023-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,91.2,index_same_period_prev_year_100
+2023-01-01,2023-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,104.5,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,101,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,97.6,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,110.1,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,101,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,100,index_same_period_prev_year_100
 2023-01-01,2023-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,106.2,index_same_period_prev_year_100
-2023-04-01,2023-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101,index_same_period_prev_year_100
-2023-04-01,2023-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.2,index_same_period_prev_year_100
-2023-04-01,2023-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,101.4,index_same_period_prev_year_100
-2023-04-01,2023-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,101.5,index_same_period_prev_year_100
-2023-04-01,2023-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,112.5,index_same_period_prev_year_100
+2023-04-01,2023-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101.4,index_same_period_prev_year_100
+2023-04-01,2023-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.1,index_same_period_prev_year_100
+2023-04-01,2023-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,103.5,index_same_period_prev_year_100
+2023-04-01,2023-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,103.9,index_same_period_prev_year_100
+2023-04-01,2023-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,109.4,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,100.4,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,108.8,index_same_period_prev_year_100
-2023-04-01,2023-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,93.4,index_same_period_prev_year_100
-2023-04-01,2023-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,108.2,index_same_period_prev_year_100
+2023-04-01,2023-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,90,index_same_period_prev_year_100
+2023-04-01,2023-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,103.5,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,99.4,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100.6,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,96.8,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,97.4,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,96.2,index_same_period_prev_year_100
 2023-04-01,2023-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,103.9,index_same_period_prev_year_100
-2023-07-01,2023-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,102,index_same_period_prev_year_100
-2023-07-01,2023-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,101,index_same_period_prev_year_100
-2023-07-01,2023-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,100.4,index_same_period_prev_year_100
-2023-07-01,2023-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,100.2,index_same_period_prev_year_100
-2023-07-01,2023-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,114.1,index_same_period_prev_year_100
+2023-07-01,2023-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101.9,index_same_period_prev_year_100
+2023-07-01,2023-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.8,index_same_period_prev_year_100
+2023-07-01,2023-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,102.3,index_same_period_prev_year_100
+2023-07-01,2023-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,102.4,index_same_period_prev_year_100
+2023-07-01,2023-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,109.7,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,100.9,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,106.1,index_same_period_prev_year_100
-2023-07-01,2023-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,99.5,index_same_period_prev_year_100
-2023-07-01,2023-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,108.1,index_same_period_prev_year_100
+2023-07-01,2023-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,95.3,index_same_period_prev_year_100
+2023-07-01,2023-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.9,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,95.7,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,96.2,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,94.6,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,93.7,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,93.3,index_same_period_prev_year_100
 2023-07-01,2023-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,95.7,index_same_period_prev_year_100
-2023-10-01,2023-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.2,index_same_period_prev_year_100
-2023-10-01,2023-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,102.6,index_same_period_prev_year_100
-2023-10-01,2023-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,103,index_same_period_prev_year_100
-2023-10-01,2023-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,102.5,index_same_period_prev_year_100
-2023-10-01,2023-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,113.4,index_same_period_prev_year_100
+2023-10-01,2023-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,103.7,index_same_period_prev_year_100
+2023-10-01,2023-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.2,index_same_period_prev_year_100
+2023-10-01,2023-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,106,index_same_period_prev_year_100
+2023-10-01,2023-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.9,index_same_period_prev_year_100
+2023-10-01,2023-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,110.5,index_same_period_prev_year_100
 2023-10-01,2023-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,105.7,index_same_period_prev_year_100
 2023-10-01,2023-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,98.5,index_same_period_prev_year_100
-2023-10-01,2023-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,111,index_same_period_prev_year_100
-2023-10-01,2023-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,122.6,index_same_period_prev_year_100
+2023-10-01,2023-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,103.8,index_same_period_prev_year_100
+2023-10-01,2023-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,118,index_same_period_prev_year_100
 2023-10-01,2023-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,98.7,index_same_period_prev_year_100
 2023-10-01,2023-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,101,index_same_period_prev_year_100
 2023-10-01,2023-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,93.8,index_same_period_prev_year_100
@@ -1680,122 +1680,152 @@ period,period_label,series,component,component_label_en,component_label_ro,compo
 2023-10-01,2023-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,100.6,index_same_period_prev_year_100
 2023-10-01,2023-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,109.9,index_same_period_prev_year_100
 2024-01-01,2024-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.6,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,103,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.5,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,103.9,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,109.6,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,109.2,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,92.3,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,102.4,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,105.7,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,96.8,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,89.4,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,101.6,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,101.1,index_same_period_prev_year_100
-2024-01-01,2024-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,103.8,index_same_period_prev_year_100
-2024-04-01,2024-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.9,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.6,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,105.4,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.8,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,109.9,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,95,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,107.2,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,103.3,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.5,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,97.2,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,99.9,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,91.2,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,106.9,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,107.3,index_same_period_prev_year_100
-2024-04-01,2024-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,105,index_same_period_prev_year_100
-2024-07-01,2024-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101.7,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.4,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.5,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,108.6,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,91.5,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,107.2,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,100,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,99.6,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,98.7,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,98.4,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,99.1,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,102.5,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,103.5,index_same_period_prev_year_100
-2024-07-01,2024-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,98.3,index_same_period_prev_year_100
-2024-10-01,2024-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.5,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.6,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.8,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.3,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,102.9,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,94.2,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,112,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,95.9,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,87.4,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,97.3,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100.6,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,90.7,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,105.1,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,106.3,index_same_period_prev_year_100
-2024-10-01,2024-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,100.6,index_same_period_prev_year_100
-2025-01-01,2025-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.3,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,99,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,99.1,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,100.1,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,103.6,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,105.7,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,104.5,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,77.3,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,118.6,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,89.8,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,104.3,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.9,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,95.1,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,101.3,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,80.6,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,101.7,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,105.3,index_same_period_prev_year_100
+2024-01-01,2024-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,84,index_same_period_prev_year_100
+2024-04-01,2024-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101.2,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,105.7,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,105.9,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,106.4,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,77.6,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,104.4,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,104.7,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,104.8,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,97.7,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,96.8,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,103.3,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,82.4,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,106.8,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,111.6,index_same_period_prev_year_100
+2024-04-01,2024-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,85.2,index_same_period_prev_year_100
+2024-07-01,2024-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101.8,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,103.9,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,104.6,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,76.2,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,100.9,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,104.7,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,101.2,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,94.9,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,98.2,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,101.8,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,90.3,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,101.9,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,107.7,index_same_period_prev_year_100
+2024-07-01,2024-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,78.5,index_same_period_prev_year_100
+2024-10-01,2024-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.8,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,104.8,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,104.3,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,105.1,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,69.1,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,103.6,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,109.4,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,98.5,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,83.4,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,96.8,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,104.2,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,81.9,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,104.6,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,110.5,index_same_period_prev_year_100
+2024-10-01,2024-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,80.8,index_same_period_prev_year_100
+2025-01-01,2025-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.8,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,99.5,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,98.8,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,99.9,index_same_period_prev_year_100
 2025-01-01,2025-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,97.3,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,91,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,98.6,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,120.7,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.2,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,91.2,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,103.9,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,116.1,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,100.6,index_same_period_prev_year_100
 2025-01-01,2025-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,102,index_same_period_prev_year_100
 2025-01-01,2025-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100.5,index_same_period_prev_year_100
 2025-01-01,2025-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,105.6,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,107.5,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,106.5,index_same_period_prev_year_100
 2025-01-01,2025-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,107.2,index_same_period_prev_year_100
-2025-01-01,2025-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,108.7,index_same_period_prev_year_100
-2025-04-01,2025-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.3,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,100.5,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,101.4,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,101.4,index_same_period_prev_year_100
+2025-01-01,2025-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,103.6,index_same_period_prev_year_100
+2025-04-01,2025-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.5,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,101.6,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,101.2,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,101.6,index_same_period_prev_year_100
 2025-04-01,2025-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,83.9,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,102.2,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,95.3,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,99.1,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,99.9,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,105,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,99.8,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,103.5,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,97,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,98.9,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,104.4,index_same_period_prev_year_100
 2025-04-01,2025-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,103.9,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,107.5,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,103.9,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,101.4,index_same_period_prev_year_100
-2025-04-01,2025-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,115.6,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,105.5,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,103.7,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,101.5,index_same_period_prev_year_100
+2025-04-01,2025-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,113.6,index_same_period_prev_year_100
 2025-07-01,2025-Q3,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,101.7,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,101.3,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,102.1,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,101.6,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,101.7,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,101.4,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,101.8,index_same_period_prev_year_100
 2025-07-01,2025-Q3,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,101.9,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,106.1,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,96.1,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,104.7,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,105.1,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,106.6,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,107.4,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,105,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,107.3,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,105.6,index_same_period_prev_year_100
-2025-07-01,2025-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,114.4,index_same_period_prev_year_100
-2025-10-01,2025-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.2,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,99.2,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,99.4,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,99.5,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,98.6,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,103.5,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,103.2,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,104.3,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,105.8,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,107.5,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,102.4,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,106.4,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,105.2,index_same_period_prev_year_100
+2025-07-01,2025-Q3,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,111.4,index_same_period_prev_year_100
+2025-10-01,2025-Q4,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,100.1,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,97.3,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,97.7,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,99.1,index_same_period_prev_year_100
 2025-10-01,2025-Q4,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,103,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,98.4,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,97.5,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,102.1,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,107.9,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,102.1,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,107.1,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,91.6,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,100.7,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,100.1,index_same_period_prev_year_100
-2025-10-01,2025-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,103.4,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,87.5,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,93.7,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,106.6,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,108.2,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,104.6,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,106.6,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,100.5,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,101.5,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,100.4,index_same_period_prev_year_100
+2025-10-01,2025-Q4,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,105.9,index_same_period_prev_year_100
+2026-01-01,2026-Q1,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,98.8,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,100.7,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,99,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,98.3,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,100.9,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,104.1,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,111.4,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,92.7,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,102.3,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,101.2,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,102,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,99.7,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,100.9,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,99.7,index_same_period_prev_year_100
+2026-01-01,2026-Q1,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,106.3,index_same_period_prev_year_100
+2026-04-01,2026-Q2,B1GQ,B1GQ,Gross domestic product at market prices,Produsul Intern Brut,Bruttó hazai termék,na_item,99.8,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P3,P3,Final consumption expenditure,Consum final,Végső fogyasztás,na_item,97.3,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P41,P41,Actual individual consumption,Consum individual efectiv al gospodăriilor populației,Háztartások tényleges egyéni fogyasztása,na_item,97.1,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P31_S14,P31_S14,Final consumption expenditure of household,Cheltuielile de consum final ale gospodăriilor populației,Háztartások végső fogyasztási kiadásai,na_item,96.9,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P31_S15,P31_S15,Final consumption expenditure of NPISH,Cheltuielile de consum final ale instituțiilor non-profit care deservesc gospodăriile,A háztartásokat kiszolgáló nonprofit intézmények végső fogyasztási kiadásai,na_item,103.6,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P31_S13,P31_S13,Individual consumption expenditure of general government,Cheltuielile de consum individual final ale administrației publice,A kormányzat egyéni végső fogyasztási kiadásai,na_item,98.3,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P32_S13,P32_S13,Collective consumption expenditure of general government,Cheltuielile de consum colectiv final ale administrației publice,A kormányzat kollektív végső fogyasztási kiadásai,na_item,98.5,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P5G,P5G,Gross capital formation,Formarea brută de capital,Bruttó tőkefelhalmozás,na_item,106.5,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P51G,P51G,Gross fixed capital formation,Formarea brută de capital fix,Bruttó állóeszköz-felhalmozás,na_item,119.9,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P6,P6,Exports of goods and services,Exporturi de bunuri și servicii,Áruk és szolgáltatások exportja,na_item,104,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P61,P61,Exports of goods,Exporturi de bunuri,Áruk exportja,na_item,100.6,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P62,P62,Exports of services,Exporturi de servicii,Szolgáltatások exportja,na_item,111.3,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P7,P7,Imports of goods and services,Importuri de bunuri și servicii,Áruk és szolgáltatások importja,na_item,103,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P71,P71,Imports of goods,Importuri de bunuri,Áruk importja,na_item,101.8,index_same_period_prev_year_100
+2026-04-01,2026-Q2,P72,P72,Imports of services,Importuri de servicii,Szolgáltatások importja,na_item,107.7,index_same_period_prev_year_100
