@@ -1,0 +1,52 @@
+period,period_label,series,vehicle,vehicle_label_en,vehicle_label_ro,vehicle_label_hu,emission_standard,emission_standard_label_en,emission_standard_label_ro,emission_standard_label_hu,value,unit
+2020-01-01,2020,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,8680244,count
+2020-01-01,2020,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,57710,count
+2020-01-01,2020,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,1032188,count
+2020-01-01,2020,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1714208,count
+2020-01-01,2020,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,2774873,count
+2020-01-01,2020,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1082247,count
+2020-01-01,2020,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,919132,count
+2020-01-01,2020,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1099886,count
+2021-01-01,2021,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9082925,count
+2021-01-01,2021,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,58261,count
+2021-01-01,2021,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,986997,count
+2021-01-01,2021,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1722411,count
+2021-01-01,2021,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,2900157,count
+2021-01-01,2021,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1205323,count
+2021-01-01,2021,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1124803,count
+2021-01-01,2021,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1084973,count
+2022-01-01,2022,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9392635,count
+2022-01-01,2022,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,58793,count
+2022-01-01,2022,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,931530,count
+2022-01-01,2022,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1699430,count
+2022-01-01,2022,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,2979950,count
+2022-01-01,2022,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1317962,count
+2022-01-01,2022,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1327577,count
+2022-01-01,2022,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1077393,count
+2023-01-01,2023,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9686301,count
+2023-01-01,2023,_T.electric,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,electric,Electric,Electrice,Elektromos,42074,count
+2023-01-01,2023,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,58549,count
+2023-01-01,2023,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,887785,count
+2023-01-01,2023,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1665316,count
+2023-01-01,2023,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,3017229,count
+2023-01-01,2023,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1430137,count
+2023-01-01,2023,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1549825,count
+2023-01-01,2023,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1035386,count
+2024-01-01,2024,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10100558,count
+2024-01-01,2024,_T.electric,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,electric,Electric,Electrice,Elektromos,54471,count
+2024-01-01,2024,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,59567,count
+2024-01-01,2024,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,860305,count
+2024-01-01,2024,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1640073,count
+2024-01-01,2024,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,3057949,count
+2024-01-01,2024,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1561557,count
+2024-01-01,2024,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1839267,count
+2024-01-01,2024,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1027369,count
+2025-01-01,2025,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10495081,count
+2025-01-01,2025,_T.electric,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,electric,Electric,Electrice,Elektromos,70826,count
+2025-01-01,2025,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,60005,count
+2025-01-01,2025,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,818338,count
+2025-01-01,2025,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1588683,count
+2025-01-01,2025,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,3068396,count
+2025-01-01,2025,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1710677,count
+2025-01-01,2025,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,2169292,count
+2025-01-01,2025,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1008864,count

@@ -1,0 +1,127 @@
+period,period_label,series,country,country_label_en,country_label_ro,country_label_hu,value,unit
+2005-01-01,2005,CZ,CZ,Czechia,Cehia,Csehország,602237,count
+2005-01-01,2005,HU,HU,Hungary,Ungaria,Magyarország,152015,count
+2005-01-01,2005,PL,PL,Poland,Polonia,Lengyelország,613200,count
+2005-01-01,2005,RO,RO,Romania,România,Románia,194802,count
+2005-01-01,2005,SK,SK,Slovakia,Slovacia,Szlovákia,218349,count
+2005-01-01,2005,_T,_T,Total (all countries),,,66482439,count
+2006-01-01,2006,CZ,CZ,Czechia,Cehia,Csehország,854907,count
+2006-01-01,2006,HU,HU,Hungary,Ungaria,Magyarország,190823,count
+2006-01-01,2006,PL,PL,Poland,Polonia,Lengyelország,714600,count
+2006-01-01,2006,RO,RO,Romania,România,Románia,213597,count
+2006-01-01,2006,SK,SK,Slovakia,Slovacia,Szlovákia,295391,count
+2006-01-01,2006,_T,_T,Total (all countries),,,69257914,count
+2007-01-01,2007,CZ,CZ,Czechia,Cehia,Csehország,937648,count
+2007-01-01,2007,HU,HU,Hungary,Ungaria,Magyarország,292027,count
+2007-01-01,2007,PL,PL,Poland,Polonia,Lengyelország,792703,count
+2007-01-01,2007,RO,RO,Romania,România,Románia,241712,count
+2007-01-01,2007,SK,SK,Slovakia,Slovacia,Szlovákia,571071,count
+2007-01-01,2007,_T,_T,Total (all countries),,,73266061,count
+2008-01-01,2008,CZ,CZ,Czechia,Cehia,Csehország,945822,count
+2008-01-01,2008,HU,HU,Hungary,Ungaria,Magyarország,346055,count
+2008-01-01,2008,PL,PL,Poland,Polonia,Lengyelország,950908,count
+2008-01-01,2008,RO,RO,Romania,România,Románia,245308,count
+2008-01-01,2008,SK,SK,Slovakia,Slovacia,Szlovákia,575776,count
+2008-01-01,2008,_T,_T,Total (all countries),,,70526531,count
+2009-01-01,2009,CZ,CZ,Czechia,Cehia,Csehország,983243,count
+2009-01-01,2009,HU,HU,Hungary,Ungaria,Magyarország,214543,count
+2009-01-01,2009,PL,PL,Poland,Polonia,Lengyelország,878998,count
+2009-01-01,2009,RO,RO,Romania,România,Románia,296498,count
+2009-01-01,2009,SK,SK,Slovakia,Slovacia,Szlovákia,461340,count
+2009-01-01,2009,_T,_T,Total (all countries),,,61762324,count
+2010-01-01,2010,CZ,CZ,Czechia,Cehia,Csehország,1076384,count
+2010-01-01,2010,HU,HU,Hungary,Ungaria,Magyarország,211461,count
+2010-01-01,2010,PL,PL,Poland,Polonia,Lengyelország,869474,count
+2010-01-01,2010,RO,RO,Romania,România,Románia,350912,count
+2010-01-01,2010,SK,SK,Slovakia,Slovacia,Szlovákia,561933,count
+2010-01-01,2010,_T,_T,Total (all countries),,,77583519,count
+2011-01-01,2011,CZ,CZ,Czechia,Cehia,Csehország,1199845,count
+2011-01-01,2011,HU,HU,Hungary,Ungaria,Magyarország,213531,count
+2011-01-01,2011,PL,PL,Poland,Polonia,Lengyelország,838133,count
+2011-01-01,2011,RO,RO,Romania,România,Románia,335232,count
+2011-01-01,2011,SK,SK,Slovakia,Slovacia,Szlovákia,639763,count
+2011-01-01,2011,_T,_T,Total (all countries),,,79880920,count
+2012-01-01,2012,CZ,CZ,Czechia,Cehia,Csehország,1178995,count
+2012-01-01,2012,HU,HU,Hungary,Ungaria,Magyarország,217840,count
+2012-01-01,2012,PL,PL,Poland,Polonia,Lengyelország,654756,count
+2012-01-01,2012,RO,RO,Romania,România,Románia,337765,count
+2012-01-01,2012,SK,SK,Slovakia,Slovacia,Szlovákia,926555,count
+2012-01-01,2012,_T,_T,Total (all countries),,,84239381,count
+2013-01-01,2013,CZ,CZ,Czechia,Cehia,Csehország,1132931,count
+2013-01-01,2013,HU,HU,Hungary,Ungaria,Magyarország,222400,count
+2013-01-01,2013,PL,PL,Poland,Polonia,Lengyelország,583258,count
+2013-01-01,2013,RO,RO,Romania,România,Románia,410997,count
+2013-01-01,2013,SK,SK,Slovakia,Slovacia,Szlovákia,975000,count
+2013-01-01,2013,_T,_T,Total (all countries),,,87249845,count
+2014-01-01,2014,CZ,CZ,Czechia,Cehia,Csehország,1251220,count
+2014-01-01,2014,HU,HU,Hungary,Ungaria,Magyarország,437599,count
+2014-01-01,2014,PL,PL,Poland,Polonia,Lengyelország,593504,count
+2014-01-01,2014,RO,RO,Romania,România,Románia,391434,count
+2014-01-01,2014,SK,SK,Slovakia,Slovacia,Szlovákia,971160,count
+2014-01-01,2014,_T,_T,Total (all countries),,,89776465,count
+2015-01-01,2015,CZ,CZ,Czechia,Cehia,Csehország,1303603,count
+2015-01-01,2015,HU,HU,Hungary,Ungaria,Magyarország,495370,count
+2015-01-01,2015,PL,PL,Poland,Polonia,Lengyelország,660603,count
+2015-01-01,2015,RO,RO,Romania,România,Románia,387177,count
+2015-01-01,2015,SK,SK,Slovakia,Slovacia,Szlovákia,1000001,count
+2015-01-01,2015,_T,_T,Total (all countries),,,90780583,count
+2016-01-01,2016,CZ,CZ,Czechia,Cehia,Csehország,1349896,count
+2016-01-01,2016,HU,HU,Hungary,Ungaria,Magyarország,526500,count
+2016-01-01,2016,PL,PL,Poland,Polonia,Lengyelország,681834,count
+2016-01-01,2016,RO,RO,Romania,România,Románia,359306,count
+2016-01-01,2016,SK,SK,Slovakia,Slovacia,Szlovákia,1040000,count
+2016-01-01,2016,_T,_T,Total (all countries),,,95057929,count
+2017-01-01,2017,CZ,CZ,Czechia,Cehia,Csehország,1419993,count
+2017-01-01,2017,HU,HU,Hungary,Ungaria,Magyarország,505400,count
+2017-01-01,2017,PL,PL,Poland,Polonia,Lengyelország,689729,count
+2017-01-01,2017,RO,RO,Romania,România,Románia,359250,count
+2017-01-01,2017,SK,SK,Slovakia,Slovacia,Szlovákia,1001520,count
+2017-01-01,2017,_T,_T,Total (all countries),,,97302534,count
+2018-01-01,2018,CZ,CZ,Czechia,Cehia,Csehország,1345041,count
+2018-01-01,2018,HU,HU,Hungary,Ungaria,Magyarország,430988,count
+2018-01-01,2018,PL,PL,Poland,Polonia,Lengyelország,659646,count
+2018-01-01,2018,RO,RO,Romania,România,Románia,476769,count
+2018-01-01,2018,SK,SK,Slovakia,Slovacia,Szlovákia,1090000,count
+2018-01-01,2018,_T,_T,Total (all countries),,,95706293,count
+2019-01-01,2019,CZ,CZ,Czechia,Cehia,Csehország,1433961,count
+2019-01-01,2019,HU,HU,Hungary,Ungaria,Magyarország,498158,count
+2019-01-01,2019,PL,PL,Poland,Polonia,Lengyelország,649864,count
+2019-01-01,2019,RO,RO,Romania,România,Románia,490412,count
+2019-01-01,2019,SK,SK,Slovakia,Slovacia,Szlovákia,1107902,count
+2019-01-01,2019,_T,_T,Total (all countries),,,91876376.53846154,count
+2020-01-01,2020,CZ,CZ,Czechia,Cehia,Csehország,1159151,count
+2020-01-01,2020,HU,HU,Hungary,Ungaria,Magyarország,406496.928,count
+2020-01-01,2020,PL,PL,Poland,Polonia,Lengyelország,451382,count
+2020-01-01,2020,RO,RO,Romania,România,Románia,438107,count
+2020-01-01,2020,SK,SK,Slovakia,Slovacia,Szlovákia,985000,count
+2020-01-01,2020,_T,_T,Total (all countries),,,77621581.868,count
+2021-01-01,2021,CZ,CZ,Czechia,Cehia,Csehország,1111432,count
+2021-01-01,2021,HU,HU,Hungary,Ungaria,Magyarország,416725.4716981132,count
+2021-01-01,2021,PL,PL,Poland,Polonia,Lengyelország,439421,count
+2021-01-01,2021,RO,RO,Romania,România,Románia,420755,count
+2021-01-01,2021,SK,SK,Slovakia,Slovacia,Szlovákia,1030000,count
+2021-01-01,2021,_T,_T,Total (all countries),,,80020229.57371676,count
+2022-01-01,2022,CZ,CZ,Czechia,Cehia,Csehország,1224456,count
+2022-01-01,2022,HU,HU,Hungary,Ungaria,Magyarország,441729,count
+2022-01-01,2022,PL,PL,Poland,Polonia,Lengyelország,483840,count
+2022-01-01,2022,RO,RO,Romania,România,Románia,509465,count
+2022-01-01,2022,SK,SK,Slovakia,Slovacia,Szlovákia,982194,count
+2022-01-01,2022,_T,_T,Total (all countries),,,84881558.20279059,count
+2023-01-01,2023,CZ,CZ,Czechia,Cehia,Csehország,1404501,count
+2023-01-01,2023,HU,HU,Hungary,Ungaria,Magyarország,507225,count
+2023-01-01,2023,PL,PL,Poland,Polonia,Lengyelország,612882,count
+2023-01-01,2023,RO,RO,Romania,România,Románia,513050,count
+2023-01-01,2023,SK,SK,Slovakia,Slovacia,Szlovákia,1080000,count
+2023-01-01,2023,_T,_T,Total (all countries),,,93540766.2405265,count
+2024-01-01,2024,CZ,CZ,Czechia,Cehia,Csehország,1458892,count
+2024-01-01,2024,HU,HU,Hungary,Ungaria,Magyarország,437045,count
+2024-01-01,2024,PL,PL,Poland,Polonia,Lengyelország,654446,count
+2024-01-01,2024,RO,RO,Romania,România,Románia,560102,count
+2024-01-01,2024,SK,SK,Slovakia,Slovacia,Szlovákia,993000,count
+2024-01-01,2024,_T,_T,Total (all countries),,,92723279.77724436,count
+2025-01-01,2025,CZ,CZ,Czechia,Cehia,Csehország,1452776,count
+2025-01-01,2025,HU,HU,Hungary,Ungaria,Magyarország,411776,count
+2025-01-01,2025,PL,PL,Poland,Polonia,Lengyelország,628276,count
+2025-01-01,2025,RO,RO,Romania,România,Románia,545510,count
+2025-01-01,2025,SK,SK,Slovakia,Slovacia,Szlovákia,1070000,count
+2025-01-01,2025,_T,_T,Total (all countries),,,96383650.19254151,count

@@ -1,0 +1,103 @@
+period,period_label,series,vehicle,vehicle_label_en,vehicle_label_ro,vehicle_label_hu,emission_standard,emission_standard_label_en,emission_standard_label_ro,emission_standard_label_hu,value,unit
+2020-01-01,2020,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,8680244,count
+2020-01-01,2020,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,57710,count
+2020-01-01,2020,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,1032188,count
+2020-01-01,2020,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1714208,count
+2020-01-01,2020,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,2774873,count
+2020-01-01,2020,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1082247,count
+2020-01-01,2020,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,919132,count
+2020-01-01,2020,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1099886,count
+2020-01-01,2020,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,7274728,count
+2020-01-01,2020,passenger_car.euro1,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro1,Euro 1,Euro 1,Euro 1,22845,count
+2020-01-01,2020,passenger_car.euro2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro2,Euro 2,Euro 2,Euro 2,811240,count
+2020-01-01,2020,passenger_car.euro3,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro3,Euro 3,Euro 3,Euro 3,1321285,count
+2020-01-01,2020,passenger_car.euro4,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro4,Euro 4,Euro 4,Euro 4,2564380,count
+2020-01-01,2020,passenger_car.euro5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro5,Euro 5,Euro 5,Euro 5,915865,count
+2020-01-01,2020,passenger_car.euro6,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro6,Euro 6,Euro 6,Euro 6,782662,count
+2020-01-01,2020,passenger_car.non_euro,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,non_euro,Non-Euro,Non-Euro,Non-Euro,856451,count
+2021-01-01,2021,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9082925,count
+2021-01-01,2021,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,58261,count
+2021-01-01,2021,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,986997,count
+2021-01-01,2021,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1722411,count
+2021-01-01,2021,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,2900157,count
+2021-01-01,2021,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1205323,count
+2021-01-01,2021,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1124803,count
+2021-01-01,2021,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1084973,count
+2021-01-01,2021,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,7611039,count
+2021-01-01,2021,passenger_car.euro1,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro1,Euro 1,Euro 1,Euro 1,21835,count
+2021-01-01,2021,passenger_car.euro2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro2,Euro 2,Euro 2,Euro 2,766602,count
+2021-01-01,2021,passenger_car.euro3,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro3,Euro 3,Euro 3,Euro 3,1323172,count
+2021-01-01,2021,passenger_car.euro4,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro4,Euro 4,Euro 4,Euro 4,2677341,count
+2021-01-01,2021,passenger_car.euro5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro5,Euro 5,Euro 5,Euro 5,1023424,count
+2021-01-01,2021,passenger_car.euro6,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro6,Euro 6,Euro 6,Euro 6,956136,count
+2021-01-01,2021,passenger_car.non_euro,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,non_euro,Non-Euro,Non-Euro,Non-Euro,842529,count
+2022-01-01,2022,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9392635,count
+2022-01-01,2022,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,58793,count
+2022-01-01,2022,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,931530,count
+2022-01-01,2022,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1699430,count
+2022-01-01,2022,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,2979950,count
+2022-01-01,2022,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1317962,count
+2022-01-01,2022,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1327577,count
+2022-01-01,2022,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1077393,count
+2022-01-01,2022,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,7865186,count
+2022-01-01,2022,passenger_car.euro1,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro1,Euro 1,Euro 1,Euro 1,20793,count
+2022-01-01,2022,passenger_car.euro2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro2,Euro 2,Euro 2,Euro 2,712920,count
+2022-01-01,2022,passenger_car.euro3,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro3,Euro 3,Euro 3,Euro 3,1297093,count
+2022-01-01,2022,passenger_car.euro4,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro4,Euro 4,Euro 4,Euro 4,2748361,count
+2022-01-01,2022,passenger_car.euro5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro5,Euro 5,Euro 5,Euro 5,1119868,count
+2022-01-01,2022,passenger_car.euro6,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro6,Euro 6,Euro 6,Euro 6,1130728,count
+2022-01-01,2022,passenger_car.non_euro,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,non_euro,Non-Euro,Non-Euro,Non-Euro,835423,count
+2023-01-01,2023,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9686301,count
+2023-01-01,2023,_T.electric,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,electric,Electric,Electrice,Elektromos,42074,count
+2023-01-01,2023,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,58549,count
+2023-01-01,2023,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,887785,count
+2023-01-01,2023,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1665316,count
+2023-01-01,2023,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,3017229,count
+2023-01-01,2023,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1430137,count
+2023-01-01,2023,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1549825,count
+2023-01-01,2023,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1035386,count
+2023-01-01,2023,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,8106570,count
+2023-01-01,2023,passenger_car.electric,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,electric,Electric,Electrice,Elektromos,39271,count
+2023-01-01,2023,passenger_car.euro1,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro1,Euro 1,Euro 1,Euro 1,20053,count
+2023-01-01,2023,passenger_car.euro2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro2,Euro 2,Euro 2,Euro 2,670995,count
+2023-01-01,2023,passenger_car.euro3,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro3,Euro 3,Euro 3,Euro 3,1262931,count
+2023-01-01,2023,passenger_car.euro4,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro4,Euro 4,Euro 4,Euro 4,2780137,count
+2023-01-01,2023,passenger_car.euro5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro5,Euro 5,Euro 5,Euro 5,1215576,count
+2023-01-01,2023,passenger_car.euro6,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro6,Euro 6,Euro 6,Euro 6,1322747,count
+2023-01-01,2023,passenger_car.non_euro,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,non_euro,Non-Euro,Non-Euro,Non-Euro,794860,count
+2024-01-01,2024,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10100558,count
+2024-01-01,2024,_T.electric,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,electric,Electric,Electrice,Elektromos,54471,count
+2024-01-01,2024,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,59567,count
+2024-01-01,2024,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,860305,count
+2024-01-01,2024,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1640073,count
+2024-01-01,2024,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,3057949,count
+2024-01-01,2024,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1561557,count
+2024-01-01,2024,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,1839267,count
+2024-01-01,2024,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1027369,count
+2024-01-01,2024,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,8449781,count
+2024-01-01,2024,passenger_car.electric,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,electric,Electric,Electrice,Elektromos,49594,count
+2024-01-01,2024,passenger_car.euro1,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro1,Euro 1,Euro 1,Euro 1,19599,count
+2024-01-01,2024,passenger_car.euro2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro2,Euro 2,Euro 2,Euro 2,645041,count
+2024-01-01,2024,passenger_car.euro3,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro3,Euro 3,Euro 3,Euro 3,1237219,count
+2024-01-01,2024,passenger_car.euro4,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro4,Euro 4,Euro 4,Euro 4,2814805,count
+2024-01-01,2024,passenger_car.euro5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro5,Euro 5,Euro 5,Euro 5,1324638,count
+2024-01-01,2024,passenger_car.euro6,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro6,Euro 6,Euro 6,Euro 6,1571691,count
+2024-01-01,2024,passenger_car.non_euro,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,non_euro,Non-Euro,Non-Euro,Non-Euro,787194,count
+2025-01-01,2025,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10495081,count
+2025-01-01,2025,_T.electric,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,electric,Electric,Electrice,Elektromos,70826,count
+2025-01-01,2025,_T.euro1,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro1,Euro 1,Euro 1,Euro 1,60005,count
+2025-01-01,2025,_T.euro2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro2,Euro 2,Euro 2,Euro 2,818338,count
+2025-01-01,2025,_T.euro3,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro3,Euro 3,Euro 3,Euro 3,1588683,count
+2025-01-01,2025,_T.euro4,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro4,Euro 4,Euro 4,Euro 4,3068396,count
+2025-01-01,2025,_T.euro5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro5,Euro 5,Euro 5,Euro 5,1710677,count
+2025-01-01,2025,_T.euro6,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,euro6,Euro 6,Euro 6,Euro 6,2169292,count
+2025-01-01,2025,_T.non_euro,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,non_euro,Non-Euro,Non-Euro,Non-Euro,1008864,count
+2025-01-01,2025,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,8774808,count
+2025-01-01,2025,passenger_car.electric,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,electric,Electric,Electrice,Elektromos,61453,count
+2025-01-01,2025,passenger_car.euro1,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro1,Euro 1,Euro 1,Euro 1,18697,count
+2025-01-01,2025,passenger_car.euro2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro2,Euro 2,Euro 2,Euro 2,607215,count
+2025-01-01,2025,passenger_car.euro3,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro3,Euro 3,Euro 3,Euro 3,1189489,count
+2025-01-01,2025,passenger_car.euro4,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro4,Euro 4,Euro 4,Euro 4,2819505,count
+2025-01-01,2025,passenger_car.euro5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro5,Euro 5,Euro 5,Euro 5,1448297,count
+2025-01-01,2025,passenger_car.euro6,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,euro6,Euro 6,Euro 6,Euro 6,1859389,count
+2025-01-01,2025,passenger_car.non_euro,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,non_euro,Non-Euro,Non-Euro,Non-Euro,770763,count

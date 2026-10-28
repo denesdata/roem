@@ -1,0 +1,207 @@
+period,period_label,series,vehicle,vehicle_label_en,vehicle_label_ro,vehicle_label_hu,age_group,age_group_label_en,age_group_label_ro,age_group_label_hu,value,unit
+2007-01-01,2007,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,4524163,count
+2007-01-01,2007,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,717898,count
+2007-01-01,2007,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,2175311,count
+2007-01-01,2007,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,721445,count
+2007-01-01,2007,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,909509,count
+2007-01-01,2007,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,3554404,count
+2007-01-01,2007,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,579807,count
+2007-01-01,2007,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,1698247,count
+2007-01-01,2007,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,573970,count
+2007-01-01,2007,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,702380,count
+2008-01-01,2008,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,5098874,count
+2008-01-01,2008,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,776924,count
+2008-01-01,2008,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,2338041,count
+2008-01-01,2008,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,904969,count
+2008-01-01,2008,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1078940,count
+2008-01-01,2008,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4027367,count
+2008-01-01,2008,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,619396,count
+2008-01-01,2008,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,1819210,count
+2008-01-01,2008,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,736290,count
+2008-01-01,2008,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,852471,count
+2009-01-01,2009,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,5352524,count
+2009-01-01,2009,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,524596,count
+2009-01-01,2009,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,2504175,count
+2009-01-01,2009,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,1086520,count
+2009-01-01,2009,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1237233,count
+2009-01-01,2009,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4244922,count
+2009-01-01,2009,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,415186,count
+2009-01-01,2009,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,1954493,count
+2009-01-01,2009,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,887259,count
+2009-01-01,2009,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,987984,count
+2010-01-01,2010,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,5446362,count
+2010-01-01,2010,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,263845,count
+2010-01-01,2010,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,2593081,count
+2010-01-01,2010,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,1154717,count
+2010-01-01,2010,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1434719,count
+2010-01-01,2010,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4319701,count
+2010-01-01,2010,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,213442,count
+2010-01-01,2010,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,2010883,count
+2010-01-01,2010,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,932165,count
+2010-01-01,2010,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1163211,count
+2011-01-01,2011,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,5510495,count
+2011-01-01,2011,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,224963,count
+2011-01-01,2011,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,2800548,count
+2011-01-01,2011,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,965421,count
+2011-01-01,2011,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1519563,count
+2011-01-01,2011,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4334547,count
+2011-01-01,2011,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,177406,count
+2011-01-01,2011,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,2159952,count
+2011-01-01,2011,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,770028,count
+2011-01-01,2011,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1227161,count
+2012-01-01,2012,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,5710773,count
+2012-01-01,2012,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,202030,count
+2012-01-01,2012,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,3098771,count
+2012-01-01,2012,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,677031,count
+2012-01-01,2012,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1732941,count
+2012-01-01,2012,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4487251,count
+2012-01-01,2012,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,149327,count
+2012-01-01,2012,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,2395469,count
+2012-01-01,2012,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,543942,count
+2012-01-01,2012,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1398513,count
+2013-01-01,2013,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,5985085,count
+2013-01-01,2013,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,176531,count
+2013-01-01,2013,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,3473933,count
+2013-01-01,2013,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,419843,count
+2013-01-01,2013,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1914778,count
+2013-01-01,2013,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4695660,count
+2013-01-01,2013,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,124550,count
+2013-01-01,2013,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,2689498,count
+2013-01-01,2013,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,338646,count
+2013-01-01,2013,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1542966,count
+2014-01-01,2014,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,6270582,count
+2014-01-01,2014,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,182146,count
+2014-01-01,2014,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,3880421,count
+2014-01-01,2014,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,373417,count
+2014-01-01,2014,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1834598,count
+2014-01-01,2014,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,4907564,count
+2014-01-01,2014,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,126812,count
+2014-01-01,2014,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,3006959,count
+2014-01-01,2014,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,293377,count
+2014-01-01,2014,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1480416,count
+2015-01-01,2015,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,6600325,count
+2015-01-01,2015,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,214577,count
+2015-01-01,2015,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,4387040,count
+2015-01-01,2015,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,345779,count
+2015-01-01,2015,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1652929,count
+2015-01-01,2015,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,5155059,count
+2015-01-01,2015,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,148726,count
+2015-01-01,2015,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,3420276,count
+2015-01-01,2015,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,258683,count
+2015-01-01,2015,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1327374,count
+2016-01-01,2016,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,7010608,count
+2016-01-01,2016,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,254042,count
+2016-01-01,2016,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,4947388,count
+2016-01-01,2016,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,335308,count
+2016-01-01,2016,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1473870,count
+2016-01-01,2016,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,5472423,count
+2016-01-01,2016,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,174409,count
+2016-01-01,2016,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,3880824,count
+2016-01-01,2016,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,244667,count
+2016-01-01,2016,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,1172523,count
+2017-01-01,2017,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,7635775,count
+2017-01-01,2017,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,287174,count
+2017-01-01,2017,_T.y10_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_plus,> 10 years,> 10 ani,> 10 év,5775531,count
+2017-01-01,2017,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,355085,count
+2017-01-01,2017,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1217985,count
+2017-01-01,2017,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,5998194,count
+2017-01-01,2017,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,200643,count
+2017-01-01,2017,passenger_car.y10_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_plus,> 10 years,> 10 ani,> 10 év,4572458,count
+2017-01-01,2017,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,255017,count
+2017-01-01,2017,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,970076,count
+2018-01-01,2018,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,8193278,count
+2018-01-01,2018,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,329069,count
+2018-01-01,2018,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4559077,count
+2018-01-01,2018,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,1891918,count
+2018-01-01,2018,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,422140,count
+2018-01-01,2018,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,991074,count
+2018-01-01,2018,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,6452536,count
+2018-01-01,2018,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,235704,count
+2018-01-01,2018,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3739255,count
+2018-01-01,2018,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,1378325,count
+2018-01-01,2018,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,302857,count
+2018-01-01,2018,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,796395,count
+2019-01-01,2019,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,8749390,count
+2019-01-01,2019,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,392430,count
+2019-01-01,2019,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4789134,count
+2019-01-01,2019,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,2091102,count
+2019-01-01,2019,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,482335,count
+2019-01-01,2019,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,994389,count
+2019-01-01,2019,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,6902984,count
+2019-01-01,2019,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,289520,count
+2019-01-01,2019,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3952075,count
+2019-01-01,2019,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,1522472,count
+2019-01-01,2019,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,348305,count
+2019-01-01,2019,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,790612,count
+2020-01-01,2020,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9222280,count
+2020-01-01,2020,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,375148,count
+2020-01-01,2020,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4882886,count
+2020-01-01,2020,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,2404971,count
+2020-01-01,2020,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,541168,count
+2020-01-01,2020,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1018107,count
+2020-01-01,2020,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,7274728,count
+2020-01-01,2020,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,277676,count
+2020-01-01,2020,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,4045846,count
+2020-01-01,2020,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,1766379,count
+2020-01-01,2020,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,391785,count
+2020-01-01,2020,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,793042,count
+2021-01-01,2021,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9661483,count
+2021-01-01,2021,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,336429,count
+2021-01-01,2021,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4813015,count
+2021-01-01,2021,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,2871535,count
+2021-01-01,2021,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,606377,count
+2021-01-01,2021,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1034127,count
+2021-01-01,2021,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,7611039,count
+2021-01-01,2021,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,236354,count
+2021-01-01,2021,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3983868,count
+2021-01-01,2021,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,2150689,count
+2021-01-01,2021,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,448327,count
+2021-01-01,2021,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,791801,count
+2022-01-01,2022,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10005408,count
+2022-01-01,2022,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,353837,count
+2022-01-01,2022,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4743236,count
+2022-01-01,2022,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,3236770,count
+2022-01-01,2022,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,604898,count
+2022-01-01,2022,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1066667,count
+2022-01-01,2022,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,7865186,count
+2022-01-01,2022,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,246401,count
+2022-01-01,2022,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3927359,count
+2022-01-01,2022,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,2435456,count
+2022-01-01,2022,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,447330,count
+2022-01-01,2022,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,808640,count
+2023-01-01,2023,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10333293,count
+2023-01-01,2023,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,375604,count
+2023-01-01,2023,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4647208,count
+2023-01-01,2023,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,3575876,count
+2023-01-01,2023,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,588793,count
+2023-01-01,2023,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1145812,count
+2023-01-01,2023,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,8106570,count
+2023-01-01,2023,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,265642,count
+2023-01-01,2023,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3852719,count
+2023-01-01,2023,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,2693538,count
+2023-01-01,2023,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,428668,count
+2023-01-01,2023,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,866003,count
+2024-01-01,2024,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10785260,count
+2024-01-01,2024,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,416676,count
+2024-01-01,2024,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4541309,count
+2024-01-01,2024,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,4009414,count
+2024-01-01,2024,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,562537,count
+2024-01-01,2024,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1255324,count
+2024-01-01,2024,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,8449781,count
+2024-01-01,2024,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,291712,count
+2024-01-01,2024,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3766825,count
+2024-01-01,2024,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,3037393,count
+2024-01-01,2024,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,402032,count
+2024-01-01,2024,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,951819,count
+2025-01-01,2025,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,11222292,count
+2025-01-01,2025,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,441667,count
+2025-01-01,2025,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4375199,count
+2025-01-01,2025,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,4485688,count
+2025-01-01,2025,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,609693,count
+2025-01-01,2025,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1310045,count
+2025-01-01,2025,passenger_car._T,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,_T,Total,Total,Összesen,8774808,count
+2025-01-01,2025,passenger_car.y0_2,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,302487,count
+2025-01-01,2025,passenger_car.y10_20,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y10_20,10–20 years,10–20 ani,10–20 év,3612092,count
+2025-01-01,2025,passenger_car.y20_plus,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y20_plus,> 20 years,> 20 de ani,> 20 év,3432394,count
+2025-01-01,2025,passenger_car.y2_5,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y2_5,2–5 years,2–5 ani,2–5 év,433691,count
+2025-01-01,2025,passenger_car.y5_10,passenger_car,Passenger cars,Autoturisme,Személygépkocsik,y5_10,5–10 years,5–10 ani,5–10 év,994144,count

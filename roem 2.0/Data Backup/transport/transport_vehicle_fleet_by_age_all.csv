@@ -1,0 +1,49 @@
+period,period_label,series,vehicle,vehicle_label_en,vehicle_label_ro,vehicle_label_hu,age_group,age_group_label_en,age_group_label_ro,age_group_label_hu,value,unit
+2018-01-01,2018,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,8193278,count
+2018-01-01,2018,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,329069,count
+2018-01-01,2018,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4559077,count
+2018-01-01,2018,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,1891918,count
+2018-01-01,2018,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,422140,count
+2018-01-01,2018,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,991074,count
+2019-01-01,2019,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,8749390,count
+2019-01-01,2019,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,392430,count
+2019-01-01,2019,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4789134,count
+2019-01-01,2019,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,2091102,count
+2019-01-01,2019,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,482335,count
+2019-01-01,2019,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,994389,count
+2020-01-01,2020,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9222280,count
+2020-01-01,2020,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,375148,count
+2020-01-01,2020,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4882886,count
+2020-01-01,2020,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,2404971,count
+2020-01-01,2020,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,541168,count
+2020-01-01,2020,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1018107,count
+2021-01-01,2021,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,9661483,count
+2021-01-01,2021,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,336429,count
+2021-01-01,2021,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4813015,count
+2021-01-01,2021,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,2871535,count
+2021-01-01,2021,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,606377,count
+2021-01-01,2021,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1034127,count
+2022-01-01,2022,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10005408,count
+2022-01-01,2022,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,353837,count
+2022-01-01,2022,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4743236,count
+2022-01-01,2022,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,3236770,count
+2022-01-01,2022,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,604898,count
+2022-01-01,2022,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1066667,count
+2023-01-01,2023,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10333293,count
+2023-01-01,2023,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,375604,count
+2023-01-01,2023,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4647208,count
+2023-01-01,2023,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,3575876,count
+2023-01-01,2023,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,588793,count
+2023-01-01,2023,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1145812,count
+2024-01-01,2024,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,10785260,count
+2024-01-01,2024,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,416676,count
+2024-01-01,2024,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4541309,count
+2024-01-01,2024,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,4009414,count
+2024-01-01,2024,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,562537,count
+2024-01-01,2024,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1255324,count
+2025-01-01,2025,_T._T,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,_T,Total,Total,Összesen,11222292,count
+2025-01-01,2025,_T.y0_2,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y0_2,≤ 2 years,≤ 2 ani,≤ 2 év,441667,count
+2025-01-01,2025,_T.y10_20,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y10_20,10–20 years,10–20 ani,10–20 év,4375199,count
+2025-01-01,2025,_T.y20_plus,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y20_plus,> 20 years,> 20 de ani,> 20 év,4485688,count
+2025-01-01,2025,_T.y2_5,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y2_5,2–5 years,2–5 ani,2–5 év,609693,count
+2025-01-01,2025,_T.y5_10,_T,All road vehicles,Total vehicule rutiere,Összes közúti jármű,y5_10,5–10 years,5–10 ani,5–10 év,1310045,count
