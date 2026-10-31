@@ -3449,28 +3449,53 @@ period,period_label,series,activity,activity_label_en,activity_label_ro,activity
 2026-06-01,2026-06,N78,N78,Employment activities,Activități de ocupare a forței de muncă,Foglalkoztatással kapcsolatos tevékenységek,153.2,index_2021_100
 2026-06-01,2026-06,N80,N80,Security and investigation activities,Activități de securitate și investigații,Biztonsági és nyomozói tevékenységek,94.1,index_2021_100
 2026-06-01,2026-06,N82,N82,"Office administrative, office support and other business support activities",Activități de administrare de birouri; suport și alte servicii de sprijin pentru afaceri,Irodai adminisztratív; irodai támogató és egyéb üzleti támogató tevékenységek,142.2,index_2021_100
-2026-07-01,2026-07,_T,_T,Total,Total,Összesen,129.9,index_2021_100
-2026-07-01,2026-07,H_X_H53,H_X_H53,Transportation and storage except postal and courier activities,Transporturi (cu excepția activităților de poștă și curierat),Szállítás,112.6,index_2021_100
-2026-07-01,2026-07,H49,H49,Land transport and transport via pipelines,Transport terestru și prin conducte,Közúti szállítás és csővezetékes szállítás,99.9,index_2021_100
-2026-07-01,2026-07,H50,H50,Water transport,Transport pe apă,Vízi szállítás,224.8,index_2021_100
-2026-07-01,2026-07,H51,H51,Air transport,Transport aerian,Légi szállítás,110.5,index_2021_100
-2026-07-01,2026-07,H52,H52,Warehousing and support activities for transportation,Depozitare și activități de sprijin pentru transport,Raktározás és szállítást kiegészítő tevékenységek,141.4,index_2021_100
-2026-07-01,2026-07,post_telecom,post_telecom,Communications (postal and courier activities; telecommunications: H53 + J61),Comunicare,Kommunikáció,118.1,index_2021_100
-2026-07-01,2026-07,H53,H53,Postal and courier activities,Activități poștale și de curierat,Postai és futárszolgálati tevékenységek,148.7,index_2021_100
+2026-07-01,2026-07,_T,_T,Total,Total,Összesen,130.7,index_2021_100
+2026-07-01,2026-07,H_X_H53,H_X_H53,Transportation and storage except postal and courier activities,Transporturi (cu excepția activităților de poștă și curierat),Szállítás,113.1,index_2021_100
+2026-07-01,2026-07,H49,H49,Land transport and transport via pipelines,Transport terestru și prin conducte,Közúti szállítás és csővezetékes szállítás,100.2,index_2021_100
+2026-07-01,2026-07,H50,H50,Water transport,Transport pe apă,Vízi szállítás,229.6,index_2021_100
+2026-07-01,2026-07,H51,H51,Air transport,Transport aerian,Légi szállítás,110.2,index_2021_100
+2026-07-01,2026-07,H52,H52,Warehousing and support activities for transportation,Depozitare și activități de sprijin pentru transport,Raktározás és szállítást kiegészítő tevékenységek,142.7,index_2021_100
+2026-07-01,2026-07,post_telecom,post_telecom,Communications (postal and courier activities; telecommunications: H53 + J61),Comunicare,Kommunikáció,118.4,index_2021_100
+2026-07-01,2026-07,H53,H53,Postal and courier activities,Activități poștale și de curierat,Postai és futárszolgálati tevékenységek,149.2,index_2021_100
 2026-07-01,2026-07,J61,J61,Telecommunications,Telecomunicații,Távközlés,107.9,index_2021_100
-2026-07-01,2026-07,J59_J60,J59_J60,"Motion picture, video, television programme production; programming and broadcasting activities",Activități de producție de filme și videoclipuri; programe TV; transmiterea și difuzarea programelor,Film- és videogyártás; televíziós műsorgyártás; műsorok sugárzása és terjesztése,101.2,index_2021_100
-2026-07-01,2026-07,J59,J59,"Motion picture, video and television programme production, sound recording and music publishing activities",Producția de filme; videoclipuri și programe de televiziune; înregistrări sonore și activități de editare muzicală,Mozgókép-; videó- és televíziós műsorgyártás; hangfelvétel és zenei kiadói tevékenységek,125.7,index_2021_100
+2026-07-01,2026-07,J59_J60,J59_J60,"Motion picture, video, television programme production; programming and broadcasting activities",Activități de producție de filme și videoclipuri; programe TV; transmiterea și difuzarea programelor,Film- és videogyártás; televíziós műsorgyártás; műsorok sugárzása és terjesztése,101.5,index_2021_100
+2026-07-01,2026-07,J59,J59,"Motion picture, video and television programme production, sound recording and music publishing activities",Producția de filme; videoclipuri și programe de televiziune; înregistrări sonore și activități de editare muzicală,Mozgókép-; videó- és televíziós műsorgyártás; hangfelvétel és zenei kiadói tevékenységek,126.1,index_2021_100
 2026-07-01,2026-07,J60,J60,Programming and broadcasting activities,Activități de programare și difuzare,Műsorszolgáltatási tevékenységek,90.9,index_2021_100
-2026-07-01,2026-07,J62_J63,J62_J63,"Computer programming, consultancy, and information service activities",Activități de servicii IT,IT szolgáltatási tevékenységek,155.3,index_2021_100
-2026-07-01,2026-07,J62,J62,"Computer programming, consultancy and related activities",Programare pe calculator; consultanță și activități conexe,Számítógépes programozás; tanácsadás és kapcsolódó tevékenységek,152.8,index_2021_100
-2026-07-01,2026-07,J63,J63,Information service activities,Activități de furnizare de informații,Információs szolgáltatások,157.1,index_2021_100
-2026-07-01,2026-07,oth_ent_svc,oth_ent_svc,Other services mainly provided to enterprises,Alte servicii oferite în principal întreprinderilor,Elsősorban vállalkozásoknak nyújtott egyéb szolgáltatások,132,index_2021_100
-2026-07-01,2026-07,J58,J58,Publishing activities,Activități editoriale,Kiadói tevékenységek,141.6,index_2021_100
+2026-07-01,2026-07,J62_J63,J62_J63,"Computer programming, consultancy, and information service activities",Activități de servicii IT,IT szolgáltatási tevékenységek,156.4,index_2021_100
+2026-07-01,2026-07,J62,J62,"Computer programming, consultancy and related activities",Programare pe calculator; consultanță și activități conexe,Számítógépes programozás; tanácsadás és kapcsolódó tevékenységek,154.6,index_2021_100
+2026-07-01,2026-07,J63,J63,Information service activities,Activități de furnizare de informații,Információs szolgáltatások,156.3,index_2021_100
+2026-07-01,2026-07,oth_ent_svc,oth_ent_svc,Other services mainly provided to enterprises,Alte servicii oferite în principal întreprinderilor,Elsősorban vállalkozásoknak nyújtott egyéb szolgáltatások,132.2,index_2021_100
+2026-07-01,2026-07,J58,J58,Publishing activities,Activități editoriale,Kiadói tevékenységek,143.9,index_2021_100
 2026-07-01,2026-07,L68,L68,Real estate activities,Activități imobiliare,Ingatlanügyletek,100.8,index_2021_100
-2026-07-01,2026-07,M71,M71,Architectural and engineering activities; technical testing and analysis,Activități de arhitectură și inginerie; testări și analize tehnice,Építészeti és mérnöki tevékenységek; műszaki vizsgálat és elemzés,140.4,index_2021_100
-2026-07-01,2026-07,M73,M73,Advertising and market research,Publicitate și studii de piață,Reklám és piackutatás,115.7,index_2021_100
-2026-07-01,2026-07,M74,M74,"Other professional, scientific and technical activities",Alte activități profesionale; științifice și tehnice,Egyéb szakmai; tudományos és műszaki tevékenységek,135.9,index_2021_100
-2026-07-01,2026-07,N77,N77,Rental and leasing activities,Activități de închiriere și leasing,Bérleti és lízingtevékenységek,181.2,index_2021_100
-2026-07-01,2026-07,N78,N78,Employment activities,Activități de ocupare a forței de muncă,Foglalkoztatással kapcsolatos tevékenységek,145.7,index_2021_100
-2026-07-01,2026-07,N80,N80,Security and investigation activities,Activități de securitate și investigații,Biztonsági és nyomozói tevékenységek,91.6,index_2021_100
-2026-07-01,2026-07,N82,N82,"Office administrative, office support and other business support activities",Activități de administrare de birouri; suport și alte servicii de sprijin pentru afaceri,Irodai adminisztratív; irodai támogató és egyéb üzleti támogató tevékenységek,149.5,index_2021_100
+2026-07-01,2026-07,M71,M71,Architectural and engineering activities; technical testing and analysis,Activități de arhitectură și inginerie; testări și analize tehnice,Építészeti és mérnöki tevékenységek; műszaki vizsgálat és elemzés,141,index_2021_100
+2026-07-01,2026-07,M73,M73,Advertising and market research,Publicitate și studii de piață,Reklám és piackutatás,114.2,index_2021_100
+2026-07-01,2026-07,M74,M74,"Other professional, scientific and technical activities",Alte activități profesionale; științifice și tehnice,Egyéb szakmai; tudományos és műszaki tevékenységek,135.7,index_2021_100
+2026-07-01,2026-07,N77,N77,Rental and leasing activities,Activități de închiriere și leasing,Bérleti és lízingtevékenységek,180.4,index_2021_100
+2026-07-01,2026-07,N78,N78,Employment activities,Activități de ocupare a forței de muncă,Foglalkoztatással kapcsolatos tevékenységek,144.4,index_2021_100
+2026-07-01,2026-07,N80,N80,Security and investigation activities,Activități de securitate și investigații,Biztonsági és nyomozói tevékenységek,92.1,index_2021_100
+2026-07-01,2026-07,N82,N82,"Office administrative, office support and other business support activities",Activități de administrare de birouri; suport și alte servicii de sprijin pentru afaceri,Irodai adminisztratív; irodai támogató és egyéb üzleti támogató tevékenységek,148.5,index_2021_100
+2026-08-01,2026-08,_T,_T,Total,Total,Összesen,137.9,index_2021_100
+2026-08-01,2026-08,H_X_H53,H_X_H53,Transportation and storage except postal and courier activities,Transporturi (cu excepția activităților de poștă și curierat),Szállítás,117.1,index_2021_100
+2026-08-01,2026-08,H49,H49,Land transport and transport via pipelines,Transport terestru și prin conducte,Közúti szállítás és csővezetékes szállítás,106.1,index_2021_100
+2026-08-01,2026-08,H50,H50,Water transport,Transport pe apă,Vízi szállítás,165.4,index_2021_100
+2026-08-01,2026-08,H51,H51,Air transport,Transport aerian,Légi szállítás,116,index_2021_100
+2026-08-01,2026-08,H52,H52,Warehousing and support activities for transportation,Depozitare și activități de sprijin pentru transport,Raktározás és szállítást kiegészítő tevékenységek,154.4,index_2021_100
+2026-08-01,2026-08,post_telecom,post_telecom,Communications (postal and courier activities; telecommunications: H53 + J61),Comunicare,Kommunikáció,127.4,index_2021_100
+2026-08-01,2026-08,H53,H53,Postal and courier activities,Activități poștale și de curierat,Postai és futárszolgálati tevékenységek,153.2,index_2021_100
+2026-08-01,2026-08,J61,J61,Telecommunications,Telecomunicații,Távközlés,120.6,index_2021_100
+2026-08-01,2026-08,J59_J60,J59_J60,"Motion picture, video, television programme production; programming and broadcasting activities",Activități de producție de filme și videoclipuri; programe TV; transmiterea și difuzarea programelor,Film- és videogyártás; televíziós műsorgyártás; műsorok sugárzása és terjesztése,106.9,index_2021_100
+2026-08-01,2026-08,J59,J59,"Motion picture, video and television programme production, sound recording and music publishing activities",Producția de filme; videoclipuri și programe de televiziune; înregistrări sonore și activități de editare muzicală,Mozgókép-; videó- és televíziós műsorgyártás; hangfelvétel és zenei kiadói tevékenységek,157.8,index_2021_100
+2026-08-01,2026-08,J60,J60,Programming and broadcasting activities,Activități de programare și difuzare,Műsorszolgáltatási tevékenységek,85.4,index_2021_100
+2026-08-01,2026-08,J62_J63,J62_J63,"Computer programming, consultancy, and information service activities",Activități de servicii IT,IT szolgáltatási tevékenységek,158.4,index_2021_100
+2026-08-01,2026-08,J62,J62,"Computer programming, consultancy and related activities",Programare pe calculator; consultanță și activități conexe,Számítógépes programozás; tanácsadás és kapcsolódó tevékenységek,159,index_2021_100
+2026-08-01,2026-08,J63,J63,Information service activities,Activități de furnizare de informații,Információs szolgáltatások,153.1,index_2021_100
+2026-08-01,2026-08,oth_ent_svc,oth_ent_svc,Other services mainly provided to enterprises,Alte servicii oferite în principal întreprinderilor,Elsősorban vállalkozásoknak nyújtott egyéb szolgáltatások,141,index_2021_100
+2026-08-01,2026-08,J58,J58,Publishing activities,Activități editoriale,Kiadói tevékenységek,145.3,index_2021_100
+2026-08-01,2026-08,L68,L68,Real estate activities,Activități imobiliare,Ingatlanügyletek,128.4,index_2021_100
+2026-08-01,2026-08,M71,M71,Architectural and engineering activities; technical testing and analysis,Activități de arhitectură și inginerie; testări și analize tehnice,Építészeti és mérnöki tevékenységek; műszaki vizsgálat és elemzés,161.3,index_2021_100
+2026-08-01,2026-08,M73,M73,Advertising and market research,Publicitate și studii de piață,Reklám és piackutatás,111.4,index_2021_100
+2026-08-01,2026-08,M74,M74,"Other professional, scientific and technical activities",Alte activități profesionale; științifice și tehnice,Egyéb szakmai; tudományos és műszaki tevékenységek,132.5,index_2021_100
+2026-08-01,2026-08,N77,N77,Rental and leasing activities,Activități de închiriere și leasing,Bérleti és lízingtevékenységek,178.1,index_2021_100
+2026-08-01,2026-08,N78,N78,Employment activities,Activități de ocupare a forței de muncă,Foglalkoztatással kapcsolatos tevékenységek,145.3,index_2021_100
+2026-08-01,2026-08,N80,N80,Security and investigation activities,Activități de securitate și investigații,Biztonsági és nyomozói tevékenységek,95.9,index_2021_100
+2026-08-01,2026-08,N82,N82,"Office administrative, office support and other business support activities",Activități de administrare de birouri; suport și alte servicii de sprijin pentru afaceri,Irodai adminisztratív; irodai támogató és egyéb üzleti támogató tevékenységek,140,index_2021_100

@@ -2322,11 +2322,20 @@ period,period_label,series,activity,activity_label_en,activity_label_ro,activity
 2026-06-01,2026-06,I55,I55,Accommodation,Cazare,Szállás,163.4,index_2021_100
 2026-06-01,2026-06,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,113.4,index_2021_100
 2026-07-01,2026-07,_T,_T,Total,Total,Összesen,122.6,index_2021_100
-2026-07-01,2026-07,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",133.2,index_2021_100
-2026-07-01,2026-07,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,90.6,index_2021_100
-2026-07-01,2026-07,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,90.7,index_2021_100
-2026-07-01,2026-07,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,122.4,index_2021_100
-2026-07-01,2026-07,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,200.2,index_2021_100
-2026-07-01,2026-07,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,168,index_2021_100
-2026-07-01,2026-07,I55,I55,Accommodation,Cazare,Szállás,170.5,index_2021_100
-2026-07-01,2026-07,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,110,index_2021_100
+2026-07-01,2026-07,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",128.5,index_2021_100
+2026-07-01,2026-07,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,90.7,index_2021_100
+2026-07-01,2026-07,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,90.2,index_2021_100
+2026-07-01,2026-07,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,124.2,index_2021_100
+2026-07-01,2026-07,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,200,index_2021_100
+2026-07-01,2026-07,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,167.1,index_2021_100
+2026-07-01,2026-07,I55,I55,Accommodation,Cazare,Szállás,170,index_2021_100
+2026-07-01,2026-07,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,109.7,index_2021_100
+2026-08-01,2026-08,_T,_T,Total,Total,Összesen,121.8,index_2021_100
+2026-08-01,2026-08,I,I,Accommodation and food service activities,Hoteluri și restaurante,"Szálláshely-szolgáltatás, vendéglátás",125.8,index_2021_100
+2026-08-01,2026-08,R92_R93,R92_R93,Gambling and betting activities; sporting and other recreational activities,Jocuri de noroc și alte activități recreative,Szerencsejáték és egyéb szórakoztatási tevékenységek,84.8,index_2021_100
+2026-08-01,2026-08,N79,N79,"Travel agency, tour operator and other reservation service and related activities",Agenții de turism; servicii de rezervare ale operatorilor,Utazási iroda; utazásszervező foglalási szolgáltatás,85.6,index_2021_100
+2026-08-01,2026-08,S9602,S9602,Hairdressing and other beauty treatment,Coafură și alte tratamente de înfrumusețare,Fodrászat és egyéb szépségápolás,127.8,index_2021_100
+2026-08-01,2026-08,S9601,S9601,Washing and (dry-)cleaning of textile and fur products,Spălarea și curățarea (uscată) a textilelor și blănurilor,Textil és szőrmetermékek mosása és (száraz) tisztítása,198.9,index_2021_100
+2026-08-01,2026-08,_O,_O,Other activities,Alte activități,Egyéb tevékenységek,166.3,index_2021_100
+2026-08-01,2026-08,I55,I55,Accommodation,Cazare,Szállás,165.6,index_2021_100
+2026-08-01,2026-08,I56,I56,Food and beverage service activities,Alimentație publică,Vendéglátás,108.2,index_2021_100
