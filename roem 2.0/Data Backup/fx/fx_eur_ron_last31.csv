@@ -1,5 +1,4 @@
 period,period_label,series,value,unit
-2026-09-30,2026-09-30,_Z,5.2785,ron_per_eur
 2026-10-01,2026-10-01,_Z,5.2777,ron_per_eur
 2026-10-02,2026-10-02,_Z,5.3447,ron_per_eur
 2026-10-05,2026-10-05,_Z,5.3306,ron_per_eur
@@ -30,3 +29,4 @@ period,period_label,series,value,unit
 2026-11-09,2026-11-09,_Z,5.3426,ron_per_eur
 2026-11-10,2026-11-10,_Z,5.3443,ron_per_eur
 2026-11-11,2026-11-11,_Z,5.346,ron_per_eur
+2026-11-12,2026-11-12,_Z,5.3459,ron_per_eur
