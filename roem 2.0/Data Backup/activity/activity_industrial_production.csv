@@ -12173,49 +12173,96 @@ period,period_label,series,activity,activity_label_en,activity_label_ro,activity
 2026-07-01,2026-07,MIG_NRG_X_D_E,MIG_NRG_X_D_E,MIG - energy (except sections D and E),MIG - Energie (cu excepția Secțiunilor D și E),MIG - Energia (kivéve D és E szekciók),91.9,index_2021_100
 2026-07-01,2026-07,B-D_X_FOOD,B-D_X_FOOD,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare; energie electrică și termică, gaze, apă caldă și aer condiționat (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat; feldolgozóipar; villamosenergia-, gáz-, gőzellátás, légkondicionálás (kivéve élelmiszer, ital és dohány)",89,index_2021_100
 2026-08-01,2026-08,B-D,B-D,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply","Industrie (industria extractivă; industria prelucrătoare; energie electrică și termică, gaze, apă caldă și aer condiționat)","Ipar (bányászat; feldolgozóipar; villamosenergia-, gáz-, gőzellátás, légkondicionálás)",93.1,index_2021_100
-2026-08-01,2026-08,B,B,Mining and quarrying,Industria extractivă,"Bányászat, kőfejtés",102.8,index_2021_100
-2026-08-01,2026-08,B05,B05,Mining of coal and lignite,Exploatarea cărbunelui și a lignitului,Szén- és lignitbányászat,69,index_2021_100
-2026-08-01,2026-08,B06,B06,Extraction of crude petroleum and natural gas,Extracția petrolului brut și a gazelor naturale,Nyersolaj és földgáz kitermelése,96.7,index_2021_100
-2026-08-01,2026-08,B07,B07,Mining of metal ores,Exploatarea minereurilor metalifere,Fémérc bányászata,145.9,index_2021_100
-2026-08-01,2026-08,B08,B08,Other mining and quarrying,Alte activități de extracție minieră și carieră,Egyéb bányászat és kőfejtés,119.7,index_2021_100
-2026-08-01,2026-08,B09,B09,Mining support service activities,Activități de servicii suport pentru extracția minieră,Bányászati támogató szolgáltatások,102.5,index_2021_100
-2026-08-01,2026-08,C,C,Manufacturing,Industria prelucrătoare,Feldolgozóipar,93.9,index_2021_100
-2026-08-01,2026-08,C10,C10,Manufacture of food products,Fabricarea produselor alimentare,Élelmiszeripari termékek gyártása,116.2,index_2021_100
-2026-08-01,2026-08,C11,C11,Manufacture of beverages,Fabricarea băuturilor,Italgyártás,96.5,index_2021_100
+2026-08-01,2026-08,B,B,Mining and quarrying,Industria extractivă,"Bányászat, kőfejtés",102.7,index_2021_100
+2026-08-01,2026-08,B05,B05,Mining of coal and lignite,Exploatarea cărbunelui și a lignitului,Szén- és lignitbányászat,68.6,index_2021_100
+2026-08-01,2026-08,B06,B06,Extraction of crude petroleum and natural gas,Extracția petrolului brut și a gazelor naturale,Nyersolaj és földgáz kitermelése,96.6,index_2021_100
+2026-08-01,2026-08,B07,B07,Mining of metal ores,Exploatarea minereurilor metalifere,Fémérc bányászata,145.1,index_2021_100
+2026-08-01,2026-08,B08,B08,Other mining and quarrying,Alte activități de extracție minieră și carieră,Egyéb bányászat és kőfejtés,120.6,index_2021_100
+2026-08-01,2026-08,B09,B09,Mining support service activities,Activități de servicii suport pentru extracția minieră,Bányászati támogató szolgáltatások,102,index_2021_100
+2026-08-01,2026-08,C,C,Manufacturing,Industria prelucrătoare,Feldolgozóipar,93.8,index_2021_100
+2026-08-01,2026-08,C10,C10,Manufacture of food products,Fabricarea produselor alimentare,Élelmiszeripari termékek gyártása,116.3,index_2021_100
+2026-08-01,2026-08,C11,C11,Manufacture of beverages,Fabricarea băuturilor,Italgyártás,96.7,index_2021_100
 2026-08-01,2026-08,C12,C12,Manufacture of tobacco products,Fabricarea produselor din tutun,Dohánytermékek gyártása,83.1,index_2021_100
 2026-08-01,2026-08,C13,C13,Manufacture of textiles,Fabricarea textilelor,Textilipar,50.6,index_2021_100
-2026-08-01,2026-08,C14,C14,Manufacture of wearing apparel,Fabricarea articolelor de îmbrăcăminte,Ruházati termékek gyártása,57.1,index_2021_100
+2026-08-01,2026-08,C14,C14,Manufacture of wearing apparel,Fabricarea articolelor de îmbrăcăminte,Ruházati termékek gyártása,57,index_2021_100
 2026-08-01,2026-08,C15,C15,Manufacture of leather and related products,Fabricarea produselor din piele și a celor conexe,Bőr és bőrtermékek gyártása,68.5,index_2021_100
 2026-08-01,2026-08,C16,C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",Fabricarea produselor din lemn și plută; cu excepția mobilei; fabricarea articolelor din paie și materiale împletite,Fa és parafa; kivéve bútor; szalma és fonott anyagok gyártása,79.9,index_2021_100
 2026-08-01,2026-08,C17,C17,Manufacture of paper and paper products,Fabricarea hârtiei și a produselor din hârtie,Papír és papírtermékek gyártása,107,index_2021_100
-2026-08-01,2026-08,C18,C18,Printing and reproduction of recorded media,Tipărirea și reproducerea suporturilor înregistrate,Nyomtatás és rögzített média sokszorosítása,78.5,index_2021_100
-2026-08-01,2026-08,C19,C19,Manufacture of coke and refined petroleum products,Fabricarea cocsului și a produselor petroliere rafinate,Koksz és finomított kőolajtermékek gyártása,97.8,index_2021_100
-2026-08-01,2026-08,C20,C20,Manufacture of chemicals and chemical products,Fabricarea substanțelor și a produselor chimice,Vegyi anyagok és vegyi termékek gyártása,64.9,index_2021_100
-2026-08-01,2026-08,C21,C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,Fabricarea produselor farmaceutice de bază și a preparatelor farmaceutice,Alapvető gyógyszeripari termékek és gyógyszerkészítmények gyártása,123.4,index_2021_100
-2026-08-01,2026-08,C22,C22,Manufacture of rubber and plastic products,Fabricarea produselor din cauciuc și mase plastice,Gumi- és műanyagtermékek gyártása,87.7,index_2021_100
-2026-08-01,2026-08,C23,C23,Manufacture of other non-metallic mineral products,Fabricarea altor produse minerale nemetalice,Egyéb nemfém ásványi termékek gyártása,85.2,index_2021_100
-2026-08-01,2026-08,C24,C24,Manufacture of basic metals,Fabricarea metalelor de bază,Alapfémek gyártása,67.7,index_2021_100
+2026-08-01,2026-08,C18,C18,Printing and reproduction of recorded media,Tipărirea și reproducerea suporturilor înregistrate,Nyomtatás és rögzített média sokszorosítása,78.6,index_2021_100
+2026-08-01,2026-08,C19,C19,Manufacture of coke and refined petroleum products,Fabricarea cocsului și a produselor petroliere rafinate,Koksz és finomított kőolajtermékek gyártása,97.6,index_2021_100
+2026-08-01,2026-08,C20,C20,Manufacture of chemicals and chemical products,Fabricarea substanțelor și a produselor chimice,Vegyi anyagok és vegyi termékek gyártása,65.1,index_2021_100
+2026-08-01,2026-08,C21,C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,Fabricarea produselor farmaceutice de bază și a preparatelor farmaceutice,Alapvető gyógyszeripari termékek és gyógyszerkészítmények gyártása,123.3,index_2021_100
+2026-08-01,2026-08,C22,C22,Manufacture of rubber and plastic products,Fabricarea produselor din cauciuc și mase plastice,Gumi- és műanyagtermékek gyártása,89.1,index_2021_100
+2026-08-01,2026-08,C23,C23,Manufacture of other non-metallic mineral products,Fabricarea altor produse minerale nemetalice,Egyéb nemfém ásványi termékek gyártása,85.3,index_2021_100
+2026-08-01,2026-08,C24,C24,Manufacture of basic metals,Fabricarea metalelor de bază,Alapfémek gyártása,67.8,index_2021_100
 2026-08-01,2026-08,C25,C25,"Manufacture of fabricated metal products, except machinery and equipment",Fabricarea produselor metalice prelucrate; cu excepția mașinilor și echipamentelor,Fémfeldolgozó termékek gyártása; kivéve gépek és berendezések,100.6,index_2021_100
-2026-08-01,2026-08,C26,C26,"Manufacture of computer, electronic and optical products",Fabricarea calculatoarelor; produselor electronice și optice,Számítógép; elektronikai és optikai termékek gyártása,130.8,index_2021_100
-2026-08-01,2026-08,C27,C27,Manufacture of electrical equipment,Fabricarea echipamentelor electrice,Elektromos berendezések gyártása,98.5,index_2021_100
-2026-08-01,2026-08,C28,C28,Manufacture of machinery and equipment n.e.c.,Fabricarea mașinilor și echipamentelor n.c.a.,Gépgyártás (egyéb; nem említett),101.5,index_2021_100
-2026-08-01,2026-08,C29,C29,"Manufacture of motor vehicles, trailers and semi-trailers",Fabricarea autovehiculelor; remorcilor și semiremorcilor,Gépjárművek; pótkocsik és félpótkocsik gyártása,92.6,index_2021_100
-2026-08-01,2026-08,C30,C30,Manufacture of other transport equipment,Fabricarea altor mijloace de transport,Egyéb közlekedési eszközök gyártása,132.9,index_2021_100
+2026-08-01,2026-08,C26,C26,"Manufacture of computer, electronic and optical products",Fabricarea calculatoarelor; produselor electronice și optice,Számítógép; elektronikai és optikai termékek gyártása,129.5,index_2021_100
+2026-08-01,2026-08,C27,C27,Manufacture of electrical equipment,Fabricarea echipamentelor electrice,Elektromos berendezések gyártása,98.2,index_2021_100
+2026-08-01,2026-08,C28,C28,Manufacture of machinery and equipment n.e.c.,Fabricarea mașinilor și echipamentelor n.c.a.,Gépgyártás (egyéb; nem említett),101,index_2021_100
+2026-08-01,2026-08,C29,C29,"Manufacture of motor vehicles, trailers and semi-trailers",Fabricarea autovehiculelor; remorcilor și semiremorcilor,Gépjárművek; pótkocsik és félpótkocsik gyártása,91.7,index_2021_100
+2026-08-01,2026-08,C30,C30,Manufacture of other transport equipment,Fabricarea altor mijloace de transport,Egyéb közlekedési eszközök gyártása,125.5,index_2021_100
 2026-08-01,2026-08,C31,C31,Manufacture of furniture,Fabricarea mobilei,Bútor gyártás,92.3,index_2021_100
-2026-08-01,2026-08,C32,C32,Other manufacturing,Alte activități de fabricație n.c.a.,Egyéb gyártás (nem máshova sorolt),105.7,index_2021_100
-2026-08-01,2026-08,C33,C33,Repair and installation of machinery and equipment,Repararea și instalarea mașinilor și echipamentelor,Gép- és berendezésjavítás és -telepítés,114.2,index_2021_100
-2026-08-01,2026-08,D,D,"Electricity, gas, steam and air conditioning supply","Producția și furnizarea de energie electrică și termică, gaze, apă caldă și aer condiționat","Villamosenergia-, gáz-, gőzellátás, légkondicionálás",83.3,index_2021_100
-2026-08-01,2026-08,D35,D35,"Electricity, gas, steam and air conditioning supply",Furnizarea de energie electrică; gaze; abur și aer condiționat,Villamosenergia; gáz; gőz és légkondicionálás ellátás,83.3,index_2021_100
-2026-08-01,2026-08,MIG_ING,MIG_ING,MIG - intermediate goods,MIG - Bunuri intermediare,MIG - Köztes termékek,85.2,index_2021_100
-2026-08-01,2026-08,MIG_CAG,MIG_CAG,MIG - capital goods,MIG - Bunuri de capital,MIG - Beruházási javak,104,index_2021_100
-2026-08-01,2026-08,MIG_DCOG,MIG_DCOG,MIG - durable consumer goods,MIG - Bunuri de consum durabile,MIG - Tartós fogyasztási cikkek,100.5,index_2021_100
-2026-08-01,2026-08,MIG_NDCOG,MIG_NDCOG,MIG - non-durable consumer goods,MIG - Bunuri de consum ne-durabile,MIG - Nem tartós fogyasztási cikkek,94.9,index_2021_100
+2026-08-01,2026-08,C32,C32,Other manufacturing,Alte activități de fabricație n.c.a.,Egyéb gyártás (nem máshova sorolt),105.4,index_2021_100
+2026-08-01,2026-08,C33,C33,Repair and installation of machinery and equipment,Repararea și instalarea mașinilor și echipamentelor,Gép- és berendezésjavítás és -telepítés,114.4,index_2021_100
+2026-08-01,2026-08,D,D,"Electricity, gas, steam and air conditioning supply","Producția și furnizarea de energie electrică și termică, gaze, apă caldă și aer condiționat","Villamosenergia-, gáz-, gőzellátás, légkondicionálás",83.5,index_2021_100
+2026-08-01,2026-08,D35,D35,"Electricity, gas, steam and air conditioning supply",Furnizarea de energie electrică; gaze; abur și aer condiționat,Villamosenergia; gáz; gőz és légkondicionálás ellátás,83.5,index_2021_100
+2026-08-01,2026-08,MIG_ING,MIG_ING,MIG - intermediate goods,MIG - Bunuri intermediare,MIG - Köztes termékek,85.6,index_2021_100
+2026-08-01,2026-08,MIG_CAG,MIG_CAG,MIG - capital goods,MIG - Bunuri de capital,MIG - Beruházási javak,103.1,index_2021_100
+2026-08-01,2026-08,MIG_DCOG,MIG_DCOG,MIG - durable consumer goods,MIG - Bunuri de consum durabile,MIG - Tartós fogyasztási cikkek,99.9,index_2021_100
+2026-08-01,2026-08,MIG_NDCOG,MIG_NDCOG,MIG - non-durable consumer goods,MIG - Bunuri de consum ne-durabile,MIG - Nem tartós fogyasztási cikkek,94.8,index_2021_100
 2026-08-01,2026-08,MIG_NRG_X_E,MIG_NRG_X_E,MIG - energy (except section E),MIG - Energie (cu excepția Secțiunii E),MIG - Energia (kivéve E szekció),86,index_2021_100
-2026-08-01,2026-08,B_C,B_C,Mining and quarrying; manufacturing,Industria extractivă; industria prelucrătoare,"Bányászat, kőfejtés; feldolgozóipar",94.6,index_2021_100
-2026-08-01,2026-08,B_C_X_FOOD,B_C_X_FOOD,"Mining and quarrying; manufacturing (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat, kőfejtés; feldolgozóipar (kivéve élelmiszer, ital és dohány)",93.1,index_2021_100
+2026-08-01,2026-08,B_C,B_C,Mining and quarrying; manufacturing,Industria extractivă; industria prelucrătoare,"Bányászat, kőfejtés; feldolgozóipar",94.5,index_2021_100
+2026-08-01,2026-08,B_C_X_FOOD,B_C_X_FOOD,"Mining and quarrying; manufacturing (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat, kőfejtés; feldolgozóipar (kivéve élelmiszer, ital és dohány)",93,index_2021_100
 2026-08-01,2026-08,B_C_X_MIG_NRG,B_C_X_MIG_NRG,Mining and quarrying; manufacturing (except MIG energy),Industria extractivă; industria prelucrătoare (cu excepția MIG energie),"Bányászat, kőfejtés; feldolgozóipar (kivéve MIG energia)",94.4,index_2021_100
-2026-08-01,2026-08,B_C_X_FD_MIG_NRG,B_C_X_FD_MIG_NRG,"Mining and quarrying; manufacturing (except MIG energy), except food, beverages and tobacco","Industria extractivă; industria prelucrătoare (cu excepția MIG energie și a produselor alimentare, băuturilor și tutunului)","Bányászat, kőfejtés; feldolgozóipar (kivéve MIG energia, valamint élelmiszer, ital és dohány)",91.8,index_2021_100
-2026-08-01,2026-08,MIG_COG,MIG_COG,MIG - consumer goods,MIG - Bunuri de consum,MIG - Fogyasztási cikkek,95.5,index_2021_100
-2026-08-01,2026-08,MIG_COG_X_FOOD,MIG_COG_X_FOOD,"MIG - consumer goods (except food, beverages and tobacco)",MIG - Bunuri de consum (cu excepția produselor alimentare; băuturilor și tutunului),MIG - Fogyasztási cikkek (kivéve élelmiszer; ital és dohány),85.3,index_2021_100
-2026-08-01,2026-08,MIG_NRG_X_D_E,MIG_NRG_X_D_E,MIG - energy (except sections D and E),MIG - Energie (cu excepția Secțiunilor D și E),MIG - Energia (kivéve D és E szekciók),94.7,index_2021_100
-2026-08-01,2026-08,B-D_X_FOOD,B-D_X_FOOD,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare; energie electrică și termică, gaze, apă caldă și aer condiționat (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat; feldolgozóipar; villamosenergia-, gáz-, gőzellátás, légkondicionálás (kivéve élelmiszer, ital és dohány)",91.7,index_2021_100
+2026-08-01,2026-08,B_C_X_FD_MIG_NRG,B_C_X_FD_MIG_NRG,"Mining and quarrying; manufacturing (except MIG energy), except food, beverages and tobacco","Industria extractivă; industria prelucrătoare (cu excepția MIG energie și a produselor alimentare, băuturilor și tutunului)","Bányászat, kőfejtés; feldolgozóipar (kivéve MIG energia, valamint élelmiszer, ital és dohány)",91.7,index_2021_100
+2026-08-01,2026-08,MIG_COG,MIG_COG,MIG - consumer goods,MIG - Bunuri de consum,MIG - Fogyasztási cikkek,95.4,index_2021_100
+2026-08-01,2026-08,MIG_COG_X_FOOD,MIG_COG_X_FOOD,"MIG - consumer goods (except food, beverages and tobacco)",MIG - Bunuri de consum (cu excepția produselor alimentare; băuturilor și tutunului),MIG - Fogyasztási cikkek (kivéve élelmiszer; ital és dohány),85.1,index_2021_100
+2026-08-01,2026-08,MIG_NRG_X_D_E,MIG_NRG_X_D_E,MIG - energy (except sections D and E),MIG - Energie (cu excepția Secțiunilor D și E),MIG - Energia (kivéve D és E szekciók),94.6,index_2021_100
+2026-08-01,2026-08,B-D_X_FOOD,B-D_X_FOOD,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare; energie electrică și termică, gaze, apă caldă și aer condiționat (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat; feldolgozóipar; villamosenergia-, gáz-, gőzellátás, légkondicionálás (kivéve élelmiszer, ital és dohány)",91.6,index_2021_100
+2026-09-01,2026-09,B-D,B-D,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply","Industrie (industria extractivă; industria prelucrătoare; energie electrică și termică, gaze, apă caldă și aer condiționat)","Ipar (bányászat; feldolgozóipar; villamosenergia-, gáz-, gőzellátás, légkondicionálás)",90.7,index_2021_100
+2026-09-01,2026-09,B,B,Mining and quarrying,Industria extractivă,"Bányászat, kőfejtés",98.4,index_2021_100
+2026-09-01,2026-09,B05,B05,Mining of coal and lignite,Exploatarea cărbunelui și a lignitului,Szén- és lignitbányászat,57,index_2021_100
+2026-09-01,2026-09,B06,B06,Extraction of crude petroleum and natural gas,Extracția petrolului brut și a gazelor naturale,Nyersolaj és földgáz kitermelése,93,index_2021_100
+2026-09-01,2026-09,B07,B07,Mining of metal ores,Exploatarea minereurilor metalifere,Fémérc bányászata,122.3,index_2021_100
+2026-09-01,2026-09,B08,B08,Other mining and quarrying,Alte activități de extracție minieră și carieră,Egyéb bányászat és kőfejtés,122.6,index_2021_100
+2026-09-01,2026-09,B09,B09,Mining support service activities,Activități de servicii suport pentru extracția minieră,Bányászati támogató szolgáltatások,80.3,index_2021_100
+2026-09-01,2026-09,C,C,Manufacturing,Industria prelucrătoare,Feldolgozóipar,92.1,index_2021_100
+2026-09-01,2026-09,C10,C10,Manufacture of food products,Fabricarea produselor alimentare,Élelmiszeripari termékek gyártása,118.8,index_2021_100
+2026-09-01,2026-09,C11,C11,Manufacture of beverages,Fabricarea băuturilor,Italgyártás,100,index_2021_100
+2026-09-01,2026-09,C12,C12,Manufacture of tobacco products,Fabricarea produselor din tutun,Dohánytermékek gyártása,84.7,index_2021_100
+2026-09-01,2026-09,C13,C13,Manufacture of textiles,Fabricarea textilelor,Textilipar,50.3,index_2021_100
+2026-09-01,2026-09,C14,C14,Manufacture of wearing apparel,Fabricarea articolelor de îmbrăcăminte,Ruházati termékek gyártása,57.6,index_2021_100
+2026-09-01,2026-09,C15,C15,Manufacture of leather and related products,Fabricarea produselor din piele și a celor conexe,Bőr és bőrtermékek gyártása,69.9,index_2021_100
+2026-09-01,2026-09,C16,C16,"Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",Fabricarea produselor din lemn și plută; cu excepția mobilei; fabricarea articolelor din paie și materiale împletite,Fa és parafa; kivéve bútor; szalma és fonott anyagok gyártása,81.4,index_2021_100
+2026-09-01,2026-09,C17,C17,Manufacture of paper and paper products,Fabricarea hârtiei și a produselor din hârtie,Papír és papírtermékek gyártása,112.5,index_2021_100
+2026-09-01,2026-09,C18,C18,Printing and reproduction of recorded media,Tipărirea și reproducerea suporturilor înregistrate,Nyomtatás és rögzített média sokszorosítása,91.9,index_2021_100
+2026-09-01,2026-09,C19,C19,Manufacture of coke and refined petroleum products,Fabricarea cocsului și a produselor petroliere rafinate,Koksz és finomított kőolajtermékek gyártása,84.3,index_2021_100
+2026-09-01,2026-09,C20,C20,Manufacture of chemicals and chemical products,Fabricarea substanțelor și a produselor chimice,Vegyi anyagok és vegyi termékek gyártása,70.3,index_2021_100
+2026-09-01,2026-09,C21,C21,Manufacture of basic pharmaceutical products and pharmaceutical preparations,Fabricarea produselor farmaceutice de bază și a preparatelor farmaceutice,Alapvető gyógyszeripari termékek és gyógyszerkészítmények gyártása,108.5,index_2021_100
+2026-09-01,2026-09,C22,C22,Manufacture of rubber and plastic products,Fabricarea produselor din cauciuc și mase plastice,Gumi- és műanyagtermékek gyártása,91.8,index_2021_100
+2026-09-01,2026-09,C23,C23,Manufacture of other non-metallic mineral products,Fabricarea altor produse minerale nemetalice,Egyéb nemfém ásványi termékek gyártása,89.4,index_2021_100
+2026-09-01,2026-09,C24,C24,Manufacture of basic metals,Fabricarea metalelor de bază,Alapfémek gyártása,68,index_2021_100
+2026-09-01,2026-09,C25,C25,"Manufacture of fabricated metal products, except machinery and equipment",Fabricarea produselor metalice prelucrate; cu excepția mașinilor și echipamentelor,Fémfeldolgozó termékek gyártása; kivéve gépek és berendezések,98.8,index_2021_100
+2026-09-01,2026-09,C26,C26,"Manufacture of computer, electronic and optical products",Fabricarea calculatoarelor; produselor electronice și optice,Számítógép; elektronikai és optikai termékek gyártása,105.6,index_2021_100
+2026-09-01,2026-09,C27,C27,Manufacture of electrical equipment,Fabricarea echipamentelor electrice,Elektromos berendezések gyártása,93.3,index_2021_100
+2026-09-01,2026-09,C28,C28,Manufacture of machinery and equipment n.e.c.,Fabricarea mașinilor și echipamentelor n.c.a.,Gépgyártás (egyéb; nem említett),91.4,index_2021_100
+2026-09-01,2026-09,C29,C29,"Manufacture of motor vehicles, trailers and semi-trailers",Fabricarea autovehiculelor; remorcilor și semiremorcilor,Gépjárművek; pótkocsik és félpótkocsik gyártása,86.6,index_2021_100
+2026-09-01,2026-09,C30,C30,Manufacture of other transport equipment,Fabricarea altor mijloace de transport,Egyéb közlekedési eszközök gyártása,128.4,index_2021_100
+2026-09-01,2026-09,C31,C31,Manufacture of furniture,Fabricarea mobilei,Bútor gyártás,92.5,index_2021_100
+2026-09-01,2026-09,C32,C32,Other manufacturing,Alte activități de fabricație n.c.a.,Egyéb gyártás (nem máshova sorolt),99.7,index_2021_100
+2026-09-01,2026-09,C33,C33,Repair and installation of machinery and equipment,Repararea și instalarea mașinilor și echipamentelor,Gép- és berendezésjavítás és -telepítés,103.5,index_2021_100
+2026-09-01,2026-09,D,D,"Electricity, gas, steam and air conditioning supply","Producția și furnizarea de energie electrică și termică, gaze, apă caldă și aer condiționat","Villamosenergia-, gáz-, gőzellátás, légkondicionálás",79.4,index_2021_100
+2026-09-01,2026-09,D35,D35,"Electricity, gas, steam and air conditioning supply",Furnizarea de energie electrică; gaze; abur și aer condiționat,Villamosenergia; gáz; gőz és légkondicionálás ellátás,79.4,index_2021_100
+2026-09-01,2026-09,MIG_ING,MIG_ING,MIG - intermediate goods,MIG - Bunuri intermediare,MIG - Köztes termékek,89.1,index_2021_100
+2026-09-01,2026-09,MIG_CAG,MIG_CAG,MIG - capital goods,MIG - Bunuri de capital,MIG - Beruházási javak,96.3,index_2021_100
+2026-09-01,2026-09,MIG_DCOG,MIG_DCOG,MIG - durable consumer goods,MIG - Bunuri de consum durabile,MIG - Tartós fogyasztási cikkek,95.8,index_2021_100
+2026-09-01,2026-09,MIG_NDCOG,MIG_NDCOG,MIG - non-durable consumer goods,MIG - Bunuri de consum ne-durabile,MIG - Nem tartós fogyasztási cikkek,94.6,index_2021_100
+2026-09-01,2026-09,MIG_NRG_X_E,MIG_NRG_X_E,MIG - energy (except section E),MIG - Energie (cu excepția Secțiunii E),MIG - Energia (kivéve E szekció),81.8,index_2021_100
+2026-09-01,2026-09,B_C,B_C,Mining and quarrying; manufacturing,Industria extractivă; industria prelucrătoare,"Bányászat, kőfejtés; feldolgozóipar",92.6,index_2021_100
+2026-09-01,2026-09,B_C_X_FOOD,B_C_X_FOOD,"Mining and quarrying; manufacturing (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat, kőfejtés; feldolgozóipar (kivéve élelmiszer, ital és dohány)",90,index_2021_100
+2026-09-01,2026-09,B_C_X_MIG_NRG,B_C_X_MIG_NRG,Mining and quarrying; manufacturing (except MIG energy),Industria extractivă; industria prelucrătoare (cu excepția MIG energie),"Bányászat, kőfejtés; feldolgozóipar (kivéve MIG energia)",92.7,index_2021_100
+2026-09-01,2026-09,B_C_X_FD_MIG_NRG,B_C_X_FD_MIG_NRG,"Mining and quarrying; manufacturing (except MIG energy), except food, beverages and tobacco","Industria extractivă; industria prelucrătoare (cu excepția MIG energie și a produselor alimentare, băuturilor și tutunului)","Bányászat, kőfejtés; feldolgozóipar (kivéve MIG energia, valamint élelmiszer, ital és dohány)",90,index_2021_100
+2026-09-01,2026-09,MIG_COG,MIG_COG,MIG - consumer goods,MIG - Bunuri de consum,MIG - Fogyasztási cikkek,95,index_2021_100
+2026-09-01,2026-09,MIG_COG_X_FOOD,MIG_COG_X_FOOD,"MIG - consumer goods (except food, beverages and tobacco)",MIG - Bunuri de consum (cu excepția produselor alimentare; băuturilor și tutunului),MIG - Fogyasztási cikkek (kivéve élelmiszer; ital és dohány),82.5,index_2021_100
+2026-09-01,2026-09,MIG_NRG_X_D_E,MIG_NRG_X_D_E,MIG - energy (except sections D and E),MIG - Energie (cu excepția Secțiunilor D și E),MIG - Energia (kivéve D és E szekciók),88,index_2021_100
+2026-09-01,2026-09,B-D_X_FOOD,B-D_X_FOOD,"Mining and quarrying; manufacturing; electricity, gas, steam and air conditioning supply (except food, beverages and tobacco)","Industria extractivă; industria prelucrătoare; energie electrică și termică, gaze, apă caldă și aer condiționat (cu excepția produselor alimentare, băuturilor și tutunului)","Bányászat; feldolgozóipar; villamosenergia-, gáz-, gőzellátás, légkondicionálás (kivéve élelmiszer, ital és dohány)",88.1,index_2021_100
