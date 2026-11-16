@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T04:20:05+00:00",
+ "generated_at": "2026-11-16T04:20:05+00:00",
  "api": "https://roem-api.csaladen.es",
  "files": [
   {
@@ -743,16 +743,16 @@
    "tile": "markets_bitcoin",
    "dataset": "markets_bitcoin",
    "view": null,
-   "bytes": 12003,
-   "sha256": "f1992b8e4c7829909c3158b74145b771663b9eb6b035d7b755544ebe105b91d5",
+   "bytes": 12041,
+   "sha256": "77b2eabd8d5f13ef25339c8d148ea3575f75a9d6450b75c51f7db35d5c8b4526",
    "title": "Bitcoin price",
    "source": "yahoo",
    "unit": "usd",
    "frequency": "D",
-   "rows": 316,
-   "published": "2026-11-15T00:40:08.557078+00:00",
+   "rows": 317,
+   "published": "2026-11-16T00:40:07.239209+00:00",
    "period_from": "2026-01-02",
-   "period_to": "2026-11-13"
+   "period_to": "2026-11-14"
   },
   {
    "file": "markets/markets_bitcoin_last30.csv",
@@ -760,15 +760,15 @@
    "dataset": "markets_bitcoin",
    "view": null,
    "bytes": 1172,
-   "sha256": "c4d355586423c639f322df1626a221dca4235561dccbd47bb8119ac44ff80374",
+   "sha256": "416634835817e7776199324296f0a9bed213b1de1c8155d8e16166f95e0aaebb",
    "title": "Bitcoin price",
    "source": "yahoo",
    "unit": "usd",
    "frequency": "D",
    "rows": 30,
-   "published": "2026-11-15T00:40:08.980058+00:00",
-   "period_from": "2026-10-15",
-   "period_to": "2026-11-13"
+   "published": "2026-11-16T00:40:07.559564+00:00",
+   "period_from": "2026-10-16",
+   "period_to": "2026-11-14"
   },
   {
    "file": "markets/markets_gold.csv",
