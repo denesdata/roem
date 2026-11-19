@@ -1822,10 +1822,10 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,MM.unemployment_rate,MM,Maramures,Maramureș,Máramaros,27,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
 2025-01-01,2025,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,330466,persons
 2025-01-01,2025,SM.gdp_per_capita,SM,Satu Mare,Satu Mare,Szatmár,34,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13381,eur_per_capita
-2025-01-01,2025,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
+2025-01-01,2025,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
 2025-01-01,2025,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,211140,persons
 2025-01-01,2025,SJ.gdp_per_capita,SJ,Salaj,Sălaj,Szilágy,33,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15158,eur_per_capita
-2025-01-01,2025,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
+2025-01-01,2025,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
 2025-01-01,2025,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,325260,persons
 2025-01-01,2025,AB.gdp_per_capita,AB,Alba,Alba,Fehér,1,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,17731,eur_per_capita
 2025-01-01,2025,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
@@ -1834,13 +1834,13 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
 2025-01-01,2025,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,199606,persons
 2025-01-01,2025,CV.gdp_per_capita,CV,Covasna,Covasna,Kovászna,16,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13373,eur_per_capita
-2025-01-01,2025,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
+2025-01-01,2025,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
 2025-01-01,2025,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,291871,persons
 2025-01-01,2025,HR.gdp_per_capita,HR,Harghita,Harghita,Hargita,22,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14517,eur_per_capita
-2025-01-01,2025,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.2,pct
+2025-01-01,2025,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
 2025-01-01,2025,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,519574,persons
 2025-01-01,2025,MS.gdp_per_capita,MS,Mures,Mureș,Maros,29,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15614,eur_per_capita
-2025-01-01,2025,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.5,pct
+2025-01-01,2025,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.6,pct
 2025-01-01,2025,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,394963,persons
 2025-01-01,2025,SB.gdp_per_capita,SB,Sibiu,Sibiu,Szeben,35,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,19659,eur_per_capita
 2025-01-01,2025,SB.unemployment_rate,SB,Sibiu,Sibiu,Szeben,35,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.1,pct
@@ -1849,10 +1849,10 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.6,pct
 2025-01-01,2025,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,388291,persons
 2025-01-01,2025,BT.gdp_per_capita,BT,Botosani,Botoșani,Botosány,7,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,8885,eur_per_capita
-2025-01-01,2025,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
+2025-01-01,2025,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
 2025-01-01,2025,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,780271,persons
 2025-01-01,2025,IS.gdp_per_capita,IS,Iasi,Iași,Jász,24,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16073,eur_per_capita
-2025-01-01,2025,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.4,pct
+2025-01-01,2025,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
 2025-01-01,2025,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,445750,persons
 2025-01-01,2025,NT.gdp_per_capita,NT,Neamt,Neamț,Neámț,30,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12015,eur_per_capita
 2025-01-01,2025,NT.unemployment_rate,NT,Neamt,Neamț,Neámț,30,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.7,pct
@@ -1861,46 +1861,46 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.7,pct
 2025-01-01,2025,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,365977,persons
 2025-01-01,2025,VS.gdp_per_capita,VS,Vaslui,Vaslui,Vaslui,42,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,8526,eur_per_capita
-2025-01-01,2025,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.9,pct
+2025-01-01,2025,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.1,pct
 2025-01-01,2025,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,271655,persons
 2025-01-01,2025,BR.gdp_per_capita,BR,Braila,Brăila,Brăila,9,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,14239,eur_per_capita
-2025-01-01,2025,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.2,pct
+2025-01-01,2025,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
 2025-01-01,2025,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,395517,persons
 2025-01-01,2025,BZ.gdp_per_capita,BZ,Buzau,Buzău,Buzău,11,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12470,eur_per_capita
 2025-01-01,2025,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.1,pct
 2025-01-01,2025,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,656082,persons
 2025-01-01,2025,CT.gdp_per_capita,CT,Constanta,Constanța,Konstanca,15,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,23277,eur_per_capita
-2025-01-01,2025,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
+2025-01-01,2025,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.3,pct
 2025-01-01,2025,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,489056,persons
 2025-01-01,2025,GL.gdp_per_capita,GL,Galati,Galați,Galați,19,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11419,eur_per_capita
-2025-01-01,2025,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
+2025-01-01,2025,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
 2025-01-01,2025,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,187619,persons
 2025-01-01,2025,TL.gdp_per_capita,TL,Tulcea,Tulcea,Tulcsa,39,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16263,eur_per_capita
 2025-01-01,2025,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2025-01-01,2025,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,331236,persons
 2025-01-01,2025,VN.gdp_per_capita,VN,Vrancea,Vrancea,Vrancea,41,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,11243,eur_per_capita
-2025-01-01,2025,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.9,pct
+2025-01-01,2025,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2025-01-01,2025,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,561990,persons
 2025-01-01,2025,AG.gdp_per_capita,AG,Arges,Argeș,Argeș,3,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,17119,eur_per_capita
 2025-01-01,2025,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
 2025-01-01,2025,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,278602,persons
 2025-01-01,2025,CL.gdp_per_capita,CL,Calarasi,Călărași,Călărași,12,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,10220,eur_per_capita
-2025-01-01,2025,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2025-01-01,2025,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2025-01-01,2025,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,476523,persons
 2025-01-01,2025,DB.gdp_per_capita,DB,Dambovita,Dâmbovița,Dâmbovița,17,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13456,eur_per_capita
 2025-01-01,2025,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2025-01-01,2025,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,261198,persons
 2025-01-01,2025,GR.gdp_per_capita,GR,Giurgiu,Giurgiu,Giurgiu,20,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,9206,eur_per_capita
-2025-01-01,2025,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.2,pct
+2025-01-01,2025,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
 2025-01-01,2025,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,248786,persons
 2025-01-01,2025,IL.gdp_per_capita,IL,Ialomita,Ialomița,Ialomița,25,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12925,eur_per_capita
-2025-01-01,2025,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
+2025-01-01,2025,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2025-01-01,2025,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,685562,persons
 2025-01-01,2025,PH.gdp_per_capita,PH,Prahova,Prahova,Prahova,32,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,22266,eur_per_capita
 2025-01-01,2025,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.2,pct
 2025-01-01,2025,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,313033,persons
 2025-01-01,2025,TR.gdp_per_capita,TR,Teleorman,Teleorman,Teleorman,37,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13465,eur_per_capita
-2025-01-01,2025,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.3,pct
+2025-01-01,2025,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.5,pct
 2025-01-01,2025,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,604264,persons
 2025-01-01,2025,IF.gdp_per_capita,IF,Ilfov,Ilfov,Ilfov,26,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,18062,eur_per_capita
 2025-01-01,2025,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.5,pct
@@ -1909,13 +1909,13 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.5,pct
 2025-01-01,2025,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,595229,persons
 2025-01-01,2025,DJ.gdp_per_capita,DJ,Dolj,Dolj,Dolj,18,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15658,eur_per_capita
-2025-01-01,2025,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.6,pct
+2025-01-01,2025,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.8,pct
 2025-01-01,2025,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,307702,persons
 2025-01-01,2025,GJ.gdp_per_capita,GJ,Gorj,Gorj,Gorj,21,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,23242,eur_per_capita
 2025-01-01,2025,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
 2025-01-01,2025,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,229220,persons
 2025-01-01,2025,MH.gdp_per_capita,MH,Mehedinti,Mehedinți,Mehedinți,28,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,13534,eur_per_capita
-2025-01-01,2025,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.1,pct
+2025-01-01,2025,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.3,pct
 2025-01-01,2025,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,375641,persons
 2025-01-01,2025,OT.gdp_per_capita,OT,Olt,Olt,Olt,31,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,12109,eur_per_capita
 2025-01-01,2025,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
@@ -1927,13 +1927,13 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2025-01-01,2025,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
 2025-01-01,2025,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,242232,persons
 2025-01-01,2025,CS.gdp_per_capita,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,16095,eur_per_capita
-2025-01-01,2025,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4,pct
+2025-01-01,2025,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.2,pct
 2025-01-01,2025,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,351253,persons
 2025-01-01,2025,HD.gdp_per_capita,HD,Hunedoara,Hunedoara,Hunyad,23,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,15252,eur_per_capita
-2025-01-01,2025,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
+2025-01-01,2025,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5,pct
 2025-01-01,2025,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,667225,persons
 2025-01-01,2025,TM.gdp_per_capita,TM,Timis,Timiș,Temes,38,gdp_per_capita,GDP per capita,PIB pe locuitor,Egy főre jutó GDP,24415,eur_per_capita
-2025-01-01,2025,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1,pct
+2025-01-01,2025,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.1,pct
 2026-01-01,2026,_T.population,_T,Romania,România,Románia,,population,Population,Populație,Népesség,19041322,persons
 2026-01-01,2026,_T.unemployment_rate,_T,Romania,România,Románia,,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
 2026-01-01,2026,BH.population,BH,Bihor,Bihor,Bihar,5,population,Population,Populație,Népesség,558623,persons
@@ -1947,15 +1947,15 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2026-01-01,2026,SM.population,SM,Satu Mare,Satu Mare,Szatmár,34,population,Population,Populație,Népesség,330046,persons
 2026-01-01,2026,SM.unemployment_rate,SM,Satu Mare,Satu Mare,Szatmár,34,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2026-01-01,2026,SJ.population,SJ,Salaj,Sălaj,Szilágy,33,population,Population,Populație,Népesség,210335,persons
-2026-01-01,2026,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.3,pct
+2026-01-01,2026,SJ.unemployment_rate,SJ,Salaj,Sălaj,Szilágy,33,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
 2026-01-01,2026,AB.population,AB,Alba,Alba,Fehér,1,population,Population,Populație,Népesség,324901,persons
-2026-01-01,2026,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
+2026-01-01,2026,AB.unemployment_rate,AB,Alba,Alba,Fehér,1,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4,pct
 2026-01-01,2026,BV.population,BV,Brasov,Brașov,Brassó,8,population,Population,Populație,Népesség,564632,persons
 2026-01-01,2026,BV.unemployment_rate,BV,Brasov,Brașov,Brassó,8,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.9,pct
 2026-01-01,2026,CV.population,CV,Covasna,Covasna,Kovászna,16,population,Population,Populație,Népesség,199596,persons
-2026-01-01,2026,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.6,pct
+2026-01-01,2026,CV.unemployment_rate,CV,Covasna,Covasna,Kovászna,16,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.5,pct
 2026-01-01,2026,HR.population,HR,Harghita,Harghita,Hargita,22,population,Population,Populație,Népesség,292267,persons
-2026-01-01,2026,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.8,pct
+2026-01-01,2026,HR.unemployment_rate,HR,Harghita,Harghita,Hargita,22,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.9,pct
 2026-01-01,2026,MS.population,MS,Mures,Mureș,Maros,29,population,Population,Populație,Népesség,519813,persons
 2026-01-01,2026,MS.unemployment_rate,MS,Mures,Mureș,Maros,29,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.8,pct
 2026-01-01,2026,SB.population,SB,Sibiu,Sibiu,Szeben,35,population,Population,Populație,Népesség,396679,persons
@@ -1963,7 +1963,7 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2026-01-01,2026,BC.population,BC,Bacau,Bacău,Bákó,4,population,Population,Populație,Népesség,590169,persons
 2026-01-01,2026,BC.unemployment_rate,BC,Bacau,Bacău,Bákó,4,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.7,pct
 2026-01-01,2026,BT.population,BT,Botosani,Botoșani,Botosány,7,population,Population,Populație,Népesség,386529,persons
-2026-01-01,2026,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
+2026-01-01,2026,BT.unemployment_rate,BT,Botosani,Botoșani,Botosány,7,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
 2026-01-01,2026,IS.population,IS,Iasi,Iași,Jász,24,population,Population,Populație,Népesség,781948,persons
 2026-01-01,2026,IS.unemployment_rate,IS,Iasi,Iași,Jász,24,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.5,pct
 2026-01-01,2026,NT.population,NT,Neamt,Neamț,Neámț,30,population,Population,Populație,Népesség,444666,persons
@@ -1971,52 +1971,52 @@ period,period_label,series,county,county_label_en,county_label_ro,county_label_h
 2026-01-01,2026,SV.population,SV,Suceava,Suceava,Szucsáva,36,population,Population,Populație,Népesség,648164,persons
 2026-01-01,2026,SV.unemployment_rate,SV,Suceava,Suceava,Szucsáva,36,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.4,pct
 2026-01-01,2026,VS.population,VS,Vaslui,Vaslui,Vaslui,42,population,Population,Populație,Népesség,363247,persons
-2026-01-01,2026,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9,pct
+2026-01-01,2026,VS.unemployment_rate,VS,Vaslui,Vaslui,Vaslui,42,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,9.2,pct
 2026-01-01,2026,BR.population,BR,Braila,Brăila,Brăila,9,population,Population,Populație,Népesség,269804,persons
-2026-01-01,2026,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
+2026-01-01,2026,BR.unemployment_rate,BR,Braila,Brăila,Brăila,9,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2026-01-01,2026,BZ.population,BZ,Buzau,Buzău,Buzău,11,population,Population,Populație,Népesség,393136,persons
-2026-01-01,2026,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.8,pct
+2026-01-01,2026,BZ.unemployment_rate,BZ,Buzau,Buzău,Buzău,11,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.9,pct
 2026-01-01,2026,CT.population,CT,Constanta,Constanța,Konstanca,15,population,Population,Populație,Népesség,656512,persons
 2026-01-01,2026,CT.unemployment_rate,CT,Constanta,Constanța,Konstanca,15,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.1,pct
 2026-01-01,2026,GL.population,GL,Galati,Galați,Galați,19,population,Population,Populație,Népesség,486387,persons
-2026-01-01,2026,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.1,pct
+2026-01-01,2026,GL.unemployment_rate,GL,Galati,Galați,Galați,19,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6.2,pct
 2026-01-01,2026,TL.population,TL,Tulcea,Tulcea,Tulcsa,39,population,Population,Populație,Népesség,186131,persons
 2026-01-01,2026,TL.unemployment_rate,TL,Tulcea,Tulcea,Tulcsa,39,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.1,pct
 2026-01-01,2026,VN.population,VN,Vrancea,Vrancea,Vrancea,41,population,Population,Populație,Népesség,330157,persons
-2026-01-01,2026,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2,pct
+2026-01-01,2026,VN.unemployment_rate,VN,Vrancea,Vrancea,Vrancea,41,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.1,pct
 2026-01-01,2026,AG.population,AG,Arges,Argeș,Argeș,3,population,Population,Populație,Népesség,561864,persons
 2026-01-01,2026,AG.unemployment_rate,AG,Arges,Argeș,Argeș,3,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.3,pct
 2026-01-01,2026,CL.population,CL,Calarasi,Călărași,Călărași,12,population,Population,Populație,Népesség,277347,persons
-2026-01-01,2026,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2026-01-01,2026,CL.unemployment_rate,CL,Calarasi,Călărași,Călărași,12,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,6,pct
 2026-01-01,2026,DB.population,DB,Dambovita,Dâmbovița,Dâmbovița,17,population,Population,Populație,Népesség,475812,persons
 2026-01-01,2026,DB.unemployment_rate,DB,Dambovita,Dâmbovița,Dâmbovița,17,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.1,pct
 2026-01-01,2026,GR.population,GR,Giurgiu,Giurgiu,Giurgiu,20,population,Population,Populație,Népesség,258793,persons
-2026-01-01,2026,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.3,pct
+2026-01-01,2026,GR.unemployment_rate,GR,Giurgiu,Giurgiu,Giurgiu,20,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
 2026-01-01,2026,IL.population,IL,Ialomita,Ialomița,Ialomița,25,population,Population,Populație,Népesség,247409,persons
-2026-01-01,2026,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.8,pct
+2026-01-01,2026,IL.unemployment_rate,IL,Ialomita,Ialomița,Ialomița,25,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2026-01-01,2026,PH.population,PH,Prahova,Prahova,Prahova,32,population,Population,Populație,Népesség,683460,persons
 2026-01-01,2026,PH.unemployment_rate,PH,Prahova,Prahova,Prahova,32,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
 2026-01-01,2026,TR.population,TR,Teleorman,Teleorman,Teleorman,37,population,Population,Populație,Népesség,308440,persons
-2026-01-01,2026,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
+2026-01-01,2026,TR.unemployment_rate,TR,Teleorman,Teleorman,Teleorman,37,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.7,pct
 2026-01-01,2026,IF.population,IF,Ilfov,Ilfov,Ilfov,26,population,Population,Populație,Népesség,619461,persons
-2026-01-01,2026,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.6,pct
+2026-01-01,2026,IF.unemployment_rate,IF,Ilfov,Ilfov,Ilfov,26,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.5,pct
 2026-01-01,2026,B.population,B,Bucuresti,București,Bukarest,10,population,Population,Populație,Népesség,1713832,persons
 2026-01-01,2026,B.unemployment_rate,B,Bucuresti,București,Bukarest,10,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,0.4,pct
 2026-01-01,2026,DJ.population,DJ,Dolj,Dolj,Dolj,18,population,Population,Populație,Népesség,594523,persons
-2026-01-01,2026,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
+2026-01-01,2026,DJ.unemployment_rate,DJ,Dolj,Dolj,Dolj,18,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.7,pct
 2026-01-01,2026,GJ.population,GJ,Gorj,Gorj,Gorj,21,population,Population,Populație,Népesség,306938,persons
 2026-01-01,2026,GJ.unemployment_rate,GJ,Gorj,Gorj,Gorj,21,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,4.4,pct
 2026-01-01,2026,MH.population,MH,Mehedinti,Mehedinți,Mehedinți,28,population,Population,Populație,Népesség,226429,persons
-2026-01-01,2026,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.3,pct
+2026-01-01,2026,MH.unemployment_rate,MH,Mehedinti,Mehedinți,Mehedinți,28,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,8.5,pct
 2026-01-01,2026,OT.population,OT,Olt,Olt,Olt,31,population,Population,Populație,Népesség,372181,persons
 2026-01-01,2026,OT.unemployment_rate,OT,Olt,Olt,Olt,31,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.9,pct
 2026-01-01,2026,VL.population,VL,Valcea,Vâlcea,Vâlcea,40,population,Population,Populație,Népesség,337988,persons
 2026-01-01,2026,VL.unemployment_rate,VL,Valcea,Vâlcea,Vâlcea,40,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3,pct
 2026-01-01,2026,AR.population,AR,Arad,Arad,Arad,2,population,Population,Populație,Népesség,410058,persons
-2026-01-01,2026,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.4,pct
+2026-01-01,2026,AR.unemployment_rate,AR,Arad,Arad,Arad,2,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,2.5,pct
 2026-01-01,2026,CS.population,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,population,Population,Populație,Népesség,240283,persons
-2026-01-01,2026,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.6,pct
+2026-01-01,2026,CS.unemployment_rate,CS,Caras-Severin,Caraș-Severin,Krassó-Szörény,13,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,3.7,pct
 2026-01-01,2026,HD.population,HD,Hunedoara,Hunedoara,Hunyad,23,population,Population,Populație,Népesség,349011,persons
-2026-01-01,2026,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.3,pct
+2026-01-01,2026,HD.unemployment_rate,HD,Hunedoara,Hunedoara,Hunyad,23,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,5.4,pct
 2026-01-01,2026,TM.population,TM,Timis,Timiș,Temes,38,population,Population,Populație,Népesség,672972,persons
 2026-01-01,2026,TM.unemployment_rate,TM,Timis,Timiș,Temes,38,unemployment_rate,Unemployment rate,Rata șomajului,Munkanélküliségi ráta,1.1,pct

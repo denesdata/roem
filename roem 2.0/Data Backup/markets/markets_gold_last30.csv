@@ -1,5 +1,4 @@
 period,period_label,series,value,unit
-2026-10-06,2026-10-06,_Z,4187.1,usd_per_oz
 2026-10-07,2026-10-07,_Z,4140.7,usd_per_oz
 2026-10-08,2026-10-08,_Z,4157,usd_per_oz
 2026-10-09,2026-10-09,_Z,4216.3,usd_per_oz
@@ -29,3 +28,4 @@ period,period_label,series,value,unit
 2026-11-12,2026-11-12,_Z,3885.3,usd_per_oz
 2026-11-13,2026-11-13,_Z,3886.3,usd_per_oz
 2026-11-16,2026-11-16,_Z,3853,usd_per_oz
+2026-11-17,2026-11-17,_Z,3864.2,usd_per_oz
