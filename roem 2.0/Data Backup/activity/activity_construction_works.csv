@@ -2071,11 +2071,19 @@ period,period_label,series,activity,activity_label_en,activity_label_ro,activity
 2026-07-01,2026-07,F_CC12,F_CC12,Non-residential buildings,Clădiri nerezidențiale,Nem lakóépületek,161.2,index_2021_100
 2026-07-01,2026-07,F_CC2,F_CC2,Civil engineering works,Inginerie civilă,Mélyépítés,194.8,index_2021_100
 2026-07-01,2026-07,F_CC1,F_CC1,Buildings,Construcții de clădiri,Magasépítés,139.1,index_2021_100
-2026-08-01,2026-08,F,F,Construction,Construcții,Építőipar,173.9,index_2021_100
-2026-08-01,2026-08,new_construction,new_construction,New construction,Construcții noi,Új építés,173.7,index_2021_100
-2026-08-01,2026-08,capital_repair,capital_repair,Capital repair works,Lucrări de reparații capitale,Tőkejellegű felújítás,271.2,index_2021_100
-2026-08-01,2026-08,current_repair,current_repair,Current repair works,Lucrări de reparații curente,Folyó javítás,138.1,index_2021_100
-2026-08-01,2026-08,F_CC11,F_CC11,Residential buildings,Clădiri rezidențiale,Lakóépületek,126.8,index_2021_100
-2026-08-01,2026-08,F_CC12,F_CC12,Non-residential buildings,Clădiri nerezidențiale,Nem lakóépületek,164.5,index_2021_100
-2026-08-01,2026-08,F_CC2,F_CC2,Civil engineering works,Inginerie civilă,Mélyépítés,206.9,index_2021_100
-2026-08-01,2026-08,F_CC1,F_CC1,Buildings,Construcții de clădiri,Magasépítés,145.6,index_2021_100
+2026-08-01,2026-08,F,F,Construction,Construcții,Építőipar,172.5,index_2021_100
+2026-08-01,2026-08,new_construction,new_construction,New construction,Construcții noi,Új építés,172.4,index_2021_100
+2026-08-01,2026-08,capital_repair,capital_repair,Capital repair works,Lucrări de reparații capitale,Tőkejellegű felújítás,272.7,index_2021_100
+2026-08-01,2026-08,current_repair,current_repair,Current repair works,Lucrări de reparații curente,Folyó javítás,136.7,index_2021_100
+2026-08-01,2026-08,F_CC11,F_CC11,Residential buildings,Clădiri rezidențiale,Lakóépületek,129,index_2021_100
+2026-08-01,2026-08,F_CC12,F_CC12,Non-residential buildings,Clădiri nerezidențiale,Nem lakóépületek,161.1,index_2021_100
+2026-08-01,2026-08,F_CC2,F_CC2,Civil engineering works,Inginerie civilă,Mélyépítés,205.4,index_2021_100
+2026-08-01,2026-08,F_CC1,F_CC1,Buildings,Construcții de clădiri,Magasépítés,144.7,index_2021_100
+2026-09-01,2026-09,F,F,Construction,Construcții,Építőipar,159.1,index_2021_100
+2026-09-01,2026-09,new_construction,new_construction,New construction,Construcții noi,Új építés,156.8,index_2021_100
+2026-09-01,2026-09,capital_repair,capital_repair,Capital repair works,Lucrări de reparații capitale,Tőkejellegű felújítás,257.4,index_2021_100
+2026-09-01,2026-09,current_repair,current_repair,Current repair works,Lucrări de reparații curente,Folyó javítás,120.3,index_2021_100
+2026-09-01,2026-09,F_CC11,F_CC11,Residential buildings,Clădiri rezidențiale,Lakóépületek,112.1,index_2021_100
+2026-09-01,2026-09,F_CC12,F_CC12,Non-residential buildings,Clădiri nerezidențiale,Nem lakóépületek,132.6,index_2021_100
+2026-09-01,2026-09,F_CC2,F_CC2,Civil engineering works,Inginerie civilă,Mélyépítés,193.9,index_2021_100
+2026-09-01,2026-09,F_CC1,F_CC1,Buildings,Construcții de clădiri,Magasépítés,123.9,index_2021_100
