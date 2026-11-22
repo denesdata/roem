@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T04:20:05+00:00",
+ "generated_at": "2026-11-22T04:20:05+00:00",
  "api": "https://roem-api.csaladen.es",
  "files": [
   {
@@ -151,16 +151,16 @@
    "tile": "energy_gas_ttf",
    "dataset": "energy_gas_ttf",
    "view": null,
-   "bytes": 99917,
-   "sha256": "cc3c111f05bac5531188ccced6744fd151d1fbd554c3c470497f69b3b4c1d893",
+   "bytes": 99961,
+   "sha256": "8051192442289a866758dd5fbcc249e6ae8776ea86f69c024488e78b45c27674",
    "title": "TTF natural gas price",
    "source": "yahoo",
    "unit": "eur_per_mwh",
    "frequency": "D",
-   "rows": 2285,
-   "published": "2026-11-20T04:40:06.951025+00:00",
+   "rows": 2286,
+   "published": "2026-11-21T04:40:07.323650+00:00",
    "period_from": "2017-10-23",
-   "period_to": "2026-11-18"
+   "period_to": "2026-11-19"
   },
   {
    "file": "energy/energy_gas_ttf_last30.csv",
@@ -168,15 +168,15 @@
    "dataset": "energy_gas_ttf",
    "view": null,
    "bytes": 1356,
-   "sha256": "27e5cd24ab0d741735466c70757864f043519e0a9ea1d74ec483e76dd59c347c",
+   "sha256": "2ed7922e1bcf1e110ed6802c2c109f31f0a9facebd25a1dcc6b1de881d600755",
    "title": "TTF natural gas price",
    "source": "yahoo",
    "unit": "eur_per_mwh",
    "frequency": "D",
    "rows": 30,
-   "published": "2026-11-20T04:40:07.431883+00:00",
-   "period_from": "2026-10-08",
-   "period_to": "2026-11-18"
+   "published": "2026-11-21T04:40:07.803461+00:00",
+   "period_from": "2026-10-09",
+   "period_to": "2026-11-19"
   },
   {
    "file": "external/external_current_account_balance.csv",
@@ -743,16 +743,16 @@
    "tile": "markets_bitcoin",
    "dataset": "markets_bitcoin",
    "view": null,
-   "bytes": 12231,
-   "sha256": "be3e7f1ea90d546c48facdfd80ff6caffbf5d3656a89863682417297f3686af5",
+   "bytes": 12269,
+   "sha256": "7dc2b00265750ddc3de627c6c7be180231150c5a1ff864d9c1d9347865d0a9a1",
    "title": "Bitcoin price",
    "source": "yahoo",
    "unit": "usd",
    "frequency": "D",
-   "rows": 322,
-   "published": "2026-11-21T00:40:08.129562+00:00",
+   "rows": 323,
+   "published": "2026-11-22T00:40:08.861184+00:00",
    "period_from": "2026-01-02",
-   "period_to": "2026-11-19"
+   "period_to": "2026-11-20"
   },
   {
    "file": "markets/markets_bitcoin_last30.csv",
@@ -760,15 +760,15 @@
    "dataset": "markets_bitcoin",
    "view": null,
    "bytes": 1177,
-   "sha256": "2f1c03b89137e3d329cb1241e4958d33ea0649be0a551c6b07e5bff15b2aadc3",
+   "sha256": "42688f00eee3c31c20f91354ca9b9be1a904d2ac6e04de47d219da9afa94c8c5",
    "title": "Bitcoin price",
    "source": "yahoo",
    "unit": "usd",
    "frequency": "D",
    "rows": 30,
-   "published": "2026-11-21T00:40:08.514546+00:00",
-   "period_from": "2026-10-21",
-   "period_to": "2026-11-19"
+   "published": "2026-11-22T00:40:09.098675+00:00",
+   "period_from": "2026-10-22",
+   "period_to": "2026-11-20"
   },
   {
    "file": "markets/markets_gold.csv",
